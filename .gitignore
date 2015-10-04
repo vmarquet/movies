@@ -1,0 +1,8 @@
+*~
+.DS_Store
+*.aux
+*.toc
+*.out
+*.gz
+*.pdf
+/liste films LaTeX/tmp/

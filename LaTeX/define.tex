@@ -1,0 +1,70 @@
+% !TeX root = main.tex
+
+\documentclass[12pt,a4paper]{article}
+\synctex=1  % pour utiliser gedit et evince
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{eurosym}
+\usepackage{geometry}
+\geometry{ hmargin=2.5cm, vmargin=2.5cm } 
+\usepackage{color}
+\usepackage{hyperref}
+% \hypersetup{hidelinks}  %hidelinks devrait fonctionner plutot que les 4 lignes suivantes
+\hypersetup{
+    colorlinks=false,
+    pdfborder={0 0 0},
+}
+\setlength{\parindent}{0cm}  % supprimer espace en début de paragraphe
+
+% ---------------- MACRO ------------------
+\def\RT#1#2{\href{https://www.rottentomatoes.com/m/#1/}{#2}}
+\def\acteur#1#2{\href{https://www.rottentomatoes.com/celebrity/#1/}{#2}}
+\def\TR#1#2{\href{http://www.telerama.fr/cinema/films/#1}{#2}} % pour les films
+\def\TRtele#1#2{\href{http://television.telerama.fr/tele/films/#1}{#2}} % pour les téléfilms
+\def\beau{\includegraphics[width=0.025\textwidth]{icons/cadrage.png} }
+
+% ------------- ACTEURS -------------------
+\def\JackNicholson{\acteur{jack_nicholson}{Jack Nicholson}}
+\def\DustinHoffman{\acteur{dustin_hoffman}{Dustin Hoffman}}
+\def\RobertDeNiro{\acteur{robert_de_niro}{Robert De Niro}}
+\def\KevinSpacey{\acteur{kevin_spacey}{Kevin Spacey}}
+\def\ChristopherWalken{\acteur{christopher_walken}{Christopher Walken}}
+\def\HarveyKeitel{\acteur{harvey_keitel}{Harvey Keitel}}
+\def\JavierBardem{\acteur{javier_bardem}{Javier Bardem}}
+\def\JohnMalkovich{\acteur{john_malkovich}{John Malkovich}}
+
+% -------------- RÉALISATEURS --------------------
+\def\RomanPolanski{\acteur{roman_polanski}{Roman Polanski}}
+\def\TakeshiKitano{\acteur{takeshi_kitano}{Takeshi Kitano}}
+\def\MartinScorsese{\acteur{martin_scorsese}{Martin Scorsese}}
+\def\StanleyKubrick{\acteur{stanley_kubrick}{Stanley Kubrick}}
+\def\JimJarmusch{\acteur{jim_jarmusch}{Jim Jarmusch}}
+\def\DavidCronemberg{\acteur{david_cronemberg}{David Cronemberg}}
+\def\FrancisFordCoppola{\acteur{francis_ford_coppola}{Francis Ford Coppola}}
+\def\TerryGilliam{\acteur{terry_gilliam}{Terry Gilliam}}
+\def\WoodyAllen{\acteur{woody_allen}{Woody Allen}}
+\def\OrsonWelles{\acteur{orson_welles}{Orson Welles}}
+
+
+
+% UTILISATION: \EXAMPLE{texte 1}{texte 2}
+% -----------------------------------------------
+
+\begin{document}
+
+%\hyperlink{toc}{retour sommaire}  % lien table des matières, mais ça redimensionne la page
+
+% LIEN URL:
+%\href{         }{         } \\
+
+% LIEN DANS LE DOC:
+%\label{text:ancre}
+%\hyperref[text:ancre]{First vers ancre}
+% OU
+%\hypertarget{terrygilliam}{terrygilliam}
+%\hyperlink{terrygilliam}{(Terry Gilliam)}
+ 

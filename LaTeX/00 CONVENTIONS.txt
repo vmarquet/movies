@@ -1,0 +1,2 @@
+PHOTOS ACTEURS:
+UTILISER DES IMAGES CARREES --- coef LaTeX 0.15 --- Taille en pixel SANS IMPORTANCE (si le ratio ne change pas)
