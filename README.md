@@ -16,6 +16,20 @@ Mes sites de critiques préférés
 * 📰 http://www.telerama.fr/
 
 
+## Mon top 10
+
+* Le Portrait de la Jeune Fille en Feu
+* Ghost Dog
+* Le Lauréat
+* Blade Runner
+* Eternal Sunshine
+* Gattaca
+* Le Nom de la Rose
+* Tigre et Dragon
+* Apocalypse Now
+* Inglorious Basterds
+
+
 ## Films étrangers
 
 ### Drames
@@ -33,6 +47,10 @@ Mes sites de critiques préférés
 * Babel (Inarritu)
 
 * Mar Adentro (Alejandro Amenabar, avec Javier Bardem [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
+
+* Terence Malick
+    * Badlands (1973, Martin Sheen)
+    * The New World (2005, Christian Bale, Colin Farell)
 
 * Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
 
@@ -163,13 +181,13 @@ La Corde (Hitchcock)
 
 ### Bon scénario/Twist
 
-The Truman Show
-Eternal Sunshine (et autres de Michel Gondry) 🎥
-Memento (Christopher Nolan)
+* The Truman Show
+* Eternal Sunshine (et autres de Michel Gondry) 🎥
+* Memento (Christopher Nolan)
 * eXistenZ  [🍅](https://www.rottentomatoes.com/m/existenz)
-(\DavidCronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
-Inception (Christopher Nolan)
-Shutter Island (\MartinScorsese)
+(David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
+* Inception (Christopher Nolan)
+* Shutter Island (\MartinScorsese)
 * Le Limier  [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php)
 (le remake, à défaut)(Kenneth Branagh, avec Jude Law, Michael Caine)
 * Dans la peau de John Malkovich (avec John Malkovich)
@@ -177,6 +195,8 @@ Usual Suspects (avec Kevin Spacey)
 * Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
 Un Jour sans Fin (avec Bill Murray)
 * The Man from Earth   (tout repose sur le scénario, très original) [🍅](https://www.rottentomatoes.com/m/man_from_earth)
+* The Machinist
+* Le Prestige
 
 
 ### Science-Fiction
@@ -194,6 +214,7 @@ Un Jour sans Fin (avec Bill Murray)
 * 2001 A Space Odyssey   (\StanleyKubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
 * Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
 * THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
+* Antiviral
 * The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
 
 
@@ -220,7 +241,7 @@ Un Jour sans Fin (avec Bill Murray)
 * Nosferatu  (1922, Murnau) [🍅](https://www.rottentomatoes.com/m/nosferatu)
 * Entretien avec un Vampire  (1994) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire)
 
-### Epouvante
+### Epouvante / Horreur
 
 
 * Rosemary's Baby (Roman Polanski) 🎥 💙
@@ -339,6 +360,9 @@ L'Arnacoeur (Romain Duris)
 * Le Diner de Cons  [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
 (1997, avec Jacques Villeret)
 Le Concert (2009, Radu Mihaileanu)
+* avec Michel Houellebecq:
+    * L'enlèvement de Michel Houellebecq
+    * Near Death Experience
 
 
 ### Comédies dramatiques
@@ -458,7 +482,6 @@ Tournée (Mathieu Amalric) 🎥
 * La Vérité, HG clouzot
 * the grandmaster
 * il était une fois en anatolie
-* L'enlèvement de Michel Houellebecq
 * whiplash
 * winter sleep
 * solaris
