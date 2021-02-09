@@ -62,6 +62,8 @@ The Constant Gardener (avec Ralph Fiennes)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 (avec Dustin Hoffman, Meryl Streep)
 
+* An Education (2009, Carey Mulligan)
+
 * Paranoid Park
 
 * Laurence d'Arabie (1962, David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia)
@@ -104,7 +106,7 @@ Thank You for Smoking (avec Aaron Eckhart)
 Le Tigre et la Neige (Roberto Benigni)
 
 
-![](affiches/lost.jpg)
+![](images/affiches/lost.jpg)
 
 
 ### Comédies dramatiques
@@ -157,6 +159,7 @@ The Pledge (Sean Penn, avec Jack Nicholson)
 * Sin City  (2005) [🍅](https://www.rottentomatoes.com/m/sin_city)
 * OldBoy  (2004) [🍅](https://www.rottentomatoes.com/m/oldboy)
 La Corde (Hitchcock)
+* Side Effects (2013, Steven Soderbergh)
 
 ### Bon scénario/Twist
 
@@ -189,17 +192,18 @@ Un Jour sans Fin (avec Bill Murray)
 * Alien IV  [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
 (JP Jeunet)
 * 2001 A Space Odyssey   (\StanleyKubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
+* Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
 * THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
 * The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
 
 
-![](affiches/brazil.jpg)
+![](images/affiches/brazil.jpg)
 
-![](affiches/bladerunner.jpg)
+![](images/affiches/bladerunner.jpg)
 
-![](affiches/gattaca.jpg)
+![](images/affiches/gattaca.jpg)
 
-![](affiches/D9.jpg)
+![](images/affiches/D9.jpg)
 
 
 ### Fantastique
@@ -232,9 +236,10 @@ Un Jour sans Fin (avec Bill Murray)
 * L'Orphelinat
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
 * Morse  -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
+* Impetigore (2019)
 
 
-![](affiches/silence.jpeg)
+![](images/affiches/silence.jpeg)
 
 
 
@@ -248,7 +253,7 @@ Un Jour sans Fin (avec Bill Murray)
 * Inglorious Basterds  (et autres de Tarentino) 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
 
 
-![](affiches/FMJ.jpg)
+![](images/affiches/FMJ.jpg)
 
 
 
@@ -310,7 +315,7 @@ Un Jour sans Fin (avec Bill Murray)
 * Un Chien Andalou (Luis Bunuel)(à voir pour sa culture ciné)
 
 
-![](affiches/citizenkane.jpg)
+![](images/affiches/citizenkane.jpg)
 
 
 
@@ -322,7 +327,7 @@ Un Jour sans Fin (avec Bill Murray)
 (2010, avec Jacques Gamblin)
 * Le Bruit des Glaçons  [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php)
 (2010, Bertrand Blier, avec Jean Dujardin, Albert Dupontel)
-* Intouchables  [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php)
+* Intouchables (2011) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php)
 (2011, avec François Cluzet)
 * The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php)
 (2011, Michel Hazanavicius, avec Jean Dujardin)
@@ -344,7 +349,8 @@ Le Concert (2009, Radu Mihaileanu)
 Tournée (Mathieu Amalric) 🎥
 * Mammuth  (2010, Délépine et Kervern, avec Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php)
-% le grand soir
+* Habemus Papam (2011, Nanni Moretti)
+* le grand soir
 
 ### Drames
 
@@ -362,9 +368,16 @@ Tournée (Mathieu Amalric) 🎥
 * Les Grandes Personnes  (2008, avec JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 * Polisse  [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
 (2011)
+* Claude Sautet
+    * César et Rosalie
+    * Max et les Ferrailleurs
+* Xavier Dolan
+    * Laurence Anyways
+    * Tom à la Ferme
+    * Les Amours Imaginaires
 
 
-![](affiches/pierrot.jpg)
+![](images/affiches/pierrot.jpg)
 
 
 
@@ -375,6 +388,10 @@ Tournée (Mathieu Amalric) 🎥
 (1967) (et autres de Jean-Pierre Melville) 🎥 🎥
 * Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
 (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu)
+
+### SF
+
+* Alphaville (1965, Jean-Luc Godard)
 
 ### Films à sketches
 
@@ -395,7 +412,8 @@ Tournée (Mathieu Amalric) 🎥
 * Le Soupirant  (1962, Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php)
 * Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
 (1961) (et autres de Jacques Demy) 🎥
-![](affiches/tontons.jpg)
+
+![](images/affiches/tontons.jpg)
 
 
 
@@ -421,20 +439,29 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2015
 
+* Mustang
 * The Lobster
 
 ### 2016
 
+* Lion
 * Love and Friendship
 * La La Land
 * I Daniel Blake
 * Toni Erdmann
 * Hacksaw Ridge
 
+### 2017
+
+Césars:
+
+* 120 battements par minute
+
 ### 2018
 
 * Dunkirk
 * Three Billboards
+* La Saveur des Ramens
 
 ### 2019
 
@@ -462,6 +489,7 @@ Décevant:
 ### 2020
 
 * La plataforma (Netflix)
+* L'Homme Invisible (avec Elisabeth Moss)
 
 Aimés sans plus:
 
