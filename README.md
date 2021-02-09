@@ -416,6 +416,57 @@ Tournée (Mathieu Amalric) 🎥
 ![](images/affiches/tontons.jpg)
 
 
+## En vrac, pas triés
+
+* midnight express
+* le maitre du jeu
+* leaving las vegas
+* killing them softly
+* battle royale
+* le cercle des poètes disparus
+* inherent vice
+* thrillers policiers + romance
+    * body heat
+    * Sea of Love
+* etat second
+* smoke
+* entre ses syeux
+* le locataire
+* ne vous retournez pas (suspense et musiques +)
+* 2 days in paris
+* le grand silence
+* le pacte des loups
+* a royal affair
+* soleil trompeur
+* Oubli: rajouter eternal sunshine en 3eme dans les drames de ma liste de films
+* gone baby gone
+* good will hunting
+* the place beyond the pines 
+* une nuit à new york
+* buffet froid
+* truman capote
+* l'homme qui voulut être roi
+* Suspiria, pour le cadrage et l'esthétique
+* soleil trompeur
+* rubber
+* jimmy riviere
+* une séparation
+* ne le dis à personne
+* le limier, l'original
+* la fausse suivante
+* okuribito (Départs)
+* La Vérité, HG clouzot
+* the grandmaster
+* il était une fois en anatolie
+* L'enlèvement de Michel Houellebecq
+* whiplash
+* winter sleep
+* solaris
+* Comedy: 
+    * starbuck
+    * the 40 year old virgin
+    * hapiness therapy
+    * do the right thing
 
 ## Autres
 
