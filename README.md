@@ -37,72 +37,46 @@ Mes sites de critiques préférés
 * Le Lauréat (1967, Mike Nichols) 🎥🎥 💙
   [🍅](https://www.rottentomatoes.com/m/graduate)
   [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php)
-
-
 * Shame (2011, Steve McQueen, avec Michael Fassbender) 🎥 🎥
   [🍅](https://www.rottentomatoes.com/m/shame_2011)
-
+* The Bridges of Madison County (1995, Clint Eastwood)
 * 21 Grammes [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
  (Innarritu, avec Sean Penn, Naomi Watts, Benicio del Toro)
 * Babel (Inarritu)
-
 * Mar Adentro (Alejandro Amenabar, avec Javier Bardem [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
-
 * Terence Malick
     * Badlands (1973, Martin Sheen)
     * The New World (2005, Christian Bale, Colin Farell)
-
 * Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
-
 * Les Liaisons Dangereuses (avec John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
-
 * Roméo et Juliette (1968, Zeffirelli) [🍅](https://www.rottentomatoes.com/m/1017834-romeo_and_juliet)
-
 * Deep End (1970) 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
-
 * Two Lovers (avec Joaquin Phoenix) 🎥
   [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
   [🍅](https://www.rottentomatoes.com/m/two_lovers) 
-
 * Bright Star 🎥 
-
 * Taxi Driver  💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
  (et autres de Martin Scorsese (surtout Les Affranchis))
-The Constant Gardener (avec Ralph Fiennes)
-
+* The Constant Gardener (avec Ralph Fiennes)
 * Aguirre, la Colère de Dieu ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
  (1972, Werner Herzog, avec Klaus Kinski)
-
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
-
 * Kramer contre Kramer
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 (avec Dustin Hoffman, Meryl Streep)
-
 * An Education (2009, Carey Mulligan)
-
 * Paranoid Park
-
 * Laurence d'Arabie (1962, David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia)
-
 * Dogville  (2003, Lars Von Trier, avec Nicole Kidman) --> mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
-
 * This is England 
-
 * The Queen (Stephen Frears) 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
-
 * Le Dernier Roi d'Ecosse (2006, avec Forest Whitaker) [🍅](https://www.rottentomatoes.com/m/last_king_of_scotland)
-
 * Sex, Lies and Videotape (1989, Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
-
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) --> esthétique bof mais scénario+
-
-Drame bien genre on s'en souvient après, mais qui traîne un peu en longueur:
-
-* Disgrace (2008, avec John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/)
-
-* La Porte du Paradis (1980) (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php)
+* Drames bien genre on s'en souvient après, mais qui traînent un peu en longueur:
+    * Disgrace (2008, avec John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/)
+    * La Porte du Paradis (1980) (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php)
 
 
 
@@ -117,8 +91,10 @@ Drame bien genre on s'en souvient après, mais qui traîne un peu en longueur:
 * The Big Lebowski   (et autres des frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski)
 * Clerks, les employés modèles  (1994) 💙 [🍅](https://www.rottentomatoes.com/m/clerks)
 * Kiss Kiss Bang Bang  [🍅](https://www.rottentomatoes.com/m/kiss_kiss_bang_bang)
-Thank You for Smoking (avec Aaron Eckhart)
+* Thank You for Smoking (avec Aaron Eckhart)
 * Kaboom  (2010, Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php)
+* Vampires en toute Intimité (What we do in the Shadows)
+* Shaun of the Dead
 * Zombieland  (2009) [🍅](https://www.rottentomatoes.com/m/zombieland)
 * Tootsie  (1982) --> pour Dustin Hoffman [(et voir ici)](http://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106) [🍅](https://www.rottentomatoes.com/m/tootsie)
 Le Tigre et la Neige (Roberto Benigni)
@@ -169,14 +145,14 @@ Collateral (Michael Mann)
 * L'Affaire Thomas Crown  (l'original de 1968 , avec Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair)
 * Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
 * Cosmopolis  (et autres de David Cronemberg) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
-The Pledge (Sean Penn, avec Jack Nicholson)
+* The Pledge (Sean Penn, avec Jack Nicholson)
 * King of New York  (1990) (le meilleur rôle de Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york)
 * Aniki mon Frère (et autres de Takeshi Kitano)
 * Witness  (Peter Weier, avec Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness)
 * Copland  (1997, avec Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land)
 * Sin City  (2005) [🍅](https://www.rottentomatoes.com/m/sin_city)
 * OldBoy  (2004) [🍅](https://www.rottentomatoes.com/m/oldboy)
-La Corde (Hitchcock)
+* La Corde (Hitchcock)
 * Side Effects (2013, Steven Soderbergh)
 
 ### Bon scénario/Twist
@@ -191,12 +167,12 @@ La Corde (Hitchcock)
 * Le Limier  [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php)
 (le remake, à défaut)(Kenneth Branagh, avec Jude Law, Michael Caine)
 * Dans la peau de John Malkovich (avec John Malkovich)
-Usual Suspects (avec Kevin Spacey)
+* Usual Suspects (avec Kevin Spacey)
 * Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
-Un Jour sans Fin (avec Bill Murray)
 * The Man from Earth   (tout repose sur le scénario, très original) [🍅](https://www.rottentomatoes.com/m/man_from_earth)
 * The Machinist
 * Le Prestige
+* Un Jour sans Fin (avec Bill Murray)
 
 
 ### Science-Fiction
@@ -229,6 +205,7 @@ Un Jour sans Fin (avec Bill Murray)
 
 ### Fantastique
 
+* Phantom of the Paradise (1974, Brian de Palma)
 * La Compagnie des Loups  (1984) [🍅](https://www.rottentomatoes.com/m/company_of_wolves)
 * Arizona Dream  💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream)
 (1993, Kusturica, avec Johnny Depp) (très bonne musique)
@@ -382,6 +359,7 @@ Tournée (Mathieu Amalric) 🎥
 * Pierrot le Fou  (1965, Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * Le Mépris  [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
 (1963, Godard) 🎥 🎥
+* La Haine
 * Des Hommes et des Dieux  [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
 (2010, avec Michael Lonsdale) 🎥
 * La Journée de la Jupe  [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php)
@@ -490,6 +468,11 @@ Tournée (Mathieu Amalric) 🎥
     * the 40 year old virgin
     * hapiness therapy
     * do the right thing
+* WWII
+    * Le Pianiste
+    * la liste de schindler
+    * la vie est belle
+* Zhang Yimou (Hero, ...)
 
 ## Autres
 
@@ -505,15 +488,42 @@ Tournée (Mathieu Amalric) 🎥
 
 ## Par année de sortie
 
+### 2011
+
+* The Artist
+* Midnight in Paris (Woody Allen)
+* Drive
+* Millenium
+* Polisse
+* Starbuck
+* Le Moine
+* Tinker Tailor Soldier Spy (La Taupe)
 
 ### 2012
 
 * Beasts of the Southern Wild
 * Mud
 
+### 2013
+
+* Under the Skin
+* All is Lost (?)
+
+### 2014
+
+* Nightcrawler
+* Ex Machina
+* Whiplash
+* Hippocrate
+* Birdman
+* Gone Girl (Fincher)
+* Nos étoiles contraires (?)
+* watchlist: Selma
+
 ### 2015
 
-* Mustang
+* Mustang (Turquie)
+* The Assassin 🎥 (arts martiaux chinois)
 * The Lobster
 
 ### 2016
@@ -527,6 +537,8 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2017
 
+* Wind River
+
 Césars:
 
 * 120 battements par minute
@@ -535,11 +547,12 @@ Césars:
 
 * Dunkirk
 * Three Billboards
+* L'Empereur de Paris (Vincent Cassel)
 * La Saveur des Ramens
 
 ### 2019
 
-* 1917
+* 1917 🎥
 * Joker
 * Jojo Rabbit
 * Marriage Story
@@ -549,7 +562,7 @@ Césars:
 
 Césars:
 
-* Le Portrait de la Jeune Fille en Feu (Céline Sciamma)
+* Le Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥
 * Proxima (Eva Green)
 * J'accuse (Polanski)
 
@@ -562,7 +575,7 @@ Décevant:
 
 ### 2020
 
-* La plataforma (Netflix)
+* La plataforma (Netflix, SF)
 * L'Homme Invisible (avec Elisabeth Moss)
 
 Aimés sans plus:
