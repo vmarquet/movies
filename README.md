@@ -50,6 +50,9 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
     * [Vieux classiques (noir et blanc)](#vieux-classiques-noir-et-blanc)
 * [Films français](#films-français)
 * [Par année de sortie](#par-année-de-sortie)
+    * [2000](#2000)
+    * [2010](#2010)
+    * [2020](#2020)
 
 
 ## Films étrangers
@@ -512,7 +515,117 @@ Tournée (Mathieu Amalric) 🎥
 
 ## Par année de sortie
 
+### 2000
+
+* In the Mood for Love (Wong Kar-wai)
+* American Beauty (Sam Mendes)
+* Billy Elliot
+* Dancer in the Dark (Lars von Trier)
+
+[Césars 27](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Harry, un ami qui vous veut du bien
+* Les Rivières pourpres
+
+### 2001
+
+* Mulholland Drive (David Lynch)
+
+[Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Le Fabuleux Destin d'Amélie Poulain
+* Tanguy
+* Le Peuple migrateur (docu)
+
+### 2002
+
+* Le Voyage de Chihiro
+
+[Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Le Pianiste
+* Astérix et Obélix : Mission Cléopâtre
+* L'Auberge espagnole
+* Être et avoir
+* Monsieur Batignole
+
+### 2003
+
+* Good Bye, Lenin! (Wolfgang Becker, Allemagne)
+
+[Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Les Triplettes de Belleville
+
+### 2004
+
+* Lost in Translation (Sofia Coppola)
+* Eternal Sunshine of the Spotless Mind (Michel Gondry)
+* Kill Bill
+* 21 Grammes (Alejandro Gonzalez Inarritu)
+* La Mauvaise Éducation (Pedro Almodóvar)
+* Mystic River (Clint Eastwood)
+
+[Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Les Choristes
+* Violence des échanges en milieu tempéré
+
+### 2005
+
+* A History of Violence (David Cronenberg)
+* Mar adentro (Alejandro Amenábar)
+* Million Dollar Baby
+
+[Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* Va, vis et deviens
+
+### 2006
+
+* Little Miss Sunshine
+* Volver (Pedro Almodóvar)
+* Le Secret de Brokeback Mountain (Ang Lee)
+* Babel (Alejandro González Iñárritu)
+* The Queen (Stephen Frears)
+
+[Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
+
+* Indigènes
+* OSS 117
+* Quatre étoiles (comédie, Carré/Garcia)
+
+### 2007
+
+* No Country for Old Men
+
+[Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
+
+* Persépolis
+* à voir: https://www.telerama.fr/cinema/films/le-scaphandre-et-le-papillon,302739.php
+
+### 2008
+
+* Burn After Reading
+* Zetwal
+
+[Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Entre les murs
+* Le Crime est notre affaire
+* Bienvenue chez les Ch'tis
+
+### 2009
+
+[Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* La Journée de la jupe
+* à voir: Welcome
+* à voir: https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php
+
 ### 2010
+
+* True Grit
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -595,8 +708,11 @@ Tournée (Mathieu Amalric) 🎥
 * I Daniel Blake
 * Toni Erdmann
 * Hacksaw Ridge
+* Manchester by the Sea (?)
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* à voir: Dans les forêts de Sibérie (musique par Ibrahim Maalouf)
 
 ### 2017
 
@@ -613,6 +729,7 @@ Tournée (Mathieu Amalric) 🎥
 * Three Billboards
 * L'Empereur de Paris (Vincent Cassel)
 * La Saveur des Ramens
+* La Ballade de Buster Scruggs
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
