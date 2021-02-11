@@ -511,26 +511,52 @@ Tournée (Mathieu Amalric) 🎥
 
 ## Par année de sortie
 
+### 2010
+
+[Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* Le Bruit des glaçons
+* Le Noms des Gens
+* Des hommes et des dieux
+* L'Arnacoeur
+* Tournée
+* Mammouth
+* La Princesse de Montpensier (à voir ?)
+
 ### 2011
 
-* The Artist
 * Midnight in Paris (Woody Allen)
 * Drive
 * Millenium
-* Polisse
 * Starbuck
 * Le Moine
 * Tinker Tailor Soldier Spy (La Taupe)
+
+[Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* The Artist
+* Intouchables (Sy, Cluzet)
+* Polisse
+* à voir:
+    * Le Havre (Aki Kaurismäki)
+    * La guerre est déclarée (V. Donzelli)
 
 ### 2012
 
 * Beasts of the Southern Wild
 * Mud
 
+[Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* Holy Motors (Leos Carax)
+* Amour (Michael Haneke)
+
 ### 2013
 
 * Under the Skin
 * All is Lost (?)
+
+[Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 ### 2014
 
@@ -543,11 +569,22 @@ Tournée (Mathieu Amalric) 🎥
 * Nos étoiles contraires (?)
 * watchlist: Selma
 
+[Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* Les Combattants
+* Hippocrate
+
 ### 2015
 
 * Mustang (Turquie)
 * The Assassin 🎥 (arts martiaux chinois)
 * The Lobster
+
+[Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* Mustang
+* aimé, pas inoubliable:
+    * La Loi du Marché
 
 ### 2016
 
@@ -558,13 +595,16 @@ Tournée (Mathieu Amalric) 🎥
 * Toni Erdmann
 * Hacksaw Ridge
 
+[Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
 ### 2017
 
 * Wind River
 
-Césars:
+[Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * 120 battements par minute
+* Le Brio (bon, pas inoubliable)
 
 ### 2018
 
@@ -573,9 +613,11 @@ Césars:
 * L'Empereur de Paris (Vincent Cassel)
 * La Saveur des Ramens
 
-Bon sans plus:
+[Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Mademoiselle de Joncquières (comédie dramatique romantique)
+* L'Empereur de Paris (Vincent Cassel)
+* à voir: En liberté !
+* Mademoiselle de Joncquières (comédie dramatique romantique, sympa mais pas inoubliable)
 
 ### 2019
 
@@ -587,9 +629,9 @@ Bon sans plus:
 * Scheme Birds (documentaire)
 * The Two Popes
 
-Césars:
+[Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Le Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥
+* Le Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥
 * Proxima (Eva Green)
 * J'accuse (Polanski)
 
@@ -610,3 +652,5 @@ Aimés sans plus:
 
 * Sound of Metal
 * Soul (Pixar)
+
+[Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
