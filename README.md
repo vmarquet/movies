@@ -289,6 +289,7 @@ Collateral (Michael Mann)
 * Danse avec les Loups  [🍅](https://www.rottentomatoes.com/m/dances_with_wolves)
 (de et avec Kevin Costner, Oscar meilleur film 1991) 🎥
 * There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis)  --> à voir 🎥 [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
+* Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
 
 #### Spaghettis (parodique)
 
@@ -462,31 +463,21 @@ Tournée (Mathieu Amalric) 🎥
 * le locataire
 * ne vous retournez pas (suspense et musiques +)
 * 2 days in paris
-* le grand silence
-* le pacte des loups
-* a royal affair
 * soleil trompeur
 * Oubli: rajouter eternal sunshine en 3eme dans les drames de ma liste de films
-* gone baby gone
 * good will hunting
-* the place beyond the pines 
 * une nuit à new york
 * buffet froid
-* truman capote
 * l'homme qui voulut être roi
 * Suspiria, pour le cadrage et l'esthétique
 * soleil trompeur
-* rubber
-* jimmy riviere
 * une séparation
 * ne le dis à personne
-* le limier, l'original
 * la fausse suivante
 * okuribito (Départs)
 * La Vérité, HG clouzot
 * the grandmaster
 * il était une fois en anatolie
-* whiplash
 * winter sleep
 * solaris
 * Comedy: 
@@ -499,7 +490,6 @@ Tournée (Mathieu Amalric) 🎥
     * la liste de schindler
     * la vie est belle
 * Zhang Yimou (Hero, ...)
-* les combattants
 
 ## Autres
 
@@ -533,7 +523,8 @@ Tournée (Mathieu Amalric) 🎥
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Le Fabuleux Destin d'Amélie Poulain
+* Le Fabuleux Destin d'Amélie Poulain ❤️
+* Le Pacte des loups
 * Tanguy
 * Le Peuple migrateur (docu)
 
@@ -543,7 +534,7 @@ Tournée (Mathieu Amalric) 🎥
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Le Pianiste
+* Le Pianiste ❤️
 * Astérix et Obélix : Mission Cléopâtre
 * L'Auberge espagnole
 * Être et avoir
@@ -559,8 +550,8 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2004
 
-* Lost in Translation (Sofia Coppola)
-* Eternal Sunshine of the Spotless Mind (Michel Gondry)
+* Lost in Translation (Sofia Coppola) ❤️
+* Eternal Sunshine of the Spotless Mind (Michel Gondry) ❤️
 * Kill Bill
 * 21 Grammes (Alejandro Gonzalez Inarritu)
 * La Mauvaise Éducation (Pedro Almodóvar)
@@ -576,6 +567,7 @@ Tournée (Mathieu Amalric) 🎥
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar)
 * Million Dollar Baby
+* Capote
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -583,8 +575,8 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2006
 
-* Little Miss Sunshine
-* Volver (Pedro Almodóvar)
+* Volver (Pedro Almodóvar) ❤️❤️
+* Little Miss Sunshine ❤️
 * Le Secret de Brokeback Mountain (Ang Lee)
 * Babel (Alejandro González Iñárritu)
 * The Queen (Stephen Frears)
@@ -597,7 +589,8 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2007
 
-* No Country for Old Men
+* No Country for Old Men ❤️
+* Gone Baby Gone
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -606,8 +599,8 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2008
 
-* Burn After Reading
-* Zetwal
+* Burn After Reading ❤️
+* Zetwal ❤️
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -625,85 +618,89 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2010
 
+* Rubber (Quentin Dupieux) ❤️
 * True Grit
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Le Bruit des glaçons
+* Le Bruit des glaçons ❤️
 * Le Noms des Gens
 * Des hommes et des dieux
 * L'Arnacoeur
 * Tournée
 * Mammouth
-* La Princesse de Montpensier (à voir ?)
+* La Princesse de Montpensier (vu ?)
 
 ### 2011
 
 * Midnight in Paris (Woody Allen)
-* Drive
-* Millenium
+* Drive ❤️
+* Millenium, the girl with the dragon tattoo
 * Starbuck
 * Le Moine
 * Tinker Tailor Soldier Spy (La Taupe)
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* The Artist
-* Intouchables (Sy, Cluzet)
+* The Artist ❤️
+* Intouchables ❤️ (Sy, Cluzet)
 * Polisse
+* Jimmy Rivière
 * à voir:
     * Le Havre (Aki Kaurismäki)
     * La guerre est déclarée (V. Donzelli)
 
 ### 2012
 
-* Beasts of the Southern Wild
-* Mud
+* Beasts of the Southern Wild ❤️
+* Mud ❤️
+* A Royal Affair ❤️
+* The Place Beyond the Pines
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Holy Motors (Leos Carax)
+* Holy Motors (Leos Carax) ❤️
 * Amour (Michael Haneke)
 
 ### 2013
 
 * Under the Skin
+* Wrong Cops (Quentin Dupieux)
 * All is Lost (?)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 ### 2014
 
-* Nightcrawler
-* Ex Machina
-* Whiplash
-* Hippocrate
+* Nightcrawler ❤️
+* Ex Machina ❤️
+* Whiplash ❤️
 * Birdman
 * Gone Girl (Fincher)
 * Nos étoiles contraires (?)
+* Reality (Quentin Dupieux, Chabat)
 * watchlist: Selma
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Les Combattants
+* Les Combattants ❤️
 * Hippocrate
 
 ### 2015
 
-* Mustang (Turquie)
-* The Assassin 🎥 (arts martiaux chinois)
+* Mustang (Turquie) ❤️
+* The Assassin 🎥❤️ (arts martiaux chinois)
 * The Lobster
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Mustang
 * aimé, pas inoubliable:
     * La Loi du Marché
 
 ### 2016
 
-* Lion
-* Love and Friendship
+* Lion ❤️
+* Love and Friendship ❤️
 * La La Land
 * I Daniel Blake
 * Toni Erdmann
@@ -720,37 +717,36 @@ Tournée (Mathieu Amalric) 🎥
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* 120 battements par minute
+* 120 battements par minute ❤️
 * Le Brio (bon, pas inoubliable)
 
 ### 2018
 
+* Three Billboards ❤️
 * Dunkirk
-* Three Billboards
-* L'Empereur de Paris (Vincent Cassel)
 * La Saveur des Ramens
 * La Ballade de Buster Scruggs
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* L'Empereur de Paris (Vincent Cassel)
+* L'Empereur de Paris (Vincent Cassel) ❤️
 * à voir: En liberté !
 * Mademoiselle de Joncquières (comédie dramatique romantique, sympa mais pas inoubliable)
 
 ### 2019
 
 * 1917 🎥
-* Joker
-* Jojo Rabbit
+* Joker ❤️
+* Jojo Rabbit ❤️
 * Marriage Story
 * Le Roi (Chalamet, Netflix)
-* Scheme Birds (documentaire)
+* Scheme Birds (documentaire) ❤️
 * The Two Popes
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Le Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥
-* Proxima (Eva Green)
+* Le Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥 ❤️❤️
+* Proxima (Eva Green) ❤️
 * J'accuse (Polanski)
 
 Décevant:
@@ -762,7 +758,7 @@ Décevant:
 
 ### 2020
 
-* La plataforma (Netflix, SF)
+* La plataforma (Netflix, SF) ❤️
 * L'Homme Invisible (avec Elisabeth Moss)
 * Drunk (Mads Mikkelsen)
 
