@@ -30,6 +30,27 @@ Mes sites de critiques préférés
 * Inglorious Basterds
 
 
+## Sommaire
+
+* [Films étrangers](#films-étrangers)
+    * [Drames](#drames)
+    * [Comédies](#comédies)
+    * [Comédies Dramatiques](#comédies-dramatiques)
+    * [Comédies Romantiques](#comédies-romantiques)
+    * [Aventure/road-movie](#aventureroad-movie)
+    * [Policier/Thriller](#policierthriller)
+    * [Bon scénario/Twist](#bon-scénariotwist)
+    * [Science-Fiction](#science-fiction)
+    * [Fantastique](#fantastique)
+    * [Epouvante/Horreur](#epouvante--horreur)
+    * [Films de guerre](#films-de-guerre)
+    * [Westerns](#westerns)
+    * [Animés](#animés)
+    * [Vieux classiques (noir et blanc)](#vieux-classiques-noir-et-blanc)
+* [Films français](#films-français)
+* [Par année de sortie](#par-année-de-sortie)
+
+
 ## Films étrangers
 
 ### Drames
@@ -321,6 +342,7 @@ Collateral (Michael Mann)
 ## Films français
 ### Comédies
 
+* Ridicule (1996, Patrice Lecomte, Jean Rochefort)
 * Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
 (2010, avec Jacques Gamblin)
 * Le Bruit des Glaçons  [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php)
@@ -473,6 +495,7 @@ Tournée (Mathieu Amalric) 🎥
     * la liste de schindler
     * la vie est belle
 * Zhang Yimou (Hero, ...)
+* les combattants
 
 ## Autres
 
@@ -550,6 +573,10 @@ Césars:
 * L'Empereur de Paris (Vincent Cassel)
 * La Saveur des Ramens
 
+Bon sans plus:
+
+* Mademoiselle de Joncquières (comédie dramatique romantique)
+
 ### 2019
 
 * 1917 🎥
@@ -577,6 +604,7 @@ Décevant:
 
 * La plataforma (Netflix, SF)
 * L'Homme Invisible (avec Elisabeth Moss)
+* Drunk (Mads Mikkelsen)
 
 Aimés sans plus:
 
