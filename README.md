@@ -66,7 +66,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
   [🍅](https://www.rottentomatoes.com/m/shame_2011)
 * The Bridges of Madison County (1995, Clint Eastwood)
 * 21 Grammes [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
- (Innarritu, avec Sean Penn, Naomi Watts, Benicio del Toro)
+  (Innarritu, avec Sean Penn, Naomi Watts, Benicio del Toro)
 * Babel (Inarritu)
 * Mar Adentro (Alejandro Amenabar, avec Javier Bardem [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * Terence Malick
@@ -81,15 +81,15 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
   [🍅](https://www.rottentomatoes.com/m/two_lovers) 
 * Bright Star 🎥 
 * Taxi Driver  💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
- (et autres de Martin Scorsese (surtout Les Affranchis))
+  (et autres de Martin Scorsese (surtout Les Affranchis))
 * The Constant Gardener (avec Ralph Fiennes)
-* Aguirre, la Colère de Dieu ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
- (1972, Werner Herzog, avec Klaus Kinski)
+* Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
+  (1972, Werner Herzog, avec Klaus Kinski)
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
 * Kramer contre Kramer
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
-(avec Dustin Hoffman, Meryl Streep)
+  (avec Dustin Hoffman, Meryl Streep)
 * An Education (2009, Carey Mulligan)
 * Paranoid Park
 * Laurence d'Arabie (1962, David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia)
@@ -118,11 +118,13 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Kiss Kiss Bang Bang  [🍅](https://www.rottentomatoes.com/m/kiss_kiss_bang_bang)
 * Thank You for Smoking (avec Aaron Eckhart)
 * Kaboom  (2010, Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php)
-* Vampires en toute Intimité (What we do in the Shadows)
-* Shaun of the Dead
+* Vampires en toute Intimité (What we do in the Shadows) (2014) ❤️
+* Shaun of the Dead (2004)
 * Zombieland  (2009) [🍅](https://www.rottentomatoes.com/m/zombieland)
-* Tootsie  (1982) --> pour Dustin Hoffman [(et voir ici)](http://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106) [🍅](https://www.rottentomatoes.com/m/tootsie)
-Le Tigre et la Neige (Roberto Benigni)
+* Tootsie  (1982) --> pour Dustin Hoffman
+  [(et voir ici)](http://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
+  [🍅](https://www.rottentomatoes.com/m/tootsie)
+* Le Tigre et la Neige (Roberto Benigni)
 
 
 ![](images/affiches/lost.jpg)
@@ -156,17 +158,17 @@ Le Tigre et la Neige (Roberto Benigni)
 * Ghost Dog
   [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
   [📰](http://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
-(1999, avec Forest Whitaker) (et autres de Jim Jarmusch)
+  (1999, avec Forest Whitaker) (et autres de Jim Jarmusch)
 * Le Nom de la Rose  [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986)
-(JJ Annaud, avec Sean Connery, Michael Lonsdale...)
+  (JJ Annaud, avec Sean Connery, Michael Lonsdale...)
 * Les Trois Jours du Condor  [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor)
-(Sydney Pollack, avec Robert Redford)
+  (Sydney Pollack, avec Robert Redford)
 * Marathon Man    (avec Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man)
-The Girl with the Dragon Tattoo (David Fincher)
-Zodiac (David Fincher)
+* The Girl with the Dragon Tattoo (David Fincher)
+* Zodiac (David Fincher)
 * L.A. Confidential  (avec Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
 * Mystic River  (2003, Clint Eastwood, avec Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river)
-Collateral (Michael Mann)
+* Collateral (Michael Mann)
 * L'Affaire Thomas Crown  (l'original de 1968 , avec Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair)
 * Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
 * Cosmopolis  (et autres de David Cronemberg) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
@@ -204,7 +206,7 @@ Collateral (Michael Mann)
 
 * Brazil  (Terry Gilliam) 💙 [🍅](https://www.rottentomatoes.com/m/1003033-brazil)
 * Blade Runner  (Ridley Scott, avec Harrison Ford) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/blade_runner)
-* Bienvenue à Gattaca   (avec Ethan Hawke, Jude Law) 💙 [🍅](https://www.rottentomatoes.com/m/gattaca)
+* Bienvenue à Gattaca   (avec Ethan Hawke, Jude Law) 💙❤️ [🍅](https://www.rottentomatoes.com/m/gattaca)
 * La Planète des Singes  (l'original, avec Charlton Heston) [🍅](https://www.rottentomatoes.com/m/1016397-planet_of_the_apes)
 * District 9  (2009) [🍅](https://www.rottentomatoes.com/m/district_9)
 * Soleil Vert  (1973, avec Charlton Heston) ❤️ [🍅](https://www.rottentomatoes.com/m/soylent_green)
@@ -258,7 +260,8 @@ Collateral (Michael Mann)
 * Scream (que le premier)
 * L'Orphelinat
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
-* Morse  -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
+* Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
+* Bird Box (2018)
 * Impetigore (2019)
 
 
@@ -318,7 +321,7 @@ Collateral (Michael Mann)
 
 ### Animés
 
-* La plupart des Miyasaki
+* La plupart des Miyasaki ❤️
     * Princesse Mononoke
     * Nausicaa de la Vallée du Vent
     * Le Chateau dans le Ciel
@@ -349,21 +352,21 @@ Collateral (Michael Mann)
 
 * Ridicule (1996, Patrice Lecomte, Jean Rochefort)
 * Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
-(2010, avec Jacques Gamblin)
+  (2010, avec Jacques Gamblin)
 * Le Bruit des Glaçons  [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php)
-(2010, Bertrand Blier, avec Jean Dujardin, Albert Dupontel)
+  (2010, Bertrand Blier, avec Jean Dujardin, Albert Dupontel)
 * Intouchables (2011) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php)
-(2011, avec François Cluzet)
+  (2011, avec François Cluzet)
 * The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php)
-(2011, Michel Hazanavicius, avec Jean Dujardin)
-L'Arnacoeur (Romain Duris)
+  (2011, Michel Hazanavicius, avec Jean Dujardin)
+* L'Arnacoeur (Romain Duris)
 * Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)  -> dialogues excellents (Audiard), musique très sympa [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
 * Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
 * Rire et Châtiment  [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
-(2003, avec José Garcia)
+  (2003, avec José Garcia)
 * Le Diner de Cons  [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
-(1997, avec Jacques Villeret)
-Le Concert (2009, Radu Mihaileanu)
+  (1997, avec Jacques Villeret)
+* Le Concert (2009, Radu Mihaileanu)
 * avec Michel Houellebecq:
     * L'enlèvement de Michel Houellebecq
     * Near Death Experience
@@ -374,7 +377,7 @@ Le Concert (2009, Radu Mihaileanu)
 * Amélie Poulain   (2000, JP Jeunet) [📰](https://www.telerama.fr/cinema/films/le-fabuleux-destin-d-am-lie-poulain,54074.php)
 * L'Auberge Espagnole  (2002, Cédric Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Mon Oncle d'Amérique  (1980, Alain Resnais, avec Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
-Tournée (Mathieu Amalric) 🎥
+* Tournée (Mathieu Amalric) 🎥
 * Mammuth  (2010, Délépine et Kervern, avec Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php)
 * Habemus Papam (2011, Nanni Moretti)
@@ -385,25 +388,25 @@ Tournée (Mathieu Amalric) 🎥
 
 * Pierrot le Fou  (1965, Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * Le Mépris  [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
-(1963, Godard) 🎥 🎥
+  (1963, Godard) 🎥 🎥
 * La Haine
 * Des Hommes et des Dieux  [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
-(2010, avec Michael Lonsdale) 🎥
+  (2010, avec Michael Lonsdale) 🎥
 * La Journée de la Jupe  [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php)
-(2008)
+  (2008)
 * Tous les Matins du Monde  [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
-(1991, avec Gérard Depardieu)
+  (1991, avec Gérard Depardieu)
 * Le Chat  (1971) (avec Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php)
 * Les Grandes Personnes  (2008, avec JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 * Polisse  [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
-(2011)
+  (2011)
 * Claude Sautet
-    * César et Rosalie
-    * Max et les Ferrailleurs
+    * César et Rosalie ❤️
+    * Max et les Ferrailleurs ❤️
 * Xavier Dolan
-    * Laurence Anyways
-    * Tom à la Ferme
-    * Les Amours Imaginaires
+    * Laurence Anyways ❤️
+    * Tom à la Ferme ❤️
+    * Les Amours Imaginaires ❤️
 
 
 ![](images/affiches/pierrot.jpg)
@@ -414,9 +417,9 @@ Tournée (Mathieu Amalric) 🎥
 ### Policier
 
 * Le Samouraï  [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php)
-(1967) (et autres de Jean-Pierre Melville) 🎥 🎥
+  (1967) (et autres de Jean-Pierre Melville) 🎥 🎥
 * Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
-(1981, Claude Miller, avec Michel Serrault, Gérard Depardieu)
+  (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu)
 
 ### SF
 
@@ -430,17 +433,17 @@ Tournée (Mathieu Amalric) 🎥
 ### Autres
 
 * Le Crabe-Tambour  [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
-(1977, Pierre Schoenderffer)
+  (1977, Pierre Schoenderffer)
 * Les Derniers Jours du Monde  [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php)
-(2009, SF, avec Mathieu Amalric)
+  (2009, SF, avec Mathieu Amalric)
 
 ### Vieux classiques (noir et blanc)
 
 * Les Tontons Flingueurs  [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
-(1963, Lautner, Audiard, avec Lino Ventura)
+  (1963, Lautner, Audiard, avec Lino Ventura)
 * Le Soupirant  (1962, Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php)
 * Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
-(1961) (et autres de Jacques Demy) 🎥
+  (1961) (et autres de Jacques Demy) 🎥
 
 ![](images/affiches/tontons.jpg)
 
@@ -464,7 +467,6 @@ Tournée (Mathieu Amalric) 🎥
 * ne vous retournez pas (suspense et musiques +)
 * 2 days in paris
 * soleil trompeur
-* Oubli: rajouter eternal sunshine en 3eme dans les drames de ma liste de films
 * good will hunting
 * une nuit à new york
 * buffet froid
@@ -490,6 +492,8 @@ Tournée (Mathieu Amalric) 🎥
     * la liste de schindler
     * la vie est belle
 * Zhang Yimou (Hero, ...)
+* Casino Royale
+* La Guerre du Feu
 
 ## Autres
 
@@ -505,10 +509,19 @@ Tournée (Mathieu Amalric) 🎥
 
 ## Par année de sortie
 
+### 1998
+
+* Shakespeare in Love
+
+### 1999
+
+* Ghost Dog: The Way of the Samurai ❤️
+
 ### 2000
 
 * In the Mood for Love (Wong Kar-wai)
 * American Beauty (Sam Mendes)
+* Gladiator 💙
 * Billy Elliot
 * Dancer in the Dark (Lars von Trier)
 
@@ -566,6 +579,7 @@ Tournée (Mathieu Amalric) 🎥
 
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar)
+* Broken Flowers (Jarmusch)
 * Million Dollar Baby
 * Capote
 
@@ -589,6 +603,7 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2007
 
+* The Darjeeling Limited ❤️
 * No Country for Old Men ❤️
 * Gone Baby Gone
 
@@ -600,7 +615,9 @@ Tournée (Mathieu Amalric) 🎥
 ### 2008
 
 * Burn After Reading ❤️
+* Two Lovers ❤️
 * Zetwal ❤️
+* Bons baisers de Bruges (Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -656,6 +673,8 @@ Tournée (Mathieu Amalric) 🎥
 * Mud ❤️
 * A Royal Affair ❤️
 * The Place Beyond the Pines
+* Antiviral (Brandon Cronenberg)
+* Moonrise Kingdom
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -664,8 +683,11 @@ Tournée (Mathieu Amalric) 🎥
 
 ### 2013
 
+* Her (Spike Jonze) ❤️
 * Under the Skin
+* Only Lovers Left Alive (Jarmusch)
 * Wrong Cops (Quentin Dupieux)
+* Side Effects (Steven Soderbergh)
 * All is Lost (?)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -679,6 +701,7 @@ Tournée (Mathieu Amalric) 🎥
 * Gone Girl (Fincher)
 * Nos étoiles contraires (?)
 * Reality (Quentin Dupieux, Chabat)
+* Inherent Vice (J. Phoenix)
 * watchlist: Selma
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -689,7 +712,7 @@ Tournée (Mathieu Amalric) 🎥
 ### 2015
 
 * Mustang (Turquie) ❤️
-* The Assassin 🎥❤️ (arts martiaux chinois)
+* The Assassin 🎥 ❤️ (arts martiaux chinois)
 * The Lobster
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -706,6 +729,7 @@ Tournée (Mathieu Amalric) 🎥
 * Toni Erdmann
 * Hacksaw Ridge
 * Manchester by the Sea (?)
+* Una (R. Mara)
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -714,6 +738,8 @@ Tournée (Mathieu Amalric) 🎥
 ### 2017
 
 * Wind River
+* A Ghost Story (R. mara) ❤️
+* You Were Never Really Here (J. Phoenix)
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -726,6 +752,7 @@ Tournée (Mathieu Amalric) 🎥
 * Dunkirk
 * La Saveur des Ramens
 * La Ballade de Buster Scruggs
+* Bird Box (Sandra Bullock, Netflix)
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -761,6 +788,7 @@ Décevant:
 * La plataforma (Netflix, SF) ❤️
 * L'Homme Invisible (avec Elisabeth Moss)
 * Drunk (Mads Mikkelsen)
+* à voir: https://fr.wikipedia.org/wiki/Nomadland
 
 Aimés sans plus:
 
