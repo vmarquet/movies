@@ -486,7 +486,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 Mes réalisateurs et films préférés
 
-### JimJarmusch
+### Jim Jarmusch
 
 * Ghost Dog
 * Broken Flowers
@@ -502,6 +502,7 @@ Mes réalisateurs et films préférés
 ### Jean-Luc Godard
 
 * Pierrot le Fou
+* Alphaville
 * Le Mépris
 * A Bout de Souffle
 
@@ -601,17 +602,6 @@ Mes réalisateurs et films préférés
 Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg}
 
 
-## Autres
-
-### Séries
-
-
-* Dexter
-* Docteur House (surtout la saison 4)
-* How I met your Mother
-* The Big Bang Theory
-* Scrubs
-
 
 ## Par année de sortie
 
@@ -626,6 +616,10 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1984
 
 * The Hit (Tim Roth)
+
+### 1987
+
+* Les Incorruptibles (Brian de Palma)
 
 ### 1989
 
