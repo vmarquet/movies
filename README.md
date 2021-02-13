@@ -215,7 +215,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * eXistenZ  [🍅](https://www.rottentomatoes.com/m/existenz)
 (David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
 * Inception (Christopher Nolan)
-* Shutter Island (\MartinScorsese)
+* Shutter Island (Martin Scorsese)
 * Le Limier  [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php)
 (le remake, à défaut)(Kenneth Branagh, avec Jude Law, Michael Caine)
 * Dans la peau de John Malkovich (avec John Malkovich)
@@ -240,7 +240,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Alien  (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien)
 * Alien IV  [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
 (JP Jeunet)
-* 2001 A Space Odyssey   (\StanleyKubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
+* 2001 A Space Odyssey   (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
 * Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
 * THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
 * Antiviral
@@ -267,7 +267,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 #### Vampires
 
-* Le Bal des Vampires  (1967, \RomanPolanski) (parodique) 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers)
+* Le Bal des Vampires  (1967, Roman Polanski) (parodique) 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers)
 * Nosferatu  (1922, Murnau) [🍅](https://www.rottentomatoes.com/m/nosferatu)
 * Entretien avec un Vampire  (1994) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire)
 
@@ -280,7 +280,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Le Silence des Agneaux  (1991, avec Anthony Hopkins) 💙 [🍅](https://www.rottentomatoes.com/m/silence_of_the_lambs)
 * Elephant Man  (1980, avec Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
 * Délivrance  (1972) ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance)
-* Shining  (1980, \StanleyKubrick) [🍅](https://www.rottentomatoes.com/m/shining)
+* Shining  (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
 * The Others (Amenabar)
 * Psychose (Hitchcock) 💙
 * Suspiria (1977)  pour le cadrage et l'esthétique
@@ -362,8 +362,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * La Vie est Belle  (Capra, 1946) [🍅](https://www.rottentomatoes.com/m/1010792-its_a_wonderful_life)
 * Casablanca  (Michael Curtiz, 1942) [🍅](https://www.rottentomatoes.com/m/1003707-casablanca)
-* Citizen Kane   (\OrsonWelles, 1941) 🎥 [🍅](https://www.rottentomatoes.com/m/citizen_kane)
-* The Lady from Shanghai  (\OrsonWelles, 1948) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
+* Citizen Kane   (Orson Welles, 1941) 🎥 [🍅](https://www.rottentomatoes.com/m/citizen_kane)
+* The Lady from Shanghai  (Orson Welles, 1948) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
 * 12 Hommes en Colère  (Sidney Lumet, 1957) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men)
 * Certains l'aiment Chaud  (Billy Wilder, 1957) [🍅](https://www.rottentomatoes.com/m/some_like_it_hot)
 * Rashomon   (Akira Kurosawa, 1951) [🍅](https://www.rottentomatoes.com/m/rashomon)
@@ -599,7 +599,7 @@ Mes réalisateurs et films préférés
 * Robert Rodriguez (Machete, Sin City, From Dusk till Dawn)
 * Hayao Miyasaki (Princesse Mononoke, Le Chateau Ambulant, Nausicaa, Le Chateau dans le Ciel, Le Voyage de Chihiro...)
 
-Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg}
+Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
 
 
 
