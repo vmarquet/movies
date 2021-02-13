@@ -90,8 +90,11 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Taxi Driver  💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
   (et autres de Martin Scorsese (surtout Les Affranchis))
 * The Constant Gardener (avec Ralph Fiennes)
-* Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
-  (1972, Werner Herzog, avec Klaus Kinski)
+* Werner Herzog
+    * Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
+      (1972, avec Klaus Kinski)
+    * Fitzcarraldo (1982)
+    * Cobra Verde (1987)
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
 * Kramer contre Kramer
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
@@ -222,7 +225,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Usual Suspects (avec Kevin Spacey)
 * Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
 * The Man from Earth   (tout repose sur le scénario, très original) [🍅](https://www.rottentomatoes.com/m/man_from_earth)
-* The Machinist
+* The Machinist (2004)
 * Le Prestige
 * Un Jour sans Fin (avec Bill Murray)
 
@@ -258,6 +261,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### Fantastique
 
+* The Seventh Seal (1957, Ingmar Bergman)
 * Phantom of the Paradise (1974, Brian de Palma)
 * La Compagnie des Loups  (1984) [🍅](https://www.rottentomatoes.com/m/company_of_wolves)
 * Arizona Dream  💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream)
@@ -313,6 +317,9 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ### Films historiques
 
 * La Guerre du Feu (1981, JJ Annaud)
+* Section spéciale (1975, Costa-Gavras)
+* Darkest Hour (2017)
+* Lincoln (2012, Spielberg)
 
 
 ### Westerns
@@ -323,6 +330,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 (de et avec Kevin Costner, Oscar meilleur film 1991) 🎥
 * There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis)  --> à voir 🎥 [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
 * Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
+* 3:10 to Yuma (2007)
+* The Assassination of Jesse James by the Coward Robert Ford (2007)
 
 #### Spaghettis (parodique)
 
@@ -535,6 +544,7 @@ Mes réalisateurs et films préférés
 * Citizen Kane
 * Le Procès
 * La Dame de Shanghai
+* Macbeth
 
 ### Francis Ford Coppola
 
@@ -655,10 +665,12 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Le Dernier Empereur (Bernardo Bertolucci)
 * Les Incorruptibles (Brian de Palma)
+* à voir: https://www.rottentomatoes.com/m/empire_of_the_sun
 
 ### 1988
 
 * Mississippi Burning (Gene Hackman, William Dafoe)
+* à voir: https://www.rottentomatoes.com/m/gorillas_in_the_mist
 
 [Césars]
 
@@ -713,6 +725,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Titanic 💙
 * Contact (Jodie Foster) 💙
 * Good Will Hunting (Gus van Sant)
+* The Fifth Element (Luc Besson)
 
 ### 1998
 
@@ -877,6 +890,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Inception (Nolan) 💙 🏆
 * Shutter Island (Martin Scorsese)
 * True Grit
+* Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -899,6 +913,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Django Unchained
 * Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
 * Take Shelter (Jeff Nichols)
+* Carnage (Roman Polanski, Christoph Waltz)
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -950,6 +965,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Nos étoiles contraires (?)
 * Reality (Quentin Dupieux, Chabat)
 * Inherent Vice (J. Phoenix)
+* Leviathan (Russie)
+* A Girl Walks Home Alone at Night (Iran)
 * watchlist: Selma
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
 * Babysitting (Christian Clavier)
@@ -966,6 +983,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Revenant 🎥 (Alejandro González Iñárritu)
 * The Lobster
 * Les Huit Salopards (Tarentino)
+* Cemetery of Splendour (vu ?) 🌿
+* à voir: https://www.rottentomatoes.com/m/macbeth_2015
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -995,12 +1014,17 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * A Ghost Story (R. mara) ❤️
 * The Death of Stalin (comédie satirique, Steve Buscemi) ❤️
 * You Were Never Really Here (J. Phoenix)
+* à voir: https://www.rottentomatoes.com/m/my_days_of_mercy
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * 120 battements par minute ❤️
 * Le Brio (bon, pas inoubliable)
 * à voir: https://www.telerama.fr/cinema/films/la-douleur,516794.php
+
+Ok sans plus:
+
+* Lady Bird
 
 ### 2018
 
@@ -1010,6 +1034,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * La Ballade de Buster Scruggs
 * Bird Box (Sandra Bullock, Netflix)
 * Annihilation (SF, Natalie Portman)
+* Capernaum
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 
@@ -1018,6 +1043,16 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * L'Empereur de Paris (Vincent Cassel) ❤️
 * à voir: En liberté !
 * Mademoiselle de Joncquières (comédie dramatique romantique, sympa mais pas inoubliable)
+
+Sans plus:
+
+* Call Me by Your Name
+* Manta Ray
+
+Cannes, à voir:
+
+* https://www.lemonde.fr/festival-de-cannes/article/2018/05/09/cannes-2018-les-oiseaux-de-passage-un-scarface-tribal-et-hallucine-en-colombie_5296474_766360.html
+* https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html
 
 ### 2019
 
@@ -1029,6 +1064,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Le Roi (Chalamet, Netflix)
 * Scheme Birds (documentaire) ❤️
 * The Two Popes
+* à voir: https://www.rottentomatoes.com/m/ash_is_purest_white
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1053,6 +1089,7 @@ Décevant:
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://fr.wikipedia.org/wiki/Minari
+* à voir: https://www.rottentomatoes.com/m/promising_young_woman
 
 Aimés sans plus:
 
