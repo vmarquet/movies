@@ -74,16 +74,18 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Babel (Inarritu)
 * Mar Adentro (Alejandro Amenabar, avec Javier Bardem [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * Terence Malick
-    * Badlands (1973, Martin Sheen)
-    * The New World (2005, Christian Bale, Colin Farell)
+    * Badlands (1973, Martin Sheen) ❤️
+    * The New World (2005, Christian Bale, Colin Farell) 🎥 ❤️
 * Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
 * Les Liaisons Dangereuses (avec John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
 * Roméo et Juliette (1968, Zeffirelli) [🍅](https://www.rottentomatoes.com/m/1017834-romeo_and_juliet)
 * Deep End (1970) 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
+* M le maudit (1931, Fritz Lang) 🎥 ❤️
+* Le Procès (1962, Orson Welles) 🎥 ❤️
 * Two Lovers (avec Joaquin Phoenix) 🎥
   [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
   [🍅](https://www.rottentomatoes.com/m/two_lovers) 
-* Bright Star 🎥 
+* Bright Star (2009, Jane Campion) 🎥 ❤️
 * Taxi Driver  💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
   (et autres de Martin Scorsese (surtout Les Affranchis))
 * The Constant Gardener (avec Ralph Fiennes)
@@ -110,8 +112,10 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Drames bien genre on s'en souvient après, mais qui traînent un peu en longueur:
     * Disgrace (2008, avec John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/)
     * La Porte du Paradis (1980) (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php)
-
-
+* Thème: WWII
+    * Le Pianiste
+    * La Liste de Schindler
+    * La Vie est Belle (1997)
 
 
 
@@ -132,7 +136,11 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Tootsie  (1982) --> pour Dustin Hoffman
   [(et voir ici)](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
   [🍅](https://www.rottentomatoes.com/m/tootsie)
-* Le Tigre et la Neige (Roberto Benigni)
+* Le Tigre et la Neige (2005, Roberto Benigni)
+* Do the right thing (1989)
+* Starbuck (2011)
+* The 40 year old virgin (2005)
+* Hapiness Therapy (2012)
 
 
 ![](images/affiches/lost.jpg)
@@ -179,6 +187,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Mystic River  (2003, Clint Eastwood, avec Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river)
 * Collateral (Michael Mann)
 * L'Affaire Thomas Crown  (l'original de 1968 , avec Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair)
+* Don't Look Now (1974) (suspense et musiques +)
 * Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
 * Cosmopolis  (et autres de David Cronemberg) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
 * The Pledge (Sean Penn, avec Jack Nicholson)
@@ -408,6 +417,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Pierrot le Fou  (1965, Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * Le Mépris  [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
   (1963, Godard) 🎥 🎥
+* La Vérité (1960, HG clouzot) 🏆
 * Cyrano de Bergerac (1990, JP Rappeneau)
 * La Haine (1995)
 * Des Hommes et des Dieux  [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
@@ -468,26 +478,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ![](images/affiches/tontons.jpg)
 
 
-## En vrac, pas triés
-
-* le maitre du jeu
-* le cercle des poètes disparus
-* smoke
-* le locataire
-* ne vous retournez pas (suspense et musiques +)
-* 2 days in paris
-* good will hunting
-* La Vérité, HG clouzot
-* Comedy: 
-    * starbuck
-    * the 40 year old virgin
-    * hapiness therapy
-    * do the right thing
-* WWII
-    * Le Pianiste
-    * la liste de schindler
-    * la vie est belle
-* Zhang Yimou (Hero, ...)
 
 
 ## Par réalisateur
@@ -496,6 +486,10 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * Il était une fois en Anatolie (2011) 🌿
 * Winter Sleep (2013) 🌿
+
+### Roman Polanski
+
+* Le Locataire (1976) ❤️
 
 
 ## Autres
@@ -512,9 +506,32 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ## Par année de sortie
 
+### 1980
+
+* The Blues Brothers (John Landis)
+
+### 1981
+
+* An American Werewolf in London (John Landis)
+
+### 1984
+
+* The Hit (Tim Roth)
+
+### 1989
+
+* Le Cercle des poètes disparus (Peter Weir)
+
 ### 1995
 
 * Leaving Las Vegas
+* Smoke (Harvey Keitel) 🧸
+
+### 1997
+
+* Titanic 💙
+* Contact (Jodie Foster) 💙
+* Good Will Hunting (Gus van Sant)
 
 ### 1998
 
@@ -566,6 +583,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * Good Bye, Lenin! (Wolfgang Becker, Allemagne)
 * Le Maître du jeu (Runaway Jury)
+* The Station Agent (Peter Dinklage) ☀️🎭
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -592,6 +610,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Broken Flowers (Jarmusch)
 * Million Dollar Baby
 * Capote
+* V for Vendetta
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -620,6 +639,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * The Darjeeling Limited ❤️
 * No Country for Old Men ❤️
 * Gone Baby Gone
+* Two Days in Paris (Julie Delpy)
+* My Blueberry Nights (Wong Kar-Wai)
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -654,7 +675,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ### 2010
 
 * Rubber (Quentin Dupieux) ❤️
-* Inception
+* Inception (Nolan) 💙 🏆
 * Shutter Island (Martin Scorsese)
 * True Grit
 
@@ -739,6 +760,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * The Assassin 🎥 ❤️ (arts martiaux chinois)
 * The Revenant 🎥 (Alejandro González Iñárritu)
 * The Lobster
+* Les Huit Salopards (Tarentino)
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -749,6 +771,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * Lion ❤️
 * Love and Friendship ❤️
+* Arrival (SF, Amy Adams)
 * La La Land
 * I Daniel Blake
 * Toni Erdmann
@@ -764,6 +787,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * Wind River
 * A Ghost Story (R. mara) ❤️
+* The Death of Stalin (comédie satirique, Steve Buscemi) ❤️
 * You Were Never Really Here (J. Phoenix)
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -778,6 +802,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * La Saveur des Ramens
 * La Ballade de Buster Scruggs
 * Bird Box (Sandra Bullock, Netflix)
+* Annihilation (SF, Natalie Portman)
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
