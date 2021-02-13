@@ -53,6 +53,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
     * [Animés](#animés)
     * [Vieux classiques (noir et blanc)](#vieux-classiques-noir-et-blanc)
 * [Films français](#films-français)
+* [Par réalisateur](#par-réalisateur)
 * [Par année de sortie](#par-année-de-sortie)
     * [2000](#2000)
     * [2010](#2010)
@@ -106,6 +107,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Sex, Lies and Videotape (1989, Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
 * Soleil trompeur (1994, Russie, Nikita Mikhalkov) 🏆🌿
 * L'Île nue (1960, Japon)
+* La Ballade de Narayama (1983, Japon) 🌿
 * Midnight Express (1978)
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) --> esthétique bof mais scénario+
 * Etat Second (1993)
@@ -377,15 +379,15 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ## Films français
 ### Comédies
 
-* Buffet Froid (1979) (Bertrand Blier, Depardieu)
-* Ridicule (1996, Patrice Lecomte, Jean Rochefort)
+* Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
+* Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
 * Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
   (2010, avec Jacques Gamblin)
 * Le Bruit des Glaçons  [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php)
   (2010, Bertrand Blier, avec Jean Dujardin, Albert Dupontel)
 * Intouchables (2011) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php)
   (2011, avec François Cluzet)
-* The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php)
+* The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php) ❤️
   (2011, Michel Hazanavicius, avec Jean Dujardin)
 * L'Arnacoeur (Romain Duris)
 * Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)  -> dialogues excellents (Audiard), musique très sympa [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
@@ -453,7 +455,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### SF
 
-* Alphaville (1965, Jean-Luc Godard)
+* Alphaville (1965, Jean-Luc Godard) ❤️
 
 ### Films à sketches
 
@@ -482,14 +484,121 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ## Par réalisateur
 
+Mes réalisateurs et films préférés
+
+### JimJarmusch
+
+* Ghost Dog
+* Broken Flowers
+* Mystery Train
+* Dead Man
+
+### Terry Gilliam
+
+* Brazil
+* 12 Monkeys
+* Sacré Graal
+
+### Jean-Luc Godard
+
+* Pierrot le Fou
+* Le Mépris
+* A Bout de Souffle
+
+### Roman Polanski
+
+* Rosemary's Baby
+* Le Locataire ❤️
+* Le Bal des Vampires ❤️
+* Le Pianiste
+* Chinatown
+
+### Woody Allen
+
+* Midnight in Paris
+* Scoop
+* Whatever Works
+* Escrocs mais pas trop
+
+### Orson Welles
+
+* Citizen Kane
+* Le Procès
+* La Dame de Shanghai
+
+### Francis Ford Coppola
+
+* Apocalypse Now
+* Tetro
+* Le Parrain
+* Conversation Secrète
+
+### Martin Scorsese
+
+* Taxi Driver
+* Les Affranchis
+* Les Infiltrés
+
+### Stanley Kubrick
+
+* Full Metal Jacket
+* Docteur Folamour
+* Orange Mécanique
+* Shining
+* 2001
+
+### Jean-Pierre Jeunet
+
+* Amélie Poulain
+* Délicatessen
+* Alien IV
+* La Cité des Enfants Perdus
+
+### Michel Gondry
+
+* Eternal Sunshine
+* Be Kind, Rewind
+* La Science des Rêves
+
+### Ridley Scott
+
+* Blade Runner
+* Alien
+* Thelma & Louise
+
+### David Cronemberg
+
+* eXistenZ
+* Cosmopolis
+* A History of Violence
+* Videodrome
+
+### Frères Coen
+
+* The Big Lebowski
+* The Barber
+* No Country For Old Men
+* Barton Fink
+
 ### Nuri Bilge Ceylan
 
 * Il était une fois en Anatolie (2011) 🌿
 * Winter Sleep (2013) 🌿
 
-### Roman Polanski
+### Et aussi...
 
-* Le Locataire (1976) ❤️
+* Darren Arronovski (Requiem for a Dream, Black Swan, The Wrestler...)
+* David Lynch (Elephant Man, Mulholland Drive, Blue Velvet...)
+* Almodovar (Volver, Femmes au bord de la crise de nerfs...)
+* Peter Weier (Witness, Dead Poets Society, Etat Second...)
+* Kenneth Brannagh (Le Limier, Beaucoup de Bruit pour rien, Dead Again...)
+* Takeshi Kitano (Aniki mon Frère, Hana-Bi)
+* Zhang Yimou (Hero, La Cité Interdite...)
+* Tarentino (Inglorious Basterds, Pulp Fiction, Kill Bill, Reservoir Dogs...)
+* Robert Rodriguez (Machete, Sin City, From Dusk till Dawn)
+* Hayao Miyasaki (Princesse Mononoke, Le Chateau Ambulant, Nausicaa, Le Chateau dans le Ciel, Le Voyage de Chihiro...)
+
+Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg}
 
 
 ## Autres
@@ -727,7 +836,9 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### 2013
 
+* 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆 
 * Her (Spike Jonze) ❤️
+* La grande bellezza (Paolo Sorrentino) 🎥 ❤️ ✨ 🌿
 * Under the Skin
 * Only Lovers Left Alive (Jarmusch)
 * Wrong Cops (Quentin Dupieux)
@@ -744,6 +855,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Whiplash ❤️
 * Birdman
 * Gone Girl (Fincher)
+* Black Coal (Chine) 🧸
 * Nos étoiles contraires (?)
 * Reality (Quentin Dupieux, Chabat)
 * Inherent Vice (J. Phoenix)
