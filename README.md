@@ -288,6 +288,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * L'Orphelinat
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
 * Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
+* A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)
 * Impetigore (2019)
 
@@ -1004,6 +1005,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * La Ballade de Buster Scruggs
 * Bird Box (Sandra Bullock, Netflix)
 * Annihilation (SF, Natalie Portman)
+* à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1040,10 +1042,15 @@ Décevant:
 * La plataforma (Netflix, SF) ❤️
 * L'Homme Invisible (avec Elisabeth Moss)
 * Drunk (Mads Mikkelsen)
+* à voir: https://www.telerama.fr/cinema/films/the-nest,n6703873.php
 * à voir: https://fr.wikipedia.org/wiki/Nomadland
+* à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
+* à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
+* à voir: https://fr.wikipedia.org/wiki/Minari
 
 Aimés sans plus:
 
+* Tenet
 * Sound of Metal
 * Soul (Pixar)
 
