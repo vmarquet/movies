@@ -379,6 +379,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ## Films français
 ### Comédies
 
+* Rabbi Jacob (1973, Louis de Funes)
 * Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
 * Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
 * Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
@@ -401,6 +402,11 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
     * L'enlèvement de Michel Houellebecq
     * Near Death Experience
 
+#### Classiques potaches
+
+* La Grande Vadrouille (1966)
+* Papy fait de la résistance (1983)
+
 
 ### Comédies dramatiques
 
@@ -409,7 +415,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Mon Oncle d'Amérique  (1980, Alain Resnais, avec Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
 * Tournée (Mathieu Amalric) 🎥
 * Mammuth  (2010, Délépine et Kervern, avec Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
-* Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php)
+* Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
 * Habemus Papam (2011, Nanni Moretti)
 * le grand soir
 
@@ -421,14 +427,13 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
   (1963, Godard) 🎥 🎥
 * La Vérité (1960, HG clouzot) 🏆
 * Cyrano de Bergerac (1990, JP Rappeneau)
-* La Haine (1995)
 * Des Hommes et des Dieux  [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
   (2010, avec Michael Lonsdale) 🎥
 * La Journée de la Jupe  [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php)
   (2008)
 * Tous les Matins du Monde  [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
   (1991, avec Gérard Depardieu)
-* Le Chat  (1971) (avec Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php)
+* Le Chat  (1971) (avec Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
 * Les Grandes Personnes  (2008, avec JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 * Polisse  [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
   (2011)
@@ -472,7 +477,10 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ### Vieux classiques (noir et blanc)
 
 * Les Tontons Flingueurs  [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
-  (1963, Lautner, Audiard, avec Lino Ventura)
+  (1963, Lautner, Audiard, avec Lino Ventura) ❤️
+    * même genre:
+        * Les Barbouzes
+        * Ne nous fâchons pas
 * Le Soupirant  (1962, Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php)
 * Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
   (1961) (et autres de Jacques Demy) 🎥
@@ -531,7 +539,7 @@ Mes réalisateurs et films préférés
 
 * Apocalypse Now
 * Tetro
-* Le Parrain
+* Le Parrain 🎥 ❤️
 * Conversation Secrète
 
 ### Martin Scorsese
@@ -581,6 +589,11 @@ Mes réalisateurs et films préférés
 * No Country For Old Men
 * Barton Fink
 
+### Leos Carax
+
+* Holy Motors ❤️
+* Les Amants du Pont Neuf ❤️
+
 ### Nuri Bilge Ceylan
 
 * Il était une fois en Anatolie (2011) 🌿
@@ -594,7 +607,7 @@ Mes réalisateurs et films préférés
 * Peter Weier (Witness, Dead Poets Society, Etat Second...)
 * Kenneth Brannagh (Le Limier, Beaucoup de Bruit pour rien, Dead Again...)
 * Takeshi Kitano (Aniki mon Frère, Hana-Bi)
-* Zhang Yimou (Hero, La Cité Interdite...)
+* Zhang Yimou (Hero, La Cité Interdite, Le Secret des Poignards Volants...)
 * Tarentino (Inglorious Basterds, Pulp Fiction, Kill Bill, Reservoir Dogs...)
 * Robert Rodriguez (Machete, Sin City, From Dusk till Dawn)
 * Hayao Miyasaki (Princesse Mononoke, Le Chateau Ambulant, Nausicaa, Le Chateau dans le Ciel, Le Voyage de Chihiro...)
@@ -605,30 +618,90 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ## Par année de sortie
 
+### 1976
+
+* L'Empire des sens (Nagisa Ōshima) 🎥
+
 ### 1980
 
-* The Blues Brothers (John Landis)
+* The Blues Brothers (John Landis) 💙
 
 ### 1981
 
 * An American Werewolf in London (John Landis)
 
+### 1982
+
+### 1983
+
+* Danton (Andrzej Wajda, Depardieu) ❤️
+* Tchao Pantin (Coluche) ❤️
+
 ### 1984
 
 * The Hit (Tim Roth)
 
+### 1985
+
+* Police (Depardieu) (vu ?)
+  [📰](https://www.telerama.fr/cinema/films/police,5378.php)
+
 ### 1987
 
+* Le Dernier Empereur (Bernardo Bertolucci)
 * Les Incorruptibles (Brian de Palma)
+
+### 1988
+
+* Mississippi Burning (Gene Hackman, William Dafoe)
+
+[Césars]
+
+* La vie est un long fleuve tranquille
 
 ### 1989
 
 * Le Cercle des poètes disparus (Peter Weir)
 
+### 1990
+
+### 1991
+
+### 1992
+
+### 1993
+
+* The Piano (Jane Campion)
+
+[Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Les Visiteurs
+* à voir: https://www.telerama.fr/cinema/films/no-smoking,29537.php
+
+### 1994
+
+[Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Léon
+* à voir: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
+* à voir: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
+* à voir: https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
+
 ### 1995
 
+* Usual Suspects
 * Leaving Las Vegas
 * Smoke (Harvey Keitel) 🧸
+
+[Césars 21](https://fr.wikipedia.org/wiki/21e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* La Haine ✨
+* La Cité des enfants perdus
+* à voir: https://www.telerama.fr/cinema/films/la-ceremonie,37295.php
+* à voir: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
+* Le bonheur est dans le pré (?)
+
+### 1996
 
 ### 1997
 
@@ -639,21 +712,34 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1998
 
 * Shakespeare in Love
+* à voir: Saving Private Ryan
+
+[Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Le Diner de Cons
+* Taxi
+* à voir: https://www.telerama.fr/cinema/films/place-vendome,45583.php
 
 ### 1999
 
 * Ghost Dog: The Way of the Samurai ❤️
+
+[Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Himalaya : L'Enfance d'un chef
+* Les Enfants du Marais (vu ?)
 
 ### 2000
 
 * In the Mood for Love (Wong Kar-wai)
 * American Beauty (Sam Mendes)
 * Gladiator 💙
+* Requiem for a Dream (Darren Aronofsky)
 * Billy Elliot
 * Dancer in the Dark (Lars von Trier)
 * Battle Royale
 
-[Césars 27](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+[Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Harry, un ami qui vous veut du bien
 * Les Rivières pourpres
@@ -687,9 +773,11 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Good Bye, Lenin! (Wolfgang Becker, Allemagne)
 * Le Maître du jeu (Runaway Jury)
 * The Station Agent (Peter Dinklage) ☀️🎭
+* Le mystère de la chambre jaune (Bruno Podalydès)
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
+* Stupeur et Tremblements
 * Les Triplettes de Belleville
 
 ### 2004
@@ -714,16 +802,19 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Million Dollar Baby
 * Capote
 * V for Vendetta
+* à voir: https://www.telerama.fr/cinema/films/memoires-d-une-geisha,253423.php
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Va, vis et deviens
+* La Marche de l'empereur
 
 ### 2006
 
 * Volver (Pedro Almodóvar) ❤️❤️
 * Little Miss Sunshine ❤️
 * Casino Royale
+* The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee)
 * Babel (Alejandro González Iñárritu)
 * The Queen (Stephen Frears)
@@ -762,8 +853,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Entre les murs
-* Le Crime est notre affaire
-* Bienvenue chez les Ch'tis
+* Le Crime est notre affaire (Catherine Frot, André Dussollier, Claude Rich)
+* Bienvenue chez les Ch'tis (Kad Merad, Dany Boon)
 
 ### 2009
 
@@ -802,6 +893,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Tinker Tailor Soldier Spy (La Taupe)
 * Django Unchained
 * Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
+* Take Shelter (Jeff Nichols)
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -854,6 +946,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Reality (Quentin Dupieux, Chabat)
 * Inherent Vice (J. Phoenix)
 * watchlist: Selma
+* Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
+* Babysitting (Christian Clavier)
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -877,6 +971,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Lion ❤️
 * Love and Friendship ❤️
+* Mademoiselle (Corée) 🌿
 * Arrival (SF, Amy Adams)
 * La La Land
 * I Daniel Blake
@@ -918,6 +1013,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 2019
 
+* The Lighthouse (Willem Dafoe, Robert Pattinson) 🎥 ❤️
 * 1917 🎥
 * Joker ❤️
 * Jojo Rabbit ❤️
