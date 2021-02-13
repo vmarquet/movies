@@ -619,6 +619,10 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ## Par année de sortie
 
+### 1975
+
+* One Flew Over the Cuckoo's Nest (Milos Forman)
+
 ### 1976
 
 * L'Empire des sens (Nagisa Ōshima) 🎥
@@ -996,6 +1000,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * 120 battements par minute ❤️
 * Le Brio (bon, pas inoubliable)
+* à voir: https://www.telerama.fr/cinema/films/la-douleur,516794.php
 
 ### 2018
 
@@ -1006,6 +1011,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Bird Box (Sandra Bullock, Netflix)
 * Annihilation (SF, Natalie Portman)
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
+* à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
