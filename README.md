@@ -9,11 +9,15 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 * 💙 = film admis comme culte, à avoir vu au moins une fois
 * ❤️ = pas forcément culte mais le mériterait d'après moi, original, à voir
 * 🎥 = film à l'esthétique très travaillé (🎥🎥 =  excellent cadrage en plus)
-
-Mes sites de critiques préférés
-
-* 🍅 https://www.rottentomatoes.com/
-* 📰 http://www.telerama.fr/
+* 🏆 = nominé aux Oscars
+* ✨ = nominé aux Césars
+* 🌿 = nominé à Cannes
+* ☀️ = nominé au Sundance Festival
+* 🧸 = nominé à la Berlinale
+* 🌐 = nominé aux Golden Globes
+* 🎭 = nominé aux Bafta
+* 🍅 = lien vers https://www.rottentomatoes.com/
+* 📰 = lien vers https://www.telerama.fr/
 
 Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
@@ -98,7 +102,11 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * The Queen (Stephen Frears) 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
 * Le Dernier Roi d'Ecosse (2006, avec Forest Whitaker) [🍅](https://www.rottentomatoes.com/m/last_king_of_scotland)
 * Sex, Lies and Videotape (1989, Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
+* Soleil trompeur (1994, Russie, Nikita Mikhalkov) 🏆🌿
+* L'Île nue (1960, Japon)
+* Midnight Express (1978)
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) --> esthétique bof mais scénario+
+* Etat Second (1993)
 * Drames bien genre on s'en souvient après, mais qui traînent un peu en longueur:
     * Disgrace (2008, avec John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/)
     * La Porte du Paradis (1980) (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php)
@@ -122,7 +130,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Shaun of the Dead (2004)
 * Zombieland  (2009) [🍅](https://www.rottentomatoes.com/m/zombieland)
 * Tootsie  (1982) --> pour Dustin Hoffman
-  [(et voir ici)](http://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
+  [(et voir ici)](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
   [🍅](https://www.rottentomatoes.com/m/tootsie)
 * Le Tigre et la Neige (Roberto Benigni)
 
@@ -150,6 +158,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### Aventure/road-movie
 
+* L'Homme qui voulut être roi (The Man Who Would Be King) (1975, Connery, Caine, Plummer)
 * Tigre et Dragon  (2000, Ang Lee) 🎥 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
 * Into The Wild  (2007, Sean Penn) [🍅](https://www.rottentomatoes.com/m/into_the_wild)
 
@@ -157,7 +166,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * Ghost Dog
   [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
-  [📰](http://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
+  [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
   (1999, avec Forest Whitaker) (et autres de Jim Jarmusch)
 * Le Nom de la Rose  [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986)
   (JJ Annaud, avec Sean Connery, Michael Lonsdale...)
@@ -181,6 +190,11 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * OldBoy  (2004) [🍅](https://www.rottentomatoes.com/m/oldboy)
 * La Corde (Hitchcock)
 * Side Effects (2013, Steven Soderbergh)
+
+#### Thrillers policiers + amoureux
+
+* Body Heat (1982)
+* Sea of Love (1989)
 
 ### Bon scénario/Twist
 
@@ -208,6 +222,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Blade Runner  (Ridley Scott, avec Harrison Ford) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/blade_runner)
 * Bienvenue à Gattaca   (avec Ethan Hawke, Jude Law) 💙❤️ [🍅](https://www.rottentomatoes.com/m/gattaca)
 * La Planète des Singes  (l'original, avec Charlton Heston) [🍅](https://www.rottentomatoes.com/m/1016397-planet_of_the_apes)
+* Solaris (1972, Russie, Andreï Tarkovski) 🌿
 * District 9  (2009) [🍅](https://www.rottentomatoes.com/m/district_9)
 * Soleil Vert  (1973, avec Charlton Heston) ❤️ [🍅](https://www.rottentomatoes.com/m/soylent_green)
 * Moon  (2009) 🎥 [🍅](https://www.rottentomatoes.com/m/10009075-moon)
@@ -237,7 +252,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Arizona Dream  💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream)
 (1993, Kusturica, avec Johnny Depp) (très bonne musique)
 * Edward aux mains d'argent
-* [The Fall](http://www.imdb.com/title/tt0460791) (2006)
+* [The Fall](https://www.imdb.com/title/tt0460791) (2006)
 
 #### Vampires
 
@@ -257,6 +272,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Shining  (1980, \StanleyKubrick) [🍅](https://www.rottentomatoes.com/m/shining)
 * The Others (Amenabar)
 * Psychose (Hitchcock) 💙
+* Suspiria (1977)  pour le cadrage et l'esthétique
 * Scream (que le premier)
 * L'Orphelinat
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
@@ -282,7 +298,9 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ![](images/affiches/FMJ.jpg)
 
 
+### Films historiques
 
+* La Guerre du Feu (1981, JJ Annaud)
 
 
 ### Westerns
@@ -350,6 +368,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ## Films français
 ### Comédies
 
+* Buffet Froid (1979) (Bertrand Blier, Depardieu)
 * Ridicule (1996, Patrice Lecomte, Jean Rochefort)
 * Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
   (2010, avec Jacques Gamblin)
@@ -389,7 +408,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Pierrot le Fou  (1965, Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * Le Mépris  [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
   (1963, Godard) 🎥 🎥
-* La Haine
+* Cyrano de Bergerac (1990, JP Rappeneau)
+* La Haine (1995)
 * Des Hommes et des Dieux  [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
   (2010, avec Michael Lonsdale) 🎥
 * La Journée de la Jupe  [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php)
@@ -450,38 +470,14 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ## En vrac, pas triés
 
-* midnight express
 * le maitre du jeu
-* leaving las vegas
-* killing them softly
-* battle royale
 * le cercle des poètes disparus
-* inherent vice
-* thrillers policiers + romance
-    * body heat
-    * Sea of Love
-* etat second
 * smoke
-* entre ses syeux
 * le locataire
 * ne vous retournez pas (suspense et musiques +)
 * 2 days in paris
-* soleil trompeur
 * good will hunting
-* une nuit à new york
-* buffet froid
-* l'homme qui voulut être roi
-* Suspiria, pour le cadrage et l'esthétique
-* soleil trompeur
-* une séparation
-* ne le dis à personne
-* la fausse suivante
-* okuribito (Départs)
 * La Vérité, HG clouzot
-* the grandmaster
-* il était une fois en anatolie
-* winter sleep
-* solaris
 * Comedy: 
     * starbuck
     * the 40 year old virgin
@@ -492,8 +488,15 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
     * la liste de schindler
     * la vie est belle
 * Zhang Yimou (Hero, ...)
-* Casino Royale
-* La Guerre du Feu
+
+
+## Par réalisateur
+
+### Nuri Bilge Ceylan
+
+* Il était une fois en Anatolie (2011) 🌿
+* Winter Sleep (2013) 🌿
+
 
 ## Autres
 
@@ -508,6 +511,10 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 
 ## Par année de sortie
+
+### 1995
+
+* Leaving Las Vegas
 
 ### 1998
 
@@ -524,11 +531,13 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Gladiator 💙
 * Billy Elliot
 * Dancer in the Dark (Lars von Trier)
+* Battle Royale
 
 [Césars 27](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Harry, un ami qui vous veut du bien
 * Les Rivières pourpres
+* La Fausse Suivante (?)
 
 ### 2001
 
@@ -556,6 +565,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ### 2003
 
 * Good Bye, Lenin! (Wolfgang Becker, Allemagne)
+* Le Maître du jeu (Runaway Jury)
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -591,15 +601,19 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * Volver (Pedro Almodóvar) ❤️❤️
 * Little Miss Sunshine ❤️
+* Casino Royale
 * Le Secret de Brokeback Mountain (Ang Lee)
 * Babel (Alejandro González Iñárritu)
 * The Queen (Stephen Frears)
+* Les Infiltrés (The Departed)
+* Thank You for Smoking
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
 * Indigènes
 * OSS 117
 * Quatre étoiles (comédie, Carré/Garcia)
+* Ne le dis à personne (Guillaume Canet)
 
 ### 2007
 
@@ -618,6 +632,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Two Lovers ❤️
 * Zetwal ❤️
 * Bons baisers de Bruges (Colin Farrell, Ralph Fiennes, Brendan Gleeson)
+* Okuribito (Départs, Japon) (winner 🏆)
+* Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera)
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -626,6 +642,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Bienvenue chez les Ch'tis
 
 ### 2009
+
+* Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -636,6 +654,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ### 2010
 
 * Rubber (Quentin Dupieux) ❤️
+* Inception
+* Shutter Island (Martin Scorsese)
 * True Grit
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -656,10 +676,12 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Starbuck
 * Le Moine
 * Tinker Tailor Soldier Spy (La Taupe)
+* Django Unchained
+* Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* The Artist ❤️
+* The Artist ❤️🏆
 * Intouchables ❤️ (Sy, Cluzet)
 * Polisse
 * Jimmy Rivière
@@ -675,6 +697,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * The Place Beyond the Pines
 * Antiviral (Brandon Cronenberg)
 * Moonrise Kingdom
+* Killing Them Softly (neo-noir, Brad Pitt) (nominé Palme d'or)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -688,6 +711,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Only Lovers Left Alive (Jarmusch)
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
+* The Grandmaster (Wong Kar-wai)
 * All is Lost (?)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -713,6 +737,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * Mustang (Turquie) ❤️
 * The Assassin 🎥 ❤️ (arts martiaux chinois)
+* The Revenant 🎥 (Alejandro González Iñárritu)
 * The Lobster
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
