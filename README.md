@@ -356,7 +356,7 @@ Où voir des films:
 
 * L'Homme des Hautes Plaines   (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
 * Impitoyable  [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven)
-(de et avec Clint Eastwood, Oscar meilleur film 1992)
+  (de et avec Clint Eastwood, Oscar meilleur film 1992)
 
 #### Néowesterns
 
@@ -683,6 +683,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 1988
 
+* The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
 * à voir: https://www.rottentomatoes.com/m/gorillas_in_the_mist
 
@@ -734,12 +735,15 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 1996
 
+* The English Patient ❤️ 9🏆
+
 ### 1997
 
 * Titanic 💙
 * Contact (Jodie Foster) 💙
 * Good Will Hunting (Gus van Sant)
 * The Fifth Element (Luc Besson)
+* à voir: https://fr.wikipedia.org/wiki/Cure_(film,_1997)
 
 ### 1998
 
@@ -780,6 +784,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 2001
 
 * Mulholland Drive (David Lynch)
+* Lord of the Rings
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -820,6 +825,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * 21 Grammes (Alejandro Gonzalez Inarritu)
 * La Mauvaise Éducation (Pedro Almodóvar)
 * Mystic River (Clint Eastwood)
+* Aviator
+* The Passion of the Christ (Mel Gibson) (vu ?)
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -867,6 +874,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Gone Baby Gone
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
+* à voir: https://fr.wikipedia.org/wiki/Elizabeth_:_L%27%C3%82ge_d%27or
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -880,6 +888,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Zetwal ❤️
 * Bons baisers de Bruges (Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 * Okuribito (Départs, Japon) (winner 🏆)
+* Gran Torino (Clint Eastwood)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera)
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -949,8 +958,9 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Place Beyond the Pines
 * Antiviral (Brandon Cronenberg)
 * Moonrise Kingdom
-* Killing Them Softly (neo-noir, Brad Pitt) (nominé Palme d'or)
+* Killing Them Softly (neo-noir, Brad Pitt) 🌿
 * The Hunt (Mads Mikkelsen)
+* Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -964,12 +974,13 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Her (Spike Jonze) ❤️
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ ✨ 🌿
 * Under the Skin
-* Only Lovers Left Alive (Jarmusch)
+* Only Lovers Left Alive (Jarmusch) ❤️
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai)
 * All is Lost (?)
 * Ida (Pologne)
+* American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -986,6 +997,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Inherent Vice (J. Phoenix)
 * Leviathan (Russie)
 * A Girl Walks Home Alone at Night (Iran)
+* Noah (Darren Aronofsky, Russell Crowe)
 * watchlist: Selma
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
 * Babysitting (Christian Clavier)
@@ -1003,6 +1015,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Lobster
 * Les Huit Salopards (Tarentino)
 * Cemetery of Splendour (vu ?) 🌿
+* Carol (Rooney Mara, Cate Blanchett)
+* Manifesto (Cate Blanchett)
 * à voir: https://www.rottentomatoes.com/m/macbeth_2015
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1043,6 +1057,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 Ok sans plus:
 
+* Split (James McAvoy)
 * Lady Bird
 
 ### 2018
@@ -1065,6 +1080,7 @@ Ok sans plus:
 
 Sans plus:
 
+* A Star Is Born
 * Call Me by Your Name
 * Manta Ray
 
