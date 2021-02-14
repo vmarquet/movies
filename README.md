@@ -159,6 +159,12 @@ Où voir des films:
 * Hapiness Therapy (2012)
 
 
+#### Comédie de bureau
+
+* Glengarry Glen Ross (1992)
+* Office Space (1999)
+
+
 ![](images/affiches/lost.jpg)
 
 
@@ -305,8 +311,10 @@ Où voir des films:
 * L'Orphelinat
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
 * Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
+* The Babadook (2014)
 * A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)
+* Us (2019) (ok sans plus)
 * Impetigore (2019)
 
 
@@ -318,10 +326,12 @@ Où voir des films:
 ### Films de Guerre
 
 
-* Apocalypse Now  (Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
-* Full Metal Jacket   (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket)
-* Voyage au Bout de l'Enfer   (avec de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter)
+* Apocalypse Now (1979, FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
+* Platoon (1986, Oliver Stone, Charlie Sheen, Christopher Walken)
+* Full Metal Jacket (1987, Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket)
+* The Deer Hunter (Voyage au Bout de l'Enfer) (1978, Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter)
 * Inglorious Basterds  (et autres de Tarentino) 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
+* MASH (1970, Robert Altman)
 
 
 ![](images/affiches/FMJ.jpg)
@@ -345,6 +355,7 @@ Où voir des films:
 * Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
 * 3:10 to Yuma (2007)
 * The Assassination of Jesse James by the Coward Robert Ford (2007)
+* Little Big Man (1970) (longuet)
 
 #### Spaghettis (parodique)
 
@@ -369,6 +380,7 @@ Où voir des films:
 * [Indiana Jones 1, 2 et 3](https://www.rottentomatoes.com/search/?search=indiana+jones&sitesearch=rt)
 (Spielberg)
 * [Pirates des Caraïbes 1, 2 et 3](https://www.rottentomatoes.com/search/?search=pirates+of+the+caribbean&sitesearch=rt)
+* Jurassic Park
 * Be Kind, Rewind (Michel Gondry)
 
 ### Animés
@@ -376,7 +388,9 @@ Où voir des films:
 * La plupart des Miyasaki ❤️
     * Princesse Mononoke
     * Nausicaa de la Vallée du Vent
+    * Le Tombeau des Lucioles
     * Le Chateau dans le Ciel
+    * Le Chateau Ambulant
     * ...
 * Ghost in the Shell (le film, pas la série), le 2e film aussi
 
@@ -505,7 +519,7 @@ Où voir des films:
     * même genre:
         * Les Barbouzes
         * Ne nous fâchons pas
-* Le Soupirant  (1962, Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php)
+* Le Soupirant  (1962, Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️
 * Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
   (1961) (et autres de Jacques Demy) 🎥
 
@@ -646,6 +660,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1975
 
 * One Flew Over the Cuckoo's Nest (Milos Forman)
+* Dersou Ouzala (Russie/Japon, Akira Kurosawa)
 
 ### 1976
 
@@ -679,6 +694,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Le Dernier Empereur (Bernardo Bertolucci)
 * Les Incorruptibles (Brian de Palma)
+* The Lost Boys (vampires)
 * à voir: https://www.rottentomatoes.com/m/empire_of_the_sun
 
 ### 1988
@@ -722,6 +738,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1995
 
 * Usual Suspects
+* Seven (David Fincher)
+* Braveheart (Mel Gibson)
 * Leaving Las Vegas
 * Smoke (Harvey Keitel) 🧸
 
@@ -745,6 +763,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Fifth Element (Luc Besson)
 * Carne trémula (Javier Bardem)
 * à voir: https://fr.wikipedia.org/wiki/Cure_(film,_1997)
+* La Vérité si je mens ! (José Garcia, Bruno Solo)
 
 ### 1998
 
@@ -760,6 +779,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1999
 
 * Ghost Dog: The Way of the Samurai ❤️
+* Matrix
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -786,6 +806,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Mulholland Drive (David Lynch)
 * Lord of the Rings
+* Ocean's Eleven (Steven Soderbergh)
+* Monsters, Inc. (Pixar)
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -802,7 +824,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Le Pianiste ❤️
 * Astérix et Obélix : Mission Cléopâtre
-* L'Auberge espagnole
+* L'Auberge espagnole (Klapisch)
 * Être et avoir
 * Monsieur Batignole
 
@@ -811,6 +833,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Good Bye, Lenin! (Wolfgang Becker, Allemagne)
 * Le Maître du jeu (Runaway Jury)
 * The Station Agent (Peter Dinklage) ☀️🎭
+* Pirates of the Caribbean
 * Le mystère de la chambre jaune (Bruno Podalydès)
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -861,6 +884,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Queen (Stephen Frears)
 * Les Infiltrés (The Departed)
 * Thank You for Smoking
+* Fanaa (Bollywood)
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -891,7 +915,10 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Bons baisers de Bruges (Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 * Okuribito (Départs, Japon) (winner 🏆)
 * Gran Torino (Clint Eastwood)
+* The Curious Case of Benjamin Button (David Fincher)
+* The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera)
+* Valse avec Bachir
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -902,6 +929,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 2009
 
 * Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
+* Le Ruban blanc (Michael Haneke) 🌿
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -916,7 +944,9 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Shutter Island (Martin Scorsese)
 * True Grit
 * Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
+* The King's Speech (Le Discours d'un roi)
 * Essential Killing (Vincent Gallo)
+* à voir: L'Illusionniste
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -933,6 +963,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Midnight in Paris (Woody Allen)
 * Drive ❤️
 * Millenium, the girl with the dragon tattoo
+* Margin Call
 * Starbuck
 * Le Moine
 * Tinker Tailor Soldier Spy (La Taupe)
@@ -958,6 +989,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Mud ❤️
 * A Royal Affair ❤️
 * The Place Beyond the Pines
+* Life of Pi (L'Odyssée de Pi) (Ang Lee)
 * Antiviral (Brandon Cronenberg)
 * Moonrise Kingdom
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
@@ -975,6 +1007,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆 
 * Her (Spike Jonze) ❤️
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ ✨ 🌿
+* Gravity ❤️
 * Under the Skin
 * Only Lovers Left Alive (Jarmusch) ❤️
 * Wrong Cops (Quentin Dupieux)
@@ -983,6 +1016,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * All is Lost (?)
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
+* The Lunchbox (Inde)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -999,6 +1033,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Inherent Vice (J. Phoenix)
 * Leviathan (Russie)
 * A Girl Walks Home Alone at Night (Iran)
+* Coming Home (Chine, Zhang Yimou)
 * Noah (Darren Aronofsky, Russell Crowe)
 * watchlist: Selma
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
@@ -1007,6 +1042,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Les Combattants ❤️
+* Diplomatie (Niels Arestrup, André Dussolier) ❤️
 * Hippocrate
 
 ### 2015
@@ -1015,11 +1051,14 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Assassin 🎥 ❤️ (arts martiaux chinois)
 * The Revenant 🎥 (Alejandro González Iñárritu)
 * The Lobster
+* The Big Short
 * Les Huit Salopards (Tarentino)
 * Cemetery of Splendour (vu ?) 🌿
 * Carol (Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
+* Tangerine
 * à voir: https://www.rottentomatoes.com/m/macbeth_2015
+* à voir: Le Fils de Saul 🌿
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1034,10 +1073,12 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Arrival (SF, Amy Adams)
 * La La Land
 * I Daniel Blake
+* Moana (Disney)
 * Toni Erdmann
 * Hacksaw Ridge
 * Manchester by the Sea (?)
 * Una (R. Mara)
+* The Lost City of Z
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1135,3 +1176,9 @@ Aimés sans plus:
 * Soul (Pixar)
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+
+### 2021
+
+* à voir: https://www.rottentomatoes.com/m/judas_and_the_black_messiah
+
