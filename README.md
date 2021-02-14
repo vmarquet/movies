@@ -21,6 +21,17 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 
 Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
+Où voir des films:
+
+* https://www.lacinetek.com/fr
+* https://films.criterionchannel.com/
+* https://mubi.com/fr/showing
+    * https://mubi.com/fr/specials/mubi-top-1000
+    * https://mubi.com/fr/specials/cannes-film-festival
+    * https://mubi.com/fr/specials/fortnight
+    * https://mubi.com/fr/specials/film-festival-favorites
+* [movieo.me](https://movieo.me/movies?years%5B%5D=1900&years%5B%5D=2021&netflix_instant=true): un site qui permet de voir les bons films qui sont sur Netflix (US)
+
 ## Mon top 10
 
 * Le Portrait de la Jeune Fille en Feu
@@ -93,7 +104,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Werner Herzog
     * Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
       (1972, avec Klaus Kinski)
-    * Fitzcarraldo (1982)
+    * Fitzcarraldo (1982) 🎥
     * Cobra Verde (1987)
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
 * Kramer contre Kramer
@@ -216,11 +227,11 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Eternal Sunshine (et autres de Michel Gondry) 🎥
 * Memento (Christopher Nolan)
 * eXistenZ  [🍅](https://www.rottentomatoes.com/m/existenz)
-(David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
+  (David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
 * Inception (Christopher Nolan)
 * Shutter Island (Martin Scorsese)
 * Le Limier  [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php)
-(le remake, à défaut)(Kenneth Branagh, avec Jude Law, Michael Caine)
+  (le remake, à défaut)(Kenneth Branagh, avec Jude Law, Michael Caine)
 * Dans la peau de John Malkovich (avec John Malkovich)
 * Usual Suspects (avec Kevin Spacey)
 * Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
@@ -228,6 +239,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * The Machinist (2004)
 * Le Prestige
 * Un Jour sans Fin (avec Bill Murray)
+* The Game (1997, David Fincher, Michael Douglas, Sean Penn)
 
 
 ### Science-Fiction
@@ -242,7 +254,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Moon  (2009) 🎥 [🍅](https://www.rottentomatoes.com/m/10009075-moon)
 * Alien  (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien)
 * Alien IV  [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
-(JP Jeunet)
+  (JP Jeunet)
 * 2001 A Space Odyssey   (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
 * Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
 * THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
@@ -265,7 +277,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Phantom of the Paradise (1974, Brian de Palma)
 * La Compagnie des Loups  (1984) [🍅](https://www.rottentomatoes.com/m/company_of_wolves)
 * Arizona Dream  💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream)
-(1993, Kusturica, avec Johnny Depp) (très bonne musique)
+  (1993, Kusturica, avec Johnny Depp) (très bonne musique)
 * Edward aux mains d'argent
 * [The Fall](https://www.imdb.com/title/tt0460791) (2006)
 
@@ -327,8 +339,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 #### Sérieux
 
 * Danse avec les Loups  [🍅](https://www.rottentomatoes.com/m/dances_with_wolves)
-(de et avec Kevin Costner, Oscar meilleur film 1991) 🎥
-* There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis)  --> à voir 🎥 [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
+  (de et avec Kevin Costner, Oscar meilleur film 1991) 🎥
+* There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
 * Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
 * 3:10 to Yuma (2007)
 * The Assassination of Jesse James by the Coward Robert Ford (2007)
@@ -914,6 +926,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
+* Melancholia
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -934,11 +947,13 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Antiviral (Brandon Cronenberg)
 * Moonrise Kingdom
 * Killing Them Softly (neo-noir, Brad Pitt) (nominé Palme d'or)
+* The Hunt (Mads Mikkelsen)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Holy Motors (Leos Carax) ❤️
 * Amour (Michael Haneke)
+* à voir: https://fr.wikipedia.org/wiki/De_rouille_et_d%27os 9✨
 
 ### 2013
 
@@ -951,6 +966,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai)
 * All is Lost (?)
+* Ida (Pologne)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 

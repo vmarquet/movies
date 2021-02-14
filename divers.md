@@ -21,7 +21,12 @@ Documentaires
 -------------
 * Zétwal ❤️
 * Le Sel de la Terre 🎥 ❤️
+* Baraka (1992) 🎥 ❤️
+    * Chronos (1985)
+    * à voir: Samsara, suite de Baraka
 * Scheme Birds (à se bruler les ailes) ❤️
+* à voir:
+    * https://movieo.me/movies/jiro-dreams-of-sushi-dnznws
 
 
 Courts
