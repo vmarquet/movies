@@ -341,6 +341,7 @@ Où voir des films:
 
 * La Guerre du Feu (1981, JJ Annaud)
 * Section spéciale (1975, Costa-Gavras)
+* La Rafle (2010)
 * Darkest Hour (2017)
 * Lincoln (2012, Spielberg)
 
@@ -416,7 +417,6 @@ Où voir des films:
 ## Films français
 ### Comédies
 
-* Rabbi Jacob (1973, Louis de Funes)
 * Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
 * Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
 * Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
@@ -441,7 +441,9 @@ Où voir des films:
 
 #### Classiques potaches
 
+* Fanfan la Tulipe (1952)
 * La Grande Vadrouille (1966)
+* Rabbi Jacob (1973, Louis de Funes)
 * Papy fait de la résistance (1983)
 
 
@@ -492,9 +494,11 @@ Où voir des films:
 
 * Le Samouraï  [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php)
   (1967) (et autres de Jean-Pierre Melville) 🎥 🎥
+* Le Cercle rouge (1970, Jean-Pierre Melville)
 * Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
   (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu)
 * Sans Mobile Apparent (1971, Philippe Labro, Jean-Louis Trintignant) (bon polar, bonnes vannes)
+* Peur sur la Ville (Belmondo) (?)
 
 ### SF
 
@@ -657,14 +661,37 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ## Par année de sortie
 
+### 1964
+
+* L'Homme de Rio (Belmondo)
+
+### 1965
+
+* Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo)
+
+### 1971
+
+* à voir: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
+
+### 1972
+
+* Le Grand Blond avec une chaussure noire (Pierre Richard, Jean Rochefort)
+
+### 1974
+
+* à voir: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
+
 ### 1975
 
 * One Flew Over the Cuckoo's Nest (Milos Forman)
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
+* à voir: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 
 ### 1976
 
 * L'Empire des sens (Nagisa Ōshima) 🎥
+* Un éléphant ça trompe énormément (Jean Rochefort)
+* Le Juge et l'Assassin (Bertrand Tavernier, Philippe Noiret, Michel Galabru)
 
 ### 1980
 
@@ -673,8 +700,11 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1981
 
 * An American Werewolf in London (John Landis)
+* Coup de torchon (Bertrand Tavernier)
 
 ### 1982
+
+* Le père Noël est une ordure
 
 ### 1983
 
@@ -684,11 +714,19 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1984
 
 * The Hit (Tim Roth)
+* à voir: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 
 ### 1985
 
+* White Nights (Soleil de nuit) (Mikhail Baryshnikov)
+* Flesh and Blood (Paul Verhoeven)
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
+* à voir: https://www.telerama.fr/cinema/films/detective,4714.php
+
+### 1986
+
+* à voir: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 
 ### 1987
 
@@ -705,6 +743,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 [Césars]
 
+* L'Ours (JJ Annaud)
 * La vie est un long fleuve tranquille
 
 ### 1989
@@ -713,6 +752,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 1990
 
+* Le Mari de la coiffeuse (Jean Rochefort)
+
 ### 1991
 
 ### 1992
@@ -720,6 +761,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1993
 
 * The Piano (Jane Campion)
+* La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -742,6 +784,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Braveheart (Mel Gibson)
 * Leaving Las Vegas
 * Smoke (Harvey Keitel) 🧸
+* Before Sunrise
 
 [Césars 21](https://fr.wikipedia.org/wiki/21e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -826,7 +869,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Astérix et Obélix : Mission Cléopâtre
 * L'Auberge espagnole (Klapisch)
 * Être et avoir
-* Monsieur Batignole
+* Monsieur Batignole (Gérard Jugnot)
 
 ### 2003
 
@@ -851,6 +894,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Mystic River (Clint Eastwood)
 * Aviator
 * The Passion of the Christ (Mel Gibson) (vu ?)
+* RRRrrrr!!!
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -865,6 +909,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Million Dollar Baby
 * Capote
 * V for Vendetta
+* The Hitchhiker's Guide to the Galaxy (H2G2)
 * à voir: https://www.telerama.fr/cinema/films/memoires-d-une-geisha,253423.php
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -925,10 +970,14 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Entre les murs
 * Le Crime est notre affaire (Catherine Frot, André Dussollier, Claude Rich)
 * Bienvenue chez les Ch'tis (Kad Merad, Dany Boon)
+* Le Premier Jour du reste de ta vie (vu ?)
+* La Fille de Monaco
+* à voir: https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
 
 ### 2009
 
 * Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
+* In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Le Ruban blanc (Michael Haneke) 🌿
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1001,6 +1050,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Holy Motors (Leos Carax) ❤️
 * Amour (Michael Haneke)
 * à voir: https://fr.wikipedia.org/wiki/De_rouille_et_d%27os 9✨
+* à voir: Les Adieux à la reine
 
 ### 2013
 
@@ -1038,6 +1088,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * watchlist: Selma
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
 * Babysitting (Christian Clavier)
+* à voir: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1079,6 +1130,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Manchester by the Sea (?)
 * Una (R. Mara)
 * The Lost City of Z
+* à voir: https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1102,6 +1154,7 @@ Ok sans plus:
 
 * Split (James McAvoy)
 * Lady Bird
+* Valérian et la Cité des mille planètes
 
 ### 2018
 
@@ -1160,14 +1213,17 @@ Décevant:
 ### 2020
 
 * La plataforma (Netflix, SF) ❤️
-* L'Homme Invisible (avec Elisabeth Moss)
 * Drunk (Mads Mikkelsen)
+* L'Homme Invisible (avec Elisabeth Moss)
 * à voir: https://www.telerama.fr/cinema/films/the-nest,n6703873.php
 * à voir: https://fr.wikipedia.org/wiki/Nomadland
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://fr.wikipedia.org/wiki/Minari
 * à voir: https://www.rottentomatoes.com/m/promising_young_woman
+* à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
+* à voir: https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php
+* à voir: https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020
 
 Aimés sans plus:
 
@@ -1181,4 +1237,4 @@ Aimés sans plus:
 ### 2021
 
 * à voir: https://www.rottentomatoes.com/m/judas_and_the_black_messiah
-
+* à voir: https://fr.wikipedia.org/wiki/Dune_(film,_2021)
