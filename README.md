@@ -743,6 +743,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Contact (Jodie Foster) 💙
 * Good Will Hunting (Gus van Sant)
 * The Fifth Element (Luc Besson)
+* Carne trémula (Javier Bardem)
 * à voir: https://fr.wikipedia.org/wiki/Cure_(film,_1997)
 
 ### 1998
@@ -852,6 +853,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Volver (Pedro Almodóvar) ❤️❤️
 * Little Miss Sunshine ❤️
+* La Vie des autres ❤️
 * Casino Royale
 * The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee)

@@ -25,6 +25,7 @@ Documentaires
     * Chronos (1985)
     * à voir: Samsara, suite de Baraka
 * Scheme Birds (à se bruler les ailes) ❤️
+* La Sagesse de la Pieuvre (2020, Netflix) ❤️
 * à voir:
     * https://movieo.me/movies/jiro-dreams-of-sushi-dnznws
 
