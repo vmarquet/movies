@@ -205,6 +205,7 @@ Où voir des films:
 * L'Affaire Thomas Crown  (l'original de 1968 , avec Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair)
 * Don't Look Now (1974) (suspense et musiques +)
 * Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
+* Heat (Michael Mann, Al Pacino)
 * Cosmopolis  (et autres de David Cronemberg) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
 * The Pledge (Sean Penn, avec Jack Nicholson)
 * King of New York  (1990) (le meilleur rôle de Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york)
@@ -479,6 +480,7 @@ Où voir des films:
   (1967) (et autres de Jean-Pierre Melville) 🎥 🎥
 * Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
   (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu)
+* Sans Mobile Apparent (1971, Philippe Labro, Jean-Louis Trintignant) (bon polar, bonnes vannes)
 
 ### SF
 
@@ -903,6 +905,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Shutter Island (Martin Scorsese)
 * True Grit
 * Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
+* Essential Killing (Vincent Gallo)
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
