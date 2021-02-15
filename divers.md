@@ -50,6 +50,7 @@ Littérature
 * Antigone, la pièce de Jean Anouilh
 * Balzac et la petite tailleuse chinoise (roman, Dai Sijie)
 * La grammaire est une chanson douce (roman, Erik Orsenna)
+* Le Petit Prince
 * Le Viel Homme et la Mer (Hemingway)
 
 
