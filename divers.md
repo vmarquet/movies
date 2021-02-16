@@ -52,6 +52,9 @@ Littérature
 * La grammaire est une chanson douce (roman, Erik Orsenna)
 * Le Petit Prince
 * Le Viel Homme et la Mer (Hemingway)
+* Le Cid
+* Mariage de Figaro
+* Jules Vernes (Tribulations d'un Chinois en Chine, ...)
 
 
 BD
