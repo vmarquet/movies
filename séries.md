@@ -9,7 +9,7 @@
 * Modern Family ++
 * How I Met your Mother
 * The Big Bang Theory
-* Silicon Valley
+* Silicon Valley ++
 * Brooklyn 99 ++
 * What We Do in the Shadows (2019) +++
 * Space Force (2020, Netflix) +++

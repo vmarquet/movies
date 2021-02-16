@@ -307,11 +307,15 @@ Où voir des films:
 * The Others (Amenabar)
 * Psychose (Hitchcock) 💙
 * Suspiria (1977)  pour le cadrage et l'esthétique
-* Scream (que le premier)
-* L'Orphelinat
+* Scream (1996, Wes Craven)
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
+* The Blair Witch Project (1999) 💙
+* Saw (2004)
+* L'Orphelinat (2007)
+* [•REC]  (2007)
 * Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
 * The Babadook (2014)
+* The Witch (2015) ❤️
 * A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)
 * Us (2019) (ok sans plus)
@@ -380,6 +384,7 @@ Où voir des films:
 
 * [Indiana Jones 1, 2 et 3](https://www.rottentomatoes.com/search/?search=indiana+jones&sitesearch=rt)
 (Spielberg)
+* Harry Potter
 * [Pirates des Caraïbes 1, 2 et 3](https://www.rottentomatoes.com/search/?search=pirates+of+the+caribbean&sitesearch=rt)
 * Jurassic Park
 * Be Kind, Rewind (Michel Gondry)
@@ -693,6 +698,10 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Un éléphant ça trompe énormément (Jean Rochefort)
 * Le Juge et l'Assassin (Bertrand Tavernier, Philippe Noiret, Michel Galabru)
 
+### 1979
+
+* à voir: https://www.telerama.fr/cinema/films/serie-noire,13515.php
+
 ### 1980
 
 * The Blues Brothers (John Landis) 💙
@@ -720,12 +729,14 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * White Nights (Soleil de nuit) (Mikhail Baryshnikov)
 * Flesh and Blood (Paul Verhoeven)
+* The Breakfast Club
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
 * à voir: https://www.telerama.fr/cinema/films/detective,4714.php
 
 ### 1986
 
+* Ferris Bueller's Day Off
 * à voir: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 
 ### 1987
@@ -757,6 +768,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1991
 
 ### 1992
+
+* Singles
 
 ### 1993
 
@@ -893,6 +906,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * La Mauvaise Éducation (Pedro Almodóvar)
 * Mystic River (Clint Eastwood)
 * Aviator
+* Crazy Kung-Fu (Stephen Chow)
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * RRRrrrr!!!
 
@@ -920,8 +934,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 2006
 
 * Volver (Pedro Almodóvar) ❤️❤️
-* Little Miss Sunshine ❤️
 * La Vie des autres ❤️
+* Little Miss Sunshine ❤️
 * Casino Royale
 * The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee)
@@ -929,6 +943,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Queen (Stephen Frears)
 * Les Infiltrés (The Departed)
 * Thank You for Smoking
+* The Devil Wears Prada
 * Fanaa (Bollywood)
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
@@ -964,6 +979,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera)
 * Valse avec Bachir
+* Musée haut, musée bas
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1014,6 +1030,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Millenium, the girl with the dragon tattoo
 * Margin Call
 * Starbuck
+* Rango
 * Le Moine
 * Tinker Tailor Soldier Spy (La Taupe)
 * Django Unchained
