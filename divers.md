@@ -55,6 +55,7 @@ Littérature
 * Le Cid
 * Mariage de Figaro
 * Jules Vernes (Tribulations d'un Chinois en Chine, ...)
+* Molière (Fourberies de Scapin, ...)
 
 
 BD
