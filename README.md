@@ -106,6 +106,7 @@ Où voir des films:
       (1972, avec Klaus Kinski)
     * Fitzcarraldo (1982) 🎥
     * Cobra Verde (1987)
+    * Nosferatu (1978)
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
 * Kramer contre Kramer
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
@@ -155,6 +156,7 @@ Où voir des films:
 * Le Tigre et la Neige (2005, Roberto Benigni)
 * Do the right thing (1989)
 * Starbuck (2011)
+* Rush Hour 2 (2001)
 * The 40 year old virgin (2005)
 * Hapiness Therapy (2012)
 
@@ -310,6 +312,7 @@ Où voir des films:
 * Scream (1996, Wes Craven)
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
 * The Blair Witch Project (1999) 💙
+* Kairo (Japon, 2001)
 * Saw (2004)
 * L'Orphelinat (2007)
 * [•REC]  (2007)
@@ -435,7 +438,11 @@ Où voir des films:
 * The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php) ❤️
   (2011, Michel Hazanavicius, avec Jean Dujardin)
 * L'Arnacoeur (Romain Duris)
-* Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)  -> dialogues excellents (Audiard), musique très sympa [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
+* Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)
+  -> dialogues excellents (Audiard), musique très sympa
+  [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
+* Le père Noël est une ordure (1982)
+* Le bonheur est dans le pré (1995)
 * Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
 * Rire et Châtiment  [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
   (2003, avec José Garcia)
@@ -452,6 +459,8 @@ Où voir des films:
 * La Grande Vadrouille (1966)
 * Rabbi Jacob (1973, Louis de Funes)
 * Papy fait de la résistance (1983)
+* L'Opération Corned-Beef (1991)
+* Les Visiteurs (1993)
 
 
 ### Comédies dramatiques
@@ -459,6 +468,7 @@ Où voir des films:
 * Amélie Poulain   (2000, JP Jeunet) [📰](https://www.telerama.fr/cinema/films/le-fabuleux-destin-d-am-lie-poulain,54074.php)
 * L'Auberge Espagnole  (2002, Cédric Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Mon Oncle d'Amérique  (1980, Alain Resnais, avec Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
+* La Traversée de Paris (1956)
 * Tournée (Mathieu Amalric) 🎥
 * Mammuth  (2010, Délépine et Kervern, avec Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
@@ -563,6 +573,8 @@ Mes réalisateurs et films préférés
 * Alphaville
 * Le Mépris
 * A Bout de Souffle
+* La Chinoise
+* Adieu au langage
 
 ### Roman Polanski
 
@@ -644,11 +656,26 @@ Mes réalisateurs et films préférés
 
 * Holy Motors ❤️
 * Les Amants du Pont Neuf ❤️
+* Mauvais Sang
 
 ### Nuri Bilge Ceylan
 
 * Il était une fois en Anatolie (2011) 🌿
 * Winter Sleep (2013) 🌿
+
+### Tim Burton
+
+* Sweeney Todd ❤️
+* Edward aux mains d'argent ❤️
+* Les Noces funèbres ❤️
+* Sleepy Hollow
+
+### Fritz Lang
+
+A voir:
+
+* Le Tigre du Bengale
+* Le Tombeau Hindou
 
 ### Et aussi...
 
@@ -668,6 +695,10 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 
 ## Par année de sortie
+
+### 1962
+
+* à voir: La Jetée
 
 ### 1964
 
@@ -722,6 +753,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Danton (Andrzej Wajda, Depardieu) ❤️
 * Tchao Pantin (Coluche) ❤️
+* Merry Christmas, Mr. Lawrence (Furyo)
 
 ### 1984
 
@@ -770,9 +802,14 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 1991
 
+[Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
+
+* Tous les matins du monde (Alain Corneau) ❤️
+
 ### 1992
 
 * Singles
+* Basic Instinct
 
 ### 1993
 
@@ -808,11 +845,14 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * La Cité des enfants perdus
 * à voir: https://www.telerama.fr/cinema/films/la-ceremonie,37295.php
 * à voir: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
+* Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (?)
+* à voir: https://www.telerama.fr/cinema/films/underground,37761.php (Emir Kusturica) ✨ 🌿
 
 ### 1996
 
 * The English Patient ❤️ 9🏆
+* Trainspotting
 
 ### 1997
 
@@ -823,6 +863,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Carne trémula (Javier Bardem)
 * à voir: https://fr.wikipedia.org/wiki/Cure_(film,_1997)
 * La Vérité si je mens ! (José Garcia, Bruno Solo)
+* à voir: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 
 ### 1998
 
@@ -878,6 +919,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 2002
 
 * Le Voyage de Chihiro
+* L'Homme sans passé (Kaurismäki)
+* La Cité de Dieu (Brésil)
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -963,6 +1006,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Gone Baby Gone
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
+* 99 Francs
 * à voir: https://fr.wikipedia.org/wiki/Elizabeth_:_L%27%C3%82ge_d%27or
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
@@ -976,6 +1020,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Two Lovers ❤️
 * Zetwal ❤️
 * Bons baisers de Bruges (Colin Farrell, Ralph Fiennes, Brendan Gleeson)
+* The Reader (Kate Winslet, Ralph Fiennes)
 * Okuribito (Départs, Japon) (winner 🏆)
 * Gran Torino (Clint Eastwood)
 * The Curious Case of Benjamin Button (David Fincher)
@@ -988,6 +1033,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Entre les murs
 * Le Crime est notre affaire (Catherine Frot, André Dussollier, Claude Rich)
+    * suite de Mon Petit Doigt m'a Dit (2004)
 * Bienvenue chez les Ch'tis (Kad Merad, Dany Boon)
 * Le Premier Jour du reste de ta vie (vu ?)
 * La Fille de Monaco
@@ -998,6 +1044,9 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Le Ruban blanc (Michael Haneke) 🌿
+* Fish Tank
+* https://www.telerama.fr/cinema/films/london-river,389614.php (vu ?)
+* à voir: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1011,9 +1060,11 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Inception (Nolan) 💙 🏆
 * Shutter Island (Martin Scorsese)
 * True Grit
+* Four Lions ❤️
 * Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
 * The King's Speech (Le Discours d'un roi)
 * Essential Killing (Vincent Gallo)
+* The Experiment (Adrien Brody, Forest Whitaker)
 * à voir: L'Illusionniste
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1041,6 +1092,9 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
 * Melancholia
+* Rapace (Grégory Gadebois)
+* The Deep Blue Sea (vu ?)
+* à voir: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1064,6 +1118,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
 * The Hunt (Mads Mikkelsen)
 * Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence)
+* No (Chili, Gael García Bernal)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1080,6 +1135,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Gravity ❤️
 * Under the Skin
 * Only Lovers Left Alive (Jarmusch) ❤️
+* A Touch of Sin (Chine)
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai)
@@ -1087,6 +1143,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox (Inde)
+* à voir: Nosotros los Nobles
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1109,6 +1166,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
 * Babysitting (Christian Clavier)
 * Creep
+* Still Alice
 * à voir: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
