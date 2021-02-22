@@ -80,7 +80,7 @@ Où voir des films:
   [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php)
 * Shame (2011, Steve McQueen, avec Michael Fassbender) 🎥 🎥
   [🍅](https://www.rottentomatoes.com/m/shame_2011)
-* The Bridges of Madison County (1995, Clint Eastwood)
+* The Bridges of Madison County (1995, Clint Eastwood) ❤️
 * 21 Grammes [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
   (Innarritu, avec Sean Penn, Naomi Watts, Benicio del Toro)
 * Babel (Inarritu)
@@ -315,6 +315,7 @@ Où voir des films:
 * [•REC]  (2007)
 * Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
 * The Babadook (2014)
+* It Follows (2014)
 * The Witch (2015) ❤️
 * A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)
@@ -360,6 +361,7 @@ Où voir des films:
 * Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
 * 3:10 to Yuma (2007)
 * The Assassination of Jesse James by the Coward Robert Ford (2007)
+* Bone Tomahawk (2015)
 * Little Big Man (1970) (longuet)
 
 #### Spaghettis (parodique)
@@ -470,6 +472,7 @@ Où voir des films:
 * Le Mépris  [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
   (1963, Godard) 🎥 🎥
 * La Vérité (1960, HG clouzot) 🏆
+* Les Quatre Cents Coups (Truffaut)
 * Cyrano de Bergerac (1990, JP Rappeneau)
 * Des Hommes et des Dieux  [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
   (2010, avec Michael Lonsdale) 🎥
@@ -1105,6 +1108,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * watchlist: Selma
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
 * Babysitting (Christian Clavier)
+* Creep
 * à voir: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1147,6 +1151,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Manchester by the Sea (?)
 * Una (R. Mara)
 * The Lost City of Z
+* à voir: https://www.rottentomatoes.com/m/the_wailing
 * à voir: https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
