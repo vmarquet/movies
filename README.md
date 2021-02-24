@@ -161,6 +161,12 @@ Où voir des films:
 * Hapiness Therapy (2012)
 
 
+##### Comédies pour enfants
+
+* Les dieux sont tombés sur la tête (The Gods Must Be Crazy) (1980)
+* La Coccinelle à Mexico, etc
+
+
 #### Comédie de bureau
 
 * Glengarry Glen Ross (1992)
@@ -264,11 +270,18 @@ Où voir des films:
 * Alien  (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien)
 * Alien IV  [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
   (JP Jeunet)
+* Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen)
+* Minority Report (2002, Spielberg)
+* Artificial Intelligence: A.I. (2001, Spielberg)
 * 2001 A Space Odyssey   (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
 * Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
+* Cube (1997)
 * THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
 * Antiviral
+* I, Robot (2003, Will Smith)
 * The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
+* à voir: https://www.telerama.fr/cinema/films/anon,517509.php
+* à voir: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
 
 
 ![](images/affiches/brazil.jpg)
@@ -442,6 +455,7 @@ Où voir des films:
   -> dialogues excellents (Audiard), musique très sympa
   [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
 * Le père Noël est une ordure (1982)
+* Un Indien dans la ville (1994)
 * Le bonheur est dans le pré (1995)
 * Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
 * Rire et Châtiment  [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
@@ -765,6 +779,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * White Nights (Soleil de nuit) (Mikhail Baryshnikov)
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club
+* à voir: Out of Africa (Sydney Pollack, Robert Redford)
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
 * à voir: https://www.telerama.fr/cinema/films/detective,4714.php
@@ -937,6 +952,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Station Agent (Peter Dinklage) ☀️🎭
 * Pirates of the Caribbean
 * Le mystère de la chambre jaune (Bruno Podalydès)
+* Le Monde de Nemo (Pixar)
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -953,6 +969,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Mystic River (Clint Eastwood)
 * Aviator
 * Crazy Kung-Fu (Stephen Chow)
+* Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * RRRrrrr!!!
 
@@ -983,6 +1000,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * La Vie des autres ❤️
 * Little Miss Sunshine ❤️
 * Casino Royale
+* Le Labyrinthe de Pan (Guillermo del Toro)
 * The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee)
 * Babel (Alejandro González Iñárritu)
@@ -1209,6 +1227,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Manchester by the Sea (?)
 * Una (R. Mara)
 * The Lost City of Z
+* The Nice Guys
 * à voir: https://www.rottentomatoes.com/m/the_wailing
 * à voir: https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php
 
@@ -1244,7 +1263,7 @@ Ok sans plus:
 * La Ballade de Buster Scruggs
 * Bird Box (Sandra Bullock, Netflix)
 * Annihilation (SF, Natalie Portman)
-* Capernaum
+* Capernaum (Capharnaüm) (Liban 🏆)
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 
