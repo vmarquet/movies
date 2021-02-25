@@ -720,6 +720,10 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * à voir: La Jetée
 
+### 1963
+
+* à voir: https://en.wikipedia.org/wiki/8%C2%BD (Federico Fellini)
+
 ### 1964
 
 * L'Homme de Rio (Belmondo)
@@ -1334,6 +1338,7 @@ Décevant:
 * à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
 * à voir: https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php
 * à voir: https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020
+* à voir: https://www.rottentomatoes.com/m/news_of_the_world
 
 Aimés sans plus:
 
