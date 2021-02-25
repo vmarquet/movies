@@ -320,6 +320,7 @@ Où voir des films:
 * The Babadook (2014)
 * It Follows (2014)
 * The Witch (2015) ❤️
+* Better Watch Out (2016)
 * A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)
 * Us (2019) (ok sans plus)
@@ -349,9 +350,14 @@ Où voir des films:
 
 * La Guerre du Feu (1981, JJ Annaud)
 * Section spéciale (1975, Costa-Gavras)
+* Lincoln (2012, Spielberg)
+
+#### WWII
+
+* La Chute (2004)
+* Walkyrie (2008, Tom Cruise)
 * La Rafle (2010)
 * Darkest Hour (2017)
-* Lincoln (2012, Spielberg)
 
 
 ### Westerns
@@ -810,6 +816,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Singles
 * Basic Instinct
+* Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
 
 ### 1993
 
@@ -921,6 +928,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Le Voyage de Chihiro
 * L'Homme sans passé (Kaurismäki)
 * La Cité de Dieu (Brésil)
+* The Bourne Identity
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1187,6 +1195,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Carol (Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
 * Tangerine
+* Il est de retour (Comédie, Allemagne)
 * à voir: https://www.rottentomatoes.com/m/macbeth_2015
 * à voir: Le Fils de Saul 🌿
 
@@ -1203,6 +1212,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Arrival (SF, Amy Adams)
 * La La Land
 * I Daniel Blake
+* Better Watch Out
 * Moana (Disney)
 * Toni Erdmann
 * Hacksaw Ridge
@@ -1295,6 +1305,7 @@ Décevant:
 * La plataforma (Netflix, SF) ❤️
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
+* Promising Young Woman (sympa sans plus)
 * à voir: https://www.telerama.fr/cinema/films/the-nest,n6703873.php
 * à voir: https://fr.wikipedia.org/wiki/Nomadland
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
