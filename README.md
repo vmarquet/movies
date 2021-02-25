@@ -1255,6 +1255,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * A Ghost Story (R. mara) ❤️
 * The Death of Stalin (comédie satirique, Steve Buscemi) ❤️
 * You Were Never Really Here (J. Phoenix)
+* Ingrid Goes West
 * à voir: https://www.rottentomatoes.com/m/my_days_of_mercy
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1328,7 +1329,7 @@ Décevant:
 * La plataforma (Netflix, SF) ❤️
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
-* Promising Young Woman (sympa sans plus)
+* Promising Young Woman (divertissement sympa sans plus)
 * à voir: https://www.telerama.fr/cinema/films/the-nest,n6703873.php
 * à voir: https://fr.wikipedia.org/wiki/Nomadland
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
