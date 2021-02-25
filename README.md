@@ -1210,7 +1210,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Mustang (Turquie) ❤️
 * The Assassin 🎥 ❤️ (arts martiaux chinois)
 * The Revenant 🎥 (Alejandro González Iñárritu)
-* The Lobster
+* The Lobster (Yórgos Lánthimos)
 * The Big Short
 * Les Huit Salopards (Tarentino)
 * Cemetery of Splendour (vu ?) 🌿
@@ -1255,6 +1255,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * A Ghost Story (R. mara) ❤️
 * The Death of Stalin (comédie satirique, Steve Buscemi) ❤️
 * You Were Never Really Here (J. Phoenix)
+* The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West
 * à voir: https://www.rottentomatoes.com/m/my_days_of_mercy
 
@@ -1275,6 +1276,7 @@ Ok sans plus:
 * Three Billboards ❤️
 * Dunkirk
 * La Saveur des Ramens
+* The Favourite (Yórgos Lánthimos, Emma Stone)
 * La Ballade de Buster Scruggs
 * Bird Box (Sandra Bullock, Netflix)
 * Annihilation (SF, Natalie Portman)
