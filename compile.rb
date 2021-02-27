@@ -117,6 +117,10 @@ def add_awards_links doc
       ceremony_number = year - 1975 + 1
       title << " <a href='#{wikipedia_award_url ceremony_number, 'César'}' #{target_blank}>✨</a>"
     end
+
+    if (1946..Time.now.year).include? year
+      title << " <a href='https://fr.wikipedia.org/wiki/Festival_de_Cannes_#{year}#S%C3%A9lection_officielle' #{target_blank}>🌿</a>"
+    end
   end
 end
 
