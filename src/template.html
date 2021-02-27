@@ -23,19 +23,12 @@
 
     <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/2.1.9/linkify.min.js" integrity="sha512-kxj7VjlzsQgiku2vbRcZI0FJ0dXmPsiRLugiRxJrCROusKHaFfX/hGDD1/L/R0Y+xI8zlA2B5nm6USapz7nQbg==" crossorigin="anonymous"></script>
-
     <script>
       // Problems:
       // - some anchors are not generated like github does (this lib converts '/' to '-', github uses '')
       // - the anchor symbol is unvisible unless hovered
       document.addEventListener('DOMContentLoaded', function(event) {
         anchors.add()
-      })
-
-      document.addEventListener('DOMContentLoaded', function(event) {
-        $('article').linkify();
       })
     </script>
 

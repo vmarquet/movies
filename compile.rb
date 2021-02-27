@@ -13,10 +13,19 @@ TEMPLATE = 'src/template.html'
 
 
 def main
-  text = File.read(SOURCE)
-  text = to_markdown text # problem: this destroys https:// links with '_' in them
-  text = linkify text
-  text = with_template text
+  # method 1: try to replicate GitHub's md to html conversion
+  # but it has issues:
+  # - some anchors don't work
+  # - markdown converion replaces '_' in urls with <em>, so it breaks plaintext urls
+  #   and we can't easily linkify them after
+  #
+  # text = File.read(SOURCE)
+  # text = to_markdown text
+  # text = linkify text
+  # text = with_template text
+
+  # method 2: using GitHub api
+  text = convert_with_grip
 
   File.open(OUTPUT, 'w+') do |file|
     file.write text
@@ -34,7 +43,7 @@ end
 def to_markdown text
   temp = Tempfile.new
   File.write(temp, text, mode: 'w+')
-  `markdown #{SOURCE} > #{temp.path}`
+  `markdown #{SOURCE} > #{temp.path}` # brew install markdown
   File.read(temp.path)
 end
 
@@ -43,6 +52,11 @@ def with_template text
     template = file.read
     return template.sub('BODY') { text }
   end
+end
+
+def convert_with_grip
+  `grip #{SOURCE} --export #{OUTPUT}`
+  File.read(OUTPUT)
 end
 
 main
