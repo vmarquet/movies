@@ -28,11 +28,14 @@ def main
   # method 2: using GitHub api
   text = convert_with_grip
 
-  # common
-  text = add_summary_anchor text
+  # common processing
+  doc = Nokogiri::HTML text
+
+  add_summary_anchor doc
+  a_with_target_blank doc
 
   File.open(OUTPUT, 'w+') do |file|
-    file.write text
+    file.write doc.to_s
   end
 end
 
@@ -63,14 +66,20 @@ def convert_with_grip
   File.read(OUTPUT)
 end
 
-def add_summary_anchor text
-  doc = Nokogiri::HTML text
-  
+def add_summary_anchor doc
   doc.css('h2, h3, h4')[5..].each do |title|
     title << " <a href='#top'>↑</a>"
   end
-
-  doc.to_s
 end
+
+def a_with_target_blank doc
+  doc.css('a').each do |link|
+    next unless link['href'].include? 'https://' # don't process anchor links
+
+    link['target'] = '_blank'
+    link['rel'] = 'noopener'
+  end
+end
+
 
 main
