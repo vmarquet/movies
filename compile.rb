@@ -5,6 +5,7 @@
 # to Wikipedia, RottenTomatoes, etc.
 
 require 'tempfile'
+require 'cgi'
 require 'nokogiri'
 require './src/anchor'
 
@@ -33,6 +34,7 @@ def main
 
   add_summary_anchor doc
   a_with_target_blank doc
+  create_id_for_anchors doc
 
   File.open(OUTPUT, 'w+') do |file|
     file.write doc.to_s
@@ -79,6 +81,23 @@ def a_with_target_blank doc
     link['target'] = '_blank'
     link['rel'] = 'noopener'
   end
+end
+
+# Some anchors with accents (ex: '#comédies')
+# dot not work when markdown converted with GitHub api.
+#
+# So we need to create our own `id` attributes, like
+#   <h3 id="comédies" ...
+#
+def create_id_for_anchors doc
+  doc.css('h2, h3, h4')[5..].each do |title|
+    title['id'] = to_anchor title.content
+  end
+end
+
+def to_anchor s
+  s = s.gsub(/[^0-9a-z éèàç]/i, '').downcase.strip
+  s = s.gsub(' ', '-')
 end
 
 
