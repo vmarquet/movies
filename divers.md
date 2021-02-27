@@ -21,6 +21,7 @@ Dessins animés pour enfants
 ---------------------------
 * Bernard et Bianca
 * Basil, détective privé
+* Ernest le vampire
 * Fievel et le Mystère du monstre de la nuit
 
 

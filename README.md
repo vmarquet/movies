@@ -171,6 +171,7 @@ Où voir des films:
 
 * Glengarry Glen Ross (1992)
 * Office Space (1999)
+* The Internship (2013, Vince Vaughn, Owen Wilson)
 
 
 ![](images/affiches/lost.jpg)
@@ -277,6 +278,7 @@ Où voir des films:
 * Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
 * Cube (1997)
 * THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
+* La Guerre des mondes (2005, Spielberg)
 * Antiviral
 * I, Robot (2003, Will Smith)
 * The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
@@ -329,6 +331,7 @@ Où voir des films:
 * Saw (2004)
 * L'Orphelinat (2007)
 * [•REC]  (2007)
+* The Mist (2007)
 * Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
 * The Babadook (2014)
 * It Follows (2014)
@@ -351,7 +354,7 @@ Où voir des films:
 * Apocalypse Now (1979, FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
 * Platoon (1986, Oliver Stone, Charlie Sheen, Christopher Walken)
 * Full Metal Jacket (1987, Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket)
-* The Deer Hunter (Voyage au Bout de l'Enfer) (1978, Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter)
+* The Deer Hunter (Voyage au Bout de l'Enfer) (1978, Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
 * Inglorious Basterds  (et autres de Tarentino) 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
 * MASH (1970, Robert Altman)
 
@@ -396,7 +399,7 @@ Où voir des films:
 
 * L'Homme des Hautes Plaines   (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
 * Impitoyable  [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven)
-  (de et avec Clint Eastwood, Oscar meilleur film 1992)
+  (Clint Eastwood, 🏆 meilleur film 1992)
 
 #### Néowesterns
 
@@ -701,7 +704,7 @@ A voir:
 
 * Darren Arronovski (Requiem for a Dream, Black Swan, The Wrestler...)
 * David Lynch (Elephant Man, Mulholland Drive, Blue Velvet...)
-* Almodovar (Volver, Femmes au bord de la crise de nerfs...)
+* Almodovar (Volver, Femmes au bord de la crise de nerfs, Todo sobre my madre...)
 * Peter Weier (Witness, Dead Poets Society, Etat Second...)
 * Kenneth Brannagh (Le Limier, Beaucoup de Bruit pour rien, Dead Again...)
 * Takeshi Kitano (Aniki mon Frère, Hana-Bi)
@@ -715,6 +718,10 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 
 ## Par année de sortie
+
+### 1961
+
+* West Side Story 🏆 ❤️
 
 ### 1962
 
@@ -771,6 +778,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 1982
 
+* Gandhi (Richard Attenborough)
 * Le père Noël est une ordure
 
 ### 1983
@@ -782,6 +790,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1984
 
 * The Hit (Tim Roth)
+* à voir: Amadeus (Milos Forman) 🏆
 * à voir: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 
 ### 1985
@@ -789,7 +798,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * White Nights (Soleil de nuit) (Mikhail Baryshnikov)
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club
-* à voir: Out of Africa (Sydney Pollack, Robert Redford)
+* à voir: Out of Africa (Sydney Pollack, Robert Redford) 🏆
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
 * à voir: https://www.telerama.fr/cinema/films/detective,4714.php
@@ -801,7 +810,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 1987
 
-* Le Dernier Empereur (Bernardo Bertolucci)
+* Le Dernier Empereur (Bernardo Bertolucci) 🏆
 * Les Incorruptibles (Brian de Palma)
 * The Lost Boys (vampires)
 * à voir: https://www.rottentomatoes.com/m/empire_of_the_sun
@@ -934,6 +943,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Lord of the Rings
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
+* à voir: A Beautiful Mind 🏆
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -983,6 +993,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Crazy Kung-Fu (Stephen Chow)
 * Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
+* à voir: https://www.rottentomatoes.com/m/1144992-crash 🏆
 * RRRrrrr!!!
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1017,7 +1028,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Le Secret de Brokeback Mountain (Ang Lee)
 * Babel (Alejandro González Iñárritu)
 * The Queen (Stephen Frears)
-* Les Infiltrés (The Departed)
+* Les Infiltrés (The Departed) 🏆
 * Thank You for Smoking
 * The Devil Wears Prada
 * Fanaa (Bollywood)
@@ -1312,6 +1323,8 @@ Cannes, à voir:
 * Scheme Birds (documentaire) ❤️
 * The Two Popes
 * à voir: https://www.rottentomatoes.com/m/ash_is_purest_white
+* à voir: https://www.rottentomatoes.com/m/ad_astra
+* à voir: https://www.telerama.fr/cinema/films/douleur-et-gloire,n6077398.php (Pedro Almodovar) 🏆
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1325,6 +1338,8 @@ Décevant:
 * Once Upon a Time in Hollywood
 * Les Misérables
 
+[Cannes 2019 - toutes les notes télérama](https://www.telerama.fr/festival-de-cannes/2019/cannes-2019-voici-le-programme-des-films-en-competition,n6238497.php)
+
 
 ### 2020
 
@@ -1337,7 +1352,6 @@ Décevant:
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://fr.wikipedia.org/wiki/Minari
-* à voir: https://www.rottentomatoes.com/m/promising_young_woman
 * à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
 * à voir: https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php
 * à voir: https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020
