@@ -121,6 +121,11 @@ def add_awards_links doc
     if (1946..Time.now.year).include? year
       title << " <a href='https://fr.wikipedia.org/wiki/Festival_de_Cannes_#{year}#S%C3%A9lection_officielle' #{target_blank}>🌿</a>"
     end
+
+    if (2011..Time.now.year).include? year
+      ceremony_number = year - 2011 + 26
+      title << " <a href='#{wikipedia_award_url ceremony_number, 'Goyas'}' #{target_blank}>🇪🇸</a>"
+    end
   end
 end
 
