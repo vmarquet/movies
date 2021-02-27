@@ -19,32 +19,6 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 * 🍅 = lien vers https://www.rottentomatoes.com/
 * 📰 = lien vers https://www.telerama.fr/
 
-Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
-
-Où voir des films:
-
-* https://www.lacinetek.com/fr
-* https://films.criterionchannel.com/
-* https://mubi.com/fr/showing
-    * https://mubi.com/fr/specials/mubi-top-1000
-    * https://mubi.com/fr/specials/cannes-film-festival
-    * https://mubi.com/fr/specials/fortnight
-    * https://mubi.com/fr/specials/film-festival-favorites
-* [movieo.me](https://movieo.me/movies?years%5B%5D=1900&years%5B%5D=2021&netflix_instant=true): un site qui permet de voir les bons films qui sont sur Netflix (US)
-
-## Mon top 10
-
-* Le Portrait de la Jeune Fille en Feu
-* Ghost Dog
-* Le Lauréat
-* Blade Runner
-* Eternal Sunshine
-* Gattaca
-* Le Nom de la Rose
-* Tigre et Dragon
-* Apocalypse Now
-* Inglorious Basterds
-
 
 ## Sommaire
 
@@ -69,6 +43,38 @@ Où voir des films:
     * [2000](#2000)
     * [2010](#2010)
     * [2020](#2020)
+
+
+## Tips
+
+<details>
+<summary>Où voir des films</summary>
+
+* https://www.lacinetek.com/fr
+* https://films.criterionchannel.com/
+* https://mubi.com/fr/showing
+    * https://mubi.com/fr/specials/mubi-top-1000
+    * https://mubi.com/fr/specials/cannes-film-festival
+    * https://mubi.com/fr/specials/fortnight
+    * https://mubi.com/fr/specials/film-festival-favorites
+* [movieo.me](https://movieo.me/movies?years%5B%5D=1900&years%5B%5D=2021&netflix_instant=true): un site qui permet de voir les bons films qui sont sur Netflix (US)
+</details>
+
+Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
+
+
+## Mon top 10
+
+* Le Portrait de la Jeune Fille en Feu
+* Ghost Dog
+* Le Lauréat
+* Blade Runner
+* Eternal Sunshine
+* Gattaca
+* Le Nom de la Rose
+* Tigre et Dragon
+* Apocalypse Now
+* Inglorious Basterds
 
 
 ## Films étrangers

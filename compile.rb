@@ -5,6 +5,7 @@
 # to Wikipedia, RottenTomatoes, etc.
 
 require 'tempfile'
+require 'nokogiri'
 require './src/anchor'
 
 SOURCE = 'README.md'
@@ -26,6 +27,9 @@ def main
 
   # method 2: using GitHub api
   text = convert_with_grip
+
+  # common
+  text = add_summary_anchor text
 
   File.open(OUTPUT, 'w+') do |file|
     file.write text
@@ -57,6 +61,16 @@ end
 def convert_with_grip
   `grip #{SOURCE} --export #{OUTPUT}`
   File.read(OUTPUT)
+end
+
+def add_summary_anchor text
+  doc = Nokogiri::HTML text
+  
+  doc.css('h2, h3, h4')[5..].each do |title|
+    title << " <a href='#top'>↑</a>"
+  end
+
+  doc.to_s
 end
 
 main
