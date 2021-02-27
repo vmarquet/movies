@@ -1347,7 +1347,6 @@ Décevant:
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
 * Promising Young Woman (divertissement sympa sans plus)
-* à voir: https://www.telerama.fr/cinema/films/the-nest,n6703873.php
 * à voir: https://fr.wikipedia.org/wiki/Nomadland
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
@@ -1362,6 +1361,7 @@ Aimés sans plus:
 * Tenet
 * Sound of Metal
 * Soul (Pixar)
+* The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php)
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
