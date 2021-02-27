@@ -35,6 +35,7 @@ def main
   add_summary_anchor doc
   a_with_target_blank doc
   create_id_for_anchors doc
+  add_awards_links doc
 
   File.open(OUTPUT, 'w+') do |file|
     file.write doc.to_s
@@ -98,6 +99,34 @@ end
 def to_anchor s
   s = s.gsub(/[^0-9a-z éèàç]/i, '').downcase.strip
   s = s.gsub(' ', '-')
+end
+
+def add_awards_links doc
+  doc.css('h2, h3, h4')[5..].each do |title|
+    text = title.content.gsub(/[^0-9]/i, '').strip.to_i
+    next unless text.to_i >= 1900 && text.to_i <= Time.now.year
+
+    year = text.to_i
+
+    if (1933..(Time.now.year - 1)).include? year
+      ceremony_number = year - 1927
+      title << " <a href='#{wikipedia_award_url ceremony_number, 'Oscars'}' #{target_blank}>🏆</a>"
+    end
+
+    if (1975..(Time.now.year - 1)).include? year
+      ceremony_number = year - 1975 + 1
+      title << " <a href='#{wikipedia_award_url ceremony_number, 'César'}' #{target_blank}>✨</a>"
+    end
+  end
+end
+
+def wikipedia_award_url ceremony_number, award
+  x_ieme = ceremony_number == 1 ? '1re' : "#{ceremony_number}e"
+  "https://fr.wikipedia.org/wiki/#{x_ieme}_cérémonie_des_#{award}#Meilleur_film"
+end
+
+def target_blank
+  ' target="_blank" rel="noopener" '
 end
 
 
