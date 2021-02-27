@@ -1027,7 +1027,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Volver (Pedro Almodóvar) ❤️❤️
 * La Vie des autres ❤️
-* Little Miss Sunshine ❤️
+* Little Miss Sunshine ❤️ ☀️
 * Casino Royale
 * Le Labyrinthe de Pan (Guillermo del Toro)
 * The Black Dahlia (Brian de Palma)
@@ -1207,6 +1207,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Inherent Vice (J. Phoenix)
 * Leviathan (Russie)
 * A Girl Walks Home Alone at Night (Iran)
+* Dear White People ☀️
 * Coming Home (Chine, Zhang Yimou)
 * Noah (Darren Aronofsky, Russell Crowe)
 * watchlist: Selma
@@ -1298,6 +1299,7 @@ Ok sans plus:
 * Bird Box (Sandra Bullock, Netflix)
 * Annihilation (SF, Natalie Portman)
 * Capernaum (Capharnaüm) (Liban 🏆)
+* Sorry to Bother You
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 
