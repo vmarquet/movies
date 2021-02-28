@@ -282,6 +282,7 @@ Où voir des films:
 * The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
 * à voir: https://www.telerama.fr/cinema/films/anon,517509.php
 * à voir: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
+* à voir: https://www.rottentomatoes.com/m/1007003-fahrenheit_451 (netflix)
 
 
 ![](images/affiches/brazil.jpg)
@@ -721,6 +722,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1965
 
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo)
+* à voir: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
 ### 1971
 
@@ -1180,6 +1182,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * A Girl Walks Home Alone at Night (Iran)
 * Coming Home (Chine, Zhang Yimou)
 * Noah (Darren Aronofsky, Russell Crowe)
+* The Imitation Game (Benedict Cumberbatch)
 * watchlist: Selma
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
 * Babysitting (Christian Clavier)
