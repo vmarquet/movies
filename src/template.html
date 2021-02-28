@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+
+    <!-- https://github.com/sindresorhus/github-markdown-css -->
+    <link rel="stylesheet" href="./src/github-markdown.css" >
+
+    <style>
+      .markdown-body {
+        box-sizing: border-box;
+        min-width: 200px;
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 45px;
+      }
+
+      @media (max-width: 767px) {
+        .markdown-body {
+          padding: 15px;
+        }
+      }
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
+
+    <script>
+      // Problems:
+      // - some anchors are not generated like github does (this lib converts '/' to '-', github uses '')
+      // - the anchor symbol is unvisible unless hovered
+      document.addEventListener('DOMContentLoaded', function(event) {
+        anchors.add()
+      })
+    </script>
+
+  </head>
+
+  <body>
+    <article class="markdown-body">
+      BODY
+    </article>
+  </body>
+</html>
