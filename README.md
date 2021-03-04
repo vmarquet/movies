@@ -840,6 +840,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 1990
 
+* Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
 * Le Mari de la coiffeuse (Jean Rochefort)
 
 ### 1991
@@ -903,7 +904,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Contact (Jodie Foster) 💙
 * Good Will Hunting (Gus van Sant)
 * The Fifth Element (Luc Besson)
-* Carne trémula (Javier Bardem)
+* Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * à voir: https://fr.wikipedia.org/wiki/Cure_(film,_1997)
 * La Vérité si je mens ! (José Garcia, Bruno Solo)
 * à voir: https://www.telerama.fr/cinema/films/cold-fever,31483.php
@@ -911,6 +912,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1998
 
 * Shakespeare in Love
+* Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham)
 * à voir: Saving Private Ryan
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -922,6 +924,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1999
 
 * Ghost Dog: The Way of the Samurai ❤️
+* Fight Club (David Fincher, Brad Pitt, Edward Norton)
 * Matrix
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -935,6 +938,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * American Beauty (Sam Mendes)
 * Gladiator 💙
 * Requiem for a Dream (Darren Aronofsky)
+* Snatch (Guy Ritchie, Brad Pitt)
 * Billy Elliot
 * Dancer in the Dark (Lars von Trier)
 * Battle Royale
@@ -1014,6 +1018,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar)
 * Broken Flowers (Jarmusch)
+* Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Million Dollar Baby
 * Capote
 * V for Vendetta
@@ -1168,6 +1173,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Hunt (Mads Mikkelsen)
 * Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence)
 * No (Chili, Gael García Bernal)
+* Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1188,6 +1194,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai)
+* Dallas Buyers Club (Matthew McConaughey)
 * All is Lost (?)
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
@@ -1336,6 +1343,7 @@ Cannes, à voir:
 * à voir: https://www.rottentomatoes.com/m/ash_is_purest_white
 * à voir: https://www.rottentomatoes.com/m/ad_astra
 * à voir: https://www.telerama.fr/cinema/films/douleur-et-gloire,n6077398.php (Pedro Almodovar) 🏆
+* à voir: https://www.telerama.fr/cinema/films/liberte,n6234368.php 🌿
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1358,17 +1366,17 @@ Décevant:
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
 * Promising Young Woman (divertissement sympa sans plus)
-* à voir: https://fr.wikipedia.org/wiki/Nomadland
+* à voir: https://fr.wikipedia.org/wiki/Nomadland ☀️
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://fr.wikipedia.org/wiki/Minari
 * à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
 * à voir: https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php
 * à voir: https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020
-* à voir: https://www.rottentomatoes.com/m/news_of_the_world
 
 Aimés sans plus:
 
+* News of the World (Western, Tom Hanks)
 * Tenet
 * Sound of Metal
 * Soul (Pixar)
