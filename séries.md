@@ -27,6 +27,7 @@
 * Mindhunter
 * Homeland
 * L'Affaire OJ Simpson (Netflix)
+* Dérapages (Eric Cantona)
 * à voir:
 	* The Wire
 	* The Sopranos
@@ -42,6 +43,7 @@
 * True Detective
 * Manhunt: Unabomber
 * Tunnel (2013, Clémence Poesy)
+* The Haunting of Hill House
 
 
 ### SF
