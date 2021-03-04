@@ -573,6 +573,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
         * Les Barbouzes
         * Ne nous fâchons pas
 * Le Soupirant  (1962, Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️
+    * à voir: Yoyo, Le Grand Amour
 * Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
   (1961) (et autres de Jacques Demy) 🎥
 
