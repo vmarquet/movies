@@ -314,7 +314,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 #### Vampires
 
-* Le Bal des Vampires  (1967, Roman Polanski) (parodique) 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers)
+* Le Bal des Vampires  (1967, Roman Polanski) (parodique) 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) ❤️
 * Nosferatu  (1922, Murnau) [🍅](https://www.rottentomatoes.com/m/nosferatu)
 * Entretien avec un Vampire  (1994) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire)
 
@@ -389,7 +389,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 #### Sérieux
 
 * Danse avec les Loups  [🍅](https://www.rottentomatoes.com/m/dances_with_wolves)
-  (de et avec Kevin Costner, Oscar meilleur film 1991) 🎥
+  (de et avec Kevin Costner, 7🏆 meilleur film 1991) 🎥
 * There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
 * Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
 * 3:10 to Yuma (2007)
@@ -407,7 +407,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 * L'Homme des Hautes Plaines   (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
 * Impitoyable  [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven)
-  (Clint Eastwood, 🏆 meilleur film 1992)
+  (Clint Eastwood, 4🏆 meilleur film 1992)
 
 #### Néowesterns
 
@@ -426,14 +426,16 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### Animés
 
-* La plupart des Miyasaki ❤️
+* La plupart des Hayao Miyasaki ❤️
     * Princesse Mononoke
     * Nausicaa de la Vallée du Vent
     * Le Tombeau des Lucioles
     * Le Chateau dans le Ciel
     * Le Chateau Ambulant
+    * Le Voyage de Chihiro
     * ...
-* Ghost in the Shell (le film, pas la série), le 2e film aussi
+* Ghost in the Shell (1995)
+* Ghost in the Shell 2: Innocence (2004)
 
 ### Vieux classiques (noir et blanc)
 
@@ -599,6 +601,8 @@ Mes réalisateurs et films préférés
 * 12 Monkeys
 * Sacré Graal
 
+Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
+
 ### Jean-Luc Godard
 
 * Pierrot le Fou
@@ -709,20 +713,67 @@ A voir:
 * Le Tigre du Bengale
 * Le Tombeau Hindou
 
-### Et aussi...
+### John Carpenter (nanars de qualité)
 
-* Darren Arronovski (Requiem for a Dream, Black Swan, The Wrestler...)
-* David Lynch (Elephant Man, Mulholland Drive, Blue Velvet...)
-* Almodovar (Volver, Femmes au bord de la crise de nerfs, Todo sobre my madre...)
-* Peter Weier (Witness, Dead Poets Society, Etat Second...)
-* Kenneth Brannagh (Le Limier, Beaucoup de Bruit pour rien, Dead Again...)
-* Takeshi Kitano (Aniki mon Frère, Hana-Bi)
-* Zhang Yimou (Hero, La Cité Interdite, Le Secret des Poignards Volants...)
-* Tarentino (Inglorious Basterds, Pulp Fiction, Kill Bill, Reservoir Dogs...)
-* Robert Rodriguez (Machete, Sin City, From Dusk till Dawn)
-* Hayao Miyasaki (Princesse Mononoke, Le Chateau Ambulant, Nausicaa, Le Chateau dans le Ciel, Le Voyage de Chihiro...)
+* Escape from New York (1981)
+* The Thing (1982)
+* They Live (1988)
 
-Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
+### Darren Arronovski
+
+* Requiem for a Dream
+* Black Swan
+* The Wrestler
+
+### David Lynch
+
+* Elephant Man
+* Mulholland Drive
+* Blue Velvet
+
+### Almodovar
+
+* Volver
+* Femmes au bord de la crise de nerfs
+* Todo sobre my madre
+
+### Peter Weier
+
+* Witness
+* Dead Poets Society
+* Etat Second
+
+### Kenneth Brannagh
+
+* Le Limier
+* Beaucoup de Bruit pour rien
+* Dead Again
+
+### Takeshi Kitano
+
+* Aniki mon Frère
+* Hana-Bi
+
+### Zhang Yimou (arts-martiaux chinois)
+
+* Hero
+* La Cité Interdite
+* Le Secret des Poignards Volants
+* à voir: https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php
+
+### Tarentino
+
+* Inglorious Basterds
+* Pulp Fiction
+* Kill Bill
+* Reservoir Dogs
+* Boulevard de la Mort (Death Proof))
+
+### Robert Rodriguez
+
+* Machete
+* Sin City
+* From Dusk till Dawn
 
 
 
@@ -915,6 +966,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham)
+* Kirikou et la Sorcière
 * à voir: Saving Private Ryan
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1005,6 +1057,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * La Mauvaise Éducation (Pedro Almodóvar)
 * Mystic River (Clint Eastwood)
 * Aviator
+* Carnets de voyage (Diarios de motocicleta) (Gael García Bernal)
 * Crazy Kung-Fu (Stephen Chow)
 * Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
@@ -1202,9 +1255,12 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox (Inde)
-* à voir: Nosotros los Nobles
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+Bof:
+
+* Nosotros los Nobles (Mexique)
 
 ### 2014
 
@@ -1368,17 +1424,16 @@ Décevant:
 * La plataforma (Netflix, SF) ❤️
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
-* Promising Young Woman (divertissement sympa sans plus)
-* à voir: https://fr.wikipedia.org/wiki/Nomadland ☀️
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://fr.wikipedia.org/wiki/Minari
 * à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
-* à voir: https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php
 * à voir: https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020
 
 Aimés sans plus:
 
+* Nomadland (Frances McDormand) ☀️
+* Promising Young Woman (divertissement sympa sans plus)
 * News of the World (Western, Tom Hanks)
 * Tenet
 * Sound of Metal
@@ -1387,8 +1442,10 @@ Aimés sans plus:
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
+* à voir: https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php 7✨
+
 
 ### 2021
 
-* à voir: https://www.rottentomatoes.com/m/judas_and_the_black_messiah
+* Judas and the Black Messiah
 * à voir: https://fr.wikipedia.org/wiki/Dune_(film,_2021)
