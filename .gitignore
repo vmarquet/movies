@@ -5,4 +5,5 @@
 *.out
 *.gz
 *.pdf
-/liste films LaTeX/tmp/
+
+secrets.yml
