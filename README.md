@@ -764,10 +764,11 @@ A voir:
 ### Tarentino
 
 * Inglorious Basterds
-* Pulp Fiction
+* Pulp Fiction (1994) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
+* Les Huit Salopards
 * Kill Bill
 * Reservoir Dogs
-* Boulevard de la Mort (Death Proof))
+* Boulevard de la Mort (Death Proof)
 
 ### Robert Rodriguez
 
@@ -823,6 +824,10 @@ A voir:
 * L'Empire des sens (Nagisa Ōshima) 🎥
 * Un éléphant ça trompe énormément (Jean Rochefort)
 * Le Juge et l'Assassin (Bertrand Tavernier, Philippe Noiret, Michel Galabru)
+
+### 1977
+
+* à voir: Eraserhead (David Lynch)
 
 ### 1979
 
@@ -958,7 +963,7 @@ A voir:
 * Good Will Hunting (Gus van Sant)
 * The Fifth Element (Luc Besson)
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
-* à voir: https://fr.wikipedia.org/wiki/Cure_(film,_1997)
+* Cure (Japon, Kiyoshi Kurosawa) 🎥
 * La Vérité si je mens ! (José Garcia, Bruno Solo)
 * à voir: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 
@@ -1349,8 +1354,9 @@ Bof:
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * 120 battements par minute ❤️
+* La Douleur 🎥 ❤️
+  [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Le Brio (bon, pas inoubliable)
-* à voir: https://www.telerama.fr/cinema/films/la-douleur,516794.php
 
 Ok sans plus:
 
