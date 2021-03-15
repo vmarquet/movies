@@ -65,7 +65,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ## Mon top 10
 
-* Le Portrait de la Jeune Fille en Feu
+* Portrait de la Jeune Fille en Feu
 * Ghost Dog
 * Le Lauréat
 * Blade Runner
@@ -1412,7 +1412,7 @@ Cannes, à voir:
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Le Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥 ❤️❤️
+* Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥 ❤️❤️
 * Proxima (Eva Green) ❤️
 * J'accuse (Polanski)
 
