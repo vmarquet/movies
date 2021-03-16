@@ -350,6 +350,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Us (2019) (ok sans plus)
 * Impetigore (2019)
 
+[🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
+
 
 ![](images/affiches/silence.jpeg)
 
@@ -473,9 +475,9 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)
   -> dialogues excellents (Audiard), musique très sympa
   [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
-* Le père Noël est une ordure (1982)
-* Un Indien dans la ville (1994)
+* Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte)
 * Le bonheur est dans le pré (1995)
+* L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)
 * Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
 * Rire et Châtiment  [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
   (2003, avec José Garcia)
@@ -483,17 +485,33 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
   (1997, avec Jacques Villeret)
 * Le Concert (2009, Radu Mihaileanu)
 * avec Michel Houellebecq:
-    * L'enlèvement de Michel Houellebecq
+    * L'enlèvement de Michel Houellebecq ❤️
     * Near Death Experience
+
+#### WWII
+
+* La Traversée de Paris (1956, Bourvil)
+* Le Jour le plus long (1962, John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil)
+* Le Mur de l'Atlantique (1970, Marcel Camus, Bourvil)
 
 #### Classiques potaches
 
 * Fanfan la Tulipe (1952)
-* La Grande Vadrouille (1966)
+* La Grande Vadrouille (1966, Gérard Oury, Bourvil, de Funès)
 * Rabbi Jacob (1973, Louis de Funes)
 * Papy fait de la résistance (1983)
-* L'Opération Corned-Beef (1991)
-* Les Visiteurs (1993)
+* L'Opération Corned-Beef (1991, Jean-Marie Poiré, Christian Clavier, Jean Reno)
+* Les Visiteurs (1993, Christian Clavier, Jean Reno)
+* Un Indien dans la ville (1994, Thierry Lhermitte)
+
+##### Autres
+
+> Avec Fernandel, Louis de Funès et Jean Gabin, Bourvil fait partie des acteurs français ayant attiré le plus grand nombre de spectateurs dans les salles de cinéma entre 1945 et 1970 : environ 205 millions.
+
+* Années 60: voir Gérard Oury, Louis de Funès, [Bourvil](https://fr.wikipedia.org/wiki/Bourvil#Filmographie_s%C3%A9lective), Belmondo
+* Années 70: voir Francis Veber, Pierre Richard
+* Années 80: voir [troupe du Splendid](https://fr.wikipedia.org/wiki/Le_Splendid_%28troupe%29#Films_du_Splendid), Christian Clavier
+* Années 90: voir [les Nuls](https://fr.wikipedia.org/wiki/Les_Nuls#Au_cin%C3%A9ma), [les Inconnus](https://fr.wikipedia.org/wiki/Les_Inconnus#Filmographie)
 
 
 ### Comédies dramatiques
@@ -780,6 +798,10 @@ A voir:
 
 ## Par année de sortie
 
+### 1959
+
+* à voir: Orfeu Negro (Marcel Camus) 🌿 🏆
+
 ### 1961
 
 * West Side Story 🏆 ❤️
@@ -829,6 +851,10 @@ A voir:
 
 * à voir: Eraserhead (David Lynch)
 
+### 1978
+
+* Molière (Ariane Mnouchkine)
+
 ### 1979
 
 * à voir: https://www.telerama.fr/cinema/films/serie-noire,13515.php
@@ -856,7 +882,7 @@ A voir:
 ### 1984
 
 * The Hit (Tim Roth)
-* à voir: Amadeus (Milos Forman) 🏆
+* à voir: Amadeus (Milos Forman) 8🏆
 * à voir: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 
 ### 1985
@@ -924,6 +950,8 @@ A voir:
 * à voir: https://www.telerama.fr/cinema/films/no-smoking,29537.php
 
 ### 1994
+
+* La Cité de la peur ❤️
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1040,6 +1068,7 @@ A voir:
 
 ### 2003
 
+* Master and Commander: The Far Side of the World (Peter Weier, Russell Crowe) 🏆
 * Good Bye, Lenin! (Wolfgang Becker, Allemagne)
 * Le Maître du jeu (Runaway Jury)
 * The Station Agent (Peter Dinklage) ☀️🎭
@@ -1049,9 +1078,10 @@ A voir:
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* à voir: https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php (netflix) (winner ✨)
 * Stupeur et Tremblements
 * Les Triplettes de Belleville
+* Les Invasions Barbares (netflix) (sympa sans plus)
+  [📰](https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php)
 
 ### 2004
 
@@ -1248,7 +1278,7 @@ A voir:
 * 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆 
 * Her (Spike Jonze) ❤️
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ ✨ 🌿
-* Gravity ❤️
+* Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
 * Under the Skin
 * Only Lovers Left Alive (Jarmusch) ❤️
 * A Touch of Sin (Chine)
@@ -1402,6 +1432,7 @@ Cannes, à voir:
 * Joker ❤️
 * Jojo Rabbit ❤️
 * Marriage Story
+* Ad Astra (SF, James Gray, Brad Pitt)
 * Le Roi (Chalamet, Netflix)
 * Scheme Birds (documentaire) ❤️
 * The Two Popes
@@ -1434,6 +1465,7 @@ Décevant:
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://fr.wikipedia.org/wiki/Minari
 * à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
+* à voir: https://www.rottentomatoes.com/m/his_house
 * à voir: https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020
 
 Aimés sans plus:
