@@ -802,6 +802,10 @@ A voir:
 
 * à voir: Orfeu Negro (Marcel Camus) 🌿 🏆
 
+### 1960
+
+* La Dolce Vita (Federico Fellini, Marcello Mastroianni) 🌿
+
 ### 1961
 
 * West Side Story 🏆 ❤️
@@ -834,6 +838,7 @@ A voir:
 ### 1974
 
 * à voir: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
+* à voir: Parfum de femme (1974) https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
 ### 1975
 
@@ -1386,6 +1391,7 @@ Bof:
 * 120 battements par minute ❤️
 * La Douleur 🎥 ❤️
   [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
+* à voir: https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php (Albert Dupontel) 5✨
 * Le Brio (bon, pas inoubliable)
 
 Ok sans plus:
@@ -1407,6 +1413,7 @@ Ok sans plus:
 * Sorry to Bother You
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
+* Le Retour du héros (comédie sympa sans prétention, Jean Dujardin, Mélanie Laurent)
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
