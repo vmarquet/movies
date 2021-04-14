@@ -1250,12 +1250,13 @@ A voir:
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * The Artist ❤️🏆
-* Intouchables ❤️ (Sy, Cluzet)
+* Intouchables ❤️ (Omar Sy, François Cluzet)
 * Polisse
+* La guerre est déclarée (Valérie Donzelli)
 * Jimmy Rivière
+* L’Exercice de l’État
 * à voir:
     * Le Havre (Aki Kaurismäki)
-    * La guerre est déclarée (V. Donzelli)
 
 ### 2012
 
@@ -1470,6 +1471,7 @@ Décevant:
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
 * The Father (Anthony Hopkins)
+* Possessor (Brandon Cronenberg) ☀️
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://fr.wikipedia.org/wiki/Minari
