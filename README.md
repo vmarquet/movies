@@ -1393,6 +1393,7 @@ Bof:
 * 120 battements par minute ❤️
 * La Douleur 🎥 ❤️
   [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
+* à voir: https://fr.wikipedia.org/wiki/Le_Sens_de_la_fête
 * à voir: https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php (Albert Dupontel) 5✨
 * Le Brio (bon, pas inoubliable)
 
@@ -1454,6 +1455,7 @@ Cannes, à voir:
 
 * Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥 ❤️❤️
 * Proxima (Eva Green) ❤️
+* Hors normes (Olivier Nakache, Éric Toledano, Vincent Cassel, Reda Kateb) ❤️
 * J'accuse (Polanski)
 
 Décevant:
@@ -1481,7 +1483,7 @@ Décevant:
 
 Aimés sans plus:
 
-* Nomadland (Frances McDormand) ☀️
+* Nomadland (Frances McDormand) 🏆 ☀️
 * Promising Young Woman (divertissement sympa sans plus)
 * News of the World (Western, Tom Hanks)
 * Tenet
