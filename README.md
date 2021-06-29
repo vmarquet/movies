@@ -283,6 +283,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * 2001 A Space Odyssey   (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
 * Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
 * Cube (1997)
+* Dark City (1998)
 * THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
 * La Guerre des mondes (2005, Spielberg)
 * Antiviral
@@ -1380,6 +1381,7 @@ Bof:
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * à voir: Dans les forêts de Sibérie (musique par Ibrahim Maalouf)
+* La Mort de Louis XIV 🌿
 
 ### 2017
 
@@ -1476,6 +1478,7 @@ Décevant:
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
 * The Father (Anthony Hopkins)
+* Riders of Justice (Retfærdighedens ryttere, Danemark, Mads Mikkelsen)
 * Possessor (Brandon Cronenberg) ☀️
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
@@ -1498,6 +1501,7 @@ Aimés sans plus:
 
 * à voir: https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php 7✨
 * à voir: https://www.telerama.fr/cinema/films/des-hommes,n6655943.php
+* à voir: https://www.telerama.fr/cinema/films/teddy,n6689626.php
 
 
 ### 2021
