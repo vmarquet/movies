@@ -36,6 +36,11 @@ Documentaires
 * La Sagesse de la Pieuvre (2020, Netflix) ❤️
 * à voir:
     * https://movieo.me/movies/jiro-dreams-of-sushi-dnznws
+* animalier:
+    * Planet Earth (2006)
+    * Planet Earth II (2016)
+    * Notre Planète (2020) https://fr.wikipedia.org/wiki/Notre_plan%C3%A8te
+    * La Terre la Nuit (2020)
 
 
 Courts

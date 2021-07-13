@@ -60,6 +60,20 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 * [movieo.me](https://movieo.me/movies?years%5B%5D=1900&years%5B%5D=2021&netflix_instant=true): un site qui permet de voir les bons films qui sont sur Netflix (US)
 </details>
 
+<details>
+<summary>Various wikipedia articles</summary>
+
+* https://en.wikipedia.org/wiki/MacGuffin
+* https://en.wikipedia.org/wiki/Chekhov%27s_gun
+* https://en.wikipedia.org/wiki/Mexican_standoff
+</details>
+
+<details>
+<summary>Various movie websites</summary>
+
+* https://www.theyshootpictures.com/
+</details>
+
 Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 
@@ -464,6 +478,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ### Comédies
 
 * Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
+* Tenue de Soirée (1986) (Bertrand Blier, Depardieu)
 * Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
 * Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
   (2010, avec Jacques Gamblin)
