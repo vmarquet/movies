@@ -74,6 +74,12 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 * https://www.theyshootpictures.com/
 </details>
 
+<details>
+<summary>Friends</summary>
+
+* https://mustapp.com/@lucasrr
+</details>
+
 Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 
@@ -1415,6 +1421,7 @@ Bof:
   [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * à voir: https://fr.wikipedia.org/wiki/Le_Sens_de_la_fête
 * à voir: https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php (Albert Dupontel) 5✨
+* Grave
 * Le Brio (bon, pas inoubliable)
 
 Ok sans plus:
@@ -1494,6 +1501,7 @@ Décevant:
 * L'Homme Invisible (avec Elisabeth Moss)
 * The Father (Anthony Hopkins)
 * Riders of Justice (Retfærdighedens ryttere, Danemark, Mads Mikkelsen)
+* Palm Springs (Rom-Com, Andy Samberg)
 * Possessor (Brandon Cronenberg) ☀️
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
@@ -1522,6 +1530,7 @@ Aimés sans plus:
 ### 2021
 
 * Oxygène (Mélanie Laurent)
+* Annette (Leos Carax, Adam Driver)
 * Judas and the Black Messiah
 * Stowaway (Le Passager nº 4)
 * à voir: https://fr.wikipedia.org/wiki/Dune_(film,_2021)
