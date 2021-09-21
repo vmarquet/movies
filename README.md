@@ -80,6 +80,13 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 * https://mustapp.com/@lucasrr
 </details>
 
+<details>
+<summary>Bonus: humor</summary>
+
+* http://imogenquest.net/?p=71
+* https://www.smbc-comics.com/?id=3164
+</details>
+
 Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 
@@ -1484,6 +1491,7 @@ Cannes, à voir:
 * Proxima (Eva Green) ❤️
 * Hors normes (Olivier Nakache, Éric Toledano, Vincent Cassel, Reda Kateb) ❤️
 * J'accuse (Polanski)
+* Le Chant du Loup
 
 Décevant:
 
@@ -1505,9 +1513,7 @@ Décevant:
 * Possessor (Brandon Cronenberg) ☀️
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
-* à voir: https://fr.wikipedia.org/wiki/Minari
 * à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
-* à voir: https://www.rottentomatoes.com/m/his_house
 * à voir: https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020
 
 Aimés sans plus:
@@ -1522,9 +1528,13 @@ Aimés sans plus:
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* à voir: https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php 7✨
+* [Adieu les cons](https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php) 7✨ : bof...
 * à voir: https://www.telerama.fr/cinema/films/des-hommes,n6655943.php
 * à voir: https://www.telerama.fr/cinema/films/teddy,n6689626.php
+
+Pas aimé:
+
+* Minari
 
 
 ### 2021
@@ -1532,6 +1542,9 @@ Aimés sans plus:
 * Oxygène (Mélanie Laurent)
 * Annette (Leos Carax, Adam Driver)
 * Judas and the Black Messiah
-* Stowaway (Le Passager nº 4)
-* à voir: https://fr.wikipedia.org/wiki/Dune_(film,_2021)
+* Stowaway (Le Passager nº 4) (SF)
+* Dune (SF, Denis Villeneuve)
 * à voir: https://www.telerama.fr/cinema/films/petite-maman,n6879604.php (Céline Sciamma)
+* à voir: https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php (avec Xavier Dolan)
+* à voir: https://www.rottentomatoes.com/m/the_last_duel_2021 (Ridley Scott)
+
