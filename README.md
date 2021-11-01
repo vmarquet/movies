@@ -61,6 +61,13 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 </details>
 
 <details>
+<summary>Favorite film analysis videos</summary>
+
+* [Quentin Tarantino and the Poetry Between the Lines](https://www.youtube.com/watch?v=-sLV-UzASMg)
+* [How Tarantino Writes A Scene](https://www.youtube.com/watch?v=XATONsyKml0)
+</details>
+
+<details>
 <summary>Various wikipedia articles</summary>
 
 * https://en.wikipedia.org/wiki/MacGuffin
@@ -378,6 +385,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Us (2019) (ok sans plus)
 * Impetigore (2019)
 * His House (2020) (1ère heure bien, fin décevante)
+* The Night House (2021)
 
 [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 
@@ -394,7 +402,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Platoon (1986, Oliver Stone, Charlie Sheen, Christopher Walken)
 * Full Metal Jacket (1987, Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket)
 * The Deer Hunter (Voyage au Bout de l'Enfer) (1978, Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
-* Inglorious Basterds  (et autres de Tarentino) 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
+* The Thin Red Line (1998, Terrence Malick)
 * MASH (1970, Robert Altman)
 
 
@@ -811,9 +819,9 @@ A voir:
 
 ### Tarentino
 
-* Inglorious Basterds
+* Inglorious Basterds 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds) ❤️
 * Pulp Fiction (1994) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
-* Les Huit Salopards
+* Les Huit Salopards ❤️
 * Kill Bill
 * Reservoir Dogs
 * Boulevard de la Mort (Death Proof)
@@ -859,6 +867,7 @@ A voir:
 
 ### 1971
 
+* Harold and Maude (not a fan of the aesthetic and storytelling but the plot is interesting https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 * à voir: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
 
 ### 1972
@@ -902,6 +911,7 @@ A voir:
 
 * An American Werewolf in London (John Landis)
 * Coup de torchon (Bertrand Tavernier)
+* Blow Out (Brian De Palma, John Travolta) (one of all-time favorite movies of Tarentino)
 
 ### 1982
 
@@ -1027,6 +1037,7 @@ A voir:
 * The Fifth Element (Luc Besson)
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
+* Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet)
 * La Vérité si je mens ! (José Garcia, Bruno Solo)
 * à voir: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 
@@ -1368,12 +1379,12 @@ Bof:
 
 ### 2015
 
+* Les Huit Salopards (Tarentino) ❤️
 * Mustang (Turquie) ❤️
 * The Assassin 🎥 ❤️ (arts martiaux chinois)
 * The Revenant 🎥 (Alejandro González Iñárritu)
 * The Lobster (Yórgos Lánthimos)
 * The Big Short
-* Les Huit Salopards (Tarentino)
 * Cemetery of Splendour (vu ?) 🌿
 * Carol (Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
@@ -1508,9 +1519,11 @@ Décevant:
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
 * The Father (Anthony Hopkins)
+* Teddy [📰](https://www.telerama.fr/cinema/films/teddy,n6689626.php)
 * Riders of Justice (Retfærdighedens ryttere, Danemark, Mads Mikkelsen)
 * Palm Springs (Rom-Com, Andy Samberg)
 * Possessor (Brandon Cronenberg) ☀️
+* Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
@@ -1539,12 +1552,13 @@ Pas aimé:
 
 ### 2021
 
+* The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
 * Oxygène (Mélanie Laurent)
 * Annette (Leos Carax, Adam Driver)
 * Judas and the Black Messiah
 * Stowaway (Le Passager nº 4) (SF)
 * Dune (SF, Denis Villeneuve)
+* Werewolves Within (comédie/horreur de Nöel)
 * à voir: https://www.telerama.fr/cinema/films/petite-maman,n6879604.php (Céline Sciamma)
 * à voir: https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php (avec Xavier Dolan)
-* à voir: https://www.rottentomatoes.com/m/the_last_duel_2021 (Ridley Scott)
 
