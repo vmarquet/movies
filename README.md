@@ -1552,6 +1552,7 @@ Pas aimé:
 
 ### 2021
 
+* Illusions Perdues ❤️
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
 * Oxygène (Mélanie Laurent)
 * Annette (Leos Carax, Adam Driver)
