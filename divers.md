@@ -87,6 +87,14 @@ BD
 * Broussailles (les albums "Les baleines publiques" et "La nuit du chat"). Assez poétique.
 
 
+Séries audio
+------------
+* [Donjon de Naheulbeuk](http://www.penofchaos.com/warham/download/)
+* [Les Aventuriers du Survivaure](https://www.knarfworld.net/episodes.html)
+* [Reflets d'acide](https://www.refletsdacide.com/episodes/)
+* [Les 2 minutes du peuple - François Pérusse](https://snolli.fr/?page=2minutes&cat=introduction)
+
+
 Jeux vidéos
 -----------
 * [Shadow of the Colossus](http://www.jeuxvideo.com/jeux/playstation-3-ps3/00037095-classics-hd-ico-shadow-of-the-colossus.htm):

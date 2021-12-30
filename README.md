@@ -1488,12 +1488,11 @@ Cannes, à voir:
 * Joker ❤️
 * Jojo Rabbit ❤️
 * Marriage Story
-* Ad Astra (SF, James Gray, Brad Pitt)
+* Ad Astra (SF, James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra)
 * Le Roi (Chalamet, Netflix)
 * Scheme Birds (documentaire) ❤️
 * The Two Popes
 * à voir: https://www.rottentomatoes.com/m/ash_is_purest_white
-* à voir: https://www.rottentomatoes.com/m/ad_astra
 * à voir: https://www.telerama.fr/cinema/films/douleur-et-gloire,n6077398.php (Pedro Almodovar) 🏆
 * à voir: https://www.telerama.fr/cinema/films/liberte,n6234368.php 🌿
 
@@ -1527,7 +1526,6 @@ Décevant:
 * à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
 * à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
 * à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
-* à voir: https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020
 
 Aimés sans plus:
 
