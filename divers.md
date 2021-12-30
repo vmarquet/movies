@@ -23,6 +23,7 @@ Dessins animés pour enfants
 * Basil, détective privé
 * Ernest le vampire
 * Fievel et le Mystère du monstre de la nuit
+* [Ernest le Vampire](https://www.youtube.com/watch?v=XwXqnmwL2QQ&list=PL470E71D638E86202)
 
 
 Documentaires
@@ -48,6 +49,13 @@ Courts
 * [Doodlebug](https://www.youtube.com/watch?v=gfBwOdsHaWI) (Christopher Nolan)
 * [Garde-fou](https://www.dailymotion.com/video/xchpac_garde-fou_shortfilms) (très original)
 * [Kung Fury](https://www.youtube.com/watch?v=bS5P_LAqiVg)
+
+
+Youtube
+-------
+* [Les boloss des belles lettres](https://www.youtube.com/channel/UC32vOdZp-NN4eZZhJrUNR6w)
+* [Strip Tease](https://www.youtube.com/c/StripTeaseTVFR)
+* [À la recherche du Vortex](https://www.youtube.com/watch?v=_Vv1bj7Zz4k)
 
 
 Humoristes

@@ -24,6 +24,7 @@
 * Black Mirror ❤️
 * Tchernobyl (2019) 🎥 ❤️
 * Mr Robot +++
+* Band of Brothers
 * Peaky Blinders
 * Baron Noir (Kad Merad)
 * Mindhunter

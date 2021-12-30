@@ -1148,6 +1148,7 @@ A voir:
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Les Choristes
+* Deux Frères
 * Violence des échanges en milieu tempéré
 
 ### 2005
@@ -1255,10 +1256,10 @@ A voir:
 * Four Lions ❤️
 * Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
 * The King's Speech (Le Discours d'un roi)
+* 127 Hours (Danny Boyle, James Franco)
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Buried
-* à voir: 127 Hours
 * à voir: L'Illusionniste
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1519,7 +1520,6 @@ Décevant:
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
 * The Father (Anthony Hopkins)
-* Teddy [📰](https://www.telerama.fr/cinema/films/teddy,n6689626.php)
 * Riders of Justice (Retfærdighedens ryttere, Danemark, Mads Mikkelsen)
 * Palm Springs (Rom-Com, Andy Samberg)
 * Possessor (Brandon Cronenberg) ☀️
@@ -1541,9 +1541,9 @@ Aimés sans plus:
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* [Adieu les cons](https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php) 7✨ : bof...
+* Teddy [📰](https://www.telerama.fr/cinema/films/teddy,n6689626.php)
+* Adieu les cons [📰](https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php) 7✨ : bof...
 * à voir: https://www.telerama.fr/cinema/films/des-hommes,n6655943.php
-* à voir: https://www.telerama.fr/cinema/films/teddy,n6689626.php
 
 Pas aimé:
 
@@ -1552,14 +1552,18 @@ Pas aimé:
 
 ### 2021
 
-* Illusions Perdues ❤️
+* Illusions Perdues (avec Xavier Dolan) ❤️ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
 * Oxygène (Mélanie Laurent)
 * Annette (Leos Carax, Adam Driver)
+* King Richard (Will Smith, biopic Venus Williams)
+* Bac Nord
+* Don't Look Up (Déni Cosmique) (Comédie, Jennifer Lawrence, Leonardo DiCaprio)
 * Judas and the Black Messiah
 * Stowaway (Le Passager nº 4) (SF)
 * Dune (SF, Denis Villeneuve)
 * Werewolves Within (comédie/horreur de Nöel)
 * à voir: https://www.telerama.fr/cinema/films/petite-maman,n6879604.php (Céline Sciamma)
-* à voir: https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php (avec Xavier Dolan)
+* à voir: Boite noire
+
 
