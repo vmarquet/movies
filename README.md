@@ -203,6 +203,9 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ##### Comédies pour enfants
 
+* SOS Fantômes (Ghostbusters)
+* Gremlins
+* Maman, j'ai raté l'avion ! (Home Alone)
 * Les dieux sont tombés sur la tête (The Gods Must Be Crazy) (1980)
 * La Coccinelle à Mexico, etc
 
@@ -1462,6 +1465,7 @@ Ok sans plus:
 * Sorry to Bother You
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
+* à voir: https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php
 * Le Retour du héros (comédie sympa sans prétention, Jean Dujardin, Mélanie Laurent)
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1491,6 +1495,7 @@ Cannes, à voir:
 * Ad Astra (SF, James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra)
 * Le Roi (Chalamet, Netflix)
 * Scheme Birds (documentaire) ❤️
+* Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * The Two Popes
 * à voir: https://www.rottentomatoes.com/m/ash_is_purest_white
 * à voir: https://www.telerama.fr/cinema/films/douleur-et-gloire,n6077398.php (Pedro Almodovar) 🏆
@@ -1551,6 +1556,7 @@ Pas aimé:
 ### 2021
 
 * Illusions Perdues (avec Xavier Dolan) ❤️ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
+* Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
 * Oxygène (Mélanie Laurent)
 * Annette (Leos Carax, Adam Driver)

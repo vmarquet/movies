@@ -42,6 +42,8 @@ Documentaires
     * Planet Earth II (2016)
     * Notre Planète (2020) https://fr.wikipedia.org/wiki/Notre_plan%C3%A8te
     * La Terre la Nuit (2020)
+* mockmentaires:
+    * Death to 2020, Death to 2021, ... (par les auteurs de Black Mirror)
 
 
 Courts
@@ -54,6 +56,7 @@ Courts
 Youtube
 -------
 * [Les boloss des belles lettres](https://www.youtube.com/channel/UC32vOdZp-NN4eZZhJrUNR6w)
+    * best of: L'Odysée, Le Cid, Madame Bovary, La Métamorphose
 * [Strip Tease](https://www.youtube.com/c/StripTeaseTVFR)
 * [À la recherche du Vortex](https://www.youtube.com/watch?v=_Vv1bj7Zz4k)
 

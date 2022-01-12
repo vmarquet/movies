@@ -54,12 +54,14 @@
 * Real Humans
 
 
-### Divertissement
+### Divers
 
 * Breaking Bad ❤️
 * Dix pour cent ++
 * Nicholas le Floch ++
 * Dr House (saison 4 surtout ++)
+* Fargo (saison 1)
+* Maniac (Emma Stone, Jonah Hill)
 * The Good Wife
 * Mad Men
 * Dexter
