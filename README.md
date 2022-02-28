@@ -123,7 +123,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * The Bridges of Madison County (1995, Clint Eastwood) ❤️
 * 21 Grammes [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
   (Innarritu, avec Sean Penn, Naomi Watts, Benicio del Toro)
-* Babel (Inarritu)
+* Babel (Iñárritu)
 * Mar Adentro (Alejandro Amenabar, avec Javier Bardem [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * Terence Malick
     * Badlands (1973, Martin Sheen) ❤️
@@ -389,6 +389,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Impetigore (2019)
 * His House (2020) (1ère heure bien, fin décevante)
 * The Night House (2021)
+* Scream (2022)
 
 [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 
@@ -855,6 +856,10 @@ A voir:
 
 * à voir: La Jetée
 
+Classiques, mais pas fan:
+
+* Cléo de 5 à 7 (Agnès Varda)
+
 ### 1963
 
 * à voir: https://en.wikipedia.org/wiki/8%C2%BD (Federico Fellini)
@@ -945,6 +950,7 @@ A voir:
 
 ### 1986
 
+* 37°2 le matin ❤️
 * Ferris Bueller's Day Off
 * à voir: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 
@@ -1070,6 +1076,7 @@ A voir:
 
 ### 2000
 
+* Amores Perros (Alejandro Gonzalez Iñárritu) ❤️
 * In the Mood for Love (Wong Kar-wai)
 * American Beauty (Sam Mendes)
 * Gladiator 💙
@@ -1137,7 +1144,7 @@ A voir:
 * Lost in Translation (Sofia Coppola) ❤️
 * Eternal Sunshine of the Spotless Mind (Michel Gondry) ❤️
 * Kill Bill
-* 21 Grammes (Alejandro Gonzalez Inarritu)
+* 21 Grammes (Alejandro Gonzalez Iñárritu)
 * La Mauvaise Éducation (Pedro Almodóvar)
 * Mystic River (Clint Eastwood)
 * Aviator
@@ -1377,8 +1384,9 @@ Bof:
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Les Combattants ❤️
+* Les Combattants (Adèle Haenel) ❤️
 * Diplomatie (Niels Arestrup, André Dussolier) ❤️
+* Saint-Laurent (Gaspard Ulliel)
 * Hippocrate
 
 ### 2015
@@ -1465,13 +1473,13 @@ Ok sans plus:
 * Sorry to Bother You
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
-* à voir: https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php
+* City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * Le Retour du héros (comédie sympa sans prétention, Jean Dujardin, Mélanie Laurent)
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * L'Empereur de Paris (Vincent Cassel) ❤️
-* à voir: En liberté !
+* En liberté ! (Adèle Haenel)
 * Mademoiselle de Joncquières (comédie dramatique romantique, sympa mais pas inoubliable)
 
 Sans plus:
@@ -1508,6 +1516,7 @@ Cannes, à voir:
 * Hors normes (Olivier Nakache, Éric Toledano, Vincent Cassel, Reda Kateb) ❤️
 * J'accuse (Polanski)
 * Le Chant du Loup
+* La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
 
 Décevant:
 
