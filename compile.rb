@@ -7,6 +7,10 @@
 require 'tempfile'
 require 'cgi'
 require 'nokogiri'
+require 'yaml'
+require 'json'
+require 'net/http'
+require 'httparty'
 require './src/anchor'
 
 SOURCE = 'README.md'
@@ -102,6 +106,68 @@ def to_anchor s
 end
 
 def add_awards_links doc
+  # byebug
+
+  # https://www.w3schools.com/css/css_tooltip.asp
+  head = doc.css('head')[0]
+  head << """
+<style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
+"""
+
+  keys = YAML.load_file('secrets.yml')
+  tmdb_api_key = keys['tmdb']['api_key']
+
+  doc.css('li').each do |li|
+    title = doc.css('li')[500].text.tr('💙❤️🎥🏆✨🌿☀️🧸🌐🎭🍅📰', '').split('(')[0].strip
+    title = 'matrix'
+
+    url = "https://api.themoviedb.org/3/search/movie?api_key=#{tmdb_api_key}&language=en-US&query=#{title}&page=1&include_adult=false"
+
+
+    # HTTP non S
+    # response = Net::HTTP.get_response('api.themoviedb.org', "/3/search/movie?api_key=#{tmdb_api_key}&language=en-US&query=#{title}&page=1&include_adult=false")
+    
+    # net = Net::HTTP.new('api.themoviedb.org', 443)
+    # net.use_ssl = true
+    # net.get_response("/3/search/movie?api_key=#{tmdb_api_key}&language=en-US&query=#{title}&page=1&include_adult=false")
+
+    puts url
+    response = HTTParty.get(url)
+
+    data = JSON.parse response.body
+
+    byebug
+
+    li['class'] = (li['class'] || '') << " tooltip"
+    li << '<span class="tooltiptext">Tooltip text</span>'
+  end
+
+
   doc.css('h2, h3, h4')[5..].each do |title|
     text = title.content.gsub(/[^0-9]/i, '').strip.to_i
     next unless text.to_i >= 1900 && text.to_i <= Time.now.year

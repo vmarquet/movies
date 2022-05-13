@@ -146,6 +146,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
       (1972, avec Klaus Kinski)
     * Fitzcarraldo (1982) 🎥
     * Cobra Verde (1987)
+    * à voir: https://www.rottentomatoes.com/m/where_the_green_ants_dream
     * Nosferatu (1978)
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
 * Kramer contre Kramer
@@ -502,6 +503,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ## Films français
 ### Comédies
 
+* Les vécés étaient fermés de l'intérieur (1976, Jean Rochefort, Coluche)
 * Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
 * Tenue de Soirée (1986) (Bertrand Blier, Depardieu)
 * Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
@@ -940,7 +942,8 @@ Classiques, mais pas fan:
 
 ### 1985
 
-* White Nights (Soleil de nuit) (Mikhail Baryshnikov)
+* White Nights (Soleil de nuit) (Russie, Mikhail Baryshnikov)
+* Tampopo (Japon)
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club
 * à voir: Out of Africa (Sydney Pollack, Robert Redford) 🏆
@@ -1152,6 +1155,7 @@ Classiques, mais pas fan:
 * Crazy Kung-Fu (Stephen Chow)
 * Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
+* Kingdom of Heaven (Ridley Scott)
 * à voir: https://www.rottentomatoes.com/m/1144992-crash 🏆
 * RRRrrrr!!!
 
@@ -1230,6 +1234,7 @@ Classiques, mais pas fan:
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera)
 * Valse avec Bachir
 * Musée haut, musée bas
+* 35 Rhums
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1254,8 +1259,8 @@ Classiques, mais pas fan:
 
 * La Journée de la jupe
 * A l'origine (François Cluzet)
+* Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php) : bof
 * à voir: Welcome
-* à voir: https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php
 
 ### 2010
 
@@ -1331,7 +1336,7 @@ Classiques, mais pas fan:
 
 * Holy Motors (Leos Carax) ❤️
 * Amour (Michael Haneke)
-* à voir: https://fr.wikipedia.org/wiki/De_rouille_et_d%27os 9✨
+* De Rouille et d'Os  9✨
 * à voir: Les Adieux à la reine
 
 ### 2013
@@ -1407,8 +1412,8 @@ Bof:
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* aimé, pas inoubliable:
-    * La Loi du Marché
+* La Loi du Marché (aimé, pas inoubliable)
+
 
 ### 2016
 
@@ -1416,6 +1421,7 @@ Bof:
 * Love and Friendship ❤️
 * Mademoiselle (Corée) 🌿
 * Arrival (SF, Amy Adams)
+* Captain Fantastic (Viggo Mortensen) ☀️
 * La La Land
 * I Daniel Blake
 * Better Watch Out
@@ -1431,8 +1437,9 @@ Bof:
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* à voir: Dans les forêts de Sibérie (musique par Ibrahim Maalouf)
-* La Mort de Louis XIV 🌿
+* La Mort de Louis XIV 🌿 ❤️
+* Dans les forêts de Sibérie (musique par Ibrahim Maalouf)
+
 
 ### 2017
 
@@ -1450,7 +1457,6 @@ Bof:
 * La Douleur 🎥 ❤️
   [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * à voir: https://fr.wikipedia.org/wiki/Le_Sens_de_la_fête
-* à voir: https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php (Albert Dupontel) 5✨
 * Grave
 * Le Brio (bon, pas inoubliable)
 
@@ -1459,17 +1465,22 @@ Ok sans plus:
 * Split (James McAvoy)
 * Lady Bird
 * Valérian et la Cité des mille planètes
+* Au revoir là haut (Albert Dupontel) 5✨
+  [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
+
 
 ### 2018
 
 * Three Billboards ❤️
 * Dunkirk
-* La Saveur des Ramens
+* La Saveur des Ramens (Japon/Singapour)
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * La Ballade de Buster Scruggs
 * Bird Box (Sandra Bullock, Netflix)
-* Annihilation (SF, Natalie Portman)
+* Bohemian Rhapsody (4🏆)
 * Capernaum (Capharnaüm) (Liban 🏆)
+* Heureux comme Lazzaro (Italie)
+* Annihilation (SF, Natalie Portman)
 * Sorry to Bother You
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
@@ -1479,7 +1490,8 @@ Ok sans plus:
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * L'Empereur de Paris (Vincent Cassel) ❤️
-* En liberté ! (Adèle Haenel)
+* Shéhérazade
+* En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
 * Mademoiselle de Joncquières (comédie dramatique romantique, sympa mais pas inoubliable)
 
 Sans plus:
@@ -1491,7 +1503,7 @@ Sans plus:
 Cannes, à voir:
 
 * https://www.lemonde.fr/festival-de-cannes/article/2018/05/09/cannes-2018-les-oiseaux-de-passage-un-scarface-tribal-et-hallucine-en-colombie_5296474_766360.html
-* https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html
+
 
 ### 2019
 
@@ -1564,19 +1576,28 @@ Pas aimé:
 
 ### 2021
 
-* Illusions Perdues (avec Xavier Dolan) ❤️ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
 * Oxygène (Mélanie Laurent)
 * Annette (Leos Carax, Adam Driver)
 * King Richard (Will Smith, biopic Venus Williams)
-* Bac Nord
 * Don't Look Up (Déni Cosmique) (Comédie, Jennifer Lawrence, Leonardo DiCaprio)
 * Judas and the Black Messiah
 * Stowaway (Le Passager nº 4) (SF)
 * Dune (SF, Denis Villeneuve)
 * Werewolves Within (comédie/horreur de Nöel)
+* Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants
 * à voir: https://www.telerama.fr/cinema/films/petite-maman,n6879604.php (Céline Sciamma)
-* à voir: Boite noire
 
+[Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* Illusions Perdues (avec Xavier Dolan) ❤️ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
+* Bac Nord
+* Les Olympiades (Jacques Audiard)
+
+
+### 2022
+
+* The Batman (Robert Pattinson) ❤️
+* à voir: https://www.rottentomatoes.com/m/everything_everywhere_all_at_once
 
