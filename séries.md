@@ -17,13 +17,14 @@
 * What We Do in the Shadows (2019) +++
 * Space Force (2020, Netflix) +++
 * The Great (2020) +++
+* Dix pour cent ++
 
 
 ### Drame
 
-* Black Mirror ❤️
+* Breaking Bad ❤️
 * Tchernobyl (2019) 🎥 ❤️
-* Mr Robot +++
+* Mr Robot ❤️
 * Band of Brothers
 * Peaky Blinders
 * Baron Noir (Kad Merad)
@@ -39,29 +40,29 @@
 	* Master of None
 
 
+### SF
+
+* Black Mirror (2011, Netflix) ❤️
+* Love Death and Robots (2019, Netflix)
+* Maniac (Emma Stone, Jonah Hill)
+* Real Humans
+
+
 ### Polar
 
 * Top of the Lake (Jane Campion)
 * The Killing
 * True Detective
+* Nicholas le Floch ++
 * Manhunt: Unabomber
 * Tunnel (2013, Clémence Poesy)
 * The Haunting of Hill House
 
 
-### SF
+### Divers / à thème
 
-* Real Humans
-
-
-### Divers
-
-* Breaking Bad ❤️
-* Dix pour cent ++
-* Nicholas le Floch ++
 * Dr House (saison 4 surtout ++)
 * Fargo (saison 1)
-* Maniac (Emma Stone, Jonah Hill)
 * The Good Wife
 * Mad Men
 * Dexter
