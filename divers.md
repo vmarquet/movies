@@ -56,7 +56,8 @@ Courts
 Youtube
 -------
 * [Les boloss des belles lettres](https://www.youtube.com/channel/UC32vOdZp-NN4eZZhJrUNR6w)
-    * best of: L'Odysée, Le Cid, Madame Bovary, La Métamorphose
+    * best of: L'Odyssée, Le Cid, Madame Bovary, La Métamorphose
+* [France Inter - Thomas Bidegain](https://www.youtube.com/results?search_query=thomas+bidegain)
 * [Strip Tease](https://www.youtube.com/c/StripTeaseTVFR)
 * [À la recherche du Vortex](https://www.youtube.com/watch?v=_Vv1bj7Zz4k)
 
