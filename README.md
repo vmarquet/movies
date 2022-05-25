@@ -1472,6 +1472,7 @@ Ok sans plus:
 ### 2018
 
 * Three Billboards ❤️
+* Les Frères Sisters (Western, Jacques Audiard) ❤️
 * Dunkirk
 * La Saveur des Ramens (Japon/Singapour)
 * The Favourite (Yórgos Lánthimos, Emma Stone)
@@ -1528,6 +1529,8 @@ Cannes, à voir:
 * Hors normes (Olivier Nakache, Éric Toledano, Vincent Cassel, Reda Kateb) ❤️
 * J'accuse (Polanski)
 * Le Chant du Loup
+* Le Nom de la Terre
+* La Vie Scolaire
 * La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
 
 Décevant:
