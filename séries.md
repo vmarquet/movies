@@ -32,6 +32,7 @@
 * Homeland
 * L'Affaire OJ Simpson (Netflix)
 * Dérapages (Eric Cantona)
+* The Dropout (Theranos) (2022) [🍅](https://www.rottentomatoes.com/tv/the_dropout/s01)
 * à voir:
 	* The Wire
 	* The Sopranos
@@ -46,6 +47,7 @@
 * Love Death and Robots (2019, Netflix)
 * Maniac (Emma Stone, Jonah Hill)
 * Real Humans
+* Severance (2022) [🍅](https://www.rottentomatoes.com/tv/severance)
 
 
 ### Polar
@@ -53,10 +55,16 @@
 * Top of the Lake (Jane Campion)
 * The Killing
 * True Detective
-* Nicholas le Floch ++
 * Manhunt: Unabomber
 * Tunnel (2013, Clémence Poesy)
 * The Haunting of Hill House
+
+
+### Thriller / intrigue
+
+* Nicholas le Floch ++
+* The Handmaid's Tale (2017) [🍅](https://www.rottentomatoes.com/tv/the_handmaids_tale/s01)
+* The Terror (2018) [🍅](https://www.rottentomatoes.com/tv/the_terror/s01)
 
 
 ### Divers / à thème

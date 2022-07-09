@@ -1472,7 +1472,6 @@ Ok sans plus:
 ### 2018
 
 * Three Billboards ❤️
-* Les Frères Sisters (Western, Jacques Audiard) ❤️
 * Dunkirk
 * La Saveur des Ramens (Japon/Singapour)
 * The Favourite (Yórgos Lánthimos, Emma Stone)
@@ -1490,6 +1489,7 @@ Ok sans plus:
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
+* Les Frères Sisters (Western, Jacques Audiard) ❤️ 4✨
 * L'Empereur de Paris (Vincent Cassel) ❤️
 * Shéhérazade
 * En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
