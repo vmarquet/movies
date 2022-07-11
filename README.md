@@ -90,8 +90,9 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 <details>
 <summary>Bonus: humor</summary>
 
-* http://imogenquest.net/?p=71
+* https://imoquest.tumblr.com/post/53547498057/eternal-torture
 * https://www.smbc-comics.com/?id=3164
+* https://explosm.net/comics/imdb#comic
 </details>
 
 Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
