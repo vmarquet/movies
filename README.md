@@ -502,12 +502,26 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 
 ## Films français
+
 ### Comédies
 
+* Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)
+  -> dialogues excellents (Audiard), musique très sympa
+  [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
+* Le Grand Blond avec une chaussure noire (1972, Pierre Richard, Jean Rochefort)
 * Les vécés étaient fermés de l'intérieur (1976, Jean Rochefort, Coluche)
 * Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
+* Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙
+* Le bonheur est dans le pré (1995)
 * Tenue de Soirée (1986) (Bertrand Blier, Depardieu)
 * Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
+* Le Diner de Cons (1997, avec Jacques Villeret) 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
+* La Vérité si je mens ! (1997, José Garcia, Bruno Solo)
+* Rire et Châtiment (2003, José Garcia) [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
+* L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)
+* Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
+* Le Concert (2009, Radu Mihaileanu)
+* L'Arnacoeur (2010, Romain Duris)
 * Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
   (2010, avec Jacques Gamblin)
 * Le Bruit des Glaçons  [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php)
@@ -516,19 +530,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
   (2011, avec François Cluzet)
 * The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php) ❤️
   (2011, Michel Hazanavicius, avec Jean Dujardin)
-* L'Arnacoeur (Romain Duris)
-* Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)
-  -> dialogues excellents (Audiard), musique très sympa
-  [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
-* Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte)
-* Le bonheur est dans le pré (1995)
-* L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)
-* Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
-* Rire et Châtiment  [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
-  (2003, avec José Garcia)
-* Le Diner de Cons  [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
-  (1997, avec Jacques Villeret)
-* Le Concert (2009, Radu Mihaileanu)
 * avec Michel Houellebecq:
     * L'enlèvement de Michel Houellebecq ❤️
     * Near Death Experience
@@ -561,38 +562,32 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### Comédies dramatiques
 
+* La Traversée de Paris (1956)
+* Série noire (1979, Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
+* Mon Oncle d'Amérique  (1980, Alain Resnais, avec Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
 * Amélie Poulain   (2000, JP Jeunet) [📰](https://www.telerama.fr/cinema/films/le-fabuleux-destin-d-am-lie-poulain,54074.php)
 * L'Auberge Espagnole  (2002, Cédric Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
-* Mon Oncle d'Amérique  (1980, Alain Resnais, avec Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
-* La Traversée de Paris (1956)
 * Tournée (Mathieu Amalric) 🎥
 * Mammuth  (2010, Délépine et Kervern, avec Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
 * Habemus Papam (2011, Nanni Moretti)
-* le grand soir
+* Le grand soir (2012, Delépine et Kervern, Benoît Poelvoorde)
+
 
 ### Drames
 
-
+* Les Quatre Cents Coups (1959, Truffaut)
+* La Vérité (1960, HG Clouzot) 🏆
 * Pierrot le Fou  (1965, Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * Le Mépris  [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
   (1963, Godard) 🎥 🎥
-* La Vérité (1960, HG clouzot) 🏆
-* Les Quatre Cents Coups (Truffaut)
+* Claude Sautet
+    * César et Rosalie (1972) ❤️
+    * Max et les Ferrailleurs (1971) ❤️
+* Le Chat  (1971) (avec Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
 * Cyrano de Bergerac (1990, JP Rappeneau)
-* Des Hommes et des Dieux  [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
-  (2010, avec Michael Lonsdale) 🎥
-* La Journée de la Jupe  [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php)
-  (2008)
 * Tous les Matins du Monde  [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
   (1991, avec Gérard Depardieu)
-* Le Chat  (1971) (avec Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
-* Les Grandes Personnes  (2008, avec JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
-* Polisse  [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
-  (2011)
-* Claude Sautet
-    * César et Rosalie ❤️
-    * Max et les Ferrailleurs ❤️
 * Xavier Dolan
     * Laurence Anyways ❤️
     * Tom à la Ferme ❤️
@@ -602,17 +597,27 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ![](images/affiches/pierrot.jpg)
 
 
+### Aventure
+
+* L'Homme de Rio (1964, Philippe de Broca, Belmondo)
+* Les Tribulations d'un Chinois en Chine (1965, Philippe de Broca, Belmondo)
+* L'aventure c'est l'aventure (1972, Claude Lelouch, Lino Ventura, Jacques Brel)
 
 
 ### Policier
 
-* Le Samouraï  [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php)
-  (1967) (et autres de Jean-Pierre Melville) 🎥 🎥
-* Le Cercle rouge (1970, Jean-Pierre Melville)
-* Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
-  (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu)
+* Ascenseur pour l'échafaud (1958, Louis Malle) ❤️
+* Jean-Pierre Melville
+    * Le Deuxième Souffle (1966) : pas mauvais mais longuet
+      [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php)
+    * Le Samouraï (1967) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php)
+    * L'Armée des ombres (1969) : bof, longuet
+      [📰](https://www.telerama.fr/cinema/films/l-armee-des-ombres,14662.php)
+    * Le Cercle rouge (1970)
 * Sans Mobile Apparent (1971, Philippe Labro, Jean-Louis Trintignant) (bon polar, bonnes vannes)
-* Peur sur la Ville (Belmondo) (?)
+* Peur sur la Ville (1975, Belmondo) (vu ?)
+* Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
+  (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu) ❤️
 
 ### SF
 
@@ -623,20 +628,13 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Astérix et Obélix Mission Cléopâtre
 * 2h moins le quart avant Jésus-Christ (Coluche)
 
-### Autres
-
-* Le Crabe-Tambour  [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
-  (1977, Pierre Schoenderffer)
-* Les Derniers Jours du Monde  [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php)
-  (2009, SF, avec Mathieu Amalric)
-
 ### Vieux classiques (noir et blanc)
 
-* Les Tontons Flingueurs  [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
-  (1963, Lautner, Audiard, avec Lino Ventura) ❤️
+* Les Tontons Flingueurs (1963, Lautner, Audiard, avec Lino Ventura) ❤️
+  [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
     * même genre:
-        * Les Barbouzes
-        * Ne nous fâchons pas
+        * Les Barbouzes (1964, Georges Lautner)
+        * Ne nous fâchons pas (1966, Georges Lautner)
 * Le Soupirant  (1962, Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️
     * à voir: Yoyo, Le Grand Amour
 * Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
@@ -867,23 +865,14 @@ Classiques, mais pas fan:
 
 * à voir: https://en.wikipedia.org/wiki/8%C2%BD (Federico Fellini)
 
-### 1964
-
-* L'Homme de Rio (Belmondo)
-
 ### 1965
 
-* Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo)
 * à voir: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
 ### 1971
 
 * Harold and Maude (not a fan of the aesthetic and storytelling but the plot is interesting https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 * à voir: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
-
-### 1972
-
-* Le Grand Blond avec une chaussure noire (Pierre Richard, Jean Rochefort)
 
 ### 1974
 
@@ -892,7 +881,7 @@ Classiques, mais pas fan:
 
 ### 1975
 
-* One Flew Over the Cuckoo's Nest (Milos Forman)
+* One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
 * à voir: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 
@@ -904,15 +893,12 @@ Classiques, mais pas fan:
 
 ### 1977
 
+* Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
 * à voir: Eraserhead (David Lynch)
 
 ### 1978
 
 * Molière (Ariane Mnouchkine)
-
-### 1979
-
-* à voir: https://www.telerama.fr/cinema/films/serie-noire,13515.php
 
 ### 1980
 
@@ -1051,7 +1037,6 @@ Classiques, mais pas fan:
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet)
-* La Vérité si je mens ! (José Garcia, Bruno Solo)
 * à voir: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 
 ### 1998
@@ -1123,7 +1108,7 @@ Classiques, mais pas fan:
 * Le Pianiste ❤️
 * Astérix et Obélix : Mission Cléopâtre
 * L'Auberge espagnole (Klapisch)
-* Être et avoir
+* Être et avoir #film-scolaire
 * Monsieur Batignole (Gérard Jugnot)
 
 ### 2003
@@ -1236,10 +1221,11 @@ Classiques, mais pas fan:
 * Valse avec Bachir
 * Musée haut, musée bas
 * 35 Rhums
+* Les Grandes Personnes  (2008, avec JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Entre les murs
+* Entre les murs #film-scolaire
 * Le Crime est notre affaire (Catherine Frot, André Dussollier, Claude Rich)
     * suite de Mon Petit Doigt m'a Dit (2004)
 * Bienvenue chez les Ch'tis (Kad Merad, Dany Boon)
@@ -1253,12 +1239,13 @@ Classiques, mais pas fan:
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Le Ruban blanc (Michael Haneke) 🌿
 * Fish Tank
+* Les Derniers Jours du Monde (SF, avec Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php)
 * https://www.telerama.fr/cinema/films/london-river,389614.php (vu ?)
 * à voir: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* La Journée de la jupe
+* La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
 * A l'origine (François Cluzet)
 * Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php) : bof
 * à voir: Welcome
@@ -1282,7 +1269,7 @@ Classiques, mais pas fan:
 
 * Le Bruit des glaçons ❤️
 * Le Noms des Gens
-* Des hommes et des dieux
+* Des hommes et des dieux (Michael Lonsdale) 🎥 [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
 * L'Arnacoeur
 * Tournée
 * Mammouth
@@ -1311,7 +1298,7 @@ Classiques, mais pas fan:
 
 * The Artist ❤️🏆
 * Intouchables ❤️ (Omar Sy, François Cluzet)
-* Polisse
+* Polisse [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
 * La guerre est déclarée (Valérie Donzelli)
 * Jimmy Rivière
 * L’Exercice de l’État
@@ -1531,7 +1518,7 @@ Cannes, à voir:
 * J'accuse (Polanski)
 * Le Chant du Loup
 * Le Nom de la Terre
-* La Vie Scolaire
+* La Vie Scolaire #film-scolaire
 * La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
 
 Décevant:
@@ -1582,12 +1569,12 @@ Pas aimé:
 
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
-* Oxygène (Mélanie Laurent)
-* Annette (Leos Carax, Adam Driver)
 * King Richard (Will Smith, biopic Venus Williams)
 * Don't Look Up (Déni Cosmique) (Comédie, Jennifer Lawrence, Leonardo DiCaprio)
+* Annette (Leos Carax, Adam Driver)
 * Judas and the Black Messiah
 * Stowaway (Le Passager nº 4) (SF)
+* Oxygène (Mélanie Laurent)
 * Dune (SF, Denis Villeneuve)
 * Werewolves Within (comédie/horreur de Nöel)
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants
@@ -1603,5 +1590,4 @@ Pas aimé:
 ### 2022
 
 * The Batman (Robert Pattinson) ❤️
-* à voir: https://www.rottentomatoes.com/m/everything_everywhere_all_at_once
 
