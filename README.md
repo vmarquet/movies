@@ -16,6 +16,7 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 * 🧸 = nominé à la Berlinale
 * 🌐 = nominé aux Golden Globes
 * 🎭 = nominé aux Bafta
+* 🦁 = nominé à la Mostra de Venise
 * 🍅 = lien vers https://www.rottentomatoes.com/
 * 📰 = lien vers https://www.telerama.fr/
 * ◯ = movie/director available in the [Criterion Channel](https://www.criterionchannel.com/)
@@ -94,19 +95,22 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 * https://imoquest.tumblr.com/post/53547498057/eternal-torture
 * https://www.smbc-comics.com/?id=3164
 * https://explosm.net/comics/imdb#comic
+* https://loadingartist.com/comic/down-memory-lame/
 </details>
 
 Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 
-## Mon top 10
+## Mon top 10 films préférés
 
 * Portrait de la Jeune Fille en Feu
 * Ghost Dog
-* Le Lauréat
 * Blade Runner
-* Eternal Sunshine
 * Gattaca
+* Hateful Eight (Tarentino)
+* Fight Club
+* Le Lauréat
+* Eternal Sunshine
 * Le Nom de la Rose
 * Tigre et Dragon
 * Apocalypse Now
@@ -134,8 +138,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Les Liaisons Dangereuses (avec John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
 * Roméo et Juliette (1968, Zeffirelli) [🍅](https://www.rottentomatoes.com/m/1017834-romeo_and_juliet)
 * Deep End (1970) 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
-* M le maudit (1931, Fritz Lang) 🎥 ❤️
-* Le Procès (1962, Orson Welles) 🎥 ❤️
 * Two Lovers (avec Joaquin Phoenix) 🎥
   [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
   [🍅](https://www.rottentomatoes.com/m/two_lovers) 
@@ -331,7 +333,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
 * à voir: https://www.telerama.fr/cinema/films/anon,517509.php
 * à voir: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
-* à voir: https://www.rottentomatoes.com/m/1007003-fahrenheit_451 (netflix)
 
 
 ![](images/affiches/brazil.jpg)
@@ -345,7 +346,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### Fantastique
 
-* The Seventh Seal (1957, Ingmar Bergman)
 * Phantom of the Paradise (1974, Brian de Palma)
 * La Compagnie des Loups  (1984) [🍅](https://www.rottentomatoes.com/m/company_of_wolves)
 * Arizona Dream  💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream)
@@ -399,6 +399,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 
 ![](images/affiches/silence.jpeg)
+
+[gag](https://loadingartist.com/comic/horror-movie/)
 
 
 
@@ -484,22 +486,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Ghost in the Shell (1995)
 * Ghost in the Shell 2: Innocence (2004)
 
-### Vieux classiques (noir et blanc)
-
-
-* La Vie est Belle  (Capra, 1946) [🍅](https://www.rottentomatoes.com/m/1010792-its_a_wonderful_life)
-* Casablanca  (Michael Curtiz, 1942) [🍅](https://www.rottentomatoes.com/m/1003707-casablanca)
-* Citizen Kane   (Orson Welles, 1941) 🎥 [🍅](https://www.rottentomatoes.com/m/citizen_kane)
-* The Lady from Shanghai  (Orson Welles, 1948) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
-* 12 Hommes en Colère  (Sidney Lumet, 1957) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men)
-* Certains l'aiment Chaud  (Billy Wilder, 1957) [🍅](https://www.rottentomatoes.com/m/some_like_it_hot)
-* Rashomon   (Akira Kurosawa, 1951) [🍅](https://www.rottentomatoes.com/m/rashomon)
-* Les 7 Samourais   (Akira Kurosawa, 1954) [🍅](https://www.rottentomatoes.com/m/1018639-seven_samurai)
-* Un Chien Andalou (Luis Bunuel)(à voir pour sa culture ciné)
-
-
-![](images/affiches/citizenkane.jpg)
-
 
 
 
@@ -578,7 +564,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### Drames
 
-* Les Quatre Cents Coups (1959, Truffaut)
 * La Vérité (1960, HG Clouzot) 🏆
 * Pierrot le Fou  (1965, Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * Le Mépris  [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
@@ -692,13 +677,6 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Whatever Works
 * Escrocs mais pas trop
 
-### Orson Welles
-
-* Citizen Kane
-* Le Procès
-* La Dame de Shanghai
-* Macbeth
-
 ### Francis Ford Coppola
 
 * Apocalypse Now
@@ -771,13 +749,6 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Les Noces funèbres ❤️
 * Sleepy Hollow
 
-### Fritz Lang
-
-A voir:
-
-* Le Tigre du Bengale
-* Le Tombeau Hindou
-
 ### John Carpenter (nanars de qualité)
 
 * Escape from New York (1981)
@@ -845,8 +816,54 @@ A voir:
 
 ## Par année de sortie
 
+### 1929
+
+* Un Chien Andalou (Luis Bunuel) (à voir pour sa culture ciné)
+
+### 1931
+
+* M le maudit (Fritz Lang) 🎥 ❤️
+
+### 1941
+
+* Citizen Kane (Orson Welles) 🎥 [🍅](https://www.rottentomatoes.com/m/citizen_kane)
+
+### 1942
+
+* Casablanca (Michael Curtiz) [🍅](https://www.rottentomatoes.com/m/1003707-casablanca)
+
+### 1946
+
+* La Vie est Belle (Capra) [🍅](https://www.rottentomatoes.com/m/1010792-its_a_wonderful_life)
+
+### 1948
+
+* The Lady from Shanghai (Orson Welles) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
+* Macbeth (Orson Welles)
+
+### 1951
+
+* Rashomon (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/rashomon)
+
+### 1954
+
+* Les 7 Samourais (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/1018639-seven_samurai)
+
+### 1957
+
+* The Seventh Seal (Fantastique, Ingmar Bergman)
+* 12 Hommes en Colère (Sidney Lumet) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men)
+* Certains l'aiment Chaud (Billy Wilder) [🍅](https://www.rottentomatoes.com/m/some_like_it_hot)
+
 ### 1959
 
+* à voir: Le Tigre du Bengale (Fritz Lang)
+* à voir: Le Tombeau Hindou (Fritz Lang)
+
+[Cannes (12e)](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1959#Palmar%C3%A8s)
+
+* Les Quatre Cents Coups (Truffaut) : le seul Truffaut que j'aime
+* Hiroshima mon amour (Alain Resnais) : bof, pas fan de la narration
 * à voir: Orfeu Negro (Marcel Camus) 🌿 🏆
 
 ### 1960
@@ -856,14 +873,13 @@ A voir:
 ### 1961
 
 * West Side Story 🏆 ❤️
+* L'Année dernière à Marienbad (Alain Resnais) 🦁 🎥 : très beau mais intrigue poussive
 
 ### 1962
 
+* Le Procès (Orson Welles) 🎥 ❤️
+* Cléo de 5 à 7 (Agnès Varda) : pas fan
 * à voir: La Jetée
-
-Classiques, mais pas fan:
-
-* Cléo de 5 à 7 (Agnès Varda)
 
 ### 1963
 
@@ -1308,7 +1324,7 @@ Classiques, mais pas fan:
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * The Artist ❤️🏆
-* Intouchables ❤️ (Omar Sy, François Cluzet)
+* Intouchables ❤️ (Olivier Nakache & Éric Toledano, Omar Sy, François Cluzet)
 * Polisse [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
 * La guerre est déclarée (Valérie Donzelli)
 * Jimmy Rivière
@@ -1525,7 +1541,7 @@ Cannes, à voir:
 
 * Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥 ❤️❤️
 * Proxima (Eva Green) ❤️
-* Hors normes (Olivier Nakache, Éric Toledano, Vincent Cassel, Reda Kateb) ❤️
+* Hors normes (Olivier Nakache & Éric Toledano, Vincent Cassel, Reda Kateb) ❤️
 * J'accuse (Polanski)
 * Le Chant du Loup
 * Le Nom de la Terre
