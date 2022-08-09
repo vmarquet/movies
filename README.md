@@ -18,6 +18,7 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 * 🎭 = nominé aux Bafta
 * 🍅 = lien vers https://www.rottentomatoes.com/
 * 📰 = lien vers https://www.telerama.fr/
+* ◯ = movie/director available in the [Criterion Channel](https://www.criterionchannel.com/)
 
 
 ## Sommaire
@@ -381,6 +382,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * [•REC]  (2007)
 * The Mist (2007)
 * Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
+* The Conjuring (2013)
 * The Babadook (2014)
 * It Follows (2014)
 * The Witch (2015) ❤️
@@ -635,8 +637,10 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
     * même genre:
         * Les Barbouzes (1964, Georges Lautner)
         * Ne nous fâchons pas (1966, Georges Lautner)
-* Le Soupirant  (1962, Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️
-    * à voir: Yoyo, Le Grand Amour
+* Pierre Etaix ◯
+    * Le Soupirant  (1962) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️
+    * Yoyo
+    * Le Grand Amour
 * Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
   (1961) (et autres de Jacques Demy) 🎥
 
@@ -869,6 +873,10 @@ Classiques, mais pas fan:
 
 * à voir: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
+### 1969
+
+* Easy Rider
+
 ### 1971
 
 * Harold and Maude (not a fan of the aesthetic and storytelling but the plot is interesting https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
@@ -923,8 +931,9 @@ Classiques, mais pas fan:
 
 ### 1984
 
+* Amadeus (Milos Forman) 8🏆
+* La Diagonale du fou ✨ 🏆 (meilleur film étranger)
 * The Hit (Tim Roth)
-* à voir: Amadeus (Milos Forman) 8🏆
 * à voir: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 
 ### 1985
@@ -957,8 +966,9 @@ Classiques, mais pas fan:
 * Mississippi Burning (Gene Hackman, William Dafoe)
 * à voir: https://www.rottentomatoes.com/m/gorillas_in_the_mist
 
-[Césars]
+[Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
+* Le Grand Bleu (Luc Besson)
 * L'Ours (JJ Annaud)
 * La vie est un long fleuve tranquille
 
@@ -1196,6 +1206,7 @@ Classiques, mais pas fan:
 * The Darjeeling Limited ❤️
 * No Country for Old Men ❤️
 * Gone Baby Gone
+* Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes)
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
 * 99 Francs
@@ -1572,6 +1583,7 @@ Pas aimé:
 * King Richard (Will Smith, biopic Venus Williams)
 * Don't Look Up (Déni Cosmique) (Comédie, Jennifer Lawrence, Leonardo DiCaprio)
 * Annette (Leos Carax, Adam Driver)
+* Jai Bhim (India) [🍅](https://www.rottentomatoes.com/m/jai_bhim)
 * Judas and the Black Messiah
 * Stowaway (Le Passager nº 4) (SF)
 * Oxygène (Mélanie Laurent)
@@ -1585,9 +1597,11 @@ Pas aimé:
 * Illusions Perdues (avec Xavier Dolan) ❤️ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
 * Bac Nord
 * Les Olympiades (Jacques Audiard)
+* Bof: Titane, Onoda, L'évènement, Boite noire, Benedetta, Médecin de nuit
 
 
 ### 2022
 
 * The Batman (Robert Pattinson) ❤️
+* La nuit du 12 ❤️
 

@@ -65,6 +65,7 @@
 * Nicholas le Floch ++
 * The Handmaid's Tale (2017) [🍅](https://www.rottentomatoes.com/tv/the_handmaids_tale/s01)
 * The Terror (2018) [🍅](https://www.rottentomatoes.com/tv/the_terror/s01)
+* à voir: Sherlock (Benedict Cumberbatch)
 
 
 ### Divers / à thème
@@ -76,3 +77,10 @@
 * Dexter
 * NCIS
 * The Boys
+
+
+### Anime
+
+* Cowboy Bebop (1998)
+
+
