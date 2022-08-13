@@ -497,6 +497,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
   -> dialogues excellents (Audiard), musique très sympa
   [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
 * Le Grand Blond avec une chaussure noire (1972, Pierre Richard, Jean Rochefort)
+* Les Valseuses (1974) (Bertrand Blier) ❤️
 * Les vécés étaient fermés de l'intérieur (1976, Jean Rochefort, Coluche)
 * Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
 * Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙
@@ -816,6 +817,13 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ## Par année de sortie
 
+_Dans cette section classée par année de sortie, les films sont listés dans l'ordre, du meilleur au moins bon pour chaque année._
+
+
+### 1927
+
+* Metropolis (Fritz Lang)
+
 ### 1929
 
 * Un Chien Andalou (Luis Bunuel) (à voir pour sa culture ciné)
@@ -857,14 +865,15 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 ### 1959
 
-* à voir: Le Tigre du Bengale (Fritz Lang)
-* à voir: Le Tombeau Hindou (Fritz Lang)
-
 [Cannes (12e)](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1959#Palmar%C3%A8s)
 
 * Les Quatre Cents Coups (Truffaut) : le seul Truffaut que j'aime
 * Hiroshima mon amour (Alain Resnais) : bof, pas fan de la narration
 * à voir: Orfeu Negro (Marcel Camus) 🌿 🏆
+
+Pas aimé:
+
+* Le Tigre du Bengale (Fritz Lang)
 
 ### 1960
 
@@ -878,8 +887,8 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 ### 1962
 
 * Le Procès (Orson Welles) 🎥 ❤️
+* La Jetée
 * Cléo de 5 à 7 (Agnès Varda) : pas fan
-* à voir: La Jetée
 
 ### 1963
 
@@ -1230,8 +1239,9 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
+* Le Scaphandre et le Papillon 🏆
 * Persépolis
-* à voir: https://www.telerama.fr/cinema/films/le-scaphandre-et-le-papillon,302739.php
+* La Graine et le Mulet
 
 ### 2008
 
@@ -1596,7 +1606,7 @@ Pas aimé:
 
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
-* King Richard (Will Smith, biopic Venus Williams)
+* King Richard (Will Smith, biopic Venus Williams) ❤️
 * Don't Look Up (Déni Cosmique) (Comédie, Jennifer Lawrence, Leonardo DiCaprio)
 * Annette (Leos Carax, Adam Driver)
 * Jai Bhim (India) [🍅](https://www.rottentomatoes.com/m/jai_bhim)
@@ -1605,7 +1615,7 @@ Pas aimé:
 * Oxygène (Mélanie Laurent)
 * Dune (SF, Denis Villeneuve)
 * Werewolves Within (comédie/horreur de Nöel)
-* Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants
+* Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
 * à voir: https://www.telerama.fr/cinema/films/petite-maman,n6879604.php (Céline Sciamma)
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
