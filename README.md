@@ -121,30 +121,9 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ### Drames
 
-* Le Lauréat (1967, Mike Nichols) 🎥🎥 💙
-  [🍅](https://www.rottentomatoes.com/m/graduate)
-  [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php)
-* Shame (2011, Steve McQueen, avec Michael Fassbender) 🎥 🎥
-  [🍅](https://www.rottentomatoes.com/m/shame_2011)
-* The Bridges of Madison County (1995, Clint Eastwood) ❤️
-* 21 Grammes [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
-  (Innarritu, avec Sean Penn, Naomi Watts, Benicio del Toro)
-* Babel (Iñárritu)
-* Mar Adentro (Alejandro Amenabar, avec Javier Bardem [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * Terence Malick
     * Badlands (1973, Martin Sheen) ❤️
     * The New World (2005, Christian Bale, Colin Farell) 🎥 ❤️
-* Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
-* Les Liaisons Dangereuses (avec John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
-* Roméo et Juliette (1968, Zeffirelli) [🍅](https://www.rottentomatoes.com/m/1017834-romeo_and_juliet)
-* Deep End (1970) 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
-* Two Lovers (avec Joaquin Phoenix) 🎥
-  [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
-  [🍅](https://www.rottentomatoes.com/m/two_lovers) 
-* Bright Star (2009, Jane Campion) 🎥 ❤️
-* Taxi Driver  💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
-  (et autres de Martin Scorsese (surtout Les Affranchis))
-* The Constant Gardener (avec Ralph Fiennes)
 * Werner Herzog
     * Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
       (1972, avec Klaus Kinski)
@@ -152,28 +131,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
     * Cobra Verde (1987)
     * à voir: https://www.rottentomatoes.com/m/where_the_green_ants_dream
     * Nosferatu (1978)
-* Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
-* Kramer contre Kramer
-  [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
-  [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
-  (avec Dustin Hoffman, Meryl Streep)
-* An Education (2009, Carey Mulligan)
-* Paranoid Park
-* Laurence d'Arabie (1962, David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia)
-* Dogville  (2003, Lars Von Trier, avec Nicole Kidman) --> mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
-* This is England 
-* The Queen (Stephen Frears) 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
-* Le Dernier Roi d'Ecosse (2006, avec Forest Whitaker) [🍅](https://www.rottentomatoes.com/m/last_king_of_scotland)
-* Sex, Lies and Videotape (1989, Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
-* Soleil trompeur (1994, Russie, Nikita Mikhalkov) 🏆🌿
-* L'Île nue (1960, Japon)
-* La Ballade de Narayama (1983, Japon) 🌿
-* Midnight Express (1978)
-* Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) --> esthétique bof mais scénario+
-* Etat Second (1993)
-* Drames bien genre on s'en souvient après, mais qui traînent un peu en longueur:
-    * Disgrace (2008, avec John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/)
-    * La Porte du Paradis (1980) (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php)
 * Thème: WWII
     * Le Pianiste
     * La Liste de Schindler
@@ -649,6 +606,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 Mes réalisateurs et films préférés
 
+* Martin Scorsese [🍅](https://www.rottentomatoes.com/celebrity/martin_scorsese)
+
 ### Jim Jarmusch
 
 * Ghost Dog
@@ -694,12 +653,6 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Tetro
 * Le Parrain 🎥 ❤️
 * Conversation Secrète
-
-### Martin Scorsese
-
-* Taxi Driver
-* Les Affranchis
-* Les Infiltrés
 
 ### Stanley Kubrick
 
@@ -892,6 +845,7 @@ Pas aimé:
 ### 1960
 
 * La Dolce Vita (Federico Fellini, Marcello Mastroianni) 🌿
+* L'Île nue (Japon)
 
 ### 1961
 
@@ -901,12 +855,14 @@ Pas aimé:
 ### 1962
 
 * Le Procès (Orson Welles) 🎥 ❤️
+* Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia)
 * La Jetée
 * Cléo de 5 à 7 (Agnès Varda) : pas fan
 
 ### 1963
 
 * à voir: https://en.wikipedia.org/wiki/8%C2%BD (Federico Fellini)
+* à voir: https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film) 🌿
 
 ### 1964
 
@@ -918,9 +874,23 @@ Pas aimé:
 
 * à voir: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
+### 1967
+
+* Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 💙
+  [🍅](https://www.rottentomatoes.com/m/graduate)
+  [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php)
+
+### 1968
+
+* Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/1017834-romeo_and_juliet)
+
 ### 1969
 
 * Easy Rider
+
+### 1970
+
+* Deep End (1970) 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
 
 ### 1971
 
@@ -940,6 +910,7 @@ Pas aimé:
 
 ### 1976
 
+* Taxi Driver (Martin Scorsese, Robert de Niro) 💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
 * L'Empire des sens (Nagisa Ōshima) 🎥
 * Un éléphant ça trompe énormément (Jean Rochefort)
 * Le Juge et l'Assassin (Bertrand Tavernier, Philippe Noiret, Michel Galabru)
@@ -952,10 +923,18 @@ Pas aimé:
 ### 1978
 
 * Molière (Ariane Mnouchkine)
+* Midnight Express
+
+### 1979
+
+* Kramer contre Kramer (Dustin Hoffman, Meryl Streep)
+  [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
+  [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 
 ### 1980
 
 * The Blues Brothers (John Landis) 💙
+* La Porte du Paradis (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php) : mémorable mais longuet
 
 ### 1981
 
@@ -972,6 +951,7 @@ Pas aimé:
 
 * Danton (Andrzej Wajda, Depardieu) ❤️
 * Tchao Pantin (Coluche) ❤️
+* La Ballade de Narayama (Japon) 🌿
 * Merry Christmas, Mr. Lawrence (Furyo)
 
 ### 1984
@@ -1007,6 +987,7 @@ Pas aimé:
 
 ### 1988
 
+* Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
 * à voir: https://www.rottentomatoes.com/m/gorillas_in_the_mist
@@ -1019,10 +1000,12 @@ Pas aimé:
 
 ### 1989
 
+* Sex, Lies and Videotape (Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
 * Le Cercle des poètes disparus (Peter Weir)
 
 ### 1990
 
+* Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
 * Le Mari de la coiffeuse (Jean Rochefort)
 
@@ -1042,6 +1025,7 @@ Pas aimé:
 
 * The Piano (Jane Campion)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
+* Etat Second (Peter Weir)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1051,6 +1035,7 @@ Pas aimé:
 ### 1994
 
 * La Cité de la peur ❤️
+* Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1061,6 +1046,7 @@ Pas aimé:
 
 ### 1995
 
+* The Bridges of Madison County (Clint Eastwood) ❤️
 * Usual Suspects
 * Seven (David Fincher)
 * Braveheart (Mel Gibson)
@@ -1093,6 +1079,7 @@ Pas aimé:
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet)
+* Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) : esthétique bof mais scénario+
 * à voir: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 
 ### 1998
@@ -1139,7 +1126,7 @@ Pas aimé:
 
 ### 2001
 
-* Mulholland Drive (David Lynch)
+* Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
 * Lord of the Rings
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
@@ -1176,6 +1163,7 @@ Pas aimé:
 * Pirates of the Caribbean
 * Le mystère de la chambre jaune (Bruno Podalydès)
 * Le Monde de Nemo (Pixar)
+* Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1189,10 +1177,10 @@ Pas aimé:
 * Lost in Translation (Sofia Coppola) ❤️
 * Eternal Sunshine of the Spotless Mind (Michel Gondry) ❤️
 * Kill Bill
-* 21 Grammes (Alejandro Gonzalez Iñárritu)
+* 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar)
 * Mystic River (Clint Eastwood)
-* Aviator
+* Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal)
 * Crazy Kung-Fu (Stephen Chow)
 * Troie
@@ -1210,8 +1198,9 @@ Pas aimé:
 ### 2005
 
 * A History of Violence (David Cronenberg)
-* Mar adentro (Alejandro Amenábar)
+* Mar adentro (Alejandro Amenábar, Javier Bardem) [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * Broken Flowers (Jarmusch)
+* The Constant Gardener (Ralph Fiennes)
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Million Dollar Baby
 * Capote
@@ -1234,8 +1223,10 @@ Pas aimé:
 * The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee)
 * Babel (Alejandro González Iñárritu)
-* The Queen (Stephen Frears)
-* Les Infiltrés (The Departed) 🏆
+* The Queen (Stephen Frears) 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
+* Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
+* Le Dernier Roi d'Ecosse (Forest Whitaker) [🍅](https://www.rottentomatoes.com/m/last_king_of_scotland)
+* This is England
 * Thank You for Smoking
 * The Devil Wears Prada
 * Fanaa (Bollywood)
@@ -1255,6 +1246,7 @@ Pas aimé:
 * Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes)
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
+* Paranoid Park (Gus Van Sant)
 * 99 Francs
 * à voir: https://fr.wikipedia.org/wiki/Elizabeth_:_L%27%C3%82ge_d%27or
 
@@ -1267,7 +1259,9 @@ Pas aimé:
 ### 2008
 
 * Burn After Reading ❤️
-* Two Lovers ❤️
+* Two Lovers (Joaquin Phoenix) 🎥 ❤️
+  [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
+  [🍅](https://www.rottentomatoes.com/m/two_lovers)
 * Zetwal ❤️
 * Bons baisers de Bruges (Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 * The Reader (Kate Winslet, Ralph Fiennes)
@@ -1279,7 +1273,8 @@ Pas aimé:
 * Valse avec Bachir
 * Musée haut, musée bas
 * 35 Rhums
-* Les Grandes Personnes  (2008, avec JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
+* Les Grandes Personnes (JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
+* Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1293,11 +1288,14 @@ Pas aimé:
 
 ### 2009
 
+* Bright Star (Jane Campion) 🎥 ❤️
 * Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Le Ruban blanc (Michael Haneke) 🌿
+* Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
 * Fish Tank
 * Les Derniers Jours du Monde (SF, avec Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php)
+* An Education (Carey Mulligan)
 * https://www.telerama.fr/cinema/films/london-river,389614.php (vu ?)
 * à voir: https://www.telerama.fr/cinema/films/vincere,391336.php
 
@@ -1338,6 +1336,7 @@ Pas aimé:
 * Midnight in Paris (Woody Allen)
 * Drive ❤️
 * Millenium, the girl with the dragon tattoo
+* Shame (Steve McQueen, avec Michael Fassbender) 🎥 🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
 * Margin Call
 * Starbuck
 * Rango
