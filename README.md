@@ -530,28 +530,6 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Le grand soir (2012, Delépine et Kervern, Benoît Poelvoorde)
 
 
-### Drames
-
-* La Vérité (1960, HG Clouzot) 🏆
-* Pierrot le Fou  (1965, Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
-* Le Mépris  [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
-  (1963, Godard) 🎥 🎥
-* Claude Sautet
-    * César et Rosalie (1972) ❤️
-    * Max et les Ferrailleurs (1971) ❤️
-* Le Chat  (1971) (avec Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
-* Cyrano de Bergerac (1990, JP Rappeneau)
-* Tous les Matins du Monde  [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
-  (1991, avec Gérard Depardieu)
-* Xavier Dolan
-    * Laurence Anyways ❤️
-    * Tom à la Ferme ❤️
-    * Les Amours Imaginaires ❤️
-
-
-![](images/affiches/pierrot.jpg)
-
-
 ### Aventure
 
 * L'Homme de Rio (1964, Philippe de Broca, Belmondo)
@@ -606,7 +584,9 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 Mes réalisateurs et films préférés
 
+* Claude Sautet [📰](https://www.telerama.fr/recherche/films?q=claude%20sautet)
 * Martin Scorsese [🍅](https://www.rottentomatoes.com/celebrity/martin_scorsese)
+* Xavier Dolan [🍅](https://www.rottentomatoes.com/celebrity/xavier_dolan)
 
 ### Jim Jarmusch
 
@@ -846,6 +826,7 @@ Pas aimé:
 
 * La Dolce Vita (Federico Fellini, Marcello Mastroianni) 🌿
 * L'Île nue (Japon)
+* La Vérité (HG Clouzot) 🏆
 
 ### 1961
 
@@ -861,6 +842,7 @@ Pas aimé:
 
 ### 1963
 
+* Le Mépris (Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
 * à voir: https://en.wikipedia.org/wiki/8%C2%BD (Federico Fellini)
 * à voir: https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film) 🌿
 
@@ -872,6 +854,7 @@ Pas aimé:
 
 ### 1965
 
+* Pierrot le Fou (Godard, Belmondo) 🎥 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * à voir: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
 ### 1967
@@ -890,12 +873,21 @@ Pas aimé:
 
 ### 1970
 
-* Deep End (1970) 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
+* Deep End 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
 
 ### 1971
 
 * Harold and Maude (not a fan of the aesthetic and storytelling but the plot is interesting https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
+
+Français:
+
+* Max et les Ferrailleurs (Claude Sautet) ❤️
+* Le Chat (Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
 * à voir: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
+
+### 1972
+
+* César et Rosalie (Claude Sautet) ❤️
 
 ### 1974
 
@@ -1007,13 +999,17 @@ Pas aimé:
 
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
+
+Français:
+
+* Cyrano de Bergerac (JP Rappeneau) ❤️
 * Le Mari de la coiffeuse (Jean Rochefort)
 
 ### 1991
 
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Tous les matins du monde (Alain Corneau) ❤️
+* Tous les matins du monde (Alain Corneau, Gérard Depardieu) ❤️ [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
 
 ### 1992
 
@@ -1308,6 +1304,7 @@ Pas aimé:
 
 ### 2010
 
+* Les Amours Imaginaires (Xavier Dolan) ❤️
 * Rubber (Quentin Dupieux) ❤️
 * Inception (Nolan) 💙 🏆
 * Shutter Island (Martin Scorsese)
@@ -1366,6 +1363,7 @@ Pas aimé:
 
 * Beasts of the Southern Wild ❤️
 * Mud ❤️
+* Laurence Anyways (Xavier Dolan) ❤️
 * A Royal Affair ❤️
 * The Place Beyond the Pines
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
@@ -1387,6 +1385,7 @@ Pas aimé:
 ### 2013
 
 * 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆 
+* Tom à la Ferme (Xavier Dolan) ❤️
 * Her (Spike Jonze) ❤️
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ ✨ 🌿
 * Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
