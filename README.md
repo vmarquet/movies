@@ -180,6 +180,15 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
     * La Vie est Belle (1997)
 
 
+### Drames romantiques
+
+* Portrait de la jeune fille en feu
+* 37,2 le matin (Betty Blue)
+* Eternal sunshine of the spotless mind
+* Marriage story
+* Breaking the waves
+* Kramer versus Kramer
+
 
 ### Comédies
 
@@ -234,6 +243,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 ### Comédies romantiques
 
 * Ted  (2012) [🍅](https://www.rottentomatoes.com/m/ted_2012)
+* Palm Springs
 
 
 ### Parodique/second degré
@@ -824,9 +834,13 @@ _Dans cette section classée par année de sortie, les films sont listés dans l
 
 * Metropolis (Fritz Lang)
 
+### 1928
+
+* The Passion of Joan of Arc
+
 ### 1929
 
-* Un Chien Andalou (Luis Bunuel) (à voir pour sa culture ciné)
+* Un Chien Andalou (Luis Bunuel)
 
 ### 1931
 
@@ -893,6 +907,12 @@ Pas aimé:
 ### 1963
 
 * à voir: https://en.wikipedia.org/wiki/8%C2%BD (Federico Fellini)
+
+### 1964
+
+[Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1964)
+
+* Les Parapluies de Cherbourg (Jacques Demy) 🌿 : pas fan
 
 ### 1965
 
@@ -1062,6 +1082,7 @@ Pas aimé:
 
 * The English Patient ❤️ 9🏆
 * Trainspotting
+* Breaking the Waves (Lars von Trier)
 
 ### 1997
 
