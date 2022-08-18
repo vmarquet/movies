@@ -46,8 +46,8 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
     * [Films de guerre](#films-de-guerre)
     * [Westerns](#westerns)
     * [Animés](#animés)
-    * [Vieux classiques (noir et blanc)](#vieux-classiques-noir-et-blanc)
 * [Films français par type/thème](#films-français-par-typethème)
+    * [Vieux classiques (noir et blanc)](#vieux-classiques-noir-et-blanc)
 * [Mes listes de films préférés par thème](#mes-listes-de-films-préférés-par-thème)
     * [Drames romantiques intenses](#drames-romantiques-intenses)
 * [Par réalisateur](#par-réalisateur)
@@ -125,7 +125,11 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 ## Par année de sortie
 
-_Dans cette section classée par année de sortie, les films sont listés dans l'ordre, du meilleur au moins bon pour chaque année._
+_Dans cette section classée par année de sortie, les films sont listés dans l'ordre, du meilleur au moins bon (d'après moi) pour chaque année._
+
+_Si le film est listé, c'est qu'il mérite d'être vu d'après moi (sauf mention contraire en commentaire après le titre du film)._
+
+_Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqués du symbole ❤️._
 
 ### 1921
 
@@ -260,7 +264,7 @@ Français:
 ### 1974
 
 * à voir: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
-* à voir: Parfum de femme (1974) https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
+* à voir: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
 ### 1975
 
@@ -1019,6 +1023,9 @@ Pas aimé:
 * La nuit du 12 ❤️
 
 
+[⬆️ retour sommaire](#sommaire)
+
+
 
 ## Films étrangers par type/thème
 
@@ -1347,6 +1354,8 @@ Pas aimé:
 * Ghost in the Shell 2: Innocence (2004)
 
 
+[⬆️ retour sommaire](#sommaire)
+
 
 
 ## Films français par type/thème
@@ -1471,6 +1480,9 @@ Pas aimé:
 ![](images/affiches/tontons.jpg)
 
 
+[⬆️ retour sommaire](#sommaire)
+
+
 
 ## Mes listes de films préférés par thème
 
@@ -1482,6 +1494,9 @@ Pas aimé:
 * Marriage story
 * Breaking the waves
 * Kramer contre Kramer
+
+
+[⬆️ retour sommaire](#sommaire)
 
 
 
@@ -1660,4 +1675,7 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Machete
 * Sin City
 * From Dusk till Dawn
+
+
+[⬆️ retour sommaire](#sommaire)
 
