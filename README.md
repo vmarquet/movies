@@ -4,7 +4,7 @@
 
 Cette liste regroupe tous les films qui m'ont particulièrement plu, pour une raison ou pour une autre.
 
-Pour chaque catégorie, les films sont globalement classés par ordre de préférence (les meilleurs en premier).
+Pour chaque catégorie, les films sont classés par ordre de préférence (les meilleurs en premier), sauf quelques listes où ils sont classés par année de sortie.
 
 * 💙 = film admis comme culte, à avoir vu au moins une fois
 * ❤️ = pas forcément culte mais le mériterait d'après moi, original, à voir
@@ -32,7 +32,7 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
     * [2000](#2000)
     * [2010](#2010)
     * [2020](#2020)
-* [Films étrangers par type/thème](#films-étrangers-par-typethème)
+* [Films étrangers par genre/thème](#films-étrangers-par-genrethème)
     * [Drames](#drames)
     * [Comédies](#comédies)
     * [Comédies Dramatiques](#comédies-dramatiques)
@@ -46,7 +46,7 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
     * [Films de guerre](#films-de-guerre)
     * [Westerns](#westerns)
     * [Animés](#animés)
-* [Films français par type/thème](#films-français-par-typethème)
+* [Films français par genre/thème](#films-français-par-genrethème)
     * [Vieux classiques (noir et blanc)](#vieux-classiques-noir-et-blanc)
 * [Mes listes de films préférés par thème](#mes-listes-de-films-préférés-par-thème)
     * [Drames romantiques intenses](#drames-romantiques-intenses)
@@ -191,6 +191,10 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * The Seventh Seal (Fantastique, Ingmar Bergman)
 * 12 Hommes en Colère (Sidney Lumet) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men)
 * Certains l'aiment Chaud (Billy Wilder) [🍅](https://www.rottentomatoes.com/m/some_like_it_hot)
+
+### 1958
+
+* La Ballade de Narayama (Japon) (note: le remake de 1983 est très bon également)
 
 ### 1959
 
@@ -359,6 +363,7 @@ Français:
 * Les Incorruptibles (Brian de Palma)
 * The Lost Boys (vampires)
 * à voir: https://www.rottentomatoes.com/m/empire_of_the_sun
+* à voir: https://www.telerama.fr/cinema/films/tandem,9962.php
 
 ### 1988
 
@@ -726,7 +731,7 @@ Français:
 * Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
-* Melancholia
+* Melancholia (Lars von Trier)
 * Rapace (Grégory Gadebois)
 * The Deep Blue Sea (vu ?)
 * à voir: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
@@ -807,12 +812,12 @@ Bof:
 * Coming Home (Chine, Zhang Yimou)
 * Noah (Darren Aronofsky, Russell Crowe)
 * The Imitation Game (Benedict Cumberbatch)
-* watchlist: Selma
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
-* Babysitting (Christian Clavier)
+* Babysitting (Christian Clavier) ❤️
 * Creep
 * Still Alice
 * à voir: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
+* à voir: Selma
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1038,7 +1043,7 @@ Pas aimé:
 
 
 
-## Films étrangers par type/thème
+## Films étrangers par genre/thème
 
 ### Drames
 
@@ -1369,7 +1374,7 @@ Pas aimé:
 
 
 
-## Films français par type/thème
+## Films français par genre/thème
 
 ### Comédies
 
@@ -1532,8 +1537,6 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
     * Elephant Man, Mulholland Drive
 * [Ridley Scott](https://www.rottentomatoes.com/celebrity/ridley_scott)
     * Blade Runner, Alien, Thelma & Louise
-* [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
-    * Aniki mon Frère, Hana-Bi
 * [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
 * [David Cronenberg](https://www.rottentomatoes.com/celebrity/david_cronenberg)
     * eXistenZ, Cosmopolis, A History of Violence, Videodrome
@@ -1567,6 +1570,12 @@ Français:
     * Amélie Poulain, Délicatessen, Alien IV, La Cité des Enfants Perdus
 * [Xavier Dolan](https://www.rottentomatoes.com/celebrity/xavier_dolan)
 
+Japonais:
+
+* à découvrir: [Mizoguchi](https://www.telerama.fr/recherche/films?q=Mizoguchi)
+* [Akira Kurosawa](https://www.rottentomatoes.com/celebrity/akirakurosawa)
+* [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
+    * Aniki mon Frère, Hana-Bi
 
 
 ### [Roman Polanski](https://www.rottentomatoes.com/celebrity/roman_polaski)
