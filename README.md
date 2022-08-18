@@ -80,7 +80,9 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 
 * [Now You See It](https://www.youtube.com/c/NowYouSeeIt/videos)
 * [Every Frame a Painting](https://www.youtube.com/c/everyframeapainting/videos)
+* [The Closer Look](https://www.youtube.com/c/TheCloserLook/videos)
 * [Kombini video club](https://www.youtube.com/results?search_query=konbini+video+club)
+* [Le Fossoyeur de Films](https://www.youtube.com/user/deadwattsofficiel/videos)
 </details>
 
 <details>
@@ -1510,35 +1512,57 @@ Pas aimé:
 
 ## Par réalisateur
 
-Mes réalisateurs et films préférés
+Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d'activité)_.
 
-* Claude Sautet [📰](https://www.telerama.fr/recherche/films?q=claude%20sautet)
-* Martin Scorsese [🍅](https://www.rottentomatoes.com/celebrity/martin_scorsese)
-* Xavier Dolan [🍅](https://www.rottentomatoes.com/celebrity/xavier_dolan)
+* [Stanley Kubrick](https://www.rottentomatoes.com/celebrity/stanley_kubrick)
+    * Full Metal Jacket, Docteur Folamour, Orange Mécanique, Shining, 2001
+* [Woody Allen](https://www.rottentomatoes.com/celebrity/woody_allen)
+    * Midnight in Paris, Scoop, Whatever Works, Escrocs mais pas trop
+* [Peter Weier](https://www.rottentomatoes.com/celebrity/peter_weir)
+    * Witness, Dead Poets Society, Etat Second
+* [Terry Gilliam](https://www.rottentomatoes.com/celebrity/terry_gilliam)
+    * Brazil, 12 Monkeys, Sacré Graal
+    * Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
+* [Martin Scorsese](https://www.rottentomatoes.com/celebrity/martin_scorsese)
+* [Darren Aronofsky](https://www.rottentomatoes.com/celebrity/darren_aronofsky)
+    * Requiem for a Dream, Black Swan, The Wrestler
+* [David Lynch](https://www.rottentomatoes.com/celebrity/david_lynch)
+    * Elephant Man, Mulholland Drive
+* [Ridley Scott](https://www.rottentomatoes.com/celebrity/ridley_scott)
+    * Blade Runner, Alien, Thelma & Louise
+* [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
+    * Aniki mon Frère, Hana-Bi
+* [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
+* [David Cronenberg](https://www.rottentomatoes.com/celebrity/david_cronenberg)
+    * eXistenZ, Cosmopolis, A History of Violence, Videodrome
+* [David Fincher](https://www.rottentomatoes.com/celebrity/david_fincher)
+* [Jim Jarmusch](https://www.rottentomatoes.com/celebrity/jim_jarmusch)
+    * Ghost Dog, Broken Flowers, Mystery Train, Dead Man
+* Robert Rodriguez
+    * Machete, Sin City, From Dusk till Dawn
+* [Michel Gondry](https://www.rottentomatoes.com/celebrity/michel_gondry)
+    * Eternal Sunshine, Be Kind Rewind, La Science des Rêves
+* [Kenneth Brannagh](https://www.rottentomatoes.com/celebrity/kenneth_branagh)
+    * Le Limier, Beaucoup de Bruit pour rien, Dead Again
+* [Quentin Dupieux](https://www.rottentomatoes.com/celebrity/quentin_dupieux)
+* [Steve McQueen](https://www.rottentomatoes.com/celebrity/steve_mcqueen_iii)
 
-### Jim Jarmusch
+Français:
 
-* Ghost Dog
-* Broken Flowers
-* Mystery Train
-* Dead Man
+* [Jean-Luc Godard](https://www.telerama.fr/recherche/films?q=jean-luc%20godard)
+    * Pierrot le Fou, Alphaville, Le Mépris, A Bout de Souffle, La Chinoise, Adieu au langage
+* [Claude Sautet](https://www.telerama.fr/recherche/films?q=claude%20sautet)
+* [Jean-Paul Rappeneau](https://www.telerama.fr/recherche/films?q=rappeneau)
+* [Jean-Jacques Annaud](https://www.telerama.fr/recherche/films?q=annaud)
+* [Leos Carax](https://www.telerama.fr/recherche/films?q=leos%20carax)
+    * Holy Motors ❤️
+    * Les Amants du Pont Neuf ❤️
+    * Mauvais Sang
+* [Jean-Pierre Jeunet](https://www.telerama.fr/recherche/films?q=Jean-Pierre%20Jeunet)
+    * Amélie Poulain, Délicatessen, Alien IV, La Cité des Enfants Perdus
+* [Xavier Dolan](https://www.rottentomatoes.com/celebrity/xavier_dolan)
 
-### Terry Gilliam
 
-* Brazil
-* 12 Monkeys
-* Sacré Graal
-
-Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
-
-### Jean-Luc Godard
-
-* Pierrot le Fou
-* Alphaville
-* Le Mépris
-* A Bout de Souffle
-* La Chinoise
-* Adieu au langage
 
 ### Roman Polanski
 
@@ -1548,13 +1572,6 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Le Pianiste
 * Chinatown
 
-### Woody Allen
-
-* Midnight in Paris
-* Scoop
-* Whatever Works
-* Escrocs mais pas trop
-
 ### Francis Ford Coppola
 
 * Apocalypse Now
@@ -1562,52 +1579,12 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Le Parrain 🎥 ❤️
 * Conversation Secrète
 
-### Stanley Kubrick
-
-* Full Metal Jacket
-* Docteur Folamour
-* Orange Mécanique
-* Shining
-* 2001
-
-### Jean-Pierre Jeunet
-
-* Amélie Poulain
-* Délicatessen
-* Alien IV
-* La Cité des Enfants Perdus
-
-### Michel Gondry
-
-* Eternal Sunshine
-* Be Kind, Rewind
-* La Science des Rêves
-
-### Ridley Scott
-
-* Blade Runner
-* Alien
-* Thelma & Louise
-
-### David Cronemberg
-
-* eXistenZ
-* Cosmopolis
-* A History of Violence
-* Videodrome
-
 ### Frères Coen
 
 * The Big Lebowski
 * The Barber
 * No Country For Old Men
 * Barton Fink
-
-### Leos Carax
-
-* Holy Motors ❤️
-* Les Amants du Pont Neuf ❤️
-* Mauvais Sang
 
 ### Nuri Bilge Ceylan
 
@@ -1627,40 +1604,11 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * The Thing (1982)
 * They Live (1988)
 
-### Darren Arronovski
-
-* Requiem for a Dream
-* Black Swan
-* The Wrestler
-
-### David Lynch
-
-* Elephant Man
-* Mulholland Drive
-* Blue Velvet
-
 ### Almodovar
 
 * Volver
 * Femmes au bord de la crise de nerfs
 * Todo sobre my madre
-
-### Peter Weier
-
-* Witness
-* Dead Poets Society
-* Etat Second
-
-### Kenneth Brannagh
-
-* Le Limier
-* Beaucoup de Bruit pour rien
-* Dead Again
-
-### Takeshi Kitano
-
-* Aniki mon Frère
-* Hana-Bi
 
 ### Zhang Yimou (arts-martiaux chinois)
 
@@ -1678,11 +1626,6 @@ Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry 
 * Reservoir Dogs
 * Boulevard de la Mort (Death Proof)
 
-### Robert Rodriguez
-
-* Machete
-* Sin City
-* From Dusk till Dawn
 
 
 [⬆️ retour sommaire](#sommaire)
