@@ -24,7 +24,15 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 
 ## Sommaire
 
-* [Films étrangers](#films-étrangers)
+* [Par année de sortie](#par-année-de-sortie)
+    * [1960](#1960)
+    * [1970](#1970)
+    * [1980](#1980)
+    * [1990](#1990)
+    * [2000](#2000)
+    * [2010](#2010)
+    * [2020](#2020)
+* [Films étrangers par type/thème](#films-étrangers-par-typethème)
     * [Drames](#drames)
     * [Comédies](#comédies)
     * [Comédies Dramatiques](#comédies-dramatiques)
@@ -39,12 +47,10 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
     * [Westerns](#westerns)
     * [Animés](#animés)
     * [Vieux classiques (noir et blanc)](#vieux-classiques-noir-et-blanc)
-* [Films français](#films-français)
+* [Films français par type/thème](#films-français-par-typethème)
+* [Mes listes de films préférés par thème](#mes-listes-de-films-préférés-par-thème)
+    * [Drames romantiques intenses](#drames-romantiques-intenses)
 * [Par réalisateur](#par-réalisateur)
-* [Par année de sortie](#par-année-de-sortie)
-    * [2000](#2000)
-    * [2010](#2010)
-    * [2020](#2020)
 
 
 ## Tips
@@ -117,651 +123,13 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Inglorious Basterds
 
 
-## Films étrangers
-
-### Drames
-
-* Terence Malick
-    * Badlands (1973, Martin Sheen) ❤️
-    * The New World (2005, Christian Bale, Colin Farell) 🎥 ❤️
-* Werner Herzog
-    * Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
-      (1972, avec Klaus Kinski)
-    * Fitzcarraldo (1982) 🎥
-    * Cobra Verde (1987)
-    * à voir: https://www.rottentomatoes.com/m/where_the_green_ants_dream
-    * Nosferatu (1978)
-* Thème: WWII
-    * Le Pianiste
-    * La Liste de Schindler
-    * La Vie est Belle (1997)
-
-
-### Drames romantiques
-
-* Portrait de la jeune fille en feu
-* 37,2 le matin (Betty Blue)
-* Eternal sunshine of the spotless mind
-* Marriage story
-* Breaking the waves
-* Kramer versus Kramer
-
-
-### Comédies
-
-* Midnight in Paris (et autres de Woody Allen) 🎥
-* The Darjeeling Limited
-* Lost in Translation  (2003, Sofia Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
-* Juno  [🍅](https://www.rottentomatoes.com/m/juno)
-* The Big Lebowski   (et autres des frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski)
-* Clerks, les employés modèles  (1994) 💙 [🍅](https://www.rottentomatoes.com/m/clerks)
-* Kiss Kiss Bang Bang  [🍅](https://www.rottentomatoes.com/m/kiss_kiss_bang_bang)
-* Thank You for Smoking (avec Aaron Eckhart)
-* Kaboom  (2010, Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php)
-* Vampires en toute Intimité (What we do in the Shadows) (2014) ❤️
-* Shaun of the Dead (2004)
-* Zombieland  (2009) [🍅](https://www.rottentomatoes.com/m/zombieland)
-* Tootsie  (1982) --> pour Dustin Hoffman
-  [(et voir ici)](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
-  [🍅](https://www.rottentomatoes.com/m/tootsie)
-* Le Tigre et la Neige (2005, Roberto Benigni)
-* Do the right thing (1989)
-* Starbuck (2011)
-* Rush Hour 2 (2001)
-* The 40 year old virgin (2005)
-* Hapiness Therapy (2012)
-
-
-##### Comédies pour enfants
-
-* SOS Fantômes (Ghostbusters)
-* Gremlins
-* Maman, j'ai raté l'avion ! (Home Alone)
-* Les dieux sont tombés sur la tête (The Gods Must Be Crazy) (1980)
-* La Coccinelle à Mexico, etc
-
-
-#### Comédie de bureau
-
-* Glengarry Glen Ross (1992)
-* Office Space (1999)
-* The Internship (2013, Vince Vaughn, Owen Wilson)
-
-
-![](images/affiches/lost.jpg)
-
-
-### Comédies dramatiques
-
-* Volver  (2006) (et autres de Pedro Almodovar) 🎥 [🍅](https://www.rottentomatoes.com/m/volver)
-* Les Ailes du Désir  (1987, Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
-* Thelma et Louise  (1991, Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
-
-### Comédies romantiques
-
-* Ted  (2012) [🍅](https://www.rottentomatoes.com/m/ted_2012)
-* Palm Springs
-
-
-### Parodique/second degré
-
-* Sugarland Express (1974, Steven Spielberg) ❤️
-* Machete  (2010, Robert Rodriguez) ❤️ [🍅](https://www.rottentomatoes.com/m/machete)
-* Perdita Durango   (1997, avec Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
-* From Dusk till Dawn (1996, Robert Rodriguez, avec Harvey Keitel)
-
-### Aventure/road-movie
-
-* L'Homme qui voulut être roi (The Man Who Would Be King) (1975, Connery, Caine, Plummer)
-* Tigre et Dragon  (2000, Ang Lee) 🎥 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
-* Into The Wild  (2007, Sean Penn) [🍅](https://www.rottentomatoes.com/m/into_the_wild)
-
-### Policier/Thriller
-
-* Ghost Dog
-  [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
-  [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
-  (1999, avec Forest Whitaker) (et autres de Jim Jarmusch)
-* Le Nom de la Rose  [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986)
-  (JJ Annaud, avec Sean Connery, Michael Lonsdale...)
-* Les Trois Jours du Condor  [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor)
-  (Sydney Pollack, avec Robert Redford)
-* Marathon Man    (avec Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man)
-* The Girl with the Dragon Tattoo (David Fincher)
-* Zodiac (David Fincher)
-* L.A. Confidential  (avec Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
-* Mystic River  (2003, Clint Eastwood, avec Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river)
-* Collateral (Michael Mann)
-* L'Affaire Thomas Crown  (l'original de 1968 , avec Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair)
-* Don't Look Now (1974) (suspense et musiques +)
-* Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
-* Heat (Michael Mann, Al Pacino)
-* Cosmopolis  (et autres de David Cronemberg) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
-* The Pledge (Sean Penn, avec Jack Nicholson)
-* King of New York  (1990) (le meilleur rôle de Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york)
-* Aniki mon Frère (et autres de Takeshi Kitano)
-* Witness  (Peter Weier, avec Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness)
-* Copland  (1997, avec Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land)
-* Sin City  (2005) [🍅](https://www.rottentomatoes.com/m/sin_city)
-* OldBoy  (2004) [🍅](https://www.rottentomatoes.com/m/oldboy)
-* La Corde (Hitchcock)
-* Side Effects (2013, Steven Soderbergh)
-
-#### Thrillers policiers + amoureux
-
-* Body Heat (1982)
-* Sea of Love (1989)
-
-### Bon scénario/Twist
-
-* The Truman Show
-* Eternal Sunshine (et autres de Michel Gondry) 🎥
-* Memento (Christopher Nolan)
-* eXistenZ  [🍅](https://www.rottentomatoes.com/m/existenz)
-  (David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
-* Inception (Christopher Nolan)
-* Shutter Island (Martin Scorsese)
-* Le Limier  [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php)
-  (le remake, à défaut)(Kenneth Branagh, avec Jude Law, Michael Caine)
-* Dans la peau de John Malkovich (avec John Malkovich)
-* Usual Suspects (avec Kevin Spacey)
-* Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
-* The Man from Earth   (tout repose sur le scénario, très original) [🍅](https://www.rottentomatoes.com/m/man_from_earth)
-* The Machinist (2004)
-* Le Prestige
-* Un Jour sans Fin (avec Bill Murray)
-* The Game (1997, David Fincher, Michael Douglas, Sean Penn)
-
-
-### Science-Fiction
-
-* Brazil  (Terry Gilliam) 💙 [🍅](https://www.rottentomatoes.com/m/1003033-brazil)
-* Blade Runner  (Ridley Scott, avec Harrison Ford) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/blade_runner)
-* Bienvenue à Gattaca   (avec Ethan Hawke, Jude Law) 💙❤️ [🍅](https://www.rottentomatoes.com/m/gattaca)
-* La Planète des Singes  (l'original, avec Charlton Heston) [🍅](https://www.rottentomatoes.com/m/1016397-planet_of_the_apes)
-* Solaris (1972, Russie, Andreï Tarkovski) 🌿
-* District 9  (2009) [🍅](https://www.rottentomatoes.com/m/district_9)
-* Soleil Vert  (1973, avec Charlton Heston) ❤️ [🍅](https://www.rottentomatoes.com/m/soylent_green)
-* Moon  (2009) 🎥 [🍅](https://www.rottentomatoes.com/m/10009075-moon)
-* Alien  (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien)
-* Alien IV  [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
-  (JP Jeunet)
-* Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen)
-* Minority Report (2002, Spielberg)
-* Artificial Intelligence: A.I. (2001, Spielberg)
-* 2001 A Space Odyssey   (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
-* Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
-* Cube (1997)
-* Dark City (1998)
-* THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
-* La Guerre des mondes (2005, Spielberg)
-* Antiviral
-* I, Robot (2003, Will Smith)
-* The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
-* à voir: https://www.telerama.fr/cinema/films/anon,517509.php
-* à voir: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
-
-
-![](images/affiches/brazil.jpg)
-
-![](images/affiches/bladerunner.jpg)
-
-![](images/affiches/gattaca.jpg)
-
-![](images/affiches/D9.jpg)
-
-
-### Fantastique
-
-* Phantom of the Paradise (1974, Brian de Palma)
-* La Compagnie des Loups  (1984) [🍅](https://www.rottentomatoes.com/m/company_of_wolves)
-* Arizona Dream  💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream)
-  (1993, Kusturica, avec Johnny Depp) (très bonne musique)
-* Edward aux mains d'argent
-* [The Fall](https://www.imdb.com/title/tt0460791) (2006)
-
-#### Vampires
-
-* Le Bal des Vampires  (1967, Roman Polanski) (parodique) 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) ❤️
-* Nosferatu  (1922, Murnau) [🍅](https://www.rottentomatoes.com/m/nosferatu)
-* Entretien avec un Vampire  (1994) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire)
-
-### Epouvante / Horreur
-
-
-* Rosemary's Baby (Roman Polanski) 🎥 💙
-  [🍅](https://www.rottentomatoes.com/m/rosemarys_baby)
-  [(qq explications ici)](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
-* Le Silence des Agneaux  (1991, avec Anthony Hopkins) 💙 [🍅](https://www.rottentomatoes.com/m/silence_of_the_lambs)
-* Elephant Man  (1980, avec Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
-* Délivrance  (1972) ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance)
-* Shining  (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
-* The Others (Amenabar)
-* Psychose (Hitchcock) 💙
-* Suspiria (1977)  pour le cadrage et l'esthétique
-* Scream (1996, Wes Craven)
-* Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
-* The Blair Witch Project (1999) 💙
-* Kairo (Japon, 2001)
-* Saw (2004)
-* The Descent (2005)
-* L'Orphelinat (2007)
-* [•REC]  (2007)
-* The Mist (2007)
-* Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
-* The Conjuring (2013)
-* The Babadook (2014)
-* It Follows (2014)
-* The Witch (2015) ❤️
-* Better Watch Out (2016)
-* A Quiet Place (2018) (John Krasinski)
-* Bird Box (2018)
-* Us (2019) (ok sans plus)
-* Impetigore (2019)
-* His House (2020) (1ère heure bien, fin décevante)
-* The Night House (2021)
-* Scream (2022)
-
-[🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
-
-
-![](images/affiches/silence.jpeg)
-
-[gag](https://loadingartist.com/comic/horror-movie/)
-
-
-
-
-### Films de Guerre
-
-
-* Apocalypse Now (1979, FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
-* Platoon (1986, Oliver Stone, Charlie Sheen, Christopher Walken)
-* Full Metal Jacket (1987, Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket)
-* The Deer Hunter (Voyage au Bout de l'Enfer) (1978, Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
-* The Thin Red Line (1998, Terrence Malick)
-* MASH (1970, Robert Altman)
-
-
-![](images/affiches/FMJ.jpg)
-
-
-### Films historiques
-
-* La Guerre du Feu (1981, JJ Annaud)
-* Section spéciale (1975, Costa-Gavras)
-* Lincoln (2012, Spielberg)
-
-#### WWII
-
-* La Chute (2004)
-* Walkyrie (2008, Tom Cruise)
-* La Rafle (2010)
-* Darkest Hour (2017)
-
-
-### Westerns
-
-#### Sérieux
-
-* Danse avec les Loups  [🍅](https://www.rottentomatoes.com/m/dances_with_wolves)
-  (de et avec Kevin Costner, 7🏆 meilleur film 1991) 🎥
-* There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
-* Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
-* 3:10 to Yuma (2007)
-* The Assassination of Jesse James by the Coward Robert Ford (2007)
-* Bone Tomahawk (2015)
-* Little Big Man (1970) (longuet)
-
-#### Spaghettis (parodique)
-
-* La Trilogie du Dollar (Sergio Leone, avec Clint Eastwood): 🎥 💙
-
-	* Pour une poignée de dollars  (1964) [🍅](https://www.rottentomatoes.com/m/fistful_of_dollars)
-	* Et pour quelques Dollars de plus  (1965) [🍅](https://www.rottentomatoes.com/m/for_a_few_dollars_more)
-	* Le Bon, la Brute et le Truand  (1966) [🍅](https://www.rottentomatoes.com/m/good_the_bad_and_the_ugly)
-
-* L'Homme des Hautes Plaines   (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
-* Impitoyable  [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven)
-  (Clint Eastwood, 4🏆 meilleur film 1992)
-
-#### Néowesterns
-
-* Trois Enterrements  [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada)
-(de et avec Tommy Lee Jones)
-* Lone Star  [🍅](https://www.rottentomatoes.com/m/1074022-lone_star)
-
-### Aventure et divertissement familial
-
-* [Indiana Jones 1, 2 et 3](https://www.rottentomatoes.com/search/?search=indiana+jones&sitesearch=rt)
-(Spielberg)
-* Harry Potter
-* [Pirates des Caraïbes 1, 2 et 3](https://www.rottentomatoes.com/search/?search=pirates+of+the+caribbean&sitesearch=rt)
-* Jurassic Park
-* Be Kind, Rewind (Michel Gondry)
-
-### Animés
-
-* La plupart des Hayao Miyasaki ❤️
-    * Princesse Mononoke
-    * Nausicaa de la Vallée du Vent
-    * Le Tombeau des Lucioles
-    * Le Chateau dans le Ciel
-    * Le Chateau Ambulant
-    * Le Voyage de Chihiro
-    * ...
-* Ghost in the Shell (1995)
-* Ghost in the Shell 2: Innocence (2004)
-
-
-
-
-## Films français
-
-### Comédies
-
-* Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)
-  -> dialogues excellents (Audiard), musique très sympa
-  [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
-* Le Grand Blond avec une chaussure noire (1972, Pierre Richard, Jean Rochefort)
-* Les Valseuses (1974) (Bertrand Blier) ❤️
-* Les vécés étaient fermés de l'intérieur (1976, Jean Rochefort, Coluche)
-* Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
-* Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙
-* Le bonheur est dans le pré (1995)
-* Tenue de Soirée (1986) (Bertrand Blier, Depardieu)
-* Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
-* Le Diner de Cons (1997, avec Jacques Villeret) 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
-* La Vérité si je mens ! (1997, José Garcia, Bruno Solo)
-* Rire et Châtiment (2003, José Garcia) [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
-* L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)
-* Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
-* Le Concert (2009, Radu Mihaileanu)
-* L'Arnacoeur (2010, Romain Duris)
-* Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
-  (2010, avec Jacques Gamblin)
-* Le Bruit des Glaçons  [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php)
-  (2010, Bertrand Blier, avec Jean Dujardin, Albert Dupontel)
-* Intouchables (2011) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php)
-  (2011, avec François Cluzet)
-* The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php) ❤️
-  (2011, Michel Hazanavicius, avec Jean Dujardin)
-* avec Michel Houellebecq:
-    * L'enlèvement de Michel Houellebecq ❤️
-    * Near Death Experience
-
-#### WWII
-
-* La Traversée de Paris (1956, Bourvil)
-* Le Jour le plus long (1962, John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil)
-* Le Mur de l'Atlantique (1970, Marcel Camus, Bourvil)
-
-#### Classiques potaches
-
-* Fanfan la Tulipe (1952)
-* La Grande Vadrouille (1966, Gérard Oury, Bourvil, de Funès)
-* Rabbi Jacob (1973, Louis de Funes)
-* Papy fait de la résistance (1983)
-* L'Opération Corned-Beef (1991, Jean-Marie Poiré, Christian Clavier, Jean Reno)
-* Les Visiteurs (1993, Christian Clavier, Jean Reno)
-* Un Indien dans la ville (1994, Thierry Lhermitte)
-
-##### Autres
-
-> Avec Fernandel, Louis de Funès et Jean Gabin, Bourvil fait partie des acteurs français ayant attiré le plus grand nombre de spectateurs dans les salles de cinéma entre 1945 et 1970 : environ 205 millions.
-
-* Années 60: voir Gérard Oury, Louis de Funès, [Bourvil](https://fr.wikipedia.org/wiki/Bourvil#Filmographie_s%C3%A9lective), Belmondo
-* Années 70: voir Francis Veber, Pierre Richard
-* Années 80: voir [troupe du Splendid](https://fr.wikipedia.org/wiki/Le_Splendid_%28troupe%29#Films_du_Splendid), Christian Clavier
-* Années 90: voir [les Nuls](https://fr.wikipedia.org/wiki/Les_Nuls#Au_cin%C3%A9ma), [les Inconnus](https://fr.wikipedia.org/wiki/Les_Inconnus#Filmographie)
-
-
-### Comédies dramatiques
-
-* La Traversée de Paris (1956)
-* Série noire (1979, Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
-* Mon Oncle d'Amérique  (1980, Alain Resnais, avec Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
-* Amélie Poulain   (2000, JP Jeunet) [📰](https://www.telerama.fr/cinema/films/le-fabuleux-destin-d-am-lie-poulain,54074.php)
-* L'Auberge Espagnole  (2002, Cédric Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
-* Tournée (Mathieu Amalric) 🎥
-* Mammuth  (2010, Délépine et Kervern, avec Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
-* Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
-* Habemus Papam (2011, Nanni Moretti)
-* Le grand soir (2012, Delépine et Kervern, Benoît Poelvoorde)
-
-
-### Aventure
-
-* L'Homme de Rio (1964, Philippe de Broca, Belmondo)
-* Les Tribulations d'un Chinois en Chine (1965, Philippe de Broca, Belmondo)
-* L'aventure c'est l'aventure (1972, Claude Lelouch, Lino Ventura, Jacques Brel)
-
-
-### Policier
-
-* Ascenseur pour l'échafaud (1958, Louis Malle) ❤️
-* Jean-Pierre Melville
-    * Le Deuxième Souffle (1966) : pas mauvais mais longuet
-      [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php)
-    * Le Samouraï (1967) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php)
-    * L'Armée des ombres (1969) : bof, longuet
-      [📰](https://www.telerama.fr/cinema/films/l-armee-des-ombres,14662.php)
-    * Le Cercle rouge (1970)
-* Sans Mobile Apparent (1971, Philippe Labro, Jean-Louis Trintignant) (bon polar, bonnes vannes)
-* Peur sur la Ville (1975, Belmondo) (vu ?)
-* Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
-  (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu) ❤️
-
-### SF
-
-* Alphaville (1965, Jean-Luc Godard) ❤️
-
-### Films à sketches
-
-* Astérix et Obélix Mission Cléopâtre
-* 2h moins le quart avant Jésus-Christ (Coluche)
-
-### Vieux classiques (noir et blanc)
-
-* Les Tontons Flingueurs (1963, Lautner, Audiard, avec Lino Ventura) ❤️
-  [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
-    * même genre:
-        * Les Barbouzes (1964, Georges Lautner)
-        * Ne nous fâchons pas (1966, Georges Lautner)
-* Pierre Etaix ◯
-    * Le Soupirant  (1962) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️
-    * Yoyo
-    * Le Grand Amour
-* Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
-  (1961) (et autres de Jacques Demy) 🎥
-
-![](images/affiches/tontons.jpg)
-
-
-
-
-## Par réalisateur
-
-Mes réalisateurs et films préférés
-
-* Claude Sautet [📰](https://www.telerama.fr/recherche/films?q=claude%20sautet)
-* Martin Scorsese [🍅](https://www.rottentomatoes.com/celebrity/martin_scorsese)
-* Xavier Dolan [🍅](https://www.rottentomatoes.com/celebrity/xavier_dolan)
-
-### Jim Jarmusch
-
-* Ghost Dog
-* Broken Flowers
-* Mystery Train
-* Dead Man
-
-### Terry Gilliam
-
-* Brazil
-* 12 Monkeys
-* Sacré Graal
-
-Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
-
-### Jean-Luc Godard
-
-* Pierrot le Fou
-* Alphaville
-* Le Mépris
-* A Bout de Souffle
-* La Chinoise
-* Adieu au langage
-
-### Roman Polanski
-
-* Rosemary's Baby
-* Le Locataire ❤️
-* Le Bal des Vampires ❤️
-* Le Pianiste
-* Chinatown
-
-### Woody Allen
-
-* Midnight in Paris
-* Scoop
-* Whatever Works
-* Escrocs mais pas trop
-
-### Francis Ford Coppola
-
-* Apocalypse Now
-* Tetro
-* Le Parrain 🎥 ❤️
-* Conversation Secrète
-
-### Stanley Kubrick
-
-* Full Metal Jacket
-* Docteur Folamour
-* Orange Mécanique
-* Shining
-* 2001
-
-### Jean-Pierre Jeunet
-
-* Amélie Poulain
-* Délicatessen
-* Alien IV
-* La Cité des Enfants Perdus
-
-### Michel Gondry
-
-* Eternal Sunshine
-* Be Kind, Rewind
-* La Science des Rêves
-
-### Ridley Scott
-
-* Blade Runner
-* Alien
-* Thelma & Louise
-
-### David Cronemberg
-
-* eXistenZ
-* Cosmopolis
-* A History of Violence
-* Videodrome
-
-### Frères Coen
-
-* The Big Lebowski
-* The Barber
-* No Country For Old Men
-* Barton Fink
-
-### Leos Carax
-
-* Holy Motors ❤️
-* Les Amants du Pont Neuf ❤️
-* Mauvais Sang
-
-### Nuri Bilge Ceylan
-
-* Il était une fois en Anatolie (2011) 🌿
-* Winter Sleep (2013) 🌿
-
-### Tim Burton
-
-* Sweeney Todd ❤️
-* Edward aux mains d'argent ❤️
-* Les Noces funèbres ❤️
-* Sleepy Hollow
-
-### John Carpenter (nanars de qualité)
-
-* Escape from New York (1981)
-* The Thing (1982)
-* They Live (1988)
-
-### Darren Arronovski
-
-* Requiem for a Dream
-* Black Swan
-* The Wrestler
-
-### David Lynch
-
-* Elephant Man
-* Mulholland Drive
-* Blue Velvet
-
-### Almodovar
-
-* Volver
-* Femmes au bord de la crise de nerfs
-* Todo sobre my madre
-
-### Peter Weier
-
-* Witness
-* Dead Poets Society
-* Etat Second
-
-### Kenneth Brannagh
-
-* Le Limier
-* Beaucoup de Bruit pour rien
-* Dead Again
-
-### Takeshi Kitano
-
-* Aniki mon Frère
-* Hana-Bi
-
-### Zhang Yimou (arts-martiaux chinois)
-
-* Hero
-* La Cité Interdite
-* Le Secret des Poignards Volants
-* à voir: https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php
-
-### Tarentino
-
-* Inglorious Basterds 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds) ❤️
-* Pulp Fiction (1994) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
-* Les Huit Salopards ❤️
-* Kill Bill
-* Reservoir Dogs
-* Boulevard de la Mort (Death Proof)
-
-### Robert Rodriguez
-
-* Machete
-* Sin City
-* From Dusk till Dawn
-
-
-
 ## Par année de sortie
 
 _Dans cette section classée par année de sortie, les films sont listés dans l'ordre, du meilleur au moins bon pour chaque année._
 
+### 1921
+
+* Le Kid et autres de Charlie Chaplin [📰](https://fr.wikipedia.org/wiki/Charlie_Chaplin#Filmographie)
 
 ### 1927
 
@@ -850,7 +218,7 @@ Pas aimé:
 
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1964)
 
-* Les Parapluies de Cherbourg (Jacques Demy) 🌿 : pas fan
+* Les Parapluies de Cherbourg (Jacques Demy) 🌿 : pas fan, beau mais intrigue bof
 
 ### 1965
 
@@ -1649,4 +1017,647 @@ Pas aimé:
 
 * The Batman (Robert Pattinson) ❤️
 * La nuit du 12 ❤️
+
+
+
+## Films étrangers par type/thème
+
+### Drames
+
+* Terence Malick
+    * Badlands (1973, Martin Sheen) ❤️
+    * The New World (2005, Christian Bale, Colin Farell) 🎥 ❤️
+* Werner Herzog
+    * Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
+      (1972, avec Klaus Kinski)
+    * Fitzcarraldo (1982) 🎥
+    * Cobra Verde (1987)
+    * à voir: https://www.rottentomatoes.com/m/where_the_green_ants_dream
+    * Nosferatu (1978)
+* Thème: WWII
+    * Le Pianiste
+    * La Liste de Schindler
+    * La Vie est Belle (1997)
+
+
+### Comédies
+
+* Midnight in Paris (et autres de Woody Allen) 🎥
+* The Darjeeling Limited
+* Lost in Translation  (2003, Sofia Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
+* Juno  [🍅](https://www.rottentomatoes.com/m/juno)
+* The Big Lebowski   (et autres des frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski)
+* Clerks, les employés modèles  (1994) 💙 [🍅](https://www.rottentomatoes.com/m/clerks)
+* Kiss Kiss Bang Bang  [🍅](https://www.rottentomatoes.com/m/kiss_kiss_bang_bang)
+* Thank You for Smoking (avec Aaron Eckhart)
+* Kaboom  (2010, Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php)
+* Vampires en toute Intimité (What we do in the Shadows) (2014) ❤️
+* Shaun of the Dead (2004)
+* Zombieland  (2009) [🍅](https://www.rottentomatoes.com/m/zombieland)
+* Tootsie  (1982) --> pour Dustin Hoffman
+  [(et voir ici)](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
+  [🍅](https://www.rottentomatoes.com/m/tootsie)
+* Le Tigre et la Neige (2005, Roberto Benigni)
+* Do the right thing (1989)
+* Starbuck (2011)
+* Rush Hour 2 (2001)
+* The 40 year old virgin (2005)
+* Hapiness Therapy (2012)
+
+
+##### Comédies pour enfants
+
+* SOS Fantômes (Ghostbusters)
+* Gremlins
+* Maman, j'ai raté l'avion ! (Home Alone)
+* Les dieux sont tombés sur la tête (The Gods Must Be Crazy) (1980)
+* La Coccinelle à Mexico, etc
+
+
+#### Comédie de bureau
+
+* Glengarry Glen Ross (1992)
+* Office Space (1999)
+* The Internship (2013, Vince Vaughn, Owen Wilson)
+
+
+![](images/affiches/lost.jpg)
+
+
+### Comédies dramatiques
+
+* Volver  (2006) (et autres de Pedro Almodovar) 🎥 [🍅](https://www.rottentomatoes.com/m/volver)
+* Les Ailes du Désir  (1987, Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
+* Thelma et Louise  (1991, Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
+
+### Comédies romantiques
+
+* Ted  (2012) [🍅](https://www.rottentomatoes.com/m/ted_2012)
+* Palm Springs
+
+
+### Parodique/second degré
+
+* Sugarland Express (1974, Steven Spielberg) ❤️
+* Machete  (2010, Robert Rodriguez) ❤️ [🍅](https://www.rottentomatoes.com/m/machete)
+* Perdita Durango   (1997, avec Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
+* From Dusk till Dawn (1996, Robert Rodriguez, avec Harvey Keitel)
+
+### Aventure/road-movie
+
+* L'Homme qui voulut être roi (The Man Who Would Be King) (1975, Connery, Caine, Plummer)
+* Tigre et Dragon  (2000, Ang Lee) 🎥 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
+* Into The Wild  (2007, Sean Penn) [🍅](https://www.rottentomatoes.com/m/into_the_wild)
+
+### Policier/Thriller
+
+* Ghost Dog
+  [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
+  [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
+  (1999, avec Forest Whitaker) (et autres de Jim Jarmusch)
+* Le Nom de la Rose  [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986)
+  (JJ Annaud, avec Sean Connery, Michael Lonsdale...)
+* Les Trois Jours du Condor  [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor)
+  (Sydney Pollack, avec Robert Redford)
+* Marathon Man    (avec Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man)
+* The Girl with the Dragon Tattoo (David Fincher)
+* Zodiac (David Fincher)
+* L.A. Confidential  (avec Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
+* Mystic River  (2003, Clint Eastwood, avec Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river)
+* Collateral (Michael Mann)
+* L'Affaire Thomas Crown  (l'original de 1968 , avec Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair)
+* Don't Look Now (1974) (suspense et musiques +)
+* Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
+* Heat (Michael Mann, Al Pacino)
+* Cosmopolis  (et autres de David Cronemberg) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
+* The Pledge (Sean Penn, avec Jack Nicholson)
+* King of New York  (1990) (le meilleur rôle de Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york)
+* Aniki mon Frère (et autres de Takeshi Kitano)
+* Witness  (Peter Weier, avec Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness)
+* Copland  (1997, avec Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land)
+* Sin City  (2005) [🍅](https://www.rottentomatoes.com/m/sin_city)
+* OldBoy  (2004) [🍅](https://www.rottentomatoes.com/m/oldboy)
+* La Corde (Hitchcock)
+* Side Effects (2013, Steven Soderbergh)
+
+#### Thrillers policiers + amoureux
+
+* Body Heat (1982)
+* Sea of Love (1989)
+
+### Bon scénario/Twist
+
+* The Truman Show
+* Eternal Sunshine (et autres de Michel Gondry) 🎥
+* Memento (Christopher Nolan)
+* eXistenZ  [🍅](https://www.rottentomatoes.com/m/existenz)
+  (David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
+* Inception (Christopher Nolan)
+* Shutter Island (Martin Scorsese)
+* Le Limier  [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php)
+  (le remake, à défaut)(Kenneth Branagh, avec Jude Law, Michael Caine)
+* Dans la peau de John Malkovich (avec John Malkovich)
+* Usual Suspects (avec Kevin Spacey)
+* Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
+* The Man from Earth   (tout repose sur le scénario, très original) [🍅](https://www.rottentomatoes.com/m/man_from_earth)
+* The Machinist (2004)
+* Le Prestige
+* Un Jour sans Fin (avec Bill Murray)
+* The Game (1997, David Fincher, Michael Douglas, Sean Penn)
+
+
+### Science-Fiction
+
+* Brazil  (Terry Gilliam) 💙 [🍅](https://www.rottentomatoes.com/m/1003033-brazil)
+* Blade Runner  (Ridley Scott, avec Harrison Ford) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/blade_runner)
+* Bienvenue à Gattaca   (avec Ethan Hawke, Jude Law) 💙❤️ [🍅](https://www.rottentomatoes.com/m/gattaca)
+* La Planète des Singes  (l'original, avec Charlton Heston) [🍅](https://www.rottentomatoes.com/m/1016397-planet_of_the_apes)
+* Solaris (1972, Russie, Andreï Tarkovski) 🌿
+* District 9  (2009) [🍅](https://www.rottentomatoes.com/m/district_9)
+* Soleil Vert  (1973, avec Charlton Heston) ❤️ [🍅](https://www.rottentomatoes.com/m/soylent_green)
+* Moon  (2009) 🎥 [🍅](https://www.rottentomatoes.com/m/10009075-moon)
+* Alien  (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien)
+* Alien IV  [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
+  (JP Jeunet)
+* Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen)
+* Minority Report (2002, Spielberg)
+* Artificial Intelligence: A.I. (2001, Spielberg)
+* 2001 A Space Odyssey   (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
+* Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
+* Cube (1997)
+* Dark City (1998)
+* THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
+* La Guerre des mondes (2005, Spielberg)
+* Antiviral
+* I, Robot (2003, Will Smith)
+* The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
+* à voir: https://www.telerama.fr/cinema/films/anon,517509.php
+* à voir: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
+
+
+![](images/affiches/brazil.jpg)
+
+![](images/affiches/bladerunner.jpg)
+
+![](images/affiches/gattaca.jpg)
+
+![](images/affiches/D9.jpg)
+
+
+### Fantastique
+
+* Phantom of the Paradise (1974, Brian de Palma)
+* La Compagnie des Loups  (1984) [🍅](https://www.rottentomatoes.com/m/company_of_wolves)
+* Arizona Dream  💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream)
+  (1993, Kusturica, avec Johnny Depp) (très bonne musique)
+* Edward aux mains d'argent
+* [The Fall](https://www.imdb.com/title/tt0460791) (2006)
+
+#### Vampires
+
+* Le Bal des Vampires  (1967, Roman Polanski) (parodique) 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) ❤️
+* Nosferatu  (1922, Murnau) [🍅](https://www.rottentomatoes.com/m/nosferatu)
+* Entretien avec un Vampire  (1994) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire)
+
+### Epouvante / Horreur
+
+
+* Rosemary's Baby (Roman Polanski) 🎥 💙
+  [🍅](https://www.rottentomatoes.com/m/rosemarys_baby)
+  [(qq explications ici)](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
+* Le Silence des Agneaux  (1991, avec Anthony Hopkins) 💙 [🍅](https://www.rottentomatoes.com/m/silence_of_the_lambs)
+* Elephant Man  (1980, avec Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
+* Délivrance  (1972) ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance)
+* Shining  (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
+* The Others (Amenabar)
+* Psychose (Hitchcock) 💙
+* Suspiria (1977)  pour le cadrage et l'esthétique
+* Scream (1996, Wes Craven)
+* Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
+* The Blair Witch Project (1999) 💙
+* Kairo (Japon, 2001)
+* Saw (2004)
+* The Descent (2005)
+* L'Orphelinat (2007)
+* [•REC]  (2007)
+* The Mist (2007)
+* Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
+* The Conjuring (2013)
+* The Babadook (2014)
+* It Follows (2014)
+* The Witch (2015) ❤️
+* Better Watch Out (2016)
+* A Quiet Place (2018) (John Krasinski)
+* Bird Box (2018)
+* Us (2019) (ok sans plus)
+* Impetigore (2019)
+* His House (2020) (1ère heure bien, fin décevante)
+* The Night House (2021)
+* Scream (2022)
+
+[🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
+
+
+![](images/affiches/silence.jpeg)
+
+[gag](https://loadingartist.com/comic/horror-movie/)
+
+
+
+
+### Films de Guerre
+
+
+* Apocalypse Now (1979, FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
+* Platoon (1986, Oliver Stone, Charlie Sheen, Christopher Walken)
+* Full Metal Jacket (1987, Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket)
+* The Deer Hunter (Voyage au Bout de l'Enfer) (1978, Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
+* The Thin Red Line (1998, Terrence Malick)
+* MASH (1970, Robert Altman)
+
+
+![](images/affiches/FMJ.jpg)
+
+
+### Films historiques
+
+* La Guerre du Feu (1981, JJ Annaud)
+* Section spéciale (1975, Costa-Gavras)
+* Lincoln (2012, Spielberg)
+
+#### WWII
+
+* La Chute (2004)
+* Walkyrie (2008, Tom Cruise)
+* La Rafle (2010)
+* Darkest Hour (2017)
+
+
+### Westerns
+
+#### Sérieux
+
+* Danse avec les Loups  [🍅](https://www.rottentomatoes.com/m/dances_with_wolves)
+  (de et avec Kevin Costner, 7🏆 meilleur film 1991) 🎥
+* There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
+* Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
+* 3:10 to Yuma (2007)
+* The Assassination of Jesse James by the Coward Robert Ford (2007)
+* Bone Tomahawk (2015)
+* Little Big Man (1970) (longuet)
+
+#### Spaghettis (parodique)
+
+* La Trilogie du Dollar (Sergio Leone, avec Clint Eastwood): 🎥 💙
+
+	* Pour une poignée de dollars  (1964) [🍅](https://www.rottentomatoes.com/m/fistful_of_dollars)
+	* Et pour quelques Dollars de plus  (1965) [🍅](https://www.rottentomatoes.com/m/for_a_few_dollars_more)
+	* Le Bon, la Brute et le Truand  (1966) [🍅](https://www.rottentomatoes.com/m/good_the_bad_and_the_ugly)
+
+* L'Homme des Hautes Plaines   (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
+* Impitoyable  [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven)
+  (Clint Eastwood, 4🏆 meilleur film 1992)
+
+#### Néowesterns
+
+* Trois Enterrements  [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada)
+(de et avec Tommy Lee Jones)
+* Lone Star  [🍅](https://www.rottentomatoes.com/m/1074022-lone_star)
+
+### Aventure et divertissement familial
+
+* [Indiana Jones 1, 2 et 3](https://www.rottentomatoes.com/search/?search=indiana+jones&sitesearch=rt)
+(Spielberg)
+* Harry Potter
+* [Pirates des Caraïbes 1, 2 et 3](https://www.rottentomatoes.com/search/?search=pirates+of+the+caribbean&sitesearch=rt)
+* Jurassic Park
+* Be Kind, Rewind (Michel Gondry)
+
+### Animés
+
+* La plupart des Hayao Miyasaki ❤️
+    * Princesse Mononoke
+    * Nausicaa de la Vallée du Vent
+    * Le Tombeau des Lucioles
+    * Le Chateau dans le Ciel
+    * Le Chateau Ambulant
+    * Le Voyage de Chihiro
+    * ...
+* Ghost in the Shell (1995)
+* Ghost in the Shell 2: Innocence (2004)
+
+
+
+
+## Films français par type/thème
+
+### Comédies
+
+* Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)
+  -> dialogues excellents (Audiard), musique très sympa
+  [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
+* Le Grand Blond avec une chaussure noire (1972, Pierre Richard, Jean Rochefort)
+* Les Valseuses (1974) (Bertrand Blier) ❤️
+* Les vécés étaient fermés de l'intérieur (1976, Jean Rochefort, Coluche)
+* Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
+* Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙
+* Le bonheur est dans le pré (1995)
+* Tenue de Soirée (1986) (Bertrand Blier, Depardieu)
+* Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
+* Le Diner de Cons (1997, avec Jacques Villeret) 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
+* La Vérité si je mens ! (1997, José Garcia, Bruno Solo)
+* Rire et Châtiment (2003, José Garcia) [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
+* L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)
+* Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
+* Le Concert (2009, Radu Mihaileanu)
+* L'Arnacoeur (2010, Romain Duris)
+* Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
+  (2010, avec Jacques Gamblin)
+* Le Bruit des Glaçons  [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php)
+  (2010, Bertrand Blier, avec Jean Dujardin, Albert Dupontel)
+* Intouchables (2011) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php)
+  (2011, avec François Cluzet)
+* The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php) ❤️
+  (2011, Michel Hazanavicius, avec Jean Dujardin)
+* avec Michel Houellebecq:
+    * L'enlèvement de Michel Houellebecq ❤️
+    * Near Death Experience
+
+#### WWII
+
+* La Traversée de Paris (1956, Bourvil)
+* Le Jour le plus long (1962, John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil)
+* Le Mur de l'Atlantique (1970, Marcel Camus, Bourvil)
+
+#### Classiques potaches
+
+* Fanfan la Tulipe (1952)
+* La Grande Vadrouille (1966, Gérard Oury, Bourvil, de Funès)
+* Rabbi Jacob (1973, Louis de Funes)
+* Papy fait de la résistance (1983)
+* L'Opération Corned-Beef (1991, Jean-Marie Poiré, Christian Clavier, Jean Reno)
+* Les Visiteurs (1993, Christian Clavier, Jean Reno)
+* Un Indien dans la ville (1994, Thierry Lhermitte)
+
+##### Autres
+
+> Avec Fernandel, Louis de Funès et Jean Gabin, Bourvil fait partie des acteurs français ayant attiré le plus grand nombre de spectateurs dans les salles de cinéma entre 1945 et 1970 : environ 205 millions.
+
+* Années 60: voir Gérard Oury, Louis de Funès, [Bourvil](https://fr.wikipedia.org/wiki/Bourvil#Filmographie_s%C3%A9lective), Belmondo
+* Années 70: voir Francis Veber, Pierre Richard
+* Années 80: voir [troupe du Splendid](https://fr.wikipedia.org/wiki/Le_Splendid_%28troupe%29#Films_du_Splendid), Christian Clavier
+* Années 90: voir [les Nuls](https://fr.wikipedia.org/wiki/Les_Nuls#Au_cin%C3%A9ma), [les Inconnus](https://fr.wikipedia.org/wiki/Les_Inconnus#Filmographie)
+
+
+### Comédies dramatiques
+
+* La Traversée de Paris (1956)
+* Série noire (1979, Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
+* Mon Oncle d'Amérique  (1980, Alain Resnais, avec Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
+* Amélie Poulain   (2000, JP Jeunet) [📰](https://www.telerama.fr/cinema/films/le-fabuleux-destin-d-am-lie-poulain,54074.php)
+* L'Auberge Espagnole  (2002, Cédric Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
+* Tournée (Mathieu Amalric) 🎥
+* Mammuth  (2010, Délépine et Kervern, avec Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
+* Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
+* Habemus Papam (2011, Nanni Moretti)
+* Le grand soir (2012, Delépine et Kervern, Benoît Poelvoorde)
+
+
+### Aventure
+
+* L'Homme de Rio (1964, Philippe de Broca, Belmondo)
+* Les Tribulations d'un Chinois en Chine (1965, Philippe de Broca, Belmondo)
+* L'aventure c'est l'aventure (1972, Claude Lelouch, Lino Ventura, Jacques Brel)
+
+
+### Policier
+
+* Ascenseur pour l'échafaud (1958, Louis Malle) ❤️
+* Jean-Pierre Melville
+    * Le Deuxième Souffle (1966) : pas mauvais mais longuet
+      [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php)
+    * Le Samouraï (1967) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php)
+    * L'Armée des ombres (1969) : bof, longuet
+      [📰](https://www.telerama.fr/cinema/films/l-armee-des-ombres,14662.php)
+    * Le Cercle rouge (1970)
+* Sans Mobile Apparent (1971, Philippe Labro, Jean-Louis Trintignant) (bon polar, bonnes vannes)
+* Peur sur la Ville (1975, Belmondo) (vu ?)
+* Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
+  (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu) ❤️
+
+### SF
+
+* Alphaville (1965, Jean-Luc Godard) ❤️
+
+### Films à sketches
+
+* Astérix et Obélix Mission Cléopâtre
+* 2h moins le quart avant Jésus-Christ (Coluche)
+
+### Vieux classiques (noir et blanc)
+
+* Les Tontons Flingueurs (1963, Lautner, Audiard, avec Lino Ventura) ❤️
+  [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
+    * même genre:
+        * Les Barbouzes (1964, Georges Lautner)
+        * Ne nous fâchons pas (1966, Georges Lautner)
+* Pierre Etaix ◯
+    * Le Soupirant  (1962) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️
+    * Yoyo
+    * Le Grand Amour
+* Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
+  (1961) (et autres de Jacques Demy) 🎥
+
+![](images/affiches/tontons.jpg)
+
+
+
+## Mes listes de films préférés par thème
+
+### Drames romantiques intenses
+
+* Portrait de la jeune fille en feu
+* 37,2 le matin (Betty Blue)
+* Eternal sunshine of the spotless mind
+* Marriage story
+* Breaking the waves
+* Kramer contre Kramer
+
+
+
+## Par réalisateur
+
+Mes réalisateurs et films préférés
+
+* Claude Sautet [📰](https://www.telerama.fr/recherche/films?q=claude%20sautet)
+* Martin Scorsese [🍅](https://www.rottentomatoes.com/celebrity/martin_scorsese)
+* Xavier Dolan [🍅](https://www.rottentomatoes.com/celebrity/xavier_dolan)
+
+### Jim Jarmusch
+
+* Ghost Dog
+* Broken Flowers
+* Mystery Train
+* Dead Man
+
+### Terry Gilliam
+
+* Brazil
+* 12 Monkeys
+* Sacré Graal
+
+Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
+
+### Jean-Luc Godard
+
+* Pierrot le Fou
+* Alphaville
+* Le Mépris
+* A Bout de Souffle
+* La Chinoise
+* Adieu au langage
+
+### Roman Polanski
+
+* Rosemary's Baby
+* Le Locataire ❤️
+* Le Bal des Vampires ❤️
+* Le Pianiste
+* Chinatown
+
+### Woody Allen
+
+* Midnight in Paris
+* Scoop
+* Whatever Works
+* Escrocs mais pas trop
+
+### Francis Ford Coppola
+
+* Apocalypse Now
+* Tetro
+* Le Parrain 🎥 ❤️
+* Conversation Secrète
+
+### Stanley Kubrick
+
+* Full Metal Jacket
+* Docteur Folamour
+* Orange Mécanique
+* Shining
+* 2001
+
+### Jean-Pierre Jeunet
+
+* Amélie Poulain
+* Délicatessen
+* Alien IV
+* La Cité des Enfants Perdus
+
+### Michel Gondry
+
+* Eternal Sunshine
+* Be Kind, Rewind
+* La Science des Rêves
+
+### Ridley Scott
+
+* Blade Runner
+* Alien
+* Thelma & Louise
+
+### David Cronemberg
+
+* eXistenZ
+* Cosmopolis
+* A History of Violence
+* Videodrome
+
+### Frères Coen
+
+* The Big Lebowski
+* The Barber
+* No Country For Old Men
+* Barton Fink
+
+### Leos Carax
+
+* Holy Motors ❤️
+* Les Amants du Pont Neuf ❤️
+* Mauvais Sang
+
+### Nuri Bilge Ceylan
+
+* Il était une fois en Anatolie (2011) 🌿
+* Winter Sleep (2013) 🌿
+
+### Tim Burton
+
+* Sweeney Todd ❤️
+* Edward aux mains d'argent ❤️
+* Les Noces funèbres ❤️
+* Sleepy Hollow
+
+### John Carpenter (nanars de qualité)
+
+* Escape from New York (1981)
+* The Thing (1982)
+* They Live (1988)
+
+### Darren Arronovski
+
+* Requiem for a Dream
+* Black Swan
+* The Wrestler
+
+### David Lynch
+
+* Elephant Man
+* Mulholland Drive
+* Blue Velvet
+
+### Almodovar
+
+* Volver
+* Femmes au bord de la crise de nerfs
+* Todo sobre my madre
+
+### Peter Weier
+
+* Witness
+* Dead Poets Society
+* Etat Second
+
+### Kenneth Brannagh
+
+* Le Limier
+* Beaucoup de Bruit pour rien
+* Dead Again
+
+### Takeshi Kitano
+
+* Aniki mon Frère
+* Hana-Bi
+
+### Zhang Yimou (arts-martiaux chinois)
+
+* Hero
+* La Cité Interdite
+* Le Secret des Poignards Volants
+* à voir: https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php
+
+### Tarentino
+
+* Inglorious Basterds 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds) ❤️
+* Pulp Fiction (1994) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
+* Les Huit Salopards ❤️
+* Kill Bill
+* Reservoir Dogs
+* Boulevard de la Mort (Death Proof)
+
+### Robert Rodriguez
+
+* Machete
+* Sin City
+* From Dusk till Dawn
 
