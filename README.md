@@ -273,6 +273,7 @@ Français:
 
 ### 1974
 
+* Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
 * à voir: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 * à voir: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
@@ -1523,6 +1524,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Terry Gilliam](https://www.rottentomatoes.com/celebrity/terry_gilliam)
     * Brazil, 12 Monkeys, Sacré Graal
     * Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
+* [Clint Eastwood](https://www.rottentomatoes.com/celebrity/clint_eastwood)
 * [Martin Scorsese](https://www.rottentomatoes.com/celebrity/martin_scorsese)
 * [Darren Aronofsky](https://www.rottentomatoes.com/celebrity/darren_aronofsky)
     * Requiem for a Dream, Black Swan, The Wrestler
@@ -1546,6 +1548,9 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
     * Le Limier, Beaucoup de Bruit pour rien, Dead Again
 * [Quentin Dupieux](https://www.rottentomatoes.com/celebrity/quentin_dupieux)
 * [Steve McQueen](https://www.rottentomatoes.com/celebrity/steve_mcqueen_iii)
+* [Nuri Bilge Ceylan](https://www.rottentomatoes.com/celebrity/nuri_bilge_ceylan)
+    * Il était une fois en Anatolie (2011) 🌿
+    * Winter Sleep (2013) 🌿
 
 Français:
 
@@ -1564,7 +1569,7 @@ Français:
 
 
 
-### Roman Polanski
+### [Roman Polanski](https://www.rottentomatoes.com/celebrity/roman_polaski)
 
 * Rosemary's Baby
 * Le Locataire ❤️
@@ -1572,52 +1577,47 @@ Français:
 * Le Pianiste
 * Chinatown
 
-### Francis Ford Coppola
+### [Francis Ford Coppola](https://www.rottentomatoes.com/celebrity/francis_ford_coppola)
 
 * Apocalypse Now
 * Tetro
 * Le Parrain 🎥 ❤️
 * Conversation Secrète
 
-### Frères Coen
+### [Frères Coen](https://www.rottentomatoes.com/celebrity/joel_coen)
 
 * The Big Lebowski
 * The Barber
 * No Country For Old Men
 * Barton Fink
 
-### Nuri Bilge Ceylan
-
-* Il était une fois en Anatolie (2011) 🌿
-* Winter Sleep (2013) 🌿
-
-### Tim Burton
+### [Tim Burton](https://www.rottentomatoes.com/celebrity/tim_burton)
 
 * Sweeney Todd ❤️
 * Edward aux mains d'argent ❤️
 * Les Noces funèbres ❤️
 * Sleepy Hollow
 
-### John Carpenter (nanars de qualité)
+### [John Carpenter](https://www.rottentomatoes.com/celebrity/rip_haight) (nanars de qualité)
 
 * Escape from New York (1981)
 * The Thing (1982)
 * They Live (1988)
 
-### Almodovar
+### [Almodovar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
 
 * Volver
 * Femmes au bord de la crise de nerfs
 * Todo sobre my madre
 
-### Zhang Yimou (arts-martiaux chinois)
+### [Zhang Yimou](https://www.rottentomatoes.com/celebrity/zhang_yimou) (arts-martiaux chinois)
 
 * Hero
 * La Cité Interdite
 * Le Secret des Poignards Volants
 * à voir: https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php
 
-### Tarentino
+### [Tarentino](https://www.rottentomatoes.com/celebrity/quentin_tarantino)
 
 * Inglorious Basterds 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds) ❤️
 * Pulp Fiction (1994) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
