@@ -65,7 +65,7 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
     * https://mubi.com/fr/specials/cannes-film-festival
     * https://mubi.com/fr/specials/fortnight
     * https://mubi.com/fr/specials/film-festival-favorites
-* [movieo.me](https://movieo.me/movies?years%5B%5D=1900&years%5B%5D=2021&netflix_instant=true): un site qui permet de voir les bons films qui sont sur Netflix (US)
+* [movieo.me](https://movieo.me/movies?years%5B%5D=1900&years%5B%5D=2021&netflix_instant=true): un site qui permet de filtrer les bons films qui sont sur Netflix (US)
 </details>
 
 <details>
@@ -73,6 +73,14 @@ Pour chaque catégorie, les films sont globalement classés par ordre de préfé
 
 * [Quentin Tarantino and the Poetry Between the Lines](https://www.youtube.com/watch?v=-sLV-UzASMg)
 * [How Tarantino Writes A Scene](https://www.youtube.com/watch?v=XATONsyKml0)
+</details>
+
+<details>
+<summary>Youtube channels</summary>
+
+* [Now You See It](https://www.youtube.com/c/NowYouSeeIt/videos)
+* [Every Frame a Painting](https://www.youtube.com/c/everyframeapainting/videos)
+* [Kombini video club](https://www.youtube.com/results?search_query=konbini+video+club)
 </details>
 
 <details>
@@ -943,8 +951,8 @@ Cannes, à voir:
 * Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥 ❤️❤️
 * Proxima (Eva Green) ❤️
 * Hors normes (Olivier Nakache & Éric Toledano, Vincent Cassel, Reda Kateb) ❤️
+* Le Chant du Loup ❤️
 * J'accuse (Polanski)
-* Le Chant du Loup
 * Le Nom de la Terre
 * La Vie Scolaire #film-scolaire
 * La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
