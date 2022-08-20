@@ -309,24 +309,36 @@ Français:
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep)
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
+* Le Tambour 🏆 (meilleur film étranger) [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
 
 ### 1980
 
+[Oscars 53](https://fr.wikipedia.org/wiki/53e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
+* Elephant Man (Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
 * The Blues Brothers (John Landis) 💙
 * La Porte du Paradis (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php) : mémorable mais longuet
+* Raging Bull (Martin Scorsese) (vu ?)
 
 ### 1981
 
+[Oscars 54](https://fr.wikipedia.org/wiki/54e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
+* Mephisto 🎥 ❤️ 🏆 (meilleur film étranger, Allemagne/Hongrie) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
 * An American Werewolf in London (John Landis)
 * Coup de torchon (Bertrand Tavernier)
 * Blow Out (Brian De Palma, John Travolta) (one of all-time favorite movies of Tarentino)
+* Bof: Chariots of Fire
+* à voir: https://www.rottentomatoes.com/m/atlantic_city
 
 ### 1982
 
-* Gandhi (Richard Attenborough)
+* Gandhi (Richard Attenborough) 🏆
 * Le père Noël est une ordure
 
 ### 1983
+
+[Oscars 56](https://fr.wikipedia.org/wiki/56e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Danton (Andrzej Wajda, Depardieu) ❤️
 * Tchao Pantin (Coluche) ❤️
@@ -335,6 +347,8 @@ Français:
 
 ### 1984
 
+[Oscars 57](https://fr.wikipedia.org/wiki/57e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * Amadeus (Milos Forman) 8🏆
 * La Diagonale du fou ✨ 🏆 (meilleur film étranger)
 * The Hit (Tim Roth)
@@ -342,11 +356,13 @@ Français:
 
 ### 1985
 
+[Oscars 58](https://fr.wikipedia.org/wiki/58e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * White Nights (Soleil de nuit) (Russie, Mikhail Baryshnikov)
 * Tampopo (Japon)
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club
-* à voir: Out of Africa (Sydney Pollack, Robert Redford) 🏆
+* à voir: Out of Africa (Sydney Pollack, Robert Redford) 7🏆
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
 * à voir: https://www.telerama.fr/cinema/films/detective,4714.php
@@ -359,6 +375,7 @@ Français:
 
 ### 1987
 
+* Les Ailes du Désir (Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆
 * Les Incorruptibles (Brian de Palma)
 * The Lost Boys (vampires)
@@ -385,6 +402,8 @@ Français:
 
 ### 1990
 
+[Oscars 63](https://fr.wikipedia.org/wiki/63e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
 
@@ -394,6 +413,10 @@ Français:
 * Le Mari de la coiffeuse (Jean Rochefort)
 
 ### 1991
+
+[Oscars 64](https://fr.wikipedia.org/wiki/64e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
+* Thelma et Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
 
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -599,7 +622,7 @@ Français:
 
 ### 2006
 
-* Volver (Pedro Almodóvar) ❤️❤️
+* Volver (Pedro Almodóvar) 🎥 ❤️❤️ [🍅](https://www.rottentomatoes.com/m/volver)
 * La Vie des autres ❤️
 * Little Miss Sunshine ❤️ ☀️
 * Casino Royale
@@ -614,6 +637,7 @@ Français:
 * Thank You for Smoking
 * The Devil Wears Prada
 * Fanaa (Bollywood)
+* Apocalypto (Mel Gibson) : longuet
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -775,7 +799,7 @@ Français:
 * 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆 
 * Tom à la Ferme (Xavier Dolan) ❤️
 * Her (Spike Jonze) ❤️
-* La grande bellezza (Paolo Sorrentino) 🎥 ❤️ ✨ 🌿
+* La grande bellezza (Paolo Sorrentino) 🎥 ❤️ 🏆 (meilleur film étranger) ✨ 🌿
 * Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
 * Under the Skin
 * Only Lovers Left Alive (Jarmusch) ❤️
@@ -1035,7 +1059,7 @@ Pas aimé:
 
 ### 2022
 
-* The Batman (Robert Pattinson) ❤️
+* The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * La nuit du 12 ❤️
 
 
@@ -1106,12 +1130,6 @@ Pas aimé:
 
 ![](images/affiches/lost.jpg)
 
-
-### Comédies dramatiques
-
-* Volver  (2006) (et autres de Pedro Almodovar) 🎥 [🍅](https://www.rottentomatoes.com/m/volver)
-* Les Ailes du Désir  (1987, Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
-* Thelma et Louise  (1991, Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
 
 ### Comédies romantiques
 
@@ -1249,7 +1267,6 @@ Pas aimé:
   [🍅](https://www.rottentomatoes.com/m/rosemarys_baby)
   [(qq explications ici)](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
 * Le Silence des Agneaux  (1991, avec Anthony Hopkins) 💙 [🍅](https://www.rottentomatoes.com/m/silence_of_the_lambs)
-* Elephant Man  (1980, avec Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
 * Délivrance  (1972) ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance)
 * Shining  (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
 * The Others (Amenabar)
