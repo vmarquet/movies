@@ -297,6 +297,7 @@ Français:
 ### 1977
 
 * Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
+* The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
 * à voir: Eraserhead (David Lynch)
 
 ### 1978
@@ -309,7 +310,7 @@ Français:
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep)
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
-* Le Tambour 🏆 (meilleur film étranger) [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
+* Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
 
 ### 1980
 
@@ -362,10 +363,13 @@ Français:
 * Tampopo (Japon)
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club
-* à voir: Out of Africa (Sydney Pollack, Robert Redford) 7🏆
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
 * à voir: https://www.telerama.fr/cinema/films/detective,4714.php
+
+Pas aimé:
+
+* Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : bof, photo vieillote, peu dialogué et longuet
 
 ### 1986
 
@@ -376,11 +380,15 @@ Français:
 ### 1987
 
 * Les Ailes du Désir (Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
-* Le Dernier Empereur (Bernardo Bertolucci) 🏆
+* Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨
 * Les Incorruptibles (Brian de Palma)
 * The Lost Boys (vampires)
 * à voir: https://www.rottentomatoes.com/m/empire_of_the_sun
 * à voir: https://www.telerama.fr/cinema/films/tandem,9962.php
+
+[Césars 13](https://fr.wikipedia.org/wiki/13e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Au revoir les enfants (Louis Malle) 7✨ : bof, longuet et convenu
 
 ### 1988
 
@@ -622,10 +630,12 @@ Français:
 
 ### 2006
 
+[Oscars 79](https://fr.wikipedia.org/wiki/79e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * Volver (Pedro Almodóvar) 🎥 ❤️❤️ [🍅](https://www.rottentomatoes.com/m/volver)
-* La Vie des autres ❤️
+* La Vie des autres ❤️ 🏆 (meilleur film étranger)
 * Little Miss Sunshine ❤️ ☀️
-* Casino Royale
+* Casino Royale ❤️
 * Le Labyrinthe de Pan (Guillermo del Toro)
 * The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee)
@@ -648,8 +658,12 @@ Français:
 
 ### 2007
 
+[Oscars 80](https://fr.wikipedia.org/wiki/80e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s) —
+[Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_2007#S%C3%A9lection_officielle)
+
 * The Darjeeling Limited ❤️
-* No Country for Old Men ❤️
+* 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
+* No Country for Old Men ❤️ 🏆
 * Gone Baby Gone
 * Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes)
 * Two Days in Paris (Julie Delpy)
