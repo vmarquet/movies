@@ -222,7 +222,7 @@ Pas aimé:
 ### 1962
 
 * Le Procès (Orson Welles) 🎥 ❤️
-* Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia)
+* Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
 * La Jetée
 * Cléo de 5 à 7 (Agnès Varda) : pas fan
 
@@ -277,6 +277,7 @@ Français:
 
 ### 1974
 
+* Sugarland Express (Steven Spielberg) ❤️
 * Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
 * à voir: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 * à voir: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
@@ -284,6 +285,7 @@ Français:
 ### 1975
 
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
+* L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
 * à voir: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 
@@ -373,14 +375,18 @@ Pas aimé:
 
 ### 1986
 
+[Oscars 59](https://fr.wikipedia.org/wiki/59e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * 37°2 le matin ❤️
 * Ferris Bueller's Day Off
 * à voir: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 
 ### 1987
 
+[Oscars 60](https://fr.wikipedia.org/wiki/60e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * Les Ailes du Désir (Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
-* Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨
+* Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
 * Les Incorruptibles (Brian de Palma)
 * The Lost Boys (vampires)
 * à voir: https://www.rottentomatoes.com/m/empire_of_the_sun
@@ -391,6 +397,8 @@ Pas aimé:
 * Au revoir les enfants (Louis Malle) 7✨ : bof, longuet et convenu
 
 ### 1988
+
+[Oscars 61](https://fr.wikipedia.org/wiki/61e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
@@ -404,6 +412,8 @@ Pas aimé:
 * La vie est un long fleuve tranquille
 
 ### 1989
+
+[Oscars 62](https://fr.wikipedia.org/wiki/62e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Sex, Lies and Videotape (Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
 * Le Cercle des poètes disparus (Peter Weir)
@@ -432,15 +442,20 @@ Français:
 
 ### 1992
 
+[Oscars 65](https://fr.wikipedia.org/wiki/65e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * Singles
 * Basic Instinct
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
 
 ### 1993
 
+[Oscars 66](https://fr.wikipedia.org/wiki/66e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * The Piano (Jane Campion)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
+* à voir: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -473,13 +488,18 @@ Français:
 
 * La Haine ✨
 * La Cité des enfants perdus
-* à voir: https://www.telerama.fr/cinema/films/la-ceremonie,37295.php
 * à voir: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (?)
 * à voir: https://www.telerama.fr/cinema/films/underground,37761.php (Emir Kusturica) ✨ 🌿
 
+Pas aimé:
+
+* La Cérémonie (Claude Chabrol, Sandrine Bonnaire)
+
 ### 1996
+
+[Oscars 69](https://fr.wikipedia.org/wiki/69e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The English Patient ❤️ 9🏆
 * Trainspotting
@@ -487,17 +507,21 @@ Français:
 
 ### 1997
 
-* Titanic 💙
+[Oscars 70](https://fr.wikipedia.org/wiki/70e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
+* Titanic 💙 11🏆
 * Contact (Jodie Foster) 💙
-* Good Will Hunting (Gus van Sant)
 * The Fifth Element (Luc Besson)
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
-* Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet)
+* Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) : esthétique bof mais scénario+
+* Good Will Hunting (Gus van Sant)
 * à voir: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 
 ### 1998
+
+[Oscars 71](https://fr.wikipedia.org/wiki/71e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham)
@@ -512,9 +536,12 @@ Français:
 
 ### 1999
 
+[Oscars 72](https://fr.wikipedia.org/wiki/72e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
+
 * Ghost Dog: The Way of the Samurai ❤️
-* Fight Club (David Fincher, Brad Pitt, Edward Norton)
+* Fight Club (David Fincher, Brad Pitt, Edward Norton) ❤️
 * Matrix
+* American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -523,15 +550,17 @@ Français:
 
 ### 2000
 
+[Oscars 73](https://fr.wikipedia.org/wiki/73e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
+
+* Tigre et Dragon (Ang Lee) 🎥 ❤️ 4🏆 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
 * Amores Perros (Alejandro Gonzalez Iñárritu) ❤️
 * In the Mood for Love (Wong Kar-wai)
-* American Beauty (Sam Mendes)
-* Gladiator 💙
+* Gladiator 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt)
 * Billy Elliot
 * Dancer in the Dark (Lars von Trier)
-* Battle Royale
+* Battle Royale (Japon)
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -662,6 +691,7 @@ Français:
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_2007#S%C3%A9lection_officielle)
 
 * The Darjeeling Limited ❤️
+* Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men ❤️ 🏆
 * Gone Baby Gone
@@ -1153,16 +1183,10 @@ Pas aimé:
 
 ### Parodique/second degré
 
-* Sugarland Express (1974, Steven Spielberg) ❤️
 * Machete  (2010, Robert Rodriguez) ❤️ [🍅](https://www.rottentomatoes.com/m/machete)
 * Perdita Durango   (1997, avec Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
 * From Dusk till Dawn (1996, Robert Rodriguez, avec Harvey Keitel)
 
-### Aventure/road-movie
-
-* L'Homme qui voulut être roi (The Man Who Would Be King) (1975, Connery, Caine, Plummer)
-* Tigre et Dragon  (2000, Ang Lee) 🎥 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
-* Into The Wild  (2007, Sean Penn) [🍅](https://www.rottentomatoes.com/m/into_the_wild)
 
 ### Policier/Thriller
 
