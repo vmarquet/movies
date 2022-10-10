@@ -37,7 +37,6 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
     * [Comédies](#comédies)
     * [Comédies Dramatiques](#comédies-dramatiques)
     * [Comédies Romantiques](#comédies-romantiques)
-    * [Aventure/road-movie](#aventureroad-movie)
     * [Policier/Thriller](#policierthriller)
     * [Bon scénario/Twist](#bon-scénariotwist)
     * [Science-Fiction](#science-fiction)
@@ -131,6 +130,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Tigre et Dragon
 * Apocalypse Now
 * Inglorious Basterds
+* Lion
 
 
 ## Par année de sortie
@@ -210,7 +210,7 @@ Pas aimé:
 
 ### 1960
 
-* La Dolce Vita (Federico Fellini, Marcello Mastroianni) 🌿
+* La Dolce Vita (Italie, Federico Fellini, Marcello Mastroianni) 🌿
 * L'Île nue (Japon)
 * La Vérité (HG Clouzot) 🏆
 
@@ -229,8 +229,8 @@ Pas aimé:
 ### 1963
 
 * Le Mépris (Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
-* à voir: https://en.wikipedia.org/wiki/8%C2%BD (Federico Fellini)
-* à voir: https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film) 🌿
+* Le Guépard (Italie, Luchino Visconti) [📰](https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film)) 🌿 : longuet
+* 8½ (Italie, Federico Fellini) : pas fan, trop décousu
 
 ### 1964
 
@@ -274,6 +274,10 @@ Français:
 ### 1972
 
 * César et Rosalie (Claude Sautet) ❤️
+
+### 1973
+
+* Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 
 ### 1974
 
@@ -539,7 +543,7 @@ Pas aimé:
 [Oscars 72](https://fr.wikipedia.org/wiki/72e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
 * Ghost Dog: The Way of the Samurai ❤️
-* Fight Club (David Fincher, Brad Pitt, Edward Norton) ❤️
+* Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
 * Matrix
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 
@@ -607,6 +611,7 @@ Pas aimé:
 * Pirates of the Caribbean
 * Le mystère de la chambre jaune (Bruno Podalydès)
 * Le Monde de Nemo (Pixar)
+* Memories of Murder (Corée) [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -927,7 +932,7 @@ Bof:
 * Better Watch Out
 * Moana (Disney)
 * Toni Erdmann
-* Hacksaw Ridge
+* Hacksaw Ridge (Tu ne tueras point)
 * Manchester by the Sea (?)
 * Una (R. Mara)
 * The Lost City of Z
@@ -1105,6 +1110,7 @@ Pas aimé:
 
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * La nuit du 12 ❤️
+* Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 
 
 [⬆️ retour sommaire](#sommaire)
@@ -1378,23 +1384,24 @@ Pas aimé:
 * Danse avec les Loups  [🍅](https://www.rottentomatoes.com/m/dances_with_wolves)
   (de et avec Kevin Costner, 7🏆 meilleur film 1991) 🎥
 * There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
-* Le Grand Silence (1968, Sergio Corbucci, Ennio Morricone, Klaus Kinski)
 * 3:10 to Yuma (2007)
 * The Assassination of Jesse James by the Coward Robert Ford (2007)
 * Bone Tomahawk (2015)
 * Little Big Man (1970) (longuet)
 
-#### Spaghettis (parodique)
+#### Spaghettis
 
 * La Trilogie du Dollar (Sergio Leone, avec Clint Eastwood): 🎥 💙
-
 	* Pour une poignée de dollars  (1964) [🍅](https://www.rottentomatoes.com/m/fistful_of_dollars)
 	* Et pour quelques Dollars de plus  (1965) [🍅](https://www.rottentomatoes.com/m/for_a_few_dollars_more)
 	* Le Bon, la Brute et le Truand  (1966) [🍅](https://www.rottentomatoes.com/m/good_the_bad_and_the_ugly)
+  * même genre:
+    * L'Homme des Hautes Plaines (1973) (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
+    * Impitoyable (1992) (Clint Eastwood, 4🏆 dont meilleur film) [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven)
+* Le Grand Silence (1968) (Sergio Corbucci, Ennio Morricone, Klaus Kinski)
+* Mon nom est Personne (1973) (Tonino Valerii, Terence Hill, Henri Fonda)
 
-* L'Homme des Hautes Plaines   (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
-* Impitoyable  [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven)
-  (Clint Eastwood, 4🏆 meilleur film 1992)
+Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio_leone), [Sergio Corbucci](https://www.rottentomatoes.com/celebrity/sergio_corbucci), [Sergio Sollima](https://www.rottentomatoes.com/celebrity/sergio_sollima)
 
 #### Néowesterns
 
@@ -1438,12 +1445,12 @@ Pas aimé:
   [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
 * Le Grand Blond avec une chaussure noire (1972, Pierre Richard, Jean Rochefort)
 * Les Valseuses (1974) (Bertrand Blier) ❤️
-* Les vécés étaient fermés de l'intérieur (1976, Jean Rochefort, Coluche)
+* Les vécés étaient fermés de l'intérieur (1976, Patrice Leconte, Jean Rochefort, Coluche)
 * Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
 * Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙
 * Le bonheur est dans le pré (1995)
 * Tenue de Soirée (1986) (Bertrand Blier, Depardieu)
-* Ridicule (1996, Patrice Lecomte, Jean Rochefort) ❤️
+* Ridicule (1996, Patrice Leconte, Jean Rochefort) ❤️ ✨
 * Le Diner de Cons (1997, avec Jacques Villeret) 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
 * La Vérité si je mens ! (1997, José Garcia, Bruno Solo)
 * Rire et Châtiment (2003, José Garcia) [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)

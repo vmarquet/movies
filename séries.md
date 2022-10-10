@@ -28,7 +28,6 @@
 * Band of Brothers
 * Peaky Blinders
 * Baron Noir (Kad Merad)
-* Mindhunter
 * Homeland
 * L'Affaire OJ Simpson (Netflix)
 * Dérapages (Eric Cantona)
@@ -39,6 +38,7 @@
 	* Les Revenants
 	* Bureau des Légendes
 	* Master of None
+	* Twin Peaks (David Lynch)
 
 
 ### SF
@@ -56,6 +56,7 @@
 * The Killing
 * True Detective
 * Manhunt: Unabomber
+* Mindhunter
 * Tunnel (2013, Clémence Poesy)
 * The Haunting of Hill House
 

@@ -29,12 +29,13 @@ Dessins animés pour enfants
 Documentaires
 -------------
 * Zétwal ❤️
-* Le Sel de la Terre 🎥 ❤️
+* Le Sel de la Terre (2014) 🎥 ❤️
 * Baraka (1992) 🎥 ❤️
     * Chronos (1985)
     * à voir: Samsara, suite de Baraka
 * Scheme Birds (à se bruler les ailes) ❤️
 * La Sagesse de la Pieuvre (2020, Netflix) ❤️
+* Lo and Behold, Reveries of the Connected World (Werner Herzog) ([bande-annonce](https://www.youtube.com/watch?v=Zc1tZ8JsZvg))
 * à voir:
     * https://movieo.me/movies/jiro-dreams-of-sushi-dnznws
 * animalier:
