@@ -17,28 +17,36 @@
 * What We Do in the Shadows (2019) +++
 * Space Force (2020, Netflix) +++
 * The Great (2020) +++
-* Dix pour cent ++
+
+#### Français
+
+* Dix pour cent (2015) ++
+* La Flamme (2020) ++
+* Le Flambeau (2022) ++
+* LOL : Qui rit, sort ! (2021) [📰](https://www.allocine.fr/series/ficheserie_gen_cserie=27798.html)
+* à voir: au service de la France
 
 
 ### Drame
 
-* Breaking Bad ❤️
+* Breaking Bad (2008) ❤️
 * Tchernobyl (2019) 🎥 ❤️
-* Mr Robot ❤️
-* Band of Brothers
+* Mr Robot (2015) ❤️
+* Band of Brothers (2001)
 * Peaky Blinders
 * Baron Noir (Kad Merad)
 * Homeland
 * L'Affaire OJ Simpson (Netflix)
 * Dérapages (Eric Cantona)
+* Big Little Lies (2017)
 * The Dropout (Theranos) (2022) [🍅](https://www.rottentomatoes.com/tv/the_dropout/s01)
 * à voir:
 	* The Wire
 	* The Sopranos
 	* Les Revenants
-	* Bureau des Légendes
 	* Master of None
-	* Twin Peaks (David Lynch)
+* sans plus:
+    * Twin Peaks (David Lynch)
 
 
 ### SF
@@ -58,12 +66,14 @@
 * Manhunt: Unabomber
 * Mindhunter
 * Tunnel (2013, Clémence Poesy)
-* The Haunting of Hill House
+* sans plus:
+    * The Haunting of Hill House
 
 
 ### Thriller / intrigue
 
 * Nicholas le Floch ++
+* Le Bureau des Légendes (2015)
 * The Handmaid's Tale (2017) [🍅](https://www.rottentomatoes.com/tv/the_handmaids_tale/s01)
 * The Terror (2018) [🍅](https://www.rottentomatoes.com/tv/the_terror/s01)
 * à voir: Sherlock (Benedict Cumberbatch)

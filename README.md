@@ -116,7 +116,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 
 
-## Mon top 10 films préférés
+## Mon top 15 films préférés
 
 * Portrait de la Jeune Fille en Feu
 * Ghost Dog
@@ -131,6 +131,8 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Apocalypse Now
 * Inglorious Basterds
 * Lion
+* Le Sel de la Terre (docu)
+* Baraka (docu)
 
 
 ## Par année de sortie
@@ -954,7 +956,9 @@ Bof:
 * You Were Never Really Here (J. Phoenix)
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West
-* à voir: https://www.rottentomatoes.com/m/my_days_of_mercy
+* pas vu:
+    * https://www.rottentomatoes.com/m/my_days_of_mercy
+    * https://www.rottentomatoes.com/m/phantom_thread
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1110,7 +1114,28 @@ Pas aimé:
 
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * La nuit du 12 ❤️
+* Spirited (Ryan Reynolds)
+* She Said (affaire Weinstein)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
+* A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
+* Meurtres sans ordonnance (The Good Nurse)
+* pas vu:
+    * Les Amandiers https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php
+    * Nos Frangins
+    * Novembre
+    * the Whale (Brendan Fraser)
+    * Coupez ! (Hazanavicius) https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php
+    * Les Passagers de la Nuit https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php
+    * La Conspiration du Caire https://www.telerama.fr/cinema/films/la-conspiration-du-caire-1-213217651.php
+    * Falcon Lake https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php
+    * Corsage
+    * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
+    * L'Innocent https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php
+    * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
+    * En Corps (Klapisch) https://www.telerama.fr/cinema/films/en-corps-1-194593649.php
+    * Sans Filtres https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php
+    * Emily the criminal https://www.rottentomatoes.com/m/emily_the_criminal
+    * Quentin Dupieux: Incroyable mais vrai, Fumer fait tousser
 
 
 [⬆️ retour sommaire](#sommaire)
@@ -1469,6 +1494,14 @@ Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio
 * avec Michel Houellebecq:
     * L'enlèvement de Michel Houellebecq ❤️
     * Near Death Experience
+
+Mes préférés:
+
+* La Cité de la Peur
+* Le Diner de Cons
+* Astérix et Obélix Mission Cléopatre
+* OSS 177 Le Caire Nid d'Espions
+
 
 #### WWII
 
