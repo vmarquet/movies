@@ -907,7 +907,7 @@ Bof:
 * Mustang (Turquie) ❤️
 * The Assassin 🎥 ❤️ (arts martiaux chinois)
 * The Revenant 🎥 (Alejandro González Iñárritu)
-* The Lobster (Yórgos Lánthimos)
+* The Lobster (Yórgos Lánthimos, Colin Farrell)
 * The Big Short
 * Cemetery of Splendour (vu ?) 🌿
 * Carol (Rooney Mara, Cate Blanchett)
@@ -936,7 +936,7 @@ Bof:
 * Toni Erdmann
 * Hacksaw Ridge (Tu ne tueras point)
 * Manchester by the Sea (?)
-* Una (R. Mara)
+* Una (Rooney Mara)
 * The Lost City of Z
 * The Nice Guys
 * à voir: https://www.rottentomatoes.com/m/the_wailing
@@ -951,14 +951,14 @@ Bof:
 ### 2017
 
 * Wind River
-* A Ghost Story (R. mara) ❤️
+* A Ghost Story (Rooney Mara) ❤️
 * The Death of Stalin (comédie satirique, Steve Buscemi) ❤️
 * You Were Never Really Here (J. Phoenix)
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West
+* Phantom Thread (Daniel Day-Lewis)
 * pas vu:
     * https://www.rottentomatoes.com/m/my_days_of_mercy
-    * https://www.rottentomatoes.com/m/phantom_thread
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1116,16 +1116,19 @@ Pas aimé:
 * La nuit du 12 ❤️
 * Spirited (Ryan Reynolds)
 * She Said (affaire Weinstein)
+* The Banshees of Inisherin (Colin Farrell)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
 * Meurtres sans ordonnance (The Good Nurse)
+* Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
+* Bof:
+    * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
 * pas vu:
     * Les Amandiers https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php
     * Nos Frangins
     * Novembre
     * the Whale (Brendan Fraser)
-    * Coupez ! (Hazanavicius) https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php
-    * Les Passagers de la Nuit https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php
+    * Eo https://www.telerama.fr/cinema/films/eo-1-225458516.php
     * La Conspiration du Caire https://www.telerama.fr/cinema/films/la-conspiration-du-caire-1-213217651.php
     * Falcon Lake https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php
     * Corsage
@@ -1148,7 +1151,7 @@ Pas aimé:
 
 * Terence Malick
     * Badlands (1973, Martin Sheen) ❤️
-    * The New World (2005, Christian Bale, Colin Farell) 🎥 ❤️
+    * The New World (2005, Christian Bale, Colin Farrell) 🎥 ❤️
 * Werner Herzog
     * Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
       (1972, avec Klaus Kinski)
