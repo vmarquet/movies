@@ -722,7 +722,7 @@ Pas aimé:
   [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
   [🍅](https://www.rottentomatoes.com/m/two_lovers)
 * Zetwal ❤️
-* Bons baisers de Bruges (Colin Farrell, Ralph Fiennes, Brendan Gleeson)
+* Bons baisers de Bruges (Martin McDonagh, Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 * The Reader (Kate Winslet, Ralph Fiennes)
 * Okuribito (Départs, Japon) (winner 🏆)
 * Gran Torino (Clint Eastwood)
@@ -965,9 +965,9 @@ Bof:
 * 120 battements par minute ❤️
 * La Douleur 🎥 ❤️
   [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
-* à voir: https://fr.wikipedia.org/wiki/Le_Sens_de_la_fête
 * Grave
 * Le Brio (bon, pas inoubliable)
+* pas vu: https://fr.wikipedia.org/wiki/Le_Sens_de_la_fête
 
 Ok sans plus:
 
@@ -980,7 +980,7 @@ Ok sans plus:
 
 ### 2018
 
-* Three Billboards ❤️
+* Three Billboards (Martin McDonagh) ❤️
 * Dunkirk
 * La Saveur des Ramens (Japon/Singapour)
 * The Favourite (Yórgos Lánthimos, Emma Stone)
@@ -1027,6 +1027,7 @@ Cannes, à voir:
 * Scheme Birds (documentaire) ❤️
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * The Two Popes
+* Dark Waters (Mark Ruffalo)
 * à voir: https://www.rottentomatoes.com/m/ash_is_purest_white
 * à voir: https://www.telerama.fr/cinema/films/douleur-et-gloire,n6077398.php (Pedro Almodovar) 🏆
 * à voir: https://www.telerama.fr/cinema/films/liberte,n6234368.php 🌿
@@ -1078,7 +1079,10 @@ Aimés sans plus:
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Teddy [📰](https://www.telerama.fr/cinema/films/teddy,n6689626.php)
-* Adieu les cons [📰](https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php) 7✨ : bof...
+* bof:
+    * Antoinette dans les Cévennes
+    * Adieu les cons [📰](https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php) 7✨
+    * Les Choses qu'on dit, les Choses qu'on fait
 * à voir: https://www.telerama.fr/cinema/films/des-hommes,n6655943.php
 
 Pas aimé:
@@ -1114,9 +1118,10 @@ Pas aimé:
 
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * La nuit du 12 ❤️
-* Spirited (Ryan Reynolds)
+* The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
-* The Banshees of Inisherin (Colin Farrell)
+* Incroyable mais vrai (Quentin Dupieux, Alain Chabat)
+* Spirited (Ryan Reynolds)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
 * Meurtres sans ordonnance (The Good Nurse)
@@ -1134,11 +1139,15 @@ Pas aimé:
     * Corsage
     * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
     * L'Innocent https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php
+    * Une vie démente https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php (7 Magritte)
+    * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
     * En Corps (Klapisch) https://www.telerama.fr/cinema/films/en-corps-1-194593649.php
     * Sans Filtres https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php
     * Emily the criminal https://www.rottentomatoes.com/m/emily_the_criminal
-    * Quentin Dupieux: Incroyable mais vrai, Fumer fait tousser
+    * Godland https://www.telerama.fr/cinema/films/godland-1-215068907.php
+    * Les 8 montagnes https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php
+    * Quentin Dupieux: Fumer fait tousser
 
 
 [⬆️ retour sommaire](#sommaire)
@@ -1153,8 +1162,7 @@ Pas aimé:
     * Badlands (1973, Martin Sheen) ❤️
     * The New World (2005, Christian Bale, Colin Farrell) 🎥 ❤️
 * Werner Herzog
-    * Aguirre, la Colère de Dieu 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
-      (1972, avec Klaus Kinski)
+    * Aguirre, la Colère de Dieu (1972, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
     * Fitzcarraldo (1982) 🎥
     * Cobra Verde (1987)
     * à voir: https://www.rottentomatoes.com/m/where_the_green_ants_dream
