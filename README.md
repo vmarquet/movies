@@ -776,6 +776,7 @@ Pas aimé:
 * Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
 * The King's Speech (Le Discours d'un roi)
 * 127 Hours (Danny Boyle, James Franco)
+* Tucker and Dale vs Evil
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Buried
@@ -842,7 +843,7 @@ Pas aimé:
 
 * Holy Motors (Leos Carax) ❤️
 * Amour (Michael Haneke)
-* De Rouille et d'Os  9✨
+* De Rouille et d'Os (Jacques Audiard) 9✨
 * à voir: Les Adieux à la reine
 
 ### 2013
@@ -1054,9 +1055,11 @@ Décevant:
 
 ### 2020
 
+* Une vie démente (Belgique, 7 Magritte) ❤️ [📰](https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php)
 * La plataforma (Netflix, SF) ❤️
 * Drunk (Mads Mikkelsen)
 * L'Homme Invisible (avec Elisabeth Moss)
+* Mandibules (Quentin Dupieux) 🤘
 * The Father (Anthony Hopkins)
 * Riders of Justice (Retfærdighedens ryttere, Danemark, Mads Mikkelsen)
 * Palm Springs (Rom-Com, Andy Samberg)
@@ -1120,7 +1123,7 @@ Pas aimé:
 * La nuit du 12 ❤️
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
-* Incroyable mais vrai (Quentin Dupieux, Alain Chabat)
+* Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
 * Spirited (Ryan Reynolds)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
@@ -1139,7 +1142,6 @@ Pas aimé:
     * Corsage
     * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
     * L'Innocent https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php
-    * Une vie démente https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php (7 Magritte)
     * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
     * En Corps (Klapisch) https://www.telerama.fr/cinema/films/en-corps-1-194593649.php
