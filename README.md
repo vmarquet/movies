@@ -779,6 +779,7 @@ Pas aimé:
 * Tucker and Dale vs Evil
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
+* Démineurs (The Hurt Locker) (Kathryn Bigelow)
 * Buried
 * à voir: L'Illusionniste
 
@@ -1130,6 +1131,8 @@ Pas aimé:
 * Meurtres sans ordonnance (The Good Nurse)
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
 * Bof:
+    * The Pale Blue Eye (Christian Bale)
+    * The Menu (Ralph Fiennes)
     * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
 * pas vu:
     * Les Amandiers https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php
