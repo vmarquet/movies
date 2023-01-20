@@ -1,22 +1,3 @@
-Titre mystérieux qui s'explique pendant le film
------------------------------------------------
-* silence des agneaux
-* portrait de la jeune fille en feu
-* danse avec les loups
-* on achève bien les chevaux
-* casa de papel
-
-
-Films avec bonne BO
--------------------
-* Le Lauréat: Simon & Garfunkel
-* Ghost Dog: RZA & The Wu Tang Clan
-* Drive: Kavinsky
-* Les films de Tarentino (Pulp Fiction...)
-* The Darjeeling Limited: musiques indiennes
-* Les Amours Imaginaires
-
-
 Courts
 ------
 * [Doodlebug](https://www.youtube.com/watch?v=gfBwOdsHaWI) (Christopher Nolan)
@@ -80,6 +61,25 @@ Jeux vidéos
 * Demon's Souls et Dark Souls: RPG bien pensés sans baratin et pertes de temps inutiles.
 * Antichamber: jeu de réflexion assez philosophique.
 * Et aussi: Limbo, Flower...
+
+
+Films avec bonne BO
+-------------------
+* Le Lauréat: Simon & Garfunkel
+* Ghost Dog: RZA & The Wu Tang Clan
+* Drive: Kavinsky
+* Les films de Tarentino (Pulp Fiction...)
+* The Darjeeling Limited: musiques indiennes
+* Les Amours Imaginaires
+
+
+Titre mystérieux qui s'explique pendant le film
+-----------------------------------------------
+* silence des agneaux
+* portrait de la jeune fille en feu
+* danse avec les loups
+* on achève bien les chevaux
+* casa de papel
 
 
 Acteurs préférés
