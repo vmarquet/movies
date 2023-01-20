@@ -41,6 +41,8 @@ BD
 ---
 * Deathnote (manga): histoire très complexe et pourtant très cohérente
 * Broussailles (les albums "Les baleines publiques" et "La nuit du chat"). Assez poétique.
+* Gaston Lagaffe
+* Joe Bar Team
 
 
 Séries audio
