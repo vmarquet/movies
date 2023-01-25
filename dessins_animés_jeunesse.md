@@ -10,7 +10,7 @@ Dessins animés pour enfants
 * Monsters, Inc (2001) ❤️
 * Le Monde de Nemo (2003)
 * Ratatouille (2007)
-* Le Chat Potté 2 : la dernière quête (2022) ❤️
+* Le Chat Potté 2 : la dernière quête (2022)
 
 
 ### pas vu
@@ -18,3 +18,9 @@ Dessins animés pour enfants
 * Vice Versa (2015)
 
 
+### Séries
+
+* Tex Avery
+* Looney Tunes (1929)
+* Tom et Jerry (1940)
+* Popeye

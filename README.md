@@ -342,6 +342,9 @@ Français:
 
 ### 1982
 
+[Oscars 56](https://fr.wikipedia.org/wiki/55e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
+* Das Boot (Allemagne) ❤️ (6 nominations 🏆)
 * Gandhi (Richard Attenborough) 🏆
 * Le père Noël est une ordure
 
@@ -1121,7 +1124,6 @@ Pas aimé:
 ### 2022
 
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
-* La nuit du 12 ❤️
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
@@ -1129,30 +1131,42 @@ Pas aimé:
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
 * Meurtres sans ordonnance (The Good Nurse)
-* Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
-* Bof:
+* bof:
     * The Pale Blue Eye (Christian Bale)
     * The Menu (Ralph Fiennes)
-    * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
 * pas vu:
-    * Les Amandiers https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php
     * Nos Frangins
-    * Novembre
     * the Whale (Brendan Fraser)
     * Eo https://www.telerama.fr/cinema/films/eo-1-225458516.php
     * La Conspiration du Caire https://www.telerama.fr/cinema/films/la-conspiration-du-caire-1-213217651.php
     * Falcon Lake https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php
     * Corsage
     * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
-    * L'Innocent https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php
     * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
-    * En Corps (Klapisch) https://www.telerama.fr/cinema/films/en-corps-1-194593649.php
     * Sans Filtres https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php
     * Emily the criminal https://www.rottentomatoes.com/m/emily_the_criminal
     * Godland https://www.telerama.fr/cinema/films/godland-1-215068907.php
     * Les 8 montagnes https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php
     * Quentin Dupieux: Fumer fait tousser
+
+[Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
+
+* La nuit du 12 ❤️
+* Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
+* pas vu:
+    * L'Innocent https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php
+    * En Corps (Klapisch) https://www.telerama.fr/cinema/films/en-corps-1-194593649.php
+    * Les Amandiers https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php
+* bof:
+    * Novembre (Cédric Jimenez, Jean Dujardin)
+    * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
+
+
+### 2023
+
+* Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
+
 
 
 [⬆️ retour sommaire](#sommaire)
