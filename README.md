@@ -364,6 +364,7 @@ Français:
 * Amadeus (Milos Forman) 8🏆
 * La Diagonale du fou ✨ 🏆 (meilleur film étranger)
 * The Hit (Tim Roth)
+* Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * à voir: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 
 ### 1985
@@ -634,6 +635,7 @@ Pas aimé:
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar)
 * Mystic River (Clint Eastwood)
+* OldBoy (Corée) [🍅](https://www.rottentomatoes.com/m/oldboy)
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal)
 * Crazy Kung-Fu (Stephen Chow)
@@ -942,14 +944,14 @@ Bof:
 * Hacksaw Ridge (Tu ne tueras point)
 * Manchester by the Sea (?)
 * Una (Rooney Mara)
+* Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * The Lost City of Z
 * The Nice Guys
-* à voir: https://www.rottentomatoes.com/m/the_wailing
-* à voir: https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php
+* The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* La Mort de Louis XIV 🌿 ❤️
+* La Mort de Louis XIV (Albert Serra, Jean-Pierre Léaud) 🌿 ❤️
 * Dans les forêts de Sibérie (musique par Ibrahim Maalouf)
 
 
@@ -968,14 +970,13 @@ Bof:
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * 120 battements par minute ❤️
-* La Douleur 🎥 ❤️
-  [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
+* La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Grave
-* Le Brio (bon, pas inoubliable)
 * pas vu: https://fr.wikipedia.org/wiki/Le_Sens_de_la_fête
 
 Ok sans plus:
 
+* Le Brio (Daniel Auteuil)
 * Split (James McAvoy)
 * Lady Bird
 * Valérian et la Cité des mille planètes
@@ -999,7 +1000,7 @@ Ok sans plus:
 * à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* Le Retour du héros (comédie sympa sans prétention, Jean Dujardin, Mélanie Laurent)
+* Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1034,8 +1035,6 @@ Cannes, à voir:
 * The Two Popes
 * Dark Waters (Mark Ruffalo)
 * à voir: https://www.rottentomatoes.com/m/ash_is_purest_white
-* à voir: https://www.telerama.fr/cinema/films/douleur-et-gloire,n6077398.php (Pedro Almodovar) 🏆
-* à voir: https://www.telerama.fr/cinema/films/liberte,n6234368.php 🌿
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1053,6 +1052,7 @@ Décevant:
 * Parasite
 * Once Upon a Time in Hollywood
 * Les Misérables
+* Liberté (Albert Serra) 🎥 🌿
 
 [Cannes 2019 - toutes les notes télérama](https://www.telerama.fr/festival-de-cannes/2019/cannes-2019-voici-le-programme-des-films-en-competition,n6238497.php)
 
@@ -1276,7 +1276,6 @@ Pas aimé:
 * Witness  (Peter Weier, avec Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness)
 * Copland  (1997, avec Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land)
 * Sin City  (2005) [🍅](https://www.rottentomatoes.com/m/sin_city)
-* OldBoy  (2004) [🍅](https://www.rottentomatoes.com/m/oldboy)
 * La Corde (Hitchcock)
 * Side Effects (2013, Steven Soderbergh)
 
