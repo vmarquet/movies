@@ -204,7 +204,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Les Quatre Cents Coups (Truffaut) : le seul Truffaut que j'aime
 * Hiroshima mon amour (Alain Resnais) : bof, pas fan de la narration
-* à voir: Orfeu Negro (Marcel Camus) 🌿 🏆
+* pas vu: Orfeu Negro (Marcel Camus) 🌿 🏆
 
 Pas aimé:
 
@@ -243,7 +243,7 @@ Pas aimé:
 ### 1965
 
 * Pierrot le Fou (Godard, Belmondo) 🎥 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
-* à voir: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
+* pas vu: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
 ### 1967
 
@@ -271,7 +271,7 @@ Français:
 
 * Max et les Ferrailleurs (Claude Sautet) ❤️
 * Le Chat (Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
-* à voir: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
+* pas vu: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
 
 ### 1972
 
@@ -285,15 +285,15 @@ Français:
 
 * Sugarland Express (Steven Spielberg) ❤️
 * Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
-* à voir: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
-* à voir: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
+* pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
+* pas vu: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
 ### 1975
 
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
-* à voir: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
+* pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 
 ### 1976
 
@@ -306,7 +306,7 @@ Français:
 
 * Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
-* à voir: Eraserhead (David Lynch)
+* pas vu: Eraserhead (David Lynch)
 
 ### 1978
 
@@ -338,7 +338,7 @@ Français:
 * Coup de torchon (Bertrand Tavernier)
 * Blow Out (Brian De Palma, John Travolta) (one of all-time favorite movies of Tarentino)
 * Bof: Chariots of Fire
-* à voir: https://www.rottentomatoes.com/m/atlantic_city
+* pas vu: https://www.rottentomatoes.com/m/atlantic_city
 
 ### 1982
 
@@ -365,7 +365,7 @@ Français:
 * La Diagonale du fou ✨ 🏆 (meilleur film étranger)
 * The Hit (Tim Roth)
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
-* à voir: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
+* pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 
 ### 1985
 
@@ -377,7 +377,7 @@ Français:
 * The Breakfast Club
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
-* à voir: https://www.telerama.fr/cinema/films/detective,4714.php
+* pas vu: https://www.telerama.fr/cinema/films/detective,4714.php
 
 Pas aimé:
 
@@ -389,7 +389,7 @@ Pas aimé:
 
 * 37°2 le matin ❤️
 * Ferris Bueller's Day Off
-* à voir: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
+* pas vu: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 
 ### 1987
 
@@ -399,8 +399,8 @@ Pas aimé:
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
 * Les Incorruptibles (Brian de Palma)
 * The Lost Boys (vampires)
-* à voir: https://www.rottentomatoes.com/m/empire_of_the_sun
-* à voir: https://www.telerama.fr/cinema/films/tandem,9962.php
+* pas vu: https://www.rottentomatoes.com/m/empire_of_the_sun
+* pas vu: https://www.telerama.fr/cinema/films/tandem,9962.php
 
 [Césars 13](https://fr.wikipedia.org/wiki/13e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -413,7 +413,7 @@ Pas aimé:
 * Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
-* à voir: https://www.rottentomatoes.com/m/gorillas_in_the_mist
+* pas vu: https://www.rottentomatoes.com/m/gorillas_in_the_mist
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -465,12 +465,12 @@ Français:
 * The Piano (Jane Campion)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
-* à voir: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
+* pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Les Visiteurs
-* à voir: https://www.telerama.fr/cinema/films/no-smoking,29537.php
+* pas vu: https://www.telerama.fr/cinema/films/no-smoking,29537.php
 
 ### 1994
 
@@ -480,9 +480,9 @@ Français:
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Léon
-* à voir: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
-* à voir: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
-* à voir: https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
+* pas vu: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
+* pas vu: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
+* pas vu: https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
 
 ### 1995
 
@@ -498,10 +498,10 @@ Français:
 
 * La Haine ✨
 * La Cité des enfants perdus
-* à voir: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
+* pas vu: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (?)
-* à voir: https://www.telerama.fr/cinema/films/underground,37761.php (Emir Kusturica) ✨ 🌿
+* pas vu: https://www.telerama.fr/cinema/films/underground,37761.php (Emir Kusturica) ✨ 🌿
 
 Pas aimé:
 
@@ -527,7 +527,7 @@ Pas aimé:
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) : esthétique bof mais scénario+
 * Good Will Hunting (Gus van Sant)
-* à voir: https://www.telerama.fr/cinema/films/cold-fever,31483.php
+* pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 
 ### 1998
 
@@ -536,13 +536,13 @@ Pas aimé:
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham)
 * Kirikou et la Sorcière
-* à voir: Saving Private Ryan
+* pas vu: Saving Private Ryan
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Le Diner de Cons
 * Taxi
-* à voir: https://www.telerama.fr/cinema/films/place-vendome,45583.php
+* pas vu: https://www.telerama.fr/cinema/films/place-vendome,45583.php
 
 ### 1999
 
@@ -584,7 +584,7 @@ Pas aimé:
 * Lord of the Rings
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
-* à voir: A Beautiful Mind 🏆
+* pas vu: A Beautiful Mind 🏆
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -642,7 +642,7 @@ Pas aimé:
 * Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Kingdom of Heaven (Ridley Scott)
-* à voir: https://www.rottentomatoes.com/m/1144992-crash 🏆
+* pas vu: https://www.rottentomatoes.com/m/1144992-crash 🏆
 * RRRrrrr!!!
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -662,7 +662,7 @@ Pas aimé:
 * Capote
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2)
-* à voir: https://www.telerama.fr/cinema/films/memoires-d-une-geisha,253423.php
+* pas vu: https://www.telerama.fr/cinema/films/memoires-d-une-geisha,253423.php
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -712,7 +712,7 @@ Pas aimé:
 * My Blueberry Nights (Wong Kar-Wai)
 * Paranoid Park (Gus Van Sant)
 * 99 Francs
-* à voir: https://fr.wikipedia.org/wiki/Elizabeth_:_L%27%C3%82ge_d%27or
+* pas vu: https://fr.wikipedia.org/wiki/Elizabeth_:_L%27%C3%82ge_d%27or
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -748,7 +748,7 @@ Pas aimé:
 * Bienvenue chez les Ch'tis (Kad Merad, Dany Boon)
 * Le Premier Jour du reste de ta vie (vu ?)
 * La Fille de Monaco
-* à voir: https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
+* pas vu: https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
 
 ### 2009
 
@@ -761,14 +761,14 @@ Pas aimé:
 * Les Derniers Jours du Monde (SF, avec Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php)
 * An Education (Carey Mulligan)
 * https://www.telerama.fr/cinema/films/london-river,389614.php (vu ?)
-* à voir: https://www.telerama.fr/cinema/films/vincere,391336.php
+* pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
 * A l'origine (François Cluzet)
 * Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php) : bof
-* à voir: Welcome
+* pas vu: Welcome
 
 ### 2010
 
@@ -786,7 +786,7 @@ Pas aimé:
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
 * Buried
-* à voir: L'Illusionniste
+* pas vu: L'Illusionniste
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -816,7 +816,7 @@ Pas aimé:
 * Melancholia (Lars von Trier)
 * Rapace (Grégory Gadebois)
 * The Deep Blue Sea (vu ?)
-* à voir: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
+* pas vu: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -826,7 +826,7 @@ Pas aimé:
 * La guerre est déclarée (Valérie Donzelli)
 * Jimmy Rivière
 * L’Exercice de l’État
-* à voir:
+* pas vu:
     * Le Havre (Aki Kaurismäki)
 
 ### 2012
@@ -850,7 +850,7 @@ Pas aimé:
 * Holy Motors (Leos Carax) ❤️
 * Amour (Michael Haneke)
 * De Rouille et d'Os (Jacques Audiard) 9✨
-* à voir: Les Adieux à la reine
+* pas vu: Les Adieux à la reine
 
 ### 2013
 
@@ -898,8 +898,8 @@ Bof:
 * Babysitting (Christian Clavier) ❤️
 * Creep
 * Still Alice
-* à voir: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
-* à voir: Selma
+* pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
+* pas vu: Selma
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -921,8 +921,8 @@ Bof:
 * Manifesto (Cate Blanchett)
 * Tangerine
 * Il est de retour (Comédie, Allemagne)
-* à voir: https://www.rottentomatoes.com/m/macbeth_2015
-* à voir: Le Fils de Saul 🌿
+* pas vu: https://www.rottentomatoes.com/m/macbeth_2015
+* pas vu: Le Fils de Saul 🌿
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -997,8 +997,8 @@ Ok sans plus:
 * Heureux comme Lazzaro (Italie)
 * Annihilation (SF, Natalie Portman)
 * Sorry to Bother You
-* à voir: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
-* à voir: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
+* pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
+* pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 
@@ -1016,7 +1016,7 @@ Sans plus:
 * Call Me by Your Name
 * Manta Ray
 
-Cannes, à voir:
+Cannes, pas vu:
 
 * https://www.lemonde.fr/festival-de-cannes/article/2018/05/09/cannes-2018-les-oiseaux-de-passage-un-scarface-tribal-et-hallucine-en-colombie_5296474_766360.html
 
@@ -1034,7 +1034,7 @@ Cannes, à voir:
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * The Two Popes
 * Dark Waters (Mark Ruffalo)
-* à voir: https://www.rottentomatoes.com/m/ash_is_purest_white
+* pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1069,9 +1069,9 @@ Décevant:
 * Palm Springs (Rom-Com, Andy Samberg)
 * Possessor (Brandon Cronenberg) ☀️
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
-* à voir: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
-* à voir: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
-* à voir: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
+* pas vu: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
+* pas vu: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
+* pas vu: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
 
 Aimés sans plus:
 
@@ -1090,7 +1090,7 @@ Aimés sans plus:
     * Antoinette dans les Cévennes
     * Adieu les cons [📰](https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php) 7✨
     * Les Choses qu'on dit, les Choses qu'on fait
-* à voir: https://www.telerama.fr/cinema/films/des-hommes,n6655943.php
+* pas vu: https://www.telerama.fr/cinema/films/des-hommes,n6655943.php
 
 Pas aimé:
 
@@ -1111,7 +1111,7 @@ Pas aimé:
 * Dune (SF, Denis Villeneuve)
 * Werewolves Within (comédie/horreur de Nöel)
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* à voir: https://www.telerama.fr/cinema/films/petite-maman,n6879604.php (Céline Sciamma)
+* pas vu: https://www.telerama.fr/cinema/films/petite-maman,n6879604.php (Céline Sciamma)
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1184,7 +1184,7 @@ Pas aimé:
     * Aguirre, la Colère de Dieu (1972, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
     * Fitzcarraldo (1982) 🎥
     * Cobra Verde (1987)
-    * à voir: https://www.rottentomatoes.com/m/where_the_green_ants_dream
+    * pas vu: https://www.rottentomatoes.com/m/where_the_green_ants_dream
     * Nosferatu (1978)
 * Thème: WWII
     * Le Pianiste
@@ -1330,8 +1330,8 @@ Pas aimé:
 * Antiviral
 * I, Robot (2003, Will Smith)
 * The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
-* à voir: https://www.telerama.fr/cinema/films/anon,517509.php
-* à voir: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
+* pas vu: https://www.telerama.fr/cinema/films/anon,517509.php
+* pas vu: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
 
 
 ![](images/affiches/brazil.jpg)
@@ -1748,7 +1748,7 @@ Japonais:
 * Hero
 * La Cité Interdite
 * Le Secret des Poignards Volants
-* à voir: https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php
+* pas vu: https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php
 
 ### [Tarentino](https://www.rottentomatoes.com/celebrity/quentin_tarantino)
 
