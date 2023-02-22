@@ -378,6 +378,7 @@ Français:
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
 * pas vu: https://www.telerama.fr/cinema/films/detective,4714.php
+* pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
 
 Pas aimé:
 
@@ -498,10 +499,10 @@ Français:
 
 * La Haine ✨
 * La Cité des enfants perdus
-* pas vu: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
+* Underground (Emir Kusturica) ✨ 🌿 ❤️ [📰](https://www.telerama.fr/cinema/films/underground,37761.php)
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (?)
-* pas vu: https://www.telerama.fr/cinema/films/underground,37761.php (Emir Kusturica) ✨ 🌿
+* pas vu: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
 
 Pas aimé:
 
@@ -1127,6 +1128,7 @@ Pas aimé:
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
+* La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Spirited (Ryan Reynolds)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
@@ -1156,10 +1158,10 @@ Pas aimé:
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
 * pas vu:
     * L'Innocent https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php
-    * En Corps (Klapisch) https://www.telerama.fr/cinema/films/en-corps-1-194593649.php
     * Les Amandiers https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php
 * bof:
     * Novembre (Cédric Jimenez, Jean Dujardin)
+    * En Corps (Klapisch) [📰](https://www.telerama.fr/cinema/films/en-corps-1-194593649.php)
     * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
 
 
@@ -1184,7 +1186,6 @@ Pas aimé:
     * Aguirre, la Colère de Dieu (1972, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
     * Fitzcarraldo (1982) 🎥
     * Cobra Verde (1987)
-    * pas vu: https://www.rottentomatoes.com/m/where_the_green_ants_dream
     * Nosferatu (1978)
 * Thème: WWII
     * Le Pianiste
@@ -1347,8 +1348,7 @@ Pas aimé:
 
 * Phantom of the Paradise (1974, Brian de Palma)
 * La Compagnie des Loups  (1984) [🍅](https://www.rottentomatoes.com/m/company_of_wolves)
-* Arizona Dream  💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream)
-  (1993, Kusturica, avec Johnny Depp) (très bonne musique)
+* Arizona Dream (1993, Emir Kusturica, Johnny Depp) 💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream) : très bonne musique
 * Edward aux mains d'argent
 * [The Fall](https://www.imdb.com/title/tt0460791) (2006)
 

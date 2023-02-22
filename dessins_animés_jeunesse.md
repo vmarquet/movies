@@ -15,6 +15,7 @@ Dessins animés pour enfants
 
 ### pas vu
 
+* Astérix : le Domaine des dieux [📰](https://www.telerama.fr/cinema/films/asterix-le-domaine-des-dieux,493990.php)
 * Vice Versa (2015)
 
 
