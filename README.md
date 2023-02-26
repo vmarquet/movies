@@ -1116,7 +1116,7 @@ Pas aimé:
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Illusions Perdues (avec Xavier Dolan) ❤️ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
+* Illusions Perdues (avec Xavier Dolan) ❤️ 7✨ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
 * Bac Nord
 * Les Olympiades (Jacques Audiard)
 * Bof: Titane, Onoda, L'évènement, Boite noire, Benedetta, Médecin de nuit
@@ -1128,17 +1128,18 @@ Pas aimé:
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
+* L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php)
 * La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Spirited (Ryan Reynolds)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
 * Meurtres sans ordonnance (The Good Nurse)
+* The Whale (Darren Aronofsky, Brendan Fraser)
 * bof:
     * The Pale Blue Eye (Christian Bale)
     * The Menu (Ralph Fiennes)
 * pas vu:
     * Nos Frangins
-    * the Whale (Brendan Fraser)
     * Eo https://www.telerama.fr/cinema/films/eo-1-225458516.php
     * La Conspiration du Caire https://www.telerama.fr/cinema/films/la-conspiration-du-caire-1-213217651.php
     * Falcon Lake https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php
@@ -1154,7 +1155,7 @@ Pas aimé:
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* La nuit du 12 ❤️
+* La nuit du 12 ❤️ 6✨
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
 * pas vu:
     * L'Innocent https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php
