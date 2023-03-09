@@ -1129,18 +1129,18 @@ Pas aimé:
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
 * L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php)
-* La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Spirited (Ryan Reynolds)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
-* A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
-* Meurtres sans ordonnance (The Good Nurse)
 * The Whale (Darren Aronofsky, Brendan Fraser)
+* La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
+* Meurtres sans ordonnance (The Good Nurse)
+* A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
 * bof:
     * The Pale Blue Eye (Christian Bale)
     * The Menu (Ralph Fiennes)
+    * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
     * Nos Frangins
-    * Eo https://www.telerama.fr/cinema/films/eo-1-225458516.php
     * La Conspiration du Caire https://www.telerama.fr/cinema/films/la-conspiration-du-caire-1-213217651.php
     * Falcon Lake https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php
     * Corsage
@@ -1148,7 +1148,6 @@ Pas aimé:
     * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
     * Sans Filtres https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php
-    * Emily the criminal https://www.rottentomatoes.com/m/emily_the_criminal
     * Godland https://www.telerama.fr/cinema/films/godland-1-215068907.php
     * Les 8 montagnes https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php
     * Quentin Dupieux: Fumer fait tousser
@@ -1157,8 +1156,8 @@ Pas aimé:
 
 * La nuit du 12 ❤️ 6✨
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
+* L'Innocent [📰](https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php)
 * pas vu:
-    * L'Innocent https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php
     * Les Amandiers https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php
 * bof:
     * Novembre (Cédric Jimenez, Jean Dujardin)
