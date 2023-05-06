@@ -131,6 +131,7 @@ Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
 * Apocalypse Now
 * Inglorious Basterds
 * Lion
+* Nightcall
 * Le Sel de la Terre (docu)
 * Baraka (docu)
 
@@ -690,6 +691,7 @@ Pas aimé:
 * The Devil Wears Prada
 * Fanaa (Bollywood)
 * Apocalypto (Mel Gibson) : longuet
+* pas vu: https://www.rottentomatoes.com/m/the_perverts_guide_to_cinema
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1128,10 +1130,12 @@ Pas aimé:
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
-* L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php)
 * Spirited (Ryan Reynolds)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
+* Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
+* L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php)
 * The Whale (Darren Aronofsky, Brendan Fraser)
+* Triangle of Sadness [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php)
 * La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
@@ -1141,24 +1145,19 @@ Pas aimé:
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
     * Nos Frangins
-    * La Conspiration du Caire https://www.telerama.fr/cinema/films/la-conspiration-du-caire-1-213217651.php
     * Falcon Lake https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php
-    * Corsage
     * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
     * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
-    * Sans Filtres https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php
-    * Godland https://www.telerama.fr/cinema/films/godland-1-215068907.php
     * Les 8 montagnes https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php
     * Quentin Dupieux: Fumer fait tousser
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
+* Les Amandiers ❤️❤️ [📰](https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php)
 * La nuit du 12 ❤️ 6✨
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
 * L'Innocent [📰](https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php)
-* pas vu:
-    * Les Amandiers https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php
 * bof:
     * Novembre (Cédric Jimenez, Jean Dujardin)
     * En Corps (Klapisch) [📰](https://www.telerama.fr/cinema/films/en-corps-1-194593649.php)
@@ -1168,6 +1167,12 @@ Pas aimé:
 ### 2023
 
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
+* Dungeons & Dragons: Honor Among Thieves : bon divertissement
+* Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
+
+Français:
+
+* Les Trois Mousquetaires
 
 
 

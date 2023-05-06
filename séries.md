@@ -38,7 +38,7 @@
 * Homeland
 * L'Affaire OJ Simpson (Netflix)
 * Dérapages (Eric Cantona)
-* Big Little Lies (2017) [🍅](https://www.rottentomatoes.com/tv/big_little_lies)
+* Big Little Lies (2017) ❤️❤️ [🍅](https://www.rottentomatoes.com/tv/big_little_lies)
 * The Dropout (Theranos) (2022) [🍅](https://www.rottentomatoes.com/tv/the_dropout/s01)
 * à voir:
 	* The Wire

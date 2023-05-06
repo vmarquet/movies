@@ -10,6 +10,11 @@ Documentaires
 * La Sagesse de la Pieuvre (2020, Netflix) ❤️
 * Péril sur la ville (2020) ([film complet](https://www.youtube.com/watch?v=kNKGmD9-1uI))
 
+à voir:
+
+* [Ama San](https://www.on-tenk.com/fr/documentaires/coup-de-coeur/ama-san)
+* [Dans l’obscurité du cinéma j’enlève mes chaussures](https://www.allocine.fr/film/fichefilm_gen_cfilm=250663.html)
+
 
 #### sans plus
 
@@ -19,6 +24,8 @@ Documentaires
 ### mockumentaires
 
 * Death to 2020, Death to 2021, ... (par les auteurs de Black Mirror)
+* Cunk on Britain (2018)
+* Cunk on Earth (2022) ❤️
 
 
 ### animalier

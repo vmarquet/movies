@@ -12,6 +12,7 @@ Youtube
 * [France Inter - Thomas Bidegain](https://www.youtube.com/results?search_query=thomas+bidegain)
 * [Strip Tease](https://www.youtube.com/c/StripTeaseTVFR)
 * [À la recherche du Vortex](https://www.youtube.com/watch?v=_Vv1bj7Zz4k)
+* [Pitch Meetings](https://www.youtube.com/@PitchMeetings)
 
 
 Humoristes
