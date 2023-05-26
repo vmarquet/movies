@@ -695,7 +695,7 @@ Pas aimé:
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
-* Indigènes
+* Indigènes (Rachid Bouchared)
 * OSS 117
 * Quatre étoiles (comédie, Carré/Garcia)
 * Ne le dis à personne (Guillaume Canet)
@@ -1114,13 +1114,13 @@ Pas aimé:
 * Dune (SF, Denis Villeneuve)
 * Werewolves Within (comédie/horreur de Nöel)
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* pas vu: https://www.telerama.fr/cinema/films/petite-maman,n6879604.php (Céline Sciamma)
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Illusions Perdues (avec Xavier Dolan) ❤️ 7✨ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
 * Bac Nord
 * Les Olympiades (Jacques Audiard)
+* Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
 * Bof: Titane, Onoda, L'évènement, Boite noire, Benedetta, Médecin de nuit
 
 
@@ -1144,20 +1144,20 @@ Pas aimé:
     * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
-    * Nos Frangins
-    * Falcon Lake https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php
     * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
     * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
     * Les 8 montagnes https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php
-    * Quentin Dupieux: Fumer fait tousser
+    * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Les Amandiers ❤️❤️ [📰](https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php)
 * La nuit du 12 ❤️ 6✨
+* Falcon Lake ❤️ [📰](https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php)
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
 * L'Innocent [📰](https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php)
+* Nos Frangins (Rachid Bouchared)
 * bof:
     * Novembre (Cédric Jimenez, Jean Dujardin)
     * En Corps (Klapisch) [📰](https://www.telerama.fr/cinema/films/en-corps-1-194593649.php)
