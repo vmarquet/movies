@@ -734,6 +734,7 @@ Pas aimé:
 * The Reader (Kate Winslet, Ralph Fiennes)
 * Okuribito (Départs, Japon) (winner 🏆)
 * Gran Torino (Clint Eastwood)
+* Be Kind, Rewind (Michel Gondry, Jack Black)
 * The Curious Case of Benjamin Button (David Fincher)
 * The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera)
@@ -1122,6 +1123,7 @@ Pas aimé:
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
 * Bof: Titane, Onoda, L'évènement, Boite noire, Benedetta, Médecin de nuit
+* pas vu: Le Bal des folles [🍅](https://www.rottentomatoes.com/m/the_mad_womens_ball)
 
 
 ### 2022
@@ -1144,6 +1146,7 @@ Pas aimé:
     * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
+    * Les Enfants des autres https://www.telerama.fr/cinema/films/les-enfants-des-autres-1-220707245.php
     * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
     * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
@@ -1162,6 +1165,7 @@ Pas aimé:
     * Novembre (Cédric Jimenez, Jean Dujardin)
     * En Corps (Klapisch) [📰](https://www.telerama.fr/cinema/films/en-corps-1-194593649.php)
     * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
+    * Athena (Romain Gavras) : quelques plans iconiques pour un scénario très vide
 
 
 ### 2023
@@ -1173,6 +1177,7 @@ Pas aimé:
 Français:
 
 * Les Trois Mousquetaires
+* pas vu: Jeanne du Barry [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 
 
 
@@ -1470,12 +1475,15 @@ Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio
 
 ### Aventure et divertissement familial
 
-* [Indiana Jones 1, 2 et 3](https://www.rottentomatoes.com/search/?search=indiana+jones&sitesearch=rt)
-(Spielberg)
+* Le Seigneur des Anneaux
+* Indiana Jones 1, 2 et 3 (Spielberg) [🍅](https://www.rottentomatoes.com/search/?search=indiana+jones&sitesearch=rt)
 * Harry Potter
-* [Pirates des Caraïbes 1, 2 et 3](https://www.rottentomatoes.com/search/?search=pirates+of+the+caribbean&sitesearch=rt)
-* Jurassic Park
-* Be Kind, Rewind (Michel Gondry)
+* Pirates des Caraïbes 1, 2 et 3 [🍅](https://www.rottentomatoes.com/search/?search=pirates+of+the+caribbean&sitesearch=rt)
+* Jurassic Park 1, 2 et 3
+* Star Wars
+* Ghostbusters
+* Back to the Future
+
 
 ### Animés
 
