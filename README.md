@@ -244,6 +244,7 @@ Pas aimé:
 ### 1965
 
 * Pierrot le Fou (Godard, Belmondo) 🎥 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
+* Alphaville (Jean-Luc Godard) ❤️ #sf
 * pas vu: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
 ### 1967
@@ -465,6 +466,7 @@ Français:
 [Oscars 66](https://fr.wikipedia.org/wiki/66e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The Piano (Jane Campion)
+* True Romance (scénario Tarentino, Christian Slater, Christopher Walken)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
 * pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
@@ -762,7 +764,7 @@ Pas aimé:
 * Le Ruban blanc (Michael Haneke) 🌿
 * Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
 * Fish Tank
-* Les Derniers Jours du Monde (SF, avec Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php)
+* Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * An Education (Carey Mulligan)
 * https://www.telerama.fr/cinema/films/london-river,389614.php (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
@@ -842,10 +844,11 @@ Pas aimé:
 * The Place Beyond the Pines
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
 * Antiviral (Brandon Cronenberg)
+* Ted [🍅](https://www.rottentomatoes.com/m/ted_2012) #romcom
 * Moonrise Kingdom
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
 * The Hunt (Mads Mikkelsen)
-* Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence)
+* Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence) #romcom
 * No (Chili, Gael García Bernal)
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
 
@@ -938,7 +941,7 @@ Bof:
 * Lion ❤️
 * Love and Friendship ❤️
 * Mademoiselle (Corée) 🌿
-* Arrival (SF, Amy Adams)
+* Arrival (Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
 * La La Land
 * I Daniel Blake
@@ -999,7 +1002,7 @@ Ok sans plus:
 * Bohemian Rhapsody (4🏆)
 * Capernaum (Capharnaüm) (Liban 🏆)
 * Heureux comme Lazzaro (Italie)
-* Annihilation (SF, Natalie Portman)
+* Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
@@ -1032,7 +1035,7 @@ Cannes, pas vu:
 * Joker ❤️
 * Jojo Rabbit ❤️
 * Marriage Story
-* Ad Astra (SF, James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra)
+* Ad Astra (James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra) #sf
 * Le Roi (Chalamet, Netflix)
 * Scheme Birds (documentaire) ❤️
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
@@ -1064,13 +1067,13 @@ Décevant:
 ### 2020
 
 * Une vie démente (Belgique, 7 Magritte) ❤️ [📰](https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php)
-* La plataforma (Netflix, SF) ❤️
-* Drunk (Mads Mikkelsen)
+* La plataforma (Espagne) ❤️ #sf
+* Drunk (Mads Mikkelsen) 🍷
 * L'Homme Invisible (avec Elisabeth Moss)
 * Mandibules (Quentin Dupieux) 🤘
 * The Father (Anthony Hopkins)
 * Riders of Justice (Retfærdighedens ryttere, Danemark, Mads Mikkelsen)
-* Palm Springs (Rom-Com, Andy Samberg)
+* Palm Springs (Andy Samberg) #romcom
 * Possessor (Brandon Cronenberg) ☀️
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
 * pas vu: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
@@ -1110,9 +1113,9 @@ Pas aimé:
 * Annette (Leos Carax, Adam Driver)
 * Jai Bhim (India) [🍅](https://www.rottentomatoes.com/m/jai_bhim)
 * Judas and the Black Messiah
-* Stowaway (Le Passager nº 4) (SF)
+* Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
-* Dune (SF, Denis Villeneuve)
+* Dune (Denis Villeneuve) #sf
 * Werewolves Within (comédie/horreur de Nöel)
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
 
@@ -1133,6 +1136,7 @@ Pas aimé:
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
 * Spirited (Ryan Reynolds)
+* Official Competition (Espagne, Penélope Cruz, Antonio Banderas)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
 * L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php)
@@ -1152,6 +1156,8 @@ Pas aimé:
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
     * Les 8 montagnes https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
+    * https://editorial.rottentomatoes.com/guide/best-movies-2022/
+        * no bears, happening, girl picture, till, the quiet girl, the duke
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1246,11 +1252,6 @@ Français:
 
 ![](images/affiches/lost.jpg)
 
-
-### Comédies romantiques
-
-* Ted  (2012) [🍅](https://www.rottentomatoes.com/m/ted_2012)
-* Palm Springs
 
 
 ### Parodique/second degré
@@ -1607,9 +1608,6 @@ Mes préférés:
 * Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
   (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu) ❤️
 
-### SF
-
-* Alphaville (1965, Jean-Luc Godard) ❤️
 
 ### Films à sketches
 
