@@ -441,6 +441,7 @@ Français:
 * La Diagonale du fou ✨ 🏆 (meilleur film étranger)
 * The Hit (Stephen Frears, Tim Roth)
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
+* Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 
 
@@ -469,6 +470,7 @@ Pas aimé:
 * 37°2 le matin ❤️
 * Ferris Bueller's Day Off
 * pas vu: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
+* pas vu: https://www.rottentomatoes.com/m/1014027-mission
 
 
 ### 1987
@@ -699,6 +701,7 @@ Pas aimé:
 * L'Homme sans passé (Kaurismäki)
 * La Cité de Dieu (Brésil)
 * The Bourne Identity (Matt Damon) #thriller
+* Gangs of New York (Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
