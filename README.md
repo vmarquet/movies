@@ -301,6 +301,7 @@ Français:
 ### 1974
 
 * Sugarland Express (Steven Spielberg) ❤️
+* Phantom of the Paradise (Brian de Palma) #fantastique
 * Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
 * pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 * pas vu: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
@@ -387,6 +388,7 @@ Français:
 [Oscars 57](https://fr.wikipedia.org/wiki/57e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Amadeus (Milos Forman) 8🏆
+* La Compagnie des Loups [🍅](https://www.rottentomatoes.com/m/company_of_wolves) #fantastique
 * La Diagonale du fou ✨ 🏆 (meilleur film étranger)
 * The Hit (Stephen Frears, Tim Roth)
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
@@ -464,6 +466,7 @@ Pas aimé:
 
 [Oscars 63](https://fr.wikipedia.org/wiki/63e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Edward aux mains d'argent (Tim Burton, Johnny Depp) #fantastique
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
 
@@ -498,6 +501,7 @@ Français:
 [Oscars 66](https://fr.wikipedia.org/wiki/66e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The Piano (Jane Campion)
+* Arizona Dream (Emir Kusturica, Johnny Depp) 💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream) #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
@@ -729,6 +733,7 @@ Pas aimé:
 * La Vie des autres ❤️ 🏆 (meilleur film étranger)
 * Little Miss Sunshine ❤️ ☀️
 * Casino Royale ❤️
+* The Fall [🍅](https://www.rottentomatoes.com/m/the-fall-2008) #fantastique
 * Le Labyrinthe de Pan (Guillermo del Toro)
 * The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee)
@@ -1414,14 +1419,6 @@ Français:
 
 ![](images/affiches/D9.jpg)
 
-
-### Fantastique
-
-* Phantom of the Paradise (1974, Brian de Palma)
-* La Compagnie des Loups  (1984) [🍅](https://www.rottentomatoes.com/m/company_of_wolves)
-* Arizona Dream (1993, Emir Kusturica, Johnny Depp) 💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream) : très bonne musique
-* Edward aux mains d'argent
-* [The Fall](https://www.imdb.com/title/tt0460791) (2006)
 
 
 ### Epouvante / Horreur
