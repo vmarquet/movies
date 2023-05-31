@@ -315,12 +315,14 @@ Français:
 * Molière (Ariane Mnouchkine)
 * Midnight Express
 
+
 ### 1979
 
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep)
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
+
 
 ### 1980
 
@@ -330,6 +332,7 @@ Français:
 * The Blues Brothers (John Landis) 💙
 * La Porte du Paradis (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php) : mémorable mais longuet
 * Raging Bull (Martin Scorsese) (vu ?)
+
 
 ### 1981
 
@@ -342,6 +345,7 @@ Français:
 * Bof: Chariots of Fire
 * pas vu: https://www.rottentomatoes.com/m/atlantic_city
 
+
 ### 1982
 
 [Oscars 56](https://fr.wikipedia.org/wiki/55e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
@@ -349,6 +353,7 @@ Français:
 * Das Boot (Allemagne) ❤️ (6 nominations 🏆)
 * Gandhi (Richard Attenborough) 🏆
 * Le père Noël est une ordure
+
 
 ### 1983
 
@@ -359,6 +364,7 @@ Français:
 * La Ballade de Narayama (Japon) 🌿
 * Merry Christmas, Mr. Lawrence (Furyo)
 
+
 ### 1984
 
 [Oscars 57](https://fr.wikipedia.org/wiki/57e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
@@ -368,6 +374,7 @@ Français:
 * The Hit (Stephen Frears, Tim Roth)
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
+
 
 ### 1985
 
@@ -386,6 +393,7 @@ Pas aimé:
 
 * Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : bof, photo vieillote, peu dialogué et longuet
 
+
 ### 1986
 
 [Oscars 59](https://fr.wikipedia.org/wiki/59e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
@@ -393,6 +401,7 @@ Pas aimé:
 * 37°2 le matin ❤️
 * Ferris Bueller's Day Off
 * pas vu: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
+
 
 ### 1987
 
@@ -409,6 +418,7 @@ Pas aimé:
 
 * Au revoir les enfants (Louis Malle) 7✨ : bof, longuet et convenu
 
+
 ### 1988
 
 [Oscars 61](https://fr.wikipedia.org/wiki/61e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
@@ -424,12 +434,14 @@ Pas aimé:
 * L'Ours (JJ Annaud)
 * La vie est un long fleuve tranquille
 
+
 ### 1989
 
 [Oscars 62](https://fr.wikipedia.org/wiki/62e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Sex, Lies and Videotape (Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
 * Le Cercle des poètes disparus (Peter Weir)
+
 
 ### 1990
 
@@ -443,6 +455,7 @@ Français:
 * Cyrano de Bergerac (JP Rappeneau) ❤️
 * Le Mari de la coiffeuse (Jean Rochefort)
 
+
 ### 1991
 
 [Oscars 64](https://fr.wikipedia.org/wiki/64e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
@@ -453,6 +466,7 @@ Français:
 
 * Tous les matins du monde (Alain Corneau, Gérard Depardieu) ❤️ [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
 
+
 ### 1992
 
 [Oscars 65](https://fr.wikipedia.org/wiki/65e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
@@ -460,6 +474,7 @@ Français:
 * Singles
 * Basic Instinct
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
+
 
 ### 1993
 
@@ -476,6 +491,7 @@ Français:
 * Les Visiteurs
 * pas vu: https://www.telerama.fr/cinema/films/no-smoking,29537.php
 
+
 ### 1994
 
 * La Cité de la peur ❤️
@@ -487,6 +503,7 @@ Français:
 * pas vu: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * pas vu: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
 * pas vu: https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
+
 
 ### 1995
 
@@ -511,6 +528,7 @@ Pas aimé:
 
 * La Cérémonie (Claude Chabrol, Sandrine Bonnaire)
 
+
 ### 1996
 
 [Oscars 69](https://fr.wikipedia.org/wiki/69e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
@@ -518,6 +536,7 @@ Pas aimé:
 * The English Patient ❤️ 9🏆
 * Trainspotting
 * Breaking the Waves (Lars von Trier)
+
 
 ### 1997
 
@@ -532,6 +551,7 @@ Pas aimé:
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) : esthétique bof mais scénario+
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
+
 
 ### 1998
 
@@ -548,6 +568,7 @@ Pas aimé:
 * Taxi
 * pas vu: https://www.telerama.fr/cinema/films/place-vendome,45583.php
 
+
 ### 1999
 
 [Oscars 72](https://fr.wikipedia.org/wiki/72e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
@@ -561,6 +582,7 @@ Pas aimé:
 
 * Himalaya : L'Enfance d'un chef
 * Les Enfants du Marais (vu ?)
+
 
 ### 2000
 
@@ -582,6 +604,7 @@ Pas aimé:
 * Les Rivières pourpres
 * La Fausse Suivante (?)
 
+
 ### 2001
 
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
@@ -597,6 +620,7 @@ Pas aimé:
 * Tanguy
 * Le Peuple migrateur (docu)
 
+
 ### 2002
 
 * Le Voyage de Chihiro
@@ -611,6 +635,7 @@ Pas aimé:
 * L'Auberge espagnole (Klapisch)
 * Être et avoir #film-scolaire
 * Monsieur Batignole (Gérard Jugnot)
+
 
 ### 2003
 
@@ -630,6 +655,7 @@ Pas aimé:
 * Les Triplettes de Belleville
 * Les Invasions Barbares (netflix) (sympa sans plus)
   [📰](https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php)
+
 
 ### 2004
 
@@ -655,6 +681,7 @@ Pas aimé:
 * Deux Frères
 * Violence des échanges en milieu tempéré
 
+
 ### 2005
 
 * A History of Violence (David Cronenberg)
@@ -672,6 +699,7 @@ Pas aimé:
 
 * Va, vis et deviens
 * La Marche de l'empereur
+
 
 ### 2006
 
@@ -702,6 +730,7 @@ Pas aimé:
 * Quatre étoiles (comédie, Carré/Garcia)
 * Ne le dis à personne (Guillaume Canet)
 
+
 ### 2007
 
 [Oscars 80](https://fr.wikipedia.org/wiki/80e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s) —
@@ -712,7 +741,7 @@ Pas aimé:
 * 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men ❤️ 🏆
 * Gone Baby Gone
-* Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes)
+* Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes) #sf
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
 * Paranoid Park (Gus Van Sant)
@@ -724,6 +753,7 @@ Pas aimé:
 * Le Scaphandre et le Papillon 🏆
 * Persépolis
 * La Graine et le Mulet
+
 
 ### 2008
 
@@ -756,6 +786,7 @@ Pas aimé:
 * La Fille de Monaco
 * pas vu: https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
 
+
 ### 2009
 
 * Bright Star (Jane Campion) 🎥 ❤️
@@ -775,6 +806,7 @@ Pas aimé:
 * A l'origine (François Cluzet)
 * Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php) : bof
 * pas vu: Welcome
+
 
 ### 2010
 
@@ -803,6 +835,7 @@ Pas aimé:
 * Tournée
 * Mammouth
 * La Princesse de Montpensier (vu ?)
+
 
 ### 2011
 
@@ -835,6 +868,7 @@ Pas aimé:
 * pas vu:
     * Le Havre (Aki Kaurismäki)
 
+
 ### 2012
 
 * Beasts of the Southern Wild ❤️
@@ -858,6 +892,7 @@ Pas aimé:
 * Amour (Michael Haneke)
 * De Rouille et d'Os (Jacques Audiard) 9✨
 * pas vu: Les Adieux à la reine
+
 
 ### 2013
 
@@ -883,6 +918,7 @@ Pas aimé:
 Bof:
 
 * Nosotros los Nobles (Mexique)
+
 
 ### 2014
 
@@ -914,6 +950,7 @@ Bof:
 * Diplomatie (Niels Arestrup, André Dussolier) ❤️
 * Saint-Laurent (Gaspard Ulliel)
 * Hippocrate
+
 
 ### 2015
 
