@@ -718,7 +718,7 @@ Pas aimé:
 * Million Dollar Baby
 * Capote
 * V for Vendetta
-* The Hitchhiker's Guide to the Galaxy (H2G2)
+* The Hitchhiker's Guide to the Galaxy (H2G2) #sf
 * pas vu: https://www.telerama.fr/cinema/films/memoires-d-une-geisha,253423.php
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1044,7 +1044,7 @@ Bof:
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* 120 battements par minute ❤️
+* 120 battements par minute ❤️ #cinema-qui-denonce
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Grave
 
@@ -1114,7 +1114,7 @@ Cannes, pas vu:
 
 * Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥 ❤️❤️
 * Proxima (Eva Green) ❤️
-* Hors normes (Olivier Nakache & Éric Toledano, Vincent Cassel, Reda Kateb) ❤️
+* Hors normes (Olivier Nakache & Éric Toledano, Vincent Cassel, Reda Kateb) ❤️ #cinema-qui-denonce
 * Le Chant du Loup ❤️
 * J'accuse (Polanski)
 * Le Nom de la Terre
@@ -1233,7 +1233,7 @@ Pas aimé:
 * Falcon Lake ❤️ [📰](https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php)
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
 * L'Innocent [📰](https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php)
-* Nos Frangins (Rachid Bouchared)
+* Nos Frangins (Rachid Bouchared) #cinema-qui-denonce
 * bof:
     * Novembre (Cédric Jimenez, Jean Dujardin)
     * En Corps (Klapisch) [📰](https://www.telerama.fr/cinema/films/en-corps-1-194593649.php)
