@@ -197,16 +197,19 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * La Traversée de Paris (Jean Gabin, Bourvil) #ww2
 
+
 ### 1957
 
 * The Seventh Seal (Fantastique, Ingmar Bergman)
 * 12 Hommes en Colère (Sidney Lumet) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men)
 * Certains l'aiment Chaud (Billy Wilder) [🍅](https://www.rottentomatoes.com/m/some_like_it_hot)
 
+
 ### 1958
 
 * Ascenseur pour l'échafaud (Louis Malle) ❤️ #policier
 * La Ballade de Narayama (Japon) (note: le remake de 1983 est très bon également)
+
 
 ### 1959
 
@@ -220,17 +223,20 @@ Pas aimé:
 
 * Le Tigre du Bengale (Fritz Lang)
 
+
 ### 1960
 
 * La Dolce Vita (Italie, Federico Fellini, Marcello Mastroianni) 🌿
 * L'Île nue (Japon)
 * La Vérité (HG Clouzot) 🏆
 
+
 ### 1961
 
 * West Side Story 🏆 ❤️
 * L'Année dernière à Marienbad (Alain Resnais) 🦁 🎥 : très beau mais intrigue poussive
 * Lola (Jacques Demy) 🎥 [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
+
 
 ### 1962
 
@@ -240,6 +246,7 @@ Pas aimé:
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
 * La Jetée
 * Cléo de 5 à 7 (Agnès Varda) : pas fan
+
 
 ### 1963
 
@@ -251,6 +258,7 @@ Pas aimé:
 * Le Guépard (Italie, Luchino Visconti) [📰](https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film)) 🌿 : longuet
 * 8½ (Italie, Federico Fellini) : pas fan, trop décousu
 
+
 ### 1964
 
 * L'Homme de Rio (Philippe de Broca, Belmondo) #aventure
@@ -258,6 +266,7 @@ Pas aimé:
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1964)
 
 * Les Parapluies de Cherbourg (Jacques Demy) 🌿 : pas fan, beau mais intrigue bof
+
 
 ### 1965
 
@@ -267,9 +276,11 @@ Pas aimé:
 * Yoyo (Pierre Etaix) ◯
 * pas vu: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
+
 ### 1966
 
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
+
 
 ### 1967
 
@@ -279,9 +290,11 @@ Pas aimé:
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
 * Le Samouraï (Jean-Pierre Melville) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php) #policier
 
+
 ### 1968
 
 * Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/1017834-romeo_and_juliet)
+
 
 ### 1969
 
@@ -295,6 +308,7 @@ Pas aimé:
 * Le Cercle rouge (Jean-Pierre Melville)
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
 
+
 ### 1971
 
 * Sans Mobile Apparent (Philippe Labro, Jean-Louis Trintignant) #policier : bon polar, bonnes vannes
@@ -306,14 +320,17 @@ Français:
 * Le Chat (Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
 * pas vu: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
 
+
 ### 1972
 
 * César et Rosalie (Claude Sautet) ❤️
 * L'aventure c'est l'aventure (Claude Lelouch, Lino Ventura, Jacques Brel) #aventure
 
+
 ### 1973
 
 * Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
+
 
 ### 1974
 
@@ -324,6 +341,7 @@ Français:
 * pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 * pas vu: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
+
 ### 1975
 
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
@@ -332,18 +350,25 @@ Français:
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
 * pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 
+
 ### 1976
 
 * Taxi Driver (Martin Scorsese, Robert de Niro) 💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
 * L'Empire des sens (Nagisa Ōshima) 🎥
+
+[Césars 2](https://fr.wikipedia.org/wiki/2e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
 * Un éléphant ça trompe énormément (Jean Rochefort)
 * Le Juge et l'Assassin (Bertrand Tavernier, Philippe Noiret, Michel Galabru)
+* Police Python 357 (Alain Corneau) : vu ?
+
 
 ### 1977
 
 * Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
 * pas vu: Eraserhead (David Lynch)
+
 
 ### 1978
 
@@ -357,7 +382,7 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
-* Série noire (Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
+* Série noire (Alain Corneau, Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
 
 
 ### 1980
@@ -698,7 +723,7 @@ Pas aimé:
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Stupeur et Tremblements
+* Stupeur et Tremblements (Alain Corneau)
 * Les Triplettes de Belleville
 * Les Invasions Barbares [📰](https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php) : sympa sans plus
 
