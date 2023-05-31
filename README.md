@@ -230,9 +230,11 @@ Pas aimé:
 
 * West Side Story 🏆 ❤️
 * L'Année dernière à Marienbad (Alain Resnais) 🦁 🎥 : très beau mais intrigue poussive
+* Lola (Jacques Demy) 🎥 [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
 
 ### 1962
 
+* Le Soupirant (Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️ ◯
 * Le Procès (Orson Welles) 🎥 ❤️
 * Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
@@ -241,6 +243,10 @@ Pas aimé:
 
 ### 1963
 
+* Les Tontons Flingueurs (Georges Lautner, Audiard, avec Lino Ventura) ❤️ [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
+    * même genre:
+        * Les Barbouzes (1964, Georges Lautner)
+        * Ne nous fâchons pas (1966, Georges Lautner)
 * Le Mépris (Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
 * Le Guépard (Italie, Luchino Visconti) [📰](https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film)) 🌿 : longuet
 * 8½ (Italie, Federico Fellini) : pas fan, trop décousu
@@ -258,6 +264,7 @@ Pas aimé:
 * Pierrot le Fou (Godard, Belmondo) 🎥 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * Alphaville (Jean-Luc Godard) ❤️ #sf
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
+* Yoyo (Pierre Etaix) ◯
 * pas vu: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
 ### 1966
@@ -1629,21 +1636,6 @@ Mes préférés:
 * Astérix et Obélix Mission Cléopâtre
 * 2h moins le quart avant Jésus-Christ (Coluche)
 
-### Vieux classiques (noir et blanc)
-
-* Les Tontons Flingueurs (1963, Lautner, Audiard, avec Lino Ventura) ❤️
-  [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
-    * même genre:
-        * Les Barbouzes (1964, Georges Lautner)
-        * Ne nous fâchons pas (1966, Georges Lautner)
-* Pierre Etaix ◯
-    * Le Soupirant  (1962) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️
-    * Yoyo
-    * Le Grand Amour
-* Lola  [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
-  (1961) (et autres de Jacques Demy) 🎥
-
-![](images/affiches/tontons.jpg)
 
 
 [⬆️ retour sommaire](#sommaire)
