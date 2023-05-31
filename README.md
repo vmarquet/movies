@@ -365,7 +365,7 @@ Français:
 
 * Amadeus (Milos Forman) 8🏆
 * La Diagonale du fou ✨ 🏆 (meilleur film étranger)
-* The Hit (Tim Roth)
+* The Hit (Stephen Frears, Tim Roth)
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 
@@ -466,7 +466,7 @@ Français:
 [Oscars 66](https://fr.wikipedia.org/wiki/66e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The Piano (Jane Campion)
-* True Romance (scénario Tarentino, Christian Slater, Christopher Walken)
+* True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
 * pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
@@ -782,7 +782,7 @@ Pas aimé:
 * Rubber (Quentin Dupieux) ❤️
 * Inception (Nolan) 💙 🏆
 * Shutter Island (Martin Scorsese)
-* True Grit
+* True Grit (frères Coen) #western
 * Four Lions ❤️
 * Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
 * The King's Speech (Le Discours d'un roi)
@@ -979,7 +979,6 @@ Bof:
 * 120 battements par minute ❤️
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Grave
-* pas vu: https://fr.wikipedia.org/wiki/Le_Sens_de_la_fête
 
 Ok sans plus:
 
@@ -1011,11 +1010,11 @@ Ok sans plus:
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Les Frères Sisters (Western, Jacques Audiard) ❤️ 4✨
+* Les Frères Sisters (Western, Jacques Audiard) ❤️ 4✨ #western
 * L'Empereur de Paris (Vincent Cassel) ❤️
 * Shéhérazade
 * En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
-* Mademoiselle de Joncquières (comédie dramatique romantique, sympa mais pas inoubliable)
+* Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 
 Sans plus:
 
@@ -1157,7 +1156,7 @@ Pas aimé:
     * Les 8 montagnes https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
-        * no bears, happening, girl picture, till, the quiet girl, the duke
+        * no bears, happening, girl picture, till, the quiet girl
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1178,6 +1177,7 @@ Pas aimé:
 
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
+* Sick of Myself (Norvège)
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 
 Français:
