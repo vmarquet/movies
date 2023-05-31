@@ -678,8 +678,7 @@ Pas aimé:
 
 * Stupeur et Tremblements
 * Les Triplettes de Belleville
-* Les Invasions Barbares (netflix) (sympa sans plus)
-  [📰](https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php)
+* Les Invasions Barbares [📰](https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php) : sympa sans plus
 
 
 ### 2004
@@ -1065,7 +1064,7 @@ Ok sans plus:
 * La Saveur des Ramens (Japon/Singapour)
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * La Ballade de Buster Scruggs
-* Bird Box (Sandra Bullock, Netflix)
+* Bird Box (Sandra Bullock)
 * Bohemian Rhapsody (4🏆)
 * Capernaum (Capharnaüm) (Liban 🏆)
 * Heureux comme Lazzaro (Italie)
@@ -1078,7 +1077,7 @@ Ok sans plus:
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Les Frères Sisters (Western, Jacques Audiard) ❤️ 4✨ #western
+* Les Frères Sisters (Jacques Audiard) ❤️ 4✨ #western
 * L'Empereur de Paris (Vincent Cassel) ❤️
 * Shéhérazade
 * En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
@@ -1103,7 +1102,7 @@ Cannes, pas vu:
 * Jojo Rabbit ❤️
 * Marriage Story
 * Ad Astra (James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra) #sf
-* Le Roi (Chalamet, Netflix)
+* Le Roi (Chalamet)
 * Scheme Birds (documentaire) ❤️
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * The Two Popes
@@ -1150,8 +1149,8 @@ Décevant:
 Aimés sans plus:
 
 * Nomadland (Frances McDormand) 🏆 ☀️
-* Promising Young Woman (divertissement sympa sans plus)
-* News of the World (Western, Tom Hanks)
+* Promising Young Woman : divertissement sympa sans plus
+* News of the World (Tom Hanks) #western
 * Tenet
 * Sound of Metal
 * Soul (Pixar)
