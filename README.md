@@ -554,6 +554,7 @@ Pas aimé:
 * The English Patient ❤️ 9🏆
 * Trainspotting
 * Breaking the Waves (Lars von Trier)
+* Lone Star [🍅](https://www.rottentomatoes.com/m/1074022-lone_star) #neowestern
 
 
 ### 1997
@@ -702,6 +703,7 @@ Pas aimé:
 
 ### 2005
 
+* Trois Enterrements (Tommy Lee Jones) 🌿 [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada) #neowestern
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * Broken Flowers (Jarmusch)
@@ -1521,11 +1523,6 @@ Français:
 
 Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio_leone), [Sergio Corbucci](https://www.rottentomatoes.com/celebrity/sergio_corbucci), [Sergio Sollima](https://www.rottentomatoes.com/celebrity/sergio_sollima)
 
-#### Néowesterns
-
-* Trois Enterrements  [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada)
-(de et avec Tommy Lee Jones)
-* Lone Star  [🍅](https://www.rottentomatoes.com/m/1074022-lone_star)
 
 ### Aventure et divertissement familial
 
@@ -1604,6 +1601,7 @@ Mes préférés:
 * Fanfan la Tulipe (1952)
 * La Grande Vadrouille (1966, Gérard Oury, Bourvil, de Funès)
 * Rabbi Jacob (1973, Louis de Funes)
+* Les bronzés (1978)
 * Papy fait de la résistance (1983)
 * L'Opération Corned-Beef (1991, Jean-Marie Poiré, Christian Clavier, Jean Reno)
 * Les Visiteurs (1993, Christian Clavier, Jean Reno)
