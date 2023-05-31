@@ -148,6 +148,10 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Le Kid et autres de Charlie Chaplin [📰](https://fr.wikipedia.org/wiki/Charlie_Chaplin#Filmographie)
 
+### 1922
+
+* Nosferatu (Murnau) [🍅](https://www.rottentomatoes.com/m/nosferatu) #vampires
+
 ### 1927
 
 * Metropolis (Fritz Lang)
@@ -260,6 +264,7 @@ Pas aimé:
 * Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 💙
   [🍅](https://www.rottentomatoes.com/m/graduate)
   [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php)
+* Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
 
 ### 1968
 
@@ -422,7 +427,7 @@ Pas aimé:
 * Les Ailes du Désir (Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
 * Les Incorruptibles (Brian de Palma)
-* The Lost Boys (vampires)
+* The Lost Boys #vampires
 * pas vu: https://www.rottentomatoes.com/m/empire_of_the_sun
 * pas vu: https://www.telerama.fr/cinema/films/tandem,9962.php
 
@@ -508,6 +513,7 @@ Français:
 
 * La Cité de la peur ❤️
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
+* Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1415,11 +1421,6 @@ Français:
 * Edward aux mains d'argent
 * [The Fall](https://www.imdb.com/title/tt0460791) (2006)
 
-#### Vampires
-
-* Le Bal des Vampires  (1967, Roman Polanski) (parodique) 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) ❤️
-* Nosferatu  (1922, Murnau) [🍅](https://www.rottentomatoes.com/m/nosferatu)
-* Entretien avec un Vampire  (1994) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire)
 
 ### Epouvante / Horreur
 
