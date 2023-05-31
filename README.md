@@ -903,14 +903,14 @@ Pas aimé:
 * Beasts of the Southern Wild ❤️
 * Mud ❤️
 * Laurence Anyways (Xavier Dolan) ❤️
-* A Royal Affair ❤️
+* A Royal Affair (Danemark) ❤️
 * The Place Beyond the Pines
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
 * Antiviral (Brandon Cronenberg)
 * Ted [🍅](https://www.rottentomatoes.com/m/ted_2012) #romcom
 * Moonrise Kingdom
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
-* The Hunt (Mads Mikkelsen)
+* The Hunt (Danemark, Mads Mikkelsen)
 * Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence) #romcom
 * Lincoln (Steven Spielberg, Daniel Day-Lewis)
 * No (Chili, Gael García Bernal)
@@ -1135,7 +1135,7 @@ Décevant:
 
 * Une vie démente (Belgique, 7 Magritte) ❤️ [📰](https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php)
 * La plataforma (Espagne) ❤️ #sf
-* Drunk (Mads Mikkelsen) 🍷
+* Drunk (Danemark, Mads Mikkelsen) 🍷
 * L'Homme Invisible (avec Elisabeth Moss)
 * Mandibules (Quentin Dupieux) 🤘
 * The Father (Anthony Hopkins)
