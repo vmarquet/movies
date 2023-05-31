@@ -189,6 +189,10 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Les 7 Samourais (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/1018639-seven_samurai)
 
+### 1956
+
+* La Traversée de Paris (Jean Gabin, Bourvil)
+
 ### 1957
 
 * The Seventh Seal (Fantastique, Ingmar Bergman)
@@ -322,6 +326,7 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
+* Série noire (Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
 
 
 ### 1980
@@ -329,6 +334,7 @@ Français:
 [Oscars 53](https://fr.wikipedia.org/wiki/53e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Elephant Man (Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
+* Mon Oncle d'Amérique  (Alain Resnais, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
 * The Blues Brothers (John Landis) 💙
 * La Porte du Paradis (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php) : mémorable mais longuet
 * Raging Bull (Martin Scorsese) (vu ?)
@@ -615,7 +621,7 @@ Pas aimé:
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Le Fabuleux Destin d'Amélie Poulain ❤️
+* Le Fabuleux Destin d'Amélie Poulain (Jean-Pierre Jeunet) ❤️ [📰](https://www.telerama.fr/cinema/films/le-fabuleux-destin-d-am-lie-poulain,54074.php)
 * Le Pacte des loups
 * Tanguy
 * Le Peuple migrateur (docu)
@@ -632,7 +638,7 @@ Pas aimé:
 
 * Le Pianiste ❤️
 * Astérix et Obélix : Mission Cléopâtre
-* L'Auberge espagnole (Klapisch)
+* L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
 * Monsieur Batignole (Gérard Jugnot)
 
@@ -746,6 +752,7 @@ Pas aimé:
 * My Blueberry Nights (Wong Kar-Wai)
 * Paranoid Park (Gus Van Sant)
 * 99 Francs
+* Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
 * pas vu: https://fr.wikipedia.org/wiki/Elizabeth_:_L%27%C3%82ge_d%27or
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
@@ -832,8 +839,8 @@ Pas aimé:
 * Le Noms des Gens
 * Des hommes et des dieux (Michael Lonsdale) 🎥 [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
 * L'Arnacoeur
-* Tournée
-* Mammouth
+* Tournée (Mathieu Amalric) 🎥
+* Mammuth (Délépine et Kervern, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * La Princesse de Montpensier (vu ?)
 
 
@@ -852,6 +859,7 @@ Pas aimé:
 * Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
+* Habemus Papam (Nanni Moretti)
 * Melancholia (Lars von Trier)
 * Rapace (Grégory Gadebois)
 * The Deep Blue Sea (vu ?)
@@ -885,6 +893,7 @@ Pas aimé:
 * Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence) #romcom
 * No (Chili, Gael García Bernal)
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
+* Le grand soir (Delépine et Kervern, Benoît Poelvoorde)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1607,20 +1616,6 @@ Mes préférés:
 * Années 70: voir Francis Veber, Pierre Richard
 * Années 80: voir [troupe du Splendid](https://fr.wikipedia.org/wiki/Le_Splendid_%28troupe%29#Films_du_Splendid), Christian Clavier
 * Années 90: voir [les Nuls](https://fr.wikipedia.org/wiki/Les_Nuls#Au_cin%C3%A9ma), [les Inconnus](https://fr.wikipedia.org/wiki/Les_Inconnus#Filmographie)
-
-
-### Comédies dramatiques
-
-* La Traversée de Paris (1956)
-* Série noire (1979, Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
-* Mon Oncle d'Amérique  (1980, Alain Resnais, avec Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
-* Amélie Poulain   (2000, JP Jeunet) [📰](https://www.telerama.fr/cinema/films/le-fabuleux-destin-d-am-lie-poulain,54074.php)
-* L'Auberge Espagnole  (2002, Cédric Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
-* Tournée (Mathieu Amalric) 🎥
-* Mammuth  (2010, Délépine et Kervern, avec Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
-* Louise-Michel  (2007, Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
-* Habemus Papam (2011, Nanni Moretti)
-* Le grand soir (2012, Delépine et Kervern, Benoît Poelvoorde)
 
 
 ### Aventure
