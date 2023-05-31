@@ -825,7 +825,7 @@ Pas aimé:
 * Fish Tank
 * Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * An Education (Carey Mulligan)
-* https://www.telerama.fr/cinema/films/london-river,389614.php (vu ?)
+* London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -888,7 +888,7 @@ Pas aimé:
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* The Artist ❤️🏆
+* The Artist ❤️ 🏆
 * Intouchables ❤️ (Olivier Nakache & Éric Toledano, Omar Sy, François Cluzet)
 * Polisse [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
 * La guerre est déclarée (Valérie Donzelli)
