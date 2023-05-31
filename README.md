@@ -241,6 +241,8 @@ Pas aimé:
 
 ### 1964
 
+* L'Homme de Rio (Philippe de Broca, Belmondo) #aventure
+
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1964)
 
 * Les Parapluies de Cherbourg (Jacques Demy) 🌿 : pas fan, beau mais intrigue bof
@@ -249,6 +251,7 @@ Pas aimé:
 
 * Pierrot le Fou (Godard, Belmondo) 🎥 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
 * Alphaville (Jean-Luc Godard) ❤️ #sf
+* Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * pas vu: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
 ### 1967
@@ -282,6 +285,7 @@ Français:
 ### 1972
 
 * César et Rosalie (Claude Sautet) ❤️
+* L'aventure c'est l'aventure (Claude Lelouch, Lino Ventura, Jacques Brel) #aventure
 
 ### 1973
 
@@ -1616,13 +1620,6 @@ Mes préférés:
 * Années 70: voir Francis Veber, Pierre Richard
 * Années 80: voir [troupe du Splendid](https://fr.wikipedia.org/wiki/Le_Splendid_%28troupe%29#Films_du_Splendid), Christian Clavier
 * Années 90: voir [les Nuls](https://fr.wikipedia.org/wiki/Les_Nuls#Au_cin%C3%A9ma), [les Inconnus](https://fr.wikipedia.org/wiki/Les_Inconnus#Filmographie)
-
-
-### Aventure
-
-* L'Homme de Rio (1964, Philippe de Broca, Belmondo)
-* Les Tribulations d'un Chinois en Chine (1965, Philippe de Broca, Belmondo)
-* L'aventure c'est l'aventure (1972, Claude Lelouch, Lino Ventura, Jacques Brel)
 
 
 ### Policier
