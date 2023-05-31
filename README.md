@@ -191,7 +191,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1956
 
-* La Traversée de Paris (Jean Gabin, Bourvil)
+* La Traversée de Paris (Jean Gabin, Bourvil) #ww2
 
 ### 1957
 
@@ -230,6 +230,7 @@ Pas aimé:
 
 * Le Procès (Orson Welles) 🎥 ❤️
 * Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
+* Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
 * La Jetée
 * Cléo de 5 à 7 (Agnès Varda) : pas fan
 
@@ -271,10 +272,11 @@ Pas aimé:
 ### 1970
 
 * Deep End 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
+* Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
 
 ### 1971
 
-* Harold and Maude (not a fan of the aesthetic and storytelling but the plot is interesting https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
+* Harold and Maude : not a fan of the aesthetic and storytelling but the plot is interesting [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 
 Français:
 
@@ -1595,12 +1597,6 @@ Mes préférés:
 * Astérix et Obélix Mission Cléopatre
 * OSS 177 Le Caire Nid d'Espions
 
-
-#### WWII
-
-* La Traversée de Paris (1956, Bourvil)
-* Le Jour le plus long (1962, John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil)
-* Le Mur de l'Atlantique (1970, Marcel Camus, Bourvil)
 
 #### Classiques potaches
 
