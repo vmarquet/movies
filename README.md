@@ -205,6 +205,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1958
 
+* Ascenseur pour l'échafaud (Louis Malle) ❤️ #policier
 * La Ballade de Narayama (Japon) (note: le remake de 1983 est très bon également)
 
 ### 1959
@@ -259,12 +260,17 @@ Pas aimé:
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * pas vu: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
 
+### 1966
+
+* Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
+
 ### 1967
 
 * Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 💙
   [🍅](https://www.rottentomatoes.com/m/graduate)
   [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php)
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
+* Le Samouraï (Jean-Pierre Melville) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php) #policier
 
 ### 1968
 
@@ -272,15 +278,19 @@ Pas aimé:
 
 ### 1969
 
-* Easy Rider
+* Easy Rider (Dennis Hopper, Peter Fonda) [📰](https://www.telerama.fr/cinema/films/easy-rider,4721.php)
+* L'Armée des ombres (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/l-armee-des-ombres,14662.php) #ww2 : bof, longuet
+
 
 ### 1970
 
 * Deep End 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
+* Le Cercle rouge (Jean-Pierre Melville)
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
 
 ### 1971
 
+* Sans Mobile Apparent (Philippe Labro, Jean-Louis Trintignant) #policier : bon polar, bonnes vannes
 * Harold and Maude : not a fan of the aesthetic and storytelling but the plot is interesting [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 
 Français:
@@ -303,6 +313,7 @@ Français:
 * Sugarland Express (Steven Spielberg) ❤️
 * Phantom of the Paradise (Brian de Palma) #fantastique
 * Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
+* Peur sur la Ville (Belmondo) (vu ?) #policier
 * pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 * pas vu: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
@@ -361,9 +372,13 @@ Français:
 * An American Werewolf in London (John Landis) #fantastique
 * Coup de torchon (Bertrand Tavernier)
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
-* La Guerre du Feu (JJ Annaud)
 * Bof: Chariots of Fire
 * pas vu: https://www.rottentomatoes.com/m/atlantic_city
+
+[Césars 7](https://fr.wikipedia.org/wiki/7e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Garde à Vue (Claude Miller, avec Michel Serrault, Gérard Depardieu) ❤️ 4✨ [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php) #policier
+* La Guerre du Feu (JJ Annaud) ✨
 
 
 ### 1982
@@ -430,7 +445,7 @@ Pas aimé:
 
 * Les Ailes du Désir (Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
-* Les Incorruptibles (Brian de Palma)
+* Les Incorruptibles (Brian de Palma) #policier
 * The Lost Boys #vampires
 * pas vu: https://www.rottentomatoes.com/m/empire_of_the_sun
 * pas vu: https://www.telerama.fr/cinema/films/tandem,9962.php
@@ -651,7 +666,7 @@ Pas aimé:
 * Le Voyage de Chihiro
 * L'Homme sans passé (Kaurismäki)
 * La Cité de Dieu (Brésil)
-* The Bourne Identity
+* The Bourne Identity (Matt Damon) #thriller
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1052,9 +1067,8 @@ Ok sans plus:
 * Le Brio (Daniel Auteuil)
 * Split (James McAvoy)
 * Lady Bird
-* Valérian et la Cité des mille planètes
-* Au revoir là haut (Albert Dupontel) 5✨
-  [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
+* Valérian et la Cité des mille planètes #sf
+* Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
 
 
 ### 2018
@@ -1608,22 +1622,6 @@ Mes préférés:
 * Années 70: voir Francis Veber, Pierre Richard
 * Années 80: voir [troupe du Splendid](https://fr.wikipedia.org/wiki/Le_Splendid_%28troupe%29#Films_du_Splendid), Christian Clavier
 * Années 90: voir [les Nuls](https://fr.wikipedia.org/wiki/Les_Nuls#Au_cin%C3%A9ma), [les Inconnus](https://fr.wikipedia.org/wiki/Les_Inconnus#Filmographie)
-
-
-### Policier
-
-* Ascenseur pour l'échafaud (1958, Louis Malle) ❤️
-* Jean-Pierre Melville
-    * Le Deuxième Souffle (1966) : pas mauvais mais longuet
-      [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php)
-    * Le Samouraï (1967) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php)
-    * L'Armée des ombres (1969) : bof, longuet
-      [📰](https://www.telerama.fr/cinema/films/l-armee-des-ombres,14662.php)
-    * Le Cercle rouge (1970)
-* Sans Mobile Apparent (1971, Philippe Labro, Jean-Louis Trintignant) (bon polar, bonnes vannes)
-* Peur sur la Ville (1975, Belmondo) (vu ?)
-* Garde à Vue  [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php)
-  (1981, Claude Miller, avec Michel Serrault, Gérard Depardieu) ❤️
 
 
 ### Films à sketches
