@@ -310,6 +310,7 @@ Français:
 
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
+* Section spéciale (Costa-Gavras)
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
 * pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 
@@ -357,9 +358,10 @@ Français:
 [Oscars 54](https://fr.wikipedia.org/wiki/54e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Mephisto 🎥 ❤️ 🏆 (meilleur film étranger, Allemagne/Hongrie) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
-* An American Werewolf in London (John Landis)
+* An American Werewolf in London (John Landis) #fantastique
 * Coup de torchon (Bertrand Tavernier)
-* Blow Out (Brian De Palma, John Travolta) (one of all-time favorite movies of Tarentino)
+* Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
+* La Guerre du Feu (JJ Annaud)
 * Bof: Chariots of Fire
 * pas vu: https://www.rottentomatoes.com/m/atlantic_city
 
@@ -910,6 +912,7 @@ Pas aimé:
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
 * The Hunt (Mads Mikkelsen)
 * Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence) #romcom
+* Lincoln (Steven Spielberg, Daniel Day-Lewis)
 * No (Chili, Gael García Bernal)
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
 * Le grand soir (Delépine et Kervern, Benoît Poelvoorde)
@@ -1479,12 +1482,6 @@ Français:
 
 ![](images/affiches/FMJ.jpg)
 
-
-### Films historiques
-
-* La Guerre du Feu (1981, JJ Annaud)
-* Section spéciale (1975, Costa-Gavras)
-* Lincoln (2012, Spielberg)
 
 #### WWII
 
