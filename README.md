@@ -155,6 +155,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1927
 
 * Metropolis (Fritz Lang)
+* les films de Laurel et Hardy: Do Detective Think?, The Second Hundred Years, Putting Pants on Philip, ...
 
 ### 1928
 
@@ -409,7 +410,7 @@ Français:
 
 [Césars 7](https://fr.wikipedia.org/wiki/7e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Garde à Vue (Claude Miller, avec Michel Serrault, Gérard Depardieu) ❤️ 4✨ [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php) #policier
+* Garde à Vue (Claude Miller, avec Michel Serrault, Lino Ventura) ❤️ 4✨ [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php) #policier
 * La Guerre du Feu (JJ Annaud) ✨
 
 
@@ -916,6 +917,7 @@ Pas aimé:
 
 ### 2011
 
+* Il était une fois en Anatolie (Nuri Bilge Ceylan) 🌿
 * Midnight in Paris (Woody Allen)
 * Drive ❤️
 * Millenium, the girl with the dragon tattoo
@@ -976,8 +978,9 @@ Pas aimé:
 
 ### 2013
 
-* 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆 
+* 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆
 * Tom à la Ferme (Xavier Dolan) ❤️
+* Winter Sleep (Nuri Bilge Ceylan) 🌿
 * Her (Spike Jonze) ❤️
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ 🏆 (meilleur film étranger) ✨ 🌿
 * Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
@@ -1246,6 +1249,7 @@ Pas aimé:
 
 ### 2022
 
+* Le otto montagne ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
@@ -1269,7 +1273,6 @@ Pas aimé:
     * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
     * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
-    * Les 8 montagnes https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
@@ -1298,6 +1301,7 @@ Pas aimé:
 
 Français:
 
+* Jeanne du Barry (Maïwenn)
 * Les Trois Mousquetaires
 * pas vu: Jeanne du Barry [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 
@@ -1722,8 +1726,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Quentin Dupieux](https://www.rottentomatoes.com/celebrity/quentin_dupieux)
 * [Steve McQueen](https://www.rottentomatoes.com/celebrity/steve_mcqueen_iii)
 * [Nuri Bilge Ceylan](https://www.rottentomatoes.com/celebrity/nuri_bilge_ceylan)
-    * Il était une fois en Anatolie (2011) 🌿
-    * Winter Sleep (2013) 🌿
+
 
 Français:
 
