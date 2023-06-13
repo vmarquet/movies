@@ -146,7 +146,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1921
 
-* Le Kid et autres de Charlie Chaplin [📰](https://fr.wikipedia.org/wiki/Charlie_Chaplin#Filmographie)
+* Le Kid (et autres de Charlie Chaplin) [📰](https://fr.wikipedia.org/wiki/Charlie_Chaplin#Filmographie)
 
 ### 1922
 
@@ -223,7 +223,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 Pas aimé:
 
-* Le Tigre du Bengale (Fritz Lang)
+* Le Tigre du Bengale (Fritz Lang) : très mal vieilli, intrigue cliché
 
 
 ### 1960
@@ -247,7 +247,7 @@ Pas aimé:
 * Le Procès (Orson Welles) 🎥 ❤️
 * Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
-* La Jetée
+* La Jetée #sf
 * Cléo de 5 à 7 (Agnès Varda) : pas fan
 
 
@@ -344,6 +344,7 @@ Français:
 * Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
 * Conversation Secrète (FF Coppola) #thriller
 * Peur sur la Ville (Belmondo) (vu ?) #policier
+* Chinatown (Roman Polanski)
 * pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 * pas vu: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
@@ -361,6 +362,7 @@ Français:
 ### 1976
 
 * Taxi Driver (Martin Scorsese, Robert de Niro) 💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
+* Le Locataire (Roman Polanski) ❤️ #thriller
 * L'Empire des sens (Nagisa Ōshima) 🎥
 
 [Césars 2](https://fr.wikipedia.org/wiki/2e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -727,7 +729,7 @@ Pas aimé:
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Le Pianiste ❤️
+* Le Pianiste (Roman Polanski) ❤️
 * Astérix et Obélix : Mission Cléopâtre
 * L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
@@ -1725,6 +1727,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Francis Ford Coppola](https://www.rottentomatoes.com/celebrity/francis_ford_coppola)
 * [Terry Gilliam](https://www.rottentomatoes.com/celebrity/terry_gilliam)
 * [Clint Eastwood](https://www.rottentomatoes.com/celebrity/clint_eastwood)
+* [Roman Polanski](https://www.rottentomatoes.com/celebrity/roman_polaski)
 * [Martin Scorsese](https://www.rottentomatoes.com/celebrity/martin_scorsese)
 * [Darren Aronofsky](https://www.rottentomatoes.com/celebrity/darren_aronofsky)
 * [Terrence Malick](https://www.rottentomatoes.com/celebrity/terrence_malick)
@@ -1765,14 +1768,6 @@ Japonais:
 * [Akira Kurosawa](https://www.rottentomatoes.com/celebrity/akirakurosawa)
 * [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
 
-
-### [Roman Polanski](https://www.rottentomatoes.com/celebrity/roman_polaski)
-
-* Rosemary's Baby
-* Le Locataire ❤️
-* Le Bal des Vampires ❤️
-* Le Pianiste
-* Chinatown
 
 ### [Frères Coen](https://www.rottentomatoes.com/celebrity/joel_coen)
 
