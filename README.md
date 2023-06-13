@@ -864,6 +864,7 @@ Pas aimé:
 * Okuribito (Départs, Japon) (winner 🏆)
 * Gran Torino (Clint Eastwood)
 * Be Kind, Rewind (Michel Gondry, Jack Black)
+* The Wrestler (Darren Aronofsky)
 * The Curious Case of Benjamin Button (David Fincher)
 * The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera)
@@ -910,6 +911,7 @@ Pas aimé:
 * Les Amours Imaginaires (Xavier Dolan) ❤️
 * Rubber (Quentin Dupieux) ❤️
 * Inception (Nolan) 💙 🏆
+* Black Swan (Darren Aronofsky)
 * Shutter Island (Martin Scorsese)
 * True Grit (frères Coen) #western
 * Four Lions ❤️
@@ -1723,9 +1725,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Clint Eastwood](https://www.rottentomatoes.com/celebrity/clint_eastwood)
 * [Martin Scorsese](https://www.rottentomatoes.com/celebrity/martin_scorsese)
 * [Darren Aronofsky](https://www.rottentomatoes.com/celebrity/darren_aronofsky)
-    * Requiem for a Dream, Black Swan, The Wrestler
 * [David Lynch](https://www.rottentomatoes.com/celebrity/david_lynch)
-    * Elephant Man, Mulholland Drive
 * [Ridley Scott](https://www.rottentomatoes.com/celebrity/ridley_scott)
 * [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
 * [David Cronenberg](https://www.rottentomatoes.com/celebrity/david_cronenberg)
@@ -1761,7 +1761,6 @@ Japonais:
 * à découvrir: [Mizoguchi](https://www.telerama.fr/recherche/films?q=Mizoguchi)
 * [Akira Kurosawa](https://www.rottentomatoes.com/celebrity/akirakurosawa)
 * [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
-    * Aniki mon Frère, Hana-Bi
 
 
 ### [Roman Polanski](https://www.rottentomatoes.com/celebrity/roman_polaski)
