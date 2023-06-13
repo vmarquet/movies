@@ -553,6 +553,7 @@ Français:
 [Oscars 64](https://fr.wikipedia.org/wiki/64e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Thelma & Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
+* Dead Again (Kenneth Brannagh)
 
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -576,6 +577,7 @@ Français:
 * The Piano (Jane Campion)
 * Arizona Dream (Emir Kusturica, Johnny Depp) 💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream) #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
+* Beaucoup de Bruit pour rien (Kenneth Brannagh)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
 * pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
@@ -1450,8 +1452,7 @@ Français:
   (David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
 * Inception (Christopher Nolan)
 * Shutter Island (Martin Scorsese)
-* Le Limier  [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php)
-  (le remake, à défaut)(Kenneth Branagh, avec Jude Law, Michael Caine)
+* Le Limier (Kenneth Branagh, Jude Law, Michael Caine) [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php) : je préfère ce remake, l'original est longuet
 * Dans la peau de John Malkovich (avec John Malkovich)
 * Usual Suspects (avec Kevin Spacey)
 * Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
@@ -1744,7 +1745,6 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
     * Machete, Sin City, From Dusk till Dawn
 * [Michel Gondry](https://www.rottentomatoes.com/celebrity/michel_gondry)
 * [Kenneth Brannagh](https://www.rottentomatoes.com/celebrity/kenneth_branagh)
-    * Le Limier, Beaucoup de Bruit pour rien, Dead Again
 * [Quentin Dupieux](https://www.rottentomatoes.com/celebrity/quentin_dupieux)
 * [Steve McQueen](https://www.rottentomatoes.com/celebrity/steve_mcqueen_iii)
 * [Nuri Bilge Ceylan](https://www.rottentomatoes.com/celebrity/nuri_bilge_ceylan)
