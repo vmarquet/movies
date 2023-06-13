@@ -444,6 +444,7 @@ Français:
 * Danton (Andrzej Wajda, Depardieu) ❤️
 * Tchao Pantin (Coluche) ❤️
 * La Ballade de Narayama (Japon) 🌿
+* Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo)
 
 
@@ -467,7 +468,7 @@ Français:
 * White Nights (Soleil de nuit) (Russie, Mikhail Baryshnikov)
 * Tampopo (Japon)
 * Flesh and Blood (Paul Verhoeven)
-* The Breakfast Club
+* The Breakfast Club #teen-movie
 * Police (Depardieu) (vu ?)
   [📰](https://www.telerama.fr/cinema/films/police,5378.php)
 * pas vu: https://www.telerama.fr/cinema/films/detective,4714.php
@@ -483,7 +484,7 @@ Pas aimé:
 [Oscars 59](https://fr.wikipedia.org/wiki/59e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Le Nom de la Rose (JJ Annaud, Sean Connery, Michael Lonsdale) ✨ [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986) #thriller
-* Ferris Bueller's Day Off
+* Ferris Bueller's Day Off #teen-movie
 * pas vu: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
 
@@ -989,6 +990,7 @@ Pas aimé:
 * Mud ❤️
 * Laurence Anyways (Xavier Dolan) ❤️
 * A Royal Affair (Danemark) ❤️
+* Cosmopolis (David Cronemberg, Robert Pattinson) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
 * The Place Beyond the Pines
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
 * Antiviral (Brandon Cronenberg)
@@ -1428,7 +1430,6 @@ Français:
 * Don't Look Now (1974) (suspense et musiques +)
 * Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
 * Heat (Michael Mann, Al Pacino)
-* Cosmopolis  (et autres de David Cronemberg) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
 * The Pledge (Sean Penn, avec Jack Nicholson)
 * King of New York  (1990) (le meilleur rôle de Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york)
 * Aniki mon Frère (et autres de Takeshi Kitano)
@@ -1735,7 +1736,6 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Ridley Scott](https://www.rottentomatoes.com/celebrity/ridley_scott)
 * [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
 * [David Cronenberg](https://www.rottentomatoes.com/celebrity/david_cronenberg)
-    * eXistenZ, Cosmopolis, A History of Violence, Videodrome
 * [David Fincher](https://www.rottentomatoes.com/celebrity/david_fincher)
 * [Jim Jarmusch](https://www.rottentomatoes.com/celebrity/jim_jarmusch)
 * [Pedro Almodovar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
