@@ -347,6 +347,7 @@ Français:
 
 ### 1975
 
+* Monty Python : Sacré Graal ! 💙 (Terry Gilliam, Terry Jones) #comedie
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Section spéciale (Costa-Gavras)
@@ -507,6 +508,7 @@ Français:
 [Oscars 61](https://fr.wikipedia.org/wiki/61e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
+* Femmes au bord de la crise de nerfs (Pedro Almodóvar) 🇪🇸
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
 * They Live (John Carpenter)
@@ -598,6 +600,7 @@ Français:
 * The Bridges of Madison County (Clint Eastwood) ❤️
 * Usual Suspects
 * Seven (David Fincher)
+* 12 Monkeys (Terry Gilliam) #sf
 * Braveheart (Mel Gibson)
 * Leaving Las Vegas
 * Smoke (Harvey Keitel) 🧸
@@ -664,7 +667,8 @@ Pas aimé:
 
 * Ghost Dog: The Way of the Samurai ❤️
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
-* Matrix
+* Todo sobre my madre (Pedro Almodóvar) 🇪🇸
+* Matrix #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1342,6 +1346,7 @@ Français:
 * Thème: WWII
     * Le Pianiste
     * La Liste de Schindler
+        * voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur ce film
     * La Vie est Belle (1997)
 
 
@@ -1715,8 +1720,6 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Peter Weier](https://www.rottentomatoes.com/celebrity/peter_weir)
     * Witness, Dead Poets Society, Etat Second
 * [Terry Gilliam](https://www.rottentomatoes.com/celebrity/terry_gilliam)
-    * Brazil, 12 Monkeys, Sacré Graal
-    * Voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur Spielberg
 * [Clint Eastwood](https://www.rottentomatoes.com/celebrity/clint_eastwood)
 * [Martin Scorsese](https://www.rottentomatoes.com/celebrity/martin_scorsese)
 * [Darren Aronofsky](https://www.rottentomatoes.com/celebrity/darren_aronofsky)
@@ -1730,6 +1733,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [David Fincher](https://www.rottentomatoes.com/celebrity/david_fincher)
 * [Jim Jarmusch](https://www.rottentomatoes.com/celebrity/jim_jarmusch)
     * Ghost Dog, Broken Flowers, Mystery Train, Dead Man
+* [Pedro Almodovar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
 * Robert Rodriguez
     * Machete, Sin City, From Dusk till Dawn
 * [Michel Gondry](https://www.rottentomatoes.com/celebrity/michel_gondry)
@@ -1788,12 +1792,6 @@ Japonais:
 * Edward aux mains d'argent ❤️
 * Les Noces funèbres ❤️
 * Sleepy Hollow
-
-### [Almodovar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
-
-* Volver
-* Femmes au bord de la crise de nerfs
-* Todo sobre my madre
 
 ### [Zhang Yimou](https://www.rottentomatoes.com/celebrity/zhang_yimou) (arts-martiaux chinois)
 
