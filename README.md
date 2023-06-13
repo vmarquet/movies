@@ -482,6 +482,7 @@ Pas aimé:
 
 [Oscars 59](https://fr.wikipedia.org/wiki/59e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Le Nom de la Rose (JJ Annaud, Sean Connery, Michael Lonsdale) ✨ [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986) #thriller
 * Ferris Bueller's Day Off
 * pas vu: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
@@ -531,6 +532,7 @@ Français:
 [Oscars 62](https://fr.wikipedia.org/wiki/62e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Sex, Lies and Videotape (Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
+* Mystery Train (Jim Jarmusch)
 * Le Cercle des poètes disparus (Peter Weir)
 
 
@@ -606,7 +608,8 @@ Français:
 
 * The Bridges of Madison County (Clint Eastwood) ❤️
 * Usual Suspects
-* Seven (David Fincher)
+* Seven (David Fincher) #thriller
+* Dead Man (Jim Jarmusch)
 * 12 Monkeys (Terry Gilliam) #sf
 * Braveheart (Mel Gibson)
 * Leaving Las Vegas
@@ -672,7 +675,9 @@ Pas aimé:
 
 [Oscars 72](https://fr.wikipedia.org/wiki/72e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
-* Ghost Dog: The Way of the Samurai ❤️
+* Ghost Dog: The Way of the Samurai (Jim Jarmusch) ❤️
+  [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
+  [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
 * Todo sobre my madre (Pedro Almodóvar) 🇪🇸
 * Matrix #sf
@@ -789,7 +794,7 @@ Pas aimé:
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * La Science des Rêves (Michel Gondry)
-* Broken Flowers (Jarmusch)
+* Broken Flowers (Jim Jarmusch)
 * The Constant Gardener (Ralph Fiennes)
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Million Dollar Baby
@@ -1014,7 +1019,7 @@ Pas aimé:
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ 🏆 (meilleur film étranger) ✨ 🌿
 * Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
 * Under the Skin
-* Only Lovers Left Alive (Jarmusch) ❤️
+* Only Lovers Left Alive (Jim Jarmusch) ❤️
 * A Touch of Sin (Chine)
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
@@ -1411,12 +1416,6 @@ Français:
 
 ### Policier/Thriller
 
-* Ghost Dog
-  [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
-  [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
-  (1999, avec Forest Whitaker) (et autres de Jim Jarmusch)
-* Le Nom de la Rose  [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986)
-  (JJ Annaud, avec Sean Connery, Michael Lonsdale...)
 * Les Trois Jours du Condor  [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor)
   (Sydney Pollack, avec Robert Redford)
 * Marathon Man    (avec Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man)
@@ -1739,7 +1738,6 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
     * eXistenZ, Cosmopolis, A History of Violence, Videodrome
 * [David Fincher](https://www.rottentomatoes.com/celebrity/david_fincher)
 * [Jim Jarmusch](https://www.rottentomatoes.com/celebrity/jim_jarmusch)
-    * Ghost Dog, Broken Flowers, Mystery Train, Dead Man
 * [Pedro Almodovar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
 * Robert Rodriguez
     * Machete, Sin City, From Dusk till Dawn
