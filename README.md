@@ -1314,6 +1314,7 @@ Pas aimé:
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
+    * https://www.telerama.fr/cinema/films/caravage-1-195034968.php
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1337,12 +1338,12 @@ Pas aimé:
 * Sick of Myself (Norvège)
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 * pas vu: https://www.rottentomatoes.com/m/are_you_there_god_its_me_margaret
+* pas vu: https://www.rottentomatoes.com/m/il_boemo
 
 Français:
 
-* Jeanne du Barry (Maïwenn)
+* Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Les Trois Mousquetaires
-* pas vu: Jeanne du Barry [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 
 
 
