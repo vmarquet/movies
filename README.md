@@ -264,6 +264,7 @@ Pas aimé:
 
 ### 1964
 
+* Docteur Folamour (Stanley Kubrick)
 * L'Homme de Rio (Philippe de Broca, Belmondo) #aventure
 
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1964)
@@ -314,6 +315,7 @@ Pas aimé:
 
 ### 1971
 
+* Orange Mécanique (Stanley Kubrick)
 * Sans Mobile Apparent (Philippe Labro, Jean-Louis Trintignant) #policier : bon polar, bonnes vannes
 * Harold and Maude : not a fan of the aesthetic and storytelling but the plot is interesting [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 
@@ -1720,7 +1722,6 @@ Mes préférés:
 Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d'activité)_.
 
 * [Stanley Kubrick](https://www.rottentomatoes.com/celebrity/stanley_kubrick)
-    * Full Metal Jacket, Docteur Folamour, Orange Mécanique, Shining, 2001
 * [Woody Allen](https://www.rottentomatoes.com/celebrity/woody_allen)
     * Midnight in Paris, Scoop, Whatever Works, Escrocs mais pas trop
 * [Peter Weier](https://www.rottentomatoes.com/celebrity/peter_weir)
