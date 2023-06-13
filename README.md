@@ -185,6 +185,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * The Lady from Shanghai (Orson Welles) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
 * Macbeth (Orson Welles)
+* La Corde (Alfred Hitchcock)
 
 ### 1951
 
@@ -228,6 +229,7 @@ Pas aimé:
 ### 1960
 
 * La Dolce Vita (Italie, Federico Fellini, Marcello Mastroianni) 🌿
+* Psychose (Alfred Hitchcock) 💙 #horreur
 * L'Île nue (Japon)
 * La Vérité (HG Clouzot) 🏆
 
@@ -402,6 +404,7 @@ Français:
 [Oscars 54](https://fr.wikipedia.org/wiki/54e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Mephisto 🎥 ❤️ 🏆 (meilleur film étranger, Allemagne/Hongrie) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
+* Escape from New York (John Carpenter)
 * An American Werewolf in London (John Landis) #fantastique
 * Coup de torchon (Bertrand Tavernier)
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
@@ -421,6 +424,10 @@ Français:
 
 * Das Boot (Allemagne) ❤️ (6 nominations 🏆)
 * Gandhi (Richard Attenborough) 🏆
+* The Thing (John Carpenter)
+
+Français:
+
 * Le père Noël est une ordure
 
 
@@ -502,6 +509,7 @@ Français:
 * Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
+* They Live (John Carpenter)
 * pas vu: https://www.rottentomatoes.com/m/gorillas_in_the_mist
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -537,7 +545,7 @@ Français:
 
 [Oscars 64](https://fr.wikipedia.org/wiki/64e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Thelma et Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
+* Thelma & Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
 
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1416,8 +1424,7 @@ Français:
 * Witness  (Peter Weier, avec Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness)
 * Copland  (1997, avec Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land)
 * Sin City  (2005) [🍅](https://www.rottentomatoes.com/m/sin_city)
-* La Corde (Hitchcock)
-* Side Effects (2013, Steven Soderbergh)
+
 
 #### Thrillers policiers + amoureux
 
@@ -1494,7 +1501,6 @@ Français:
 * Délivrance  (1972) ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance)
 * Shining  (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
 * The Others (Amenabar)
-* Psychose (Hitchcock) 💙
 * Suspiria (1977)  pour le cadrage et l'esthétique
 * Scream (1996, Wes Craven)
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
@@ -1718,7 +1724,6 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [David Lynch](https://www.rottentomatoes.com/celebrity/david_lynch)
     * Elephant Man, Mulholland Drive
 * [Ridley Scott](https://www.rottentomatoes.com/celebrity/ridley_scott)
-    * Blade Runner, Alien, Thelma & Louise
 * [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
 * [David Cronenberg](https://www.rottentomatoes.com/celebrity/david_cronenberg)
     * eXistenZ, Cosmopolis, A History of Violence, Videodrome
@@ -1783,12 +1788,6 @@ Japonais:
 * Edward aux mains d'argent ❤️
 * Les Noces funèbres ❤️
 * Sleepy Hollow
-
-### [John Carpenter](https://www.rottentomatoes.com/celebrity/rip_haight) (nanars de qualité)
-
-* Escape from New York (1981)
-* The Thing (1982)
-* They Live (1988)
 
 ### [Almodovar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
 
