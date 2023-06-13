@@ -407,6 +407,7 @@ Français:
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
 * Bof: Chariots of Fire
 * pas vu: https://www.rottentomatoes.com/m/atlantic_city
+* pas vu: https://www.rottentomatoes.com/m/prince_of_the_city
 
 [Césars 7](https://fr.wikipedia.org/wiki/7e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -468,10 +469,14 @@ Pas aimé:
 
 [Oscars 59](https://fr.wikipedia.org/wiki/59e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* 37°2 le matin ❤️
 * Ferris Bueller's Day Off
 * pas vu: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
+
+Français:
+
+* 37°2 le matin ❤️
+* Mauvais Sang (Leos Carax)
 
 
 ### 1987
@@ -537,6 +542,7 @@ Français:
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Tous les matins du monde (Alain Corneau, Gérard Depardieu) ❤️ [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
+* Les Amants du Pont Neuf (Leos Carax, Denis Lavant, Juliette Binoche) ❤️
 
 
 ### 1992
@@ -762,6 +768,7 @@ Pas aimé:
 * Trois Enterrements (Tommy Lee Jones) 🌿 [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada) #neowestern
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
+* La Science des Rêves (Michel Gondry)
 * Broken Flowers (Jarmusch)
 * The Constant Gardener (Ralph Fiennes)
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
@@ -1298,6 +1305,7 @@ Pas aimé:
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * Sick of Myself (Norvège)
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
+* pas vu: https://www.rottentomatoes.com/m/are_you_there_god_its_me_margaret
 
 Français:
 
@@ -1720,7 +1728,6 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * Robert Rodriguez
     * Machete, Sin City, From Dusk till Dawn
 * [Michel Gondry](https://www.rottentomatoes.com/celebrity/michel_gondry)
-    * Eternal Sunshine, Be Kind Rewind, La Science des Rêves
 * [Kenneth Brannagh](https://www.rottentomatoes.com/celebrity/kenneth_branagh)
     * Le Limier, Beaucoup de Bruit pour rien, Dead Again
 * [Quentin Dupieux](https://www.rottentomatoes.com/celebrity/quentin_dupieux)
@@ -1736,9 +1743,6 @@ Français:
 * [Jean-Paul Rappeneau](https://www.telerama.fr/recherche/films?q=rappeneau)
 * [Jean-Jacques Annaud](https://www.telerama.fr/recherche/films?q=annaud)
 * [Leos Carax](https://www.telerama.fr/recherche/films?q=leos%20carax)
-    * Holy Motors ❤️
-    * Les Amants du Pont Neuf ❤️
-    * Mauvais Sang
 * [Jean-Pierre Jeunet](https://www.telerama.fr/recherche/films?q=Jean-Pierre%20Jeunet)
     * Amélie Poulain, Délicatessen, Alien IV, La Cité des Enfants Perdus
 * [Xavier Dolan](https://www.rottentomatoes.com/celebrity/xavier_dolan)
