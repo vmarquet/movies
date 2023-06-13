@@ -326,12 +326,14 @@ Français:
 
 ### 1972
 
+* Le Parrain (FF Coppola) 🎥 ❤️
 * César et Rosalie (Claude Sautet) ❤️
 * L'aventure c'est l'aventure (Claude Lelouch, Lino Ventura, Jacques Brel) #aventure
 
 
 ### 1973
 
+* Badlands (Terrence Malick, Martin Sheen) ❤️
 * Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 
 
@@ -340,6 +342,7 @@ Français:
 * Sugarland Express (Steven Spielberg) ❤️
 * Phantom of the Paradise (Brian de Palma) #fantastique
 * Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
+* Conversation Secrète (FF Coppola) #thriller
 * Peur sur la Ville (Belmondo) (vu ?) #policier
 * pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 * pas vu: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
@@ -777,6 +780,7 @@ Pas aimé:
 
 ### 2005
 
+* The New World (Terrence Malick, Christian Bale, Colin Farrell) 🎥 ❤️
 * Trois Enterrements (Tommy Lee Jones) 🌿 [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada) #neowestern
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
@@ -1337,9 +1341,6 @@ Français:
 
 ### Drames
 
-* Terence Malick
-    * Badlands (1973, Martin Sheen) ❤️
-    * The New World (2005, Christian Bale, Colin Farrell) 🎥 ❤️
 * Werner Herzog
     * Aguirre, la Colère de Dieu (1972, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
     * Fitzcarraldo (1982) 🎥
@@ -1721,10 +1722,12 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
     * Midnight in Paris, Scoop, Whatever Works, Escrocs mais pas trop
 * [Peter Weier](https://www.rottentomatoes.com/celebrity/peter_weir)
     * Witness, Dead Poets Society, Etat Second
+* [Francis Ford Coppola](https://www.rottentomatoes.com/celebrity/francis_ford_coppola)
 * [Terry Gilliam](https://www.rottentomatoes.com/celebrity/terry_gilliam)
 * [Clint Eastwood](https://www.rottentomatoes.com/celebrity/clint_eastwood)
 * [Martin Scorsese](https://www.rottentomatoes.com/celebrity/martin_scorsese)
 * [Darren Aronofsky](https://www.rottentomatoes.com/celebrity/darren_aronofsky)
+* [Terrence Malick](https://www.rottentomatoes.com/celebrity/terrence_malick)
 * [David Lynch](https://www.rottentomatoes.com/celebrity/david_lynch)
 * [Ridley Scott](https://www.rottentomatoes.com/celebrity/ridley_scott)
 * [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
@@ -1770,13 +1773,6 @@ Japonais:
 * Le Bal des Vampires ❤️
 * Le Pianiste
 * Chinatown
-
-### [Francis Ford Coppola](https://www.rottentomatoes.com/celebrity/francis_ford_coppola)
-
-* Apocalypse Now
-* Tetro
-* Le Parrain 🎥 ❤️
-* Conversation Secrète
 
 ### [Frères Coen](https://www.rottentomatoes.com/celebrity/joel_coen)
 
