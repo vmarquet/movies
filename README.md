@@ -1106,23 +1106,23 @@ Bof:
 * Better Watch Out
 * Moana (Disney)
 * Toni Erdmann
-* Hacksaw Ridge (Tu ne tueras point)
-* Manchester by the Sea (?)
+* Hacksaw Ridge (Tu ne tueras point) #guerre
 * Una (Rooney Mara)
 * Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * The Lost City of Z
 * The Nice Guys
 * The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
+* pas vu: Manchester by the Sea
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * La Mort de Louis XIV (Albert Serra, Jean-Pierre Léaud) 🌿 ❤️
-* Dans les forêts de Sibérie (musique par Ibrahim Maalouf)
+* Dans les forêts de Sibérie (musique par Ibrahim Maalouf) #aventure
 
 
 ### 2017
 
-* Wind River
+* Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
 * The Death of Stalin (comédie satirique, Steve Buscemi) ❤️
 * You Were Never Really Here (J. Phoenix)
@@ -1198,6 +1198,7 @@ Cannes, pas vu:
 * The Two Popes
 * Dark Waters (Mark Ruffalo)
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
+* pas vu: https://www.rottentomatoes.com/m/a_hidden_life_2019
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1306,15 +1307,13 @@ Pas aimé:
     * The Pale Blue Eye (Christian Bale)
     * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
+    * Les Enfants des autres, Caravage
 * pas vu:
-    * Les Enfants des autres https://www.telerama.fr/cinema/films/les-enfants-des-autres-1-220707245.php
-    * Les Pires https://www.telerama.fr/cinema/films/les-pires-1-195599804.php
     * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
-    * https://www.telerama.fr/cinema/films/caravage-1-195034968.php
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1336,8 +1335,8 @@ Pas aimé:
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * Sick of Myself (Norvège)
+* Air (Matt Damon)
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* pas vu: https://www.rottentomatoes.com/m/are_you_there_god_its_me_margaret
 * pas vu: https://www.rottentomatoes.com/m/il_boemo
 
 Français:
