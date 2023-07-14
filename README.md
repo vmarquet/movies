@@ -113,7 +113,10 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * https://loadingartist.com/comic/down-memory-lame/
 </details>
 
-Bonus: [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
+Bonus:
+
+- [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
+- [framed.wtf](https://framed.wtf/): wordle pour les films
 
 
 ## Mon top 15 films préférés
@@ -377,6 +380,7 @@ Français:
 ### 1977
 
 * Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
+* The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
 * pas vu: Eraserhead (David Lynch)
 
@@ -1307,9 +1311,7 @@ Pas aimé:
     * The Pale Blue Eye (Christian Bale)
     * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
-    * Les Enfants des autres, Caravage
 * pas vu:
-    * Un monde https://www.telerama.fr/cinema/films/un-monde-1-189435732.php (7 Magritte)
     * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
@@ -1338,6 +1340,7 @@ Pas aimé:
 * Air (Matt Damon)
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 * pas vu: https://www.rottentomatoes.com/m/il_boemo
+* pas vu: Napoléon (Ridley Scott)
 
 Français:
 
@@ -1475,7 +1478,7 @@ Français:
 * District 9  (2009) [🍅](https://www.rottentomatoes.com/m/district_9)
 * Soleil Vert  (1973, avec Charlton Heston) ❤️ [🍅](https://www.rottentomatoes.com/m/soylent_green)
 * Moon  (2009) 🎥 [🍅](https://www.rottentomatoes.com/m/10009075-moon)
-* Alien  (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien)
+* Alien  (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien) [❓](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * Alien IV  [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
   (JP Jeunet)
 * Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen)
