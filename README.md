@@ -281,7 +281,7 @@ Pas aimé:
 * Alphaville (Jean-Luc Godard) ❤️ #sf
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * Yoyo (Pierre Etaix) ◯
-* pas vu: https://www.telerama.fr/cinema/films/repulsion,8025.php (Polanski)
+* Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin se tient
 
 
 ### 1966
@@ -320,7 +320,7 @@ Pas aimé:
 
 * Orange Mécanique (Stanley Kubrick)
 * Sans Mobile Apparent (Philippe Labro, Jean-Louis Trintignant) #policier : bon polar, bonnes vannes
-* Harold and Maude : not a fan of the aesthetic and storytelling but the plot is interesting [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
+* Harold and Maude : pas fan de l'esthétique et du storytelling mais le fin mot de l'intrigue est intéressant [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 
 Français:
 
@@ -475,8 +475,7 @@ Français:
 * Tampopo (Japon)
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie
-* Police (Depardieu) (vu ?)
-  [📰](https://www.telerama.fr/cinema/films/police,5378.php)
+* Police (Depardieu) [📰](https://www.telerama.fr/cinema/films/police,5378.php) (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/detective,4714.php
 * pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
 
@@ -491,13 +490,12 @@ Pas aimé:
 
 * Le Nom de la Rose (JJ Annaud, Sean Connery, Michael Lonsdale) ✨ [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986) #thriller
 * Ferris Bueller's Day Off #teen-movie
-* pas vu: https://www.telerama.fr/cinema/films/mauvais-sang,9406.php
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
 
 Français:
 
 * 37°2 le matin ❤️
-* Mauvais Sang (Leos Carax)
+* Mauvais Sang (Leos Carax) [📰](https://www.telerama.fr/cinema/films/mauvais-sang,9406.php)
 
 
 ### 1987
