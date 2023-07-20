@@ -506,7 +506,7 @@ Français:
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
 * Les Incorruptibles (Brian de Palma) #policier
 * The Lost Boys #vampires
-* pas vu: https://www.rottentomatoes.com/m/empire_of_the_sun
+* Empire of the Sun [🍅](https://www.rottentomatoes.com/m/empire_of_the_sun)
 * pas vu: https://www.telerama.fr/cinema/films/tandem,9962.php
 
 [Césars 13](https://fr.wikipedia.org/wiki/13e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -835,7 +835,6 @@ Pas aimé:
 * The Devil Wears Prada
 * Fanaa (Bollywood)
 * Apocalypto (Mel Gibson) : longuet
-* pas vu: https://www.rottentomatoes.com/m/the_perverts_guide_to_cinema
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1105,7 +1104,7 @@ Bof:
 * Captain Fantastic (Viggo Mortensen) ☀️
 * La La Land
 * I Daniel Blake
-* Better Watch Out
+* Better Watch Out #film-de-noel
 * Moana (Disney)
 * Toni Erdmann
 * Hacksaw Ridge (Tu ne tueras point) #guerre
@@ -1264,7 +1263,7 @@ Aimés sans plus:
 * Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
 * Dune (Denis Villeneuve) #sf
-* Werewolves Within (comédie/horreur de Nöel)
+* Werewolves Within (comédie/horreur) #film-de-noel
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1273,8 +1272,7 @@ Aimés sans plus:
 * Bac Nord
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
-* Bof: Titane, Onoda, L'évènement, Boite noire, Benedetta, Médecin de nuit
-* pas vu: Le Bal des folles [🍅](https://www.rottentomatoes.com/m/the_mad_womens_ball)
+* Bof: Titane, Onoda, L'évènement, Boite noire, Benedetta
 
 
 ### 2022
@@ -1326,6 +1324,7 @@ Aimés sans plus:
 * Air (Matt Damon)
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 * pas vu: https://www.rottentomatoes.com/m/il_boemo
+* pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
 * pas vu: Napoléon (Ridley Scott)
 * pas vu: Anatomie d'une chute 🌿
 
