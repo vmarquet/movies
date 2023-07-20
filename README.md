@@ -1235,9 +1235,6 @@ Décevant:
 * Palm Springs (Andy Samberg) #romcom
 * Possessor (Brandon Cronenberg) ☀️
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
-* pas vu: https://www.telerama.fr/cinema/pieces-of-a-woman-sur-netflix-un-puzzle-familial-qui-vole-en-eclats-6795606.php
-* pas vu: https://www.telerama.fr/cinema/festival-de-deauville-the-nest-triomphe-giants-being-lovely-envoute-et-minari-seduit-6696521.php
-* pas vu: https://www.telerama.fr/cinema/films/adn,n6671621.php 🌿
 
 Aimés sans plus:
 
@@ -1252,15 +1249,7 @@ Aimés sans plus:
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Teddy [📰](https://www.telerama.fr/cinema/films/teddy,n6689626.php)
-* bof:
-    * Antoinette dans les Cévennes
-    * Adieu les cons [📰](https://www.telerama.fr/cinema/films/adieu-les-cons,n6630533.php) 7✨
-    * Les Choses qu'on dit, les Choses qu'on fait
-* pas vu: https://www.telerama.fr/cinema/films/des-hommes,n6655943.php
-
-Pas aimé:
-
-* Minari
+* bof: Antoinette dans les Cévennes, Adieu les cons, Les Choses qu'on dit, les Choses qu'on fait, ADN
 
 
 ### 2021
@@ -1310,7 +1299,6 @@ Pas aimé:
     * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
-    * Sous les Figues https://www.telerama.fr/cinema/films/sous-les-figues-1-216559087.php
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
@@ -1339,6 +1327,7 @@ Pas aimé:
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 * pas vu: https://www.rottentomatoes.com/m/il_boemo
 * pas vu: Napoléon (Ridley Scott)
+* pas vu: Anatomie d'une chute 🌿
 
 Français:
 
@@ -1520,12 +1509,13 @@ Français:
 * Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
 * The Blair Witch Project (1999) 💙
 * Kairo (Japon, 2001)
+* Dragon Rouge (2002) : pas inoubliable mais prequel potable du Silence des Agneaux
 * Saw (2004)
 * The Descent (2005)
 * L'Orphelinat (2007)
 * [•REC]  (2007)
 * The Mist (2007)
-* Morse (2008) -> très beau mais le scénario est un peu mou 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php)
+* Morse (2008) 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php) : très beau mais le scénario est un peu mou
 * The Conjuring (2013)
 * The Babadook (2014)
 * It Follows (2014)
@@ -1535,7 +1525,7 @@ Français:
 * Bird Box (2018)
 * Us (2019) (ok sans plus)
 * Impetigore (2019)
-* His House (2020) (1ère heure bien, fin décevante)
+* His House (2020) : 1ère heure bien, fin décevante
 * The Night House (2021)
 * Scream (2022)
 
