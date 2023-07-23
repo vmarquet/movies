@@ -1319,14 +1319,17 @@ Aimés sans plus:
 ### 2023
 
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
+* Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * Sick of Myself (Norvège)
 * Air (Matt Damon)
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 * pas vu: https://www.rottentomatoes.com/m/il_boemo
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
+* pas vu: https://www.rottentomatoes.com/m/oppenheimer_2023
 * pas vu: Napoléon (Ridley Scott)
 * pas vu: Anatomie d'une chute 🌿
+* pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 
 Français:
 
