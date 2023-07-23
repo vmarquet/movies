@@ -927,7 +927,7 @@ Pas aimé:
 
 * Les Amours Imaginaires (Xavier Dolan) ❤️
 * Rubber (Quentin Dupieux) ❤️
-* Inception (Nolan) 💙 🏆
+* Inception (Christopher Nolan) 💙 🏆 #film-à-énigme
 * Black Swan (Darren Aronofsky)
 * Shutter Island (Martin Scorsese)
 * True Grit (frères Coen) #western
@@ -1151,7 +1151,7 @@ Ok sans plus:
 ### 2018
 
 * Three Billboards (Martin McDonagh) ❤️
-* Dunkirk
+* Dunkirk (Christopher Nolan) #film-de-guerre
 * La Saveur des Ramens (Japon/Singapour)
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * La Ballade de Buster Scruggs
@@ -1452,7 +1452,7 @@ Français:
 * Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
 * The Man from Earth   (tout repose sur le scénario, très original) [🍅](https://www.rottentomatoes.com/m/man_from_earth)
 * The Machinist (2004)
-* Le Prestige
+* Le Prestige (Christopher Nolan)
 * Un Jour sans Fin (avec Bill Murray)
 * The Game (1997, David Fincher, Michael Douglas, Sean Penn)
 
