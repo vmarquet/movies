@@ -575,6 +575,7 @@ Français:
 * Singles
 * Basic Instinct
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
+* pas vu: https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php 4T 4✨
 
 
 ### 1993
@@ -1059,8 +1060,8 @@ Bof:
 * Coming Home (Chine, Zhang Yimou)
 * Noah (Darren Aronofsky, Russell Crowe)
 * The Imitation Game (Benedict Cumberbatch)
-* Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier)
-* Babysitting (Christian Clavier) ❤️
+* Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier) #comédie
+* Babysitting (Christian Clavier) ❤️ #comédie
 * Creep
 * Still Alice
 * pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
@@ -1131,6 +1132,7 @@ Bof:
 * Ingrid Goes West
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu:
+    * https://www.rottentomatoes.com/m/i_tonya
     * https://www.rottentomatoes.com/m/my_days_of_mercy
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1292,6 +1294,8 @@ Aimés sans plus:
 * La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
+* War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
+* Fire Island [🍅](https://www.rottentomatoes.com/m/fire_island_2022) #romcom
 * bof:
     * The Pale Blue Eye (Christian Bale)
     * The Menu (Ralph Fiennes)
