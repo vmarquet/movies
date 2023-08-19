@@ -293,6 +293,7 @@ Pas aimé:
 
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
 * pas vu: https://www.rottentomatoes.com/m/king_of_hearts_1967
+* pas vu: https://www.rottentomatoes.com/m/blow_up_1966
 
 
 ### 1967
@@ -371,6 +372,7 @@ Français:
 * Section spéciale (Costa-Gavras)
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
 * pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
+* pas vu: https://www.rottentomatoes.com/m/dog_day_afternoon (Sidney Lumet, Al Pacino)
 
 
 ### 1976
@@ -1269,16 +1271,18 @@ bof:
 * Palm Springs (Andy Samberg) #romcom
 * Possessor (Brandon Cronenberg) ☀️
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
+* pas vu: https://www.rottentomatoes.com/m/the_call_of_the_wild_2020 (Harrison Ford) #aventure
 
-Aimés sans plus:
+bof:
 
-* Nomadland (Frances McDormand) 🏆 ☀️
+* Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias
 * Promising Young Woman : divertissement sympa sans plus
-* News of the World (Tom Hanks) #western
-* Tenet
 * Sound of Metal
 * Soul (Pixar)
+* News of the World (Tom Hanks) #western
+* Tenet
 * The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php)
+* Pig [🍅](https://www.rottentomatoes.com/m/pig_2021)
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
