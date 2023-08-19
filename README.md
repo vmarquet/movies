@@ -302,6 +302,7 @@ Pas aimé:
   [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php)
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
 * Le Samouraï (Jean-Pierre Melville) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php) #policier
+* pas vu: https://www.telerama.fr/cinema/films/nuages-epars,53150.php (Japon)
 
 
 ### 1968
@@ -430,7 +431,9 @@ Français:
 * An American Werewolf in London (John Landis) #fantastique
 * Coup de torchon (Bertrand Tavernier)
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
-* Bof: Chariots of Fire
+* bof:
+    * Chariots of Fire
+    * Le Hasard (Przypadek) (Krzysztof Kieślowski, Pologne)
 * pas vu: https://www.rottentomatoes.com/m/atlantic_city
 * pas vu: https://www.rottentomatoes.com/m/prince_of_the_city
 
@@ -590,6 +593,7 @@ Français:
 * Basic Instinct
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
 * pas vu: https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php 4T 4✨
+* pas vu: https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php (Claude Sautet)
 
 
 ### 1993
@@ -854,6 +858,7 @@ Pas aimé:
 * The Devil Wears Prada
 * Fanaa (Bollywood)
 * Apocalypto (Mel Gibson) : longuet
+* pas vu: https://www.rottentomatoes.com/m/stranger_than_fiction
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1054,6 +1059,7 @@ Pas aimé:
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox (Inde)
+* pas vu: https://www.rottentomatoes.com/m/new_world (Corée)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1110,10 +1116,11 @@ Bof:
 * Il est de retour (Comédie, Allemagne)
 * pas vu: https://www.rottentomatoes.com/m/macbeth_2015
 * pas vu: Le Fils de Saul 🌿
+* pas vu: https://www.rottentomatoes.com/m/long_way_north #famille
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* La Loi du Marché (aimé, pas inoubliable)
+* La Loi du Marché : bien aimé mais pas inoubliable
 
 
 ### 2016
@@ -1130,6 +1137,7 @@ Bof:
 * Toni Erdmann
 * Hacksaw Ridge (Tu ne tueras point) #guerre
 * Una (Rooney Mara)
+* The Red Turtle [🍅](https://www.rottentomatoes.com/m/the_red_turtle) #famille
 * Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * The Lost City of Z
 * The Nice Guys
@@ -1155,6 +1163,7 @@ Bof:
 * pas vu:
     * https://www.rottentomatoes.com/m/i_tonya
     * https://www.rottentomatoes.com/m/my_days_of_mercy
+    * https://www.rottentomatoes.com/m/the_square_2017
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1223,6 +1232,7 @@ Cannes, pas vu:
 * Dark Waters (Mark Ruffalo)
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.rottentomatoes.com/m/a_hidden_life_2019
+* pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
