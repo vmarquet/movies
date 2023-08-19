@@ -608,6 +608,7 @@ Français:
 * Etat Second (Peter Weir)
 * pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
 * pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas
+* pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -680,6 +681,7 @@ Pas aimé:
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 * pas vu: https://www.rottentomatoes.com/m/children_of_heaven
+* pas vu: https://www.rottentomatoes.com/m/in_the_company_of_men
 
 
 ### 1998
@@ -1171,7 +1173,7 @@ Bof:
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Grave
 
-Ok sans plus:
+bof:
 
 * Le Brio (Daniel Auteuil)
 * Split (James McAvoy)
@@ -1206,7 +1208,7 @@ Ok sans plus:
 * En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 
-Sans plus:
+bof:
 
 * A Star Is Born
 * Call Me by Your Name
@@ -1245,7 +1247,7 @@ Cannes, pas vu:
 * La Vie Scolaire #film-scolaire
 * La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
 
-Décevant:
+bof:
 
 * Parasite
 * Once Upon a Time in Hollywood
@@ -1305,7 +1307,7 @@ Aimés sans plus:
 * Bac Nord
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
-* Bof: Titane, Onoda, L'évènement, Boite noire, Benedetta
+* bof: Titane, Onoda, L'évènement, Boite noire, Benedetta
 
 
 ### 2022
@@ -1336,7 +1338,7 @@ Aimés sans plus:
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
     * https://www.rottentomatoes.com/m/bones_and_all
-    * https://www.rottentomatoes.com/m/burning_days
+    * https://www.rottentomatoes.com/m/burning_days (Turquie)
     * L'Enfant, la Taupe, le Renard et le Cheval 🏆
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1744,7 +1746,7 @@ Mes préférés:
 ### Drames romantiques intenses
 
 * Portrait de la jeune fille en feu
-* 37,2 le matin (Betty Blue)
+* 37°2 le matin (Betty Blue)
 * Eternal sunshine of the spotless mind
 * Marriage story
 * Breaking the waves
