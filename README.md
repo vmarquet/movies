@@ -190,6 +190,10 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Macbeth (Orson Welles)
 * La Corde (Alfred Hitchcock)
 
+### 1949
+
+* pas vu: The third man (Orson Welles) [🍅](https://www.rottentomatoes.com/m/the_third_man)
+
 ### 1951
 
 * Rashomon (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/rashomon)
@@ -282,11 +286,13 @@ Pas aimé:
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * Yoyo (Pierre Etaix) ◯
 * Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin se tient
+* pas vu: https://www.rottentomatoes.com/m/sound_of_music
 
 
 ### 1966
 
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
+* pas vu: https://www.rottentomatoes.com/m/king_of_hearts_1967
 
 
 ### 1967
@@ -340,6 +346,8 @@ Français:
 
 * Badlands (Terrence Malick, Martin Sheen) ❤️
 * Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
+* pas vu: L'Esprit de la ruche (Espagne) [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive)
+* pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 
 
 ### 1974
@@ -383,12 +391,14 @@ Français:
 * The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
 * pas vu: Eraserhead (David Lynch)
+* pas vu: https://www.rottentomatoes.com/m/opening_night
 
 
 ### 1978
 
 * Molière (Ariane Mnouchkine)
 * Midnight Express
+* pas vu: https://www.rottentomatoes.com/m/days_of_heaven (Terrence Malick)
 
 
 ### 1979
@@ -449,6 +459,7 @@ Français:
 
 * Danton (Andrzej Wajda, Depardieu) ❤️
 * Tchao Pantin (Coluche) ❤️
+* Flashdance 🎥 [📰](https://www.lemonde.fr/m-le-mag/article/2023/08/18/flashdance-un-film-culte-qui-a-failli-ne-jamais-voir-le-jour_6185760_4500055.html)
 * La Ballade de Narayama (Japon) 🌿
 * Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo)
@@ -508,6 +519,7 @@ Français:
 * The Lost Boys #vampires
 * Empire of the Sun [🍅](https://www.rottentomatoes.com/m/empire_of_the_sun)
 * pas vu: https://www.telerama.fr/cinema/films/tandem,9962.php
+* pas vu: https://www.rottentomatoes.com/m/princess_bride #famille #aventure
 
 [Césars 13](https://fr.wikipedia.org/wiki/13e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -530,6 +542,7 @@ Français:
 * Le Grand Bleu (Luc Besson)
 * L'Ours (JJ Annaud)
 * La vie est un long fleuve tranquille
+* pas vu: https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php
 
 
 ### 1989
@@ -561,6 +574,7 @@ Français:
 
 * Thelma & Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
 * Dead Again (Kenneth Brannagh)
+* pas vu: https://www.rottentomatoes.com/m/what_about_bob
 
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -589,6 +603,7 @@ Français:
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
 * pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
+* pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -601,6 +616,7 @@ Français:
 * La Cité de la peur ❤️
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
+* pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -659,6 +675,7 @@ Pas aimé:
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) : esthétique bof mais scénario+
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
+* pas vu: https://www.rottentomatoes.com/m/children_of_heaven
 
 
 ### 1998
@@ -705,14 +722,14 @@ Pas aimé:
 * Gladiator 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt)
-* Billy Elliot
 * Dancer in the Dark (Lars von Trier)
 * Battle Royale (Japon)
+* Billy Elliot
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Harry, un ami qui vous veut du bien
-* Les Rivières pourpres
+* Les Rivières pourpres #polar
 * La Fausse Suivante (?)
 
 
@@ -813,6 +830,7 @@ Pas aimé:
 
 * Va, vis et deviens
 * La Marche de l'empereur
+* pas vu: https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php
 
 
 ### 2006
@@ -862,6 +880,7 @@ Pas aimé:
 * 99 Francs
 * Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
 * pas vu: https://fr.wikipedia.org/wiki/Elizabeth_:_L%27%C3%82ge_d%27or
+* pas vu: https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1021,7 +1040,7 @@ Pas aimé:
 * 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆
 * Tom à la Ferme (Xavier Dolan) ❤️
 * Winter Sleep (Nuri Bilge Ceylan) 🌿
-* Her (Spike Jonze) ❤️
+* Her (Spike Jonze, Joaquin Phoenix) ❤️
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ 🏆 (meilleur film étranger) ✨ 🌿
 * Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
 * Under the Skin
@@ -1053,7 +1072,7 @@ Bof:
 * Black Coal (Chine) 🧸
 * Nos étoiles contraires (?)
 * Reality (Quentin Dupieux, Chabat)
-* Inherent Vice (J. Phoenix)
+* Inherent Vice (Joaquin Phoenix)
 * Leviathan (Russie)
 * A Girl Walks Home Alone at Night (Iran)
 * Dear White People ☀️
@@ -1066,6 +1085,7 @@ Bof:
 * Still Alice
 * pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
 * pas vu: Selma
+* pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1115,6 +1135,7 @@ Bof:
 * The Nice Guys
 * The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
 * pas vu: Manchester by the Sea
+* pas vu: https://www.rottentomatoes.com/m/swiss_army_man
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1126,8 +1147,8 @@ Bof:
 
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
-* The Death of Stalin (comédie satirique, Steve Buscemi) ❤️
-* You Were Never Really Here (J. Phoenix)
+* The Death of Stalin (Steve Buscemi) ❤️ #comédie-satirique
+* You Were Never Really Here (Joaquin Phoenix)
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West
 * Phantom Thread (Daniel Day-Lewis)
@@ -1304,6 +1325,9 @@ Aimés sans plus:
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
+    * https://www.rottentomatoes.com/m/bones_and_all
+    * https://www.rottentomatoes.com/m/burning_days
+    * L'Enfant, la Taupe, le Renard et le Cheval 🏆
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1327,18 +1351,25 @@ Aimés sans plus:
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * Sick of Myself (Norvège)
 * Air (Matt Damon)
+* Oppenheimer [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 * pas vu: https://www.rottentomatoes.com/m/il_boemo
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
-* pas vu: https://www.rottentomatoes.com/m/oppenheimer_2023
 * pas vu: Napoléon (Ridley Scott)
-* pas vu: Anatomie d'une chute 🌿
 * pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
+* pas vu: https://www.rottentomatoes.com/m/reality_2023
+* pas vu: https://www.rottentomatoes.com/m/a_haunting_in_venice (Kenneth Branagh)
+* pas vu (tous TTT):
+    * la bête dans la jungle
+    * fermer les yeux
+    * strange way of life
+    * quand les vagues se retirent
 
 Français:
 
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Les Trois Mousquetaires
+* pas vu: Anatomie d'une chute 🌿
 
 
 

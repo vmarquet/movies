@@ -40,7 +40,7 @@
 * Dérapages (Eric Cantona)
 * Big Little Lies (2017) ❤️❤️ [🍅](https://www.rottentomatoes.com/tv/big_little_lies)
 * The Dropout (Theranos) (2022) [🍅](https://www.rottentomatoes.com/tv/the_dropout/s01)
-* à voir:
+* pas vu:
 	* The Wire
 	* The Sopranos
 	* Les Revenants
@@ -89,6 +89,7 @@
 * NCIS
 * The Boys (2019) [🍅](https://www.rottentomatoes.com/tv/the_boys_2019)
 * Slow Horses
+* pas vu: https://www.leblogducinema.com/critique-serie/yellowstone-western-contemporain-et-audience-record-critique-57942541/
 
 
 ### Anime
