@@ -1143,6 +1143,7 @@ Bof:
 * Mademoiselle (Corée) 🌿
 * Arrival (Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
+* Swiss Army Man (Paul Dano, Daniel Radcliffe) [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
 * La La Land
 * I Daniel Blake
 * Better Watch Out #film-de-noel
@@ -1156,7 +1157,6 @@ Bof:
 * The Nice Guys
 * The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
 * pas vu: Manchester by the Sea
-* pas vu: https://www.rottentomatoes.com/m/swiss_army_man
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1247,6 +1247,7 @@ Cannes, pas vu:
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.rottentomatoes.com/m/a_hidden_life_2019
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
+* pas vu: https://www.rottentomatoes.com/m/the_death_of_dick_long (par les auteurs de Swiss Army Man)
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1351,7 +1352,6 @@ bof:
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
-    * https://www.rottentomatoes.com/m/bones_and_all
     * https://www.rottentomatoes.com/m/burning_days (Turquie)
     * L'Enfant, la Taupe, le Renard et le Cheval 🏆
 
