@@ -198,6 +198,10 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Rashomon (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/rashomon)
 
+### 1953
+
+* Le Salaire de la peur : début longuet
+
 ### 1954
 
 * Les 7 Samourais (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/1018639-seven_samurai)
@@ -218,6 +222,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Ascenseur pour l'échafaud (Louis Malle) ❤️ #policier
 * La Ballade de Narayama (Japon) (note: le remake de 1983 est très bon également)
+* pas vu: https://www.rottentomatoes.com/m/1009583-hidden_fortress (Japon)
 
 
 ### 1959
@@ -395,6 +400,7 @@ Français:
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
 * pas vu: Eraserhead (David Lynch)
 * pas vu: https://www.rottentomatoes.com/m/opening_night
+* pas vu: https://www.rottentomatoes.com/m/1019441-sorcerer
 
 
 ### 1978
@@ -608,6 +614,7 @@ Français:
 * Beaucoup de Bruit pour rien (Kenneth Brannagh)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
+* In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father) (vu ?)
 * pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
 * pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas
 * pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
@@ -684,6 +691,7 @@ Pas aimé:
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 * pas vu: https://www.rottentomatoes.com/m/children_of_heaven
 * pas vu: https://www.rottentomatoes.com/m/in_the_company_of_men
+* pas vu: https://www.rottentomatoes.com/m/donnie_brasco
 
 
 ### 1998
@@ -764,6 +772,7 @@ Pas aimé:
 * La Cité de Dieu (Brésil)
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
+* pas vu: Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1215,6 +1224,7 @@ bof:
 * A Star Is Born
 * Call Me by Your Name
 * Manta Ray
+* Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
 
 Cannes, pas vu:
 
