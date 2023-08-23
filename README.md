@@ -553,7 +553,8 @@ Français:
 * Le Grand Bleu (Luc Besson)
 * L'Ours (JJ Annaud)
 * La vie est un long fleuve tranquille
-* pas vu: https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php
+* Itinéraire d’un enfant gâté (Claude Lelouch, Jean-Paul Belmondo) [📰](https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php)
+    * "le bonheur c'est quand les emmerdes se reposent"
 
 
 ### 1989
@@ -1143,7 +1144,7 @@ Bof:
 * Mademoiselle (Corée) 🌿
 * Arrival (Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
-* Swiss Army Man (Paul Dano, Daniel Radcliffe) [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
+* Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
 * La La Land
 * I Daniel Blake
 * Better Watch Out #film-de-noel
@@ -1248,6 +1249,7 @@ Cannes, pas vu:
 * pas vu: https://www.rottentomatoes.com/m/a_hidden_life_2019
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * pas vu: https://www.rottentomatoes.com/m/the_death_of_dick_long (par les auteurs de Swiss Army Man)
+* pas vu: La odisea de los giles (Heroic Losers) (Argentine) https://www.rottentomatoes.com/m/heroic_losers
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1353,6 +1355,7 @@ bof:
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
     * https://www.rottentomatoes.com/m/burning_days (Turquie)
+    * https://www.rottentomatoes.com/m/fresh_2022
     * L'Enfant, la Taupe, le Renard et le Cheval 🏆
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1385,6 +1388,7 @@ bof:
 * pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * pas vu: https://www.rottentomatoes.com/m/reality_2023
 * pas vu: https://www.rottentomatoes.com/m/a_haunting_in_venice (Kenneth Branagh)
+* pas vu: https://www.rottentomatoes.com/m/rye_lane
 * pas vu (tous TTT):
     * la bête dans la jungle
     * fermer les yeux
