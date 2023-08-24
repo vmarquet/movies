@@ -545,8 +545,8 @@ Français:
 * Femmes au bord de la crise de nerfs (Pedro Almodóvar) 🇪🇸
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
+* Gorillas in the mist (Sigourney Weaver) [🍅](https://www.rottentomatoes.com/m/gorillas_in_the_mist)
 * They Live (John Carpenter)
-* pas vu: https://www.rottentomatoes.com/m/gorillas_in_the_mist
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -554,7 +554,7 @@ Français:
 * L'Ours (JJ Annaud)
 * La vie est un long fleuve tranquille
 * Itinéraire d’un enfant gâté (Claude Lelouch, Jean-Paul Belmondo) [📰](https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php)
-    * "le bonheur c'est quand les emmerdes se reposent"
+    * > ❝ le bonheur c'est quand les emmerdes se reposent ❞
 
 
 ### 1989
@@ -1351,6 +1351,7 @@ bof:
     * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
+    * https://www.telerama.fr/cinema/films/la-montagne-1-215001753.php
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
@@ -1398,8 +1399,8 @@ bof:
 Français:
 
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
+* Anatomie d'une chute (Justine Triet) 🌿
 * Les Trois Mousquetaires
-* pas vu: Anatomie d'une chute 🌿
 
 
 
