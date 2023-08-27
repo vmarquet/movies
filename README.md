@@ -376,8 +376,11 @@ Français:
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Section spéciale (Costa-Gavras)
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
-* pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 * pas vu: https://www.rottentomatoes.com/m/dog_day_afternoon (Sidney Lumet, Al Pacino)
+
+[Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 
 
 ### 1976
@@ -395,19 +398,25 @@ Français:
 
 ### 1977
 
-* Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
 * The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
 * pas vu: Eraserhead (David Lynch)
 * pas vu: https://www.rottentomatoes.com/m/opening_night
 * pas vu: https://www.rottentomatoes.com/m/1019441-sorcerer
 
+[Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
+
 
 ### 1978
 
-* Molière (Ariane Mnouchkine)
 * Midnight Express
 * pas vu: https://www.rottentomatoes.com/m/days_of_heaven (Terrence Malick)
+
+[Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Molière (Ariane Mnouchkine)
 
 
 ### 1979
@@ -424,17 +433,20 @@ Français:
 [Oscars 53](https://fr.wikipedia.org/wiki/53e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Elephant Man (Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
-* Mon Oncle d'Amérique  (Alain Resnais, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
 * The Blues Brothers (John Landis) 💙
 * La Porte du Paradis (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php) : mémorable mais longuet
 * Raging Bull (Martin Scorsese) (vu ?)
+
+[Césars 6](https://fr.wikipedia.org/wiki/6e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Mon Oncle d'Amérique  (Alain Resnais, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
 
 
 ### 1981
 
 [Oscars 54](https://fr.wikipedia.org/wiki/54e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Mephisto 🎥 ❤️ 🏆 (meilleur film étranger, Allemagne/Hongrie) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
+* Mephisto (Allemagne/Hongrie) 🎥 ❤️ 🏆 (meilleur film étranger) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
 * Escape from New York (John Carpenter)
 * An American Werewolf in London (John Landis) #fantastique
 * Coup de torchon (Bertrand Tavernier)
@@ -1202,8 +1214,8 @@ bof:
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * La Ballade de Buster Scruggs
 * Bird Box (Sandra Bullock)
-* Bohemian Rhapsody (4🏆)
-* Capernaum (Capharnaüm) (Liban 🏆)
+* Bohemian Rhapsody (Rami Malek) 4🏆
+* Capernaum (Capharnaüm) (Liban) 🏆
 * Heureux comme Lazzaro (Italie)
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
