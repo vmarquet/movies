@@ -197,6 +197,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1951
 
 * Rashomon (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/rashomon)
+* A Streetcar Named Desire (Marlon Brando) [🍅](https://www.rottentomatoes.com/m/1020333-streetcar_named_desire) : bof (dans mes souvenirs, vu il y a longtemps)
 
 ### 1953
 
@@ -213,9 +214,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1957
 
-* The Seventh Seal (Fantastique, Ingmar Bergman)
+* The Seventh Seal (Ingmar Bergman) #fantastique
 * 12 Hommes en Colère (Sidney Lumet) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men)
-* Certains l'aiment Chaud (Billy Wilder) [🍅](https://www.rottentomatoes.com/m/some_like_it_hot)
 
 
 ### 1958
@@ -226,6 +226,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 
 ### 1959
+
+* Some Like It Hot (Billy Wilder, Marylin Monroe) [🍅](https://www.rottentomatoes.com/m/some_like_it_hot) #comédie
 
 [Cannes (12e)](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1959#Palmar%C3%A8s)
 
@@ -581,7 +583,7 @@ bof:
 * Femmes au bord de la crise de nerfs (Pedro Almodóvar) 🇪🇸
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
-* Gorillas in the mist (Sigourney Weaver) [🍅](https://www.rottentomatoes.com/m/gorillas_in_the_mist)
+* Gorillas in the mist (Sigourney Weaver) [🍅](https://www.rottentomatoes.com/m/gorillas_in_the_mist) : longuet
 * They Live (John Carpenter)
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -671,6 +673,7 @@ bof:
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
 * pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
+* pas vu: https://www.rottentomatoes.com/m/chungking_express (Hongkong, Wong Kar-wai)
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1439,6 +1442,7 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/reality_2023
 * pas vu: https://www.rottentomatoes.com/m/a_haunting_in_venice (Kenneth Branagh)
 * pas vu: https://www.rottentomatoes.com/m/rye_lane
+* pas vu: https://www.rottentomatoes.com/m/past_lives
 * pas vu (tous TTT):
     * la bête dans la jungle
     * fermer les yeux
