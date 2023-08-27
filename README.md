@@ -604,7 +604,7 @@ bof:
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
 
-Français:
+[Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Cyrano de Bergerac (JP Rappeneau) ❤️
 * Le Mari de la coiffeuse (Jean Rochefort)
@@ -631,6 +631,9 @@ Français:
 * Singles
 * Basic Instinct
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
+
+[Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
 * pas vu: https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php 4T 4✨
 * pas vu: https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php (Claude Sautet)
 
@@ -706,6 +709,11 @@ Pas aimé:
 * Breaking the Waves (Lars von Trier)
 * Lone Star [🍅](https://www.rottentomatoes.com/m/1074022-lone_star) #neowestern
 
+[Césars 22](https://fr.wikipedia.org/wiki/22e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Ridicule (Patrice Leconte, Jean Rochefort) ❤️ ✨ #comédie
+* pas vu: Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
+
 
 ### 1997
 
@@ -723,6 +731,10 @@ Pas aimé:
 * pas vu: https://www.rottentomatoes.com/m/children_of_heaven
 * pas vu: https://www.rottentomatoes.com/m/in_the_company_of_men
 * pas vu: https://www.rottentomatoes.com/m/donnie_brasco
+
+[Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* pas vu: Western https://www.telerama.fr/cinema/films/western,35682.php
 
 
 ### 1998
@@ -1726,7 +1738,6 @@ Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio
 * Les vécés étaient fermés de l'intérieur (1976, Patrice Leconte, Jean Rochefort, Coluche)
 * Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙 #film-de-noel
 * Le bonheur est dans le pré (1995)
-* Ridicule (1996, Patrice Leconte, Jean Rochefort) ❤️ ✨
 * Le Diner de Cons (1997, avec Jacques Villeret) 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
 * La Vérité si je mens ! (1997, José Garcia, Bruno Solo)
 * Rire et Châtiment (2003, José Garcia) [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
