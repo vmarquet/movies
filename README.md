@@ -363,10 +363,14 @@ Français:
 * Phantom of the Paradise (Brian de Palma) #fantastique
 * Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
 * Conversation Secrète (FF Coppola) #thriller
-* Peur sur la Ville (Belmondo) (vu ?) #policier
 * Chinatown (Roman Polanski)
-* pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 * pas vu: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
+
+Français:
+
+* Les Valseuses (Bertrand Blier) ❤️ #comédie
+* Peur sur la Ville (Belmondo) (vu ?) #policier
+* pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 
 
 ### 1975
@@ -406,7 +410,7 @@ Français:
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
+* Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) ❤️ [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
 
 
 ### 1978
@@ -425,6 +429,10 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
+
+[Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Buffet Froid (Bertrand Blier, Depardieu) ❤️ #comédie
 * Série noire (Alain Corneau, Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
 
 
@@ -439,7 +447,7 @@ Français:
 
 [Césars 6](https://fr.wikipedia.org/wiki/6e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Mon Oncle d'Amérique  (Alain Resnais, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
+* Mon Oncle d'Amérique (Alain Resnais, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
 
 
 ### 1981
@@ -471,8 +479,9 @@ Français:
 * Gandhi (Richard Attenborough) 🏆
 * The Thing (John Carpenter)
 
-Français:
+[Césars 8](https://fr.wikipedia.org/wiki/8e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
+* Danton (Andrzej Wajda, Depardieu) ❤️
 * Le père Noël est une ordure
 
 
@@ -480,12 +489,14 @@ Français:
 
 [Oscars 56](https://fr.wikipedia.org/wiki/56e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Danton (Andrzej Wajda, Depardieu) ❤️
-* Tchao Pantin (Coluche) ❤️
 * Flashdance 🎥 [📰](https://www.lemonde.fr/m-le-mag/article/2023/08/18/flashdance-un-film-culte-qui-a-failli-ne-jamais-voir-le-jour_6185760_4500055.html)
 * La Ballade de Narayama (Japon) 🌿
 * Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo)
+
+[Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Tchao Pantin (Coluche) ❤️
 
 
 ### 1984
@@ -494,11 +505,14 @@ Français:
 
 * Amadeus (Milos Forman) 8🏆
 * La Compagnie des Loups [🍅](https://www.rottentomatoes.com/m/company_of_wolves) #fantastique
-* La Diagonale du fou ✨ 🏆 (meilleur film étranger)
 * The Hit (Stephen Frears, Tim Roth)
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
+
+[Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* La Diagonale du fou ✨ 🏆 (meilleur film étranger)
 
 
 ### 1985
@@ -509,13 +523,16 @@ Français:
 * Tampopo (Japon)
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie
-* Police (Depardieu) [📰](https://www.telerama.fr/cinema/films/police,5378.php) (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/detective,4714.php
 * pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
 
-Pas aimé:
+bof:
 
-* Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : bof, photo vieillote, peu dialogué et longuet
+* Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
+
+[Césars 11](https://fr.wikipedia.org/wiki/11e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* Police (Depardieu) [📰](https://www.telerama.fr/cinema/films/police,5378.php) (vu ?)
 
 
 ### 1986
@@ -526,9 +543,10 @@ Pas aimé:
 * Ferris Bueller's Day Off #teen-movie
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
 
-Français:
+[Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * 37°2 le matin ❤️
+* Tenue de Soirée (Bertrand Blier, Depardieu) #comédie
 * Mauvais Sang (Leos Carax) [📰](https://www.telerama.fr/cinema/films/mauvais-sang,9406.php)
 
 
@@ -1007,7 +1025,7 @@ Pas aimé:
 ### 2011
 
 * Il était une fois en Anatolie (Nuri Bilge Ceylan) 🌿
-* Midnight in Paris (Woody Allen)
+* Midnight in Paris (Woody Allen) 🎥
 * Drive ❤️
 * Millenium, the girl with the dragon tattoo
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥 🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
@@ -1438,7 +1456,6 @@ Français:
 
 ### Comédies
 
-* Midnight in Paris (et autres de Woody Allen) 🎥
 * The Darjeeling Limited
 * Lost in Translation  (2003, Sofia Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
 * Juno  [🍅](https://www.rottentomatoes.com/m/juno)
@@ -1706,12 +1723,9 @@ Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio
   -> dialogues excellents (Audiard), musique très sympa
   [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
 * Le Grand Blond avec une chaussure noire (1972, Pierre Richard, Jean Rochefort)
-* Les Valseuses (1974) (Bertrand Blier) ❤️
 * Les vécés étaient fermés de l'intérieur (1976, Patrice Leconte, Jean Rochefort, Coluche)
-* Buffet Froid (1979) (Bertrand Blier, Depardieu) ❤️
-* Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙
+* Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙 #film-de-noel
 * Le bonheur est dans le pré (1995)
-* Tenue de Soirée (1986) (Bertrand Blier, Depardieu)
 * Ridicule (1996, Patrice Leconte, Jean Rochefort) ❤️ ✨
 * Le Diner de Cons (1997, avec Jacques Villeret) 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
 * La Vérité si je mens ! (1997, José Garcia, Bruno Solo)
