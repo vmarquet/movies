@@ -255,18 +255,21 @@ Pas aimé:
 
 ### 1962
 
-* Le Soupirant (Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️ ◯
 * Le Procès (Orson Welles) 🎥 ❤️
-* Un Singe en Hiver  (Jean-Paul Belmondo, Jean Gabin) [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php) : dialogues excellents (Audiard), musique très sympa
 * Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
+
+Français:
+
+* Le Soupirant (Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️ ◯
+* Un Singe en Hiver  (Jean-Paul Belmondo, Jean Gabin) [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php) : dialogues excellents (Audiard), musique très sympa
 * La Jetée #sf
 * Cléo de 5 à 7 (Agnès Varda) : pas fan
 
 
 ### 1963
 
-* Les Tontons Flingueurs (Georges Lautner, Audiard, avec Lino Ventura) ❤️ [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php)
+* Les Tontons Flingueurs (Georges Lautner, Audiard, avec Lino Ventura) ❤️ [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php) #comédie
     * même genre:
         * Les Barbouzes (1964, Georges Lautner)
         * Ne nous fâchons pas (1966, Georges Lautner)
@@ -333,13 +336,13 @@ Pas aimé:
 ### 1971
 
 * Orange Mécanique (Stanley Kubrick)
-* Sans Mobile Apparent (Philippe Labro, Jean-Louis Trintignant) #policier : bon polar, bonnes vannes
 * Harold and Maude : pas fan de l'esthétique et du storytelling mais le fin mot de l'intrigue est intéressant [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 
 Français:
 
 * Max et les Ferrailleurs (Claude Sautet) ❤️
 * Le Chat (Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
+* Sans Mobile Apparent (Philippe Labro, Jean-Louis Trintignant) #policier : bon polar, bonnes vannes
 * pas vu: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
 
 
