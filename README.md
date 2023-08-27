@@ -257,6 +257,7 @@ Pas aimé:
 
 * Le Soupirant (Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️ ◯
 * Le Procès (Orson Welles) 🎥 ❤️
+* Un Singe en Hiver  (Jean-Paul Belmondo, Jean Gabin) [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php) : dialogues excellents (Audiard), musique très sympa
 * Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
 * La Jetée #sf
@@ -347,6 +348,7 @@ Français:
 * Le Parrain (FF Coppola) 🎥 ❤️
 * César et Rosalie (Claude Sautet) ❤️
 * L'aventure c'est l'aventure (Claude Lelouch, Lino Ventura, Jacques Brel) #aventure
+* Le Grand Blond avec une chaussure noire (Yves Robert, Pierre Richard, Jean Rochefort) #comédie #famille
 
 
 ### 1973
@@ -395,7 +397,8 @@ Français:
 
 [Césars 2](https://fr.wikipedia.org/wiki/2e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Un éléphant ça trompe énormément (Jean Rochefort)
+* Un éléphant ça trompe énormément (Yves Robert, Jean Rochefort) #comédie
+* Les vécés étaient fermés de l'intérieur (Patrice Leconte, Jean Rochefort, Coluche) #comédie
 * Le Juge et l'Assassin (Bertrand Tavernier, Philippe Noiret, Michel Galabru)
 * Police Python 357 (Alain Corneau) : vu ?
 
@@ -1000,6 +1003,7 @@ Pas aimé:
 
 * La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
 * A l'origine (François Cluzet)
+* Le Concert (Radu Mihaileanu) #comédie : bof
 * Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php) : bof
 * pas vu: Welcome
 
@@ -1025,10 +1029,10 @@ Pas aimé:
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Le Bruit des glaçons ❤️
-* Le Noms des Gens
+* Le Bruit des glaçons (Bertrand Blier, Jean Dujardin, Albert Dupontel) ❤️ [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php) #comédie
+* Le Nom des Gens (Jacques Gamblin) [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php) #comédie
 * Des hommes et des dieux (Michael Lonsdale) 🎥 [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
-* L'Arnacoeur
+* L'Arnacoeur (Romain Duris) #romcom
 * Tournée (Mathieu Amalric) 🎥
 * Mammuth (Délépine et Kervern, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * La Princesse de Montpensier (vu ?)
@@ -1058,9 +1062,9 @@ Pas aimé:
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* The Artist ❤️ 🏆
-* Intouchables ❤️ (Olivier Nakache & Éric Toledano, Omar Sy, François Cluzet)
-* Polisse [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
+* The Artist (Michel Hazanavicius, Jean Dujardin) ❤️ 🏆 [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php)
+* Intouchables ❤️ (Olivier Nakache & Éric Toledano, Omar Sy, François Cluzet) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php) #comédie
+* Polisse (Maïwenn) [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
 * La guerre est déclarée (Valérie Donzelli)
 * Jimmy Rivière
 * L’Exercice de l’État
@@ -1731,11 +1735,6 @@ Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio
 
 ### Comédies
 
-* Un Singe en Hiver  (1962, avec Jean-Paul Belmondo, Jean Gabin)
-  -> dialogues excellents (Audiard), musique très sympa
-  [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php)
-* Le Grand Blond avec une chaussure noire (1972, Pierre Richard, Jean Rochefort)
-* Les vécés étaient fermés de l'intérieur (1976, Patrice Leconte, Jean Rochefort, Coluche)
 * Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙 #film-de-noel
 * Le bonheur est dans le pré (1995)
 * Le Diner de Cons (1997, avec Jacques Villeret) 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
@@ -1743,16 +1742,6 @@ Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio
 * Rire et Châtiment (2003, José Garcia) [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
 * L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)
 * Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
-* Le Concert (2009, Radu Mihaileanu)
-* L'Arnacoeur (2010, Romain Duris)
-* Le Nom des Gens  [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php)
-  (2010, avec Jacques Gamblin)
-* Le Bruit des Glaçons  [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php)
-  (2010, Bertrand Blier, avec Jean Dujardin, Albert Dupontel)
-* Intouchables (2011) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php)
-  (2011, avec François Cluzet)
-* The Artist  [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php) ❤️
-  (2011, Michel Hazanavicius, avec Jean Dujardin)
 * avec Michel Houellebecq:
     * L'enlèvement de Michel Houellebecq ❤️
     * Near Death Experience
