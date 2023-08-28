@@ -487,6 +487,7 @@ Français:
 * Das Boot (Allemagne) ❤️ (6 nominations 🏆)
 * Gandhi (Richard Attenborough) 🏆
 * The Thing (John Carpenter)
+* First Blood (Sylvester Stallone)
 
 [Césars 8](https://fr.wikipedia.org/wiki/8e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
