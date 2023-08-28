@@ -189,6 +189,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * The Lady from Shanghai (Orson Welles) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
 * Macbeth (Orson Welles)
 * La Corde (Alfred Hitchcock)
+* pas vu: https://www.rottentomatoes.com/m/bicycle_thieves (Italie)
 
 ### 1949
 
@@ -1125,6 +1126,7 @@ Pas aimé:
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox (Inde)
+* Tangerines (Géorgie)
 * pas vu: https://www.rottentomatoes.com/m/new_world (Corée)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1142,17 +1144,15 @@ Bof:
 * Birdman
 * Gone Girl (Fincher)
 * Black Coal (Chine) 🧸
-* Nos étoiles contraires (?)
-* Reality (Quentin Dupieux, Chabat)
+* Reality (Quentin Dupieux, Alain Chabat)
 * Inherent Vice (Joaquin Phoenix)
 * Leviathan (Russie)
 * A Girl Walks Home Alone at Night (Iran)
 * Dear White People ☀️
 * Coming Home (Chine, Zhang Yimou)
 * Noah (Darren Aronofsky, Russell Crowe)
+* Nos étoiles contraires (?)
 * The Imitation Game (Benedict Cumberbatch)
-* Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier) #comédie
-* Babysitting (Christian Clavier) ❤️ #comédie
 * Creep
 * Still Alice
 * pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
@@ -1165,6 +1165,8 @@ Bof:
 * Diplomatie (Niels Arestrup, André Dussolier) ❤️
 * Saint-Laurent (Gaspard Ulliel)
 * Hippocrate
+* Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier) #comédie
+* Babysitting (Christian Clavier) ❤️ #comédie
 
 
 ### 2015
@@ -1178,8 +1180,7 @@ Bof:
 * Cemetery of Splendour (vu ?) 🌿
 * Carol (Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
-* Tangerine
-* Il est de retour (Comédie, Allemagne)
+* Il est de retour (Allemagne) #comédie-satirique
 * pas vu: https://www.rottentomatoes.com/m/macbeth_2015
 * pas vu: Le Fils de Saul 🌿
 * pas vu: https://www.rottentomatoes.com/m/long_way_north #famille
@@ -1261,6 +1262,7 @@ bof:
 * Sorry to Bother You
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
+* pas vu: https://www.rottentomatoes.com/m/the_wild_pear_tree (Nuri Bilge Ceylan)
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 
