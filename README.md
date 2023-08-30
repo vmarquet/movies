@@ -424,8 +424,8 @@ Français:
 
 ### 1978
 
+* Days of Heaven (Terrence Malick) ❤️ [🍅](https://www.rottentomatoes.com/m/days_of_heaven)
 * Midnight Express
-* pas vu: https://www.rottentomatoes.com/m/days_of_heaven (Terrence Malick)
 
 [Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -999,6 +999,7 @@ Pas aimé:
 * Bright Star (Jane Campion) 🎥 ❤️
 * Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
+* Whatever Works (Woody Allen)
 * Le Ruban blanc (Michael Haneke) 🌿
 * Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
 * Fish Tank
@@ -1446,6 +1447,7 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/a_haunting_in_venice (Kenneth Branagh)
 * pas vu: https://www.rottentomatoes.com/m/rye_lane
 * pas vu: https://www.rottentomatoes.com/m/past_lives
+* pas vu: la beauté du geste (Japon)
 * pas vu (tous TTT):
     * la bête dans la jungle
     * fermer les yeux
