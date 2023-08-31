@@ -471,7 +471,6 @@ Français:
 * bof:
     * Chariots of Fire
     * Le Hasard (Przypadek) (Krzysztof Kieślowski, Pologne)
-* pas vu: https://www.rottentomatoes.com/m/atlantic_city
 * pas vu: https://www.rottentomatoes.com/m/prince_of_the_city
 
 [Césars 7](https://fr.wikipedia.org/wiki/7e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1403,6 +1402,7 @@ bof:
 * War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
 * Fire Island [🍅](https://www.rottentomatoes.com/m/fire_island_2022) #romcom
 * bof:
+    * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
     * The Pale Blue Eye (Christian Bale)
     * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
@@ -1411,7 +1411,6 @@ bof:
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
-    * https://www.rottentomatoes.com/m/burning_days (Turquie)
     * https://www.rottentomatoes.com/m/fresh_2022
     * L'Enfant, la Taupe, le Renard et le Cheval 🏆
 
