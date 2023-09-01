@@ -351,6 +351,7 @@ Français:
 
 ### 1972
 
+* Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
 * Le Parrain (FF Coppola) 🎥 ❤️
 * César et Rosalie (Claude Sautet) ❤️
 * L'aventure c'est l'aventure (Claude Lelouch, Lino Ventura, Jacques Brel) #aventure
@@ -427,6 +428,7 @@ Français:
 
 * Days of Heaven (Terrence Malick) ❤️ [🍅](https://www.rottentomatoes.com/m/days_of_heaven)
 * Midnight Express
+* Nosferatu (Werner Herzog)
 
 [Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -485,6 +487,7 @@ Français:
 [Oscars 56](https://fr.wikipedia.org/wiki/55e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Das Boot (Allemagne) ❤️ (6 nominations 🏆)
+* Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
 * Gandhi (Richard Attenborough) 🏆
 * The Thing (John Carpenter)
 * First Blood (Sylvester Stallone)
@@ -567,6 +570,7 @@ bof:
 
 * Les Ailes du Désir (Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
+* Cobra Verde (Werner Herzog, Klaus Kinski)
 * Les Incorruptibles (Brian de Palma) #policier
 * The Lost Boys #vampires
 * Empire of the Sun [🍅](https://www.rottentomatoes.com/m/empire_of_the_sun)
@@ -1472,11 +1476,6 @@ Français:
 
 ### Drames
 
-* Werner Herzog
-    * Aguirre, la Colère de Dieu (1972, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
-    * Fitzcarraldo (1982) 🎥
-    * Cobra Verde (1987)
-    * Nosferatu (1978)
 * Thème: WWII
     * Le Pianiste
     * La Liste de Schindler
