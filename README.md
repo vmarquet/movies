@@ -216,7 +216,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1957
 
 * The Seventh Seal (Ingmar Bergman) #fantastique
-* 12 Hommes en Colère (Sidney Lumet) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men)
+* 12 Hommes en Colère (Sidney Lumet) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men) #film-de-procès
 
 
 ### 1958
@@ -246,7 +246,7 @@ Pas aimé:
 * La Dolce Vita (Italie, Federico Fellini, Marcello Mastroianni) 🌿
 * Psychose (Alfred Hitchcock) 💙 #horreur
 * L'Île nue (Japon)
-* La Vérité (HG Clouzot) 🏆
+* La Vérité (HG Clouzot) 🏆 #film-de-procès
 
 
 ### 1961
@@ -258,7 +258,7 @@ Pas aimé:
 
 ### 1962
 
-* Le Procès (Orson Welles) 🎥 ❤️
+* Le Procès (Orson Welles) 🎥 ❤️ #film-de-procès
 * Laurence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
 
@@ -732,6 +732,7 @@ Pas aimé:
 * Trainspotting
 * Breaking the Waves (Lars von Trier)
 * Lone Star [🍅](https://www.rottentomatoes.com/m/1074022-lone_star) #neowestern
+* pas vu: https://www.rottentomatoes.com/m/1070992-primal_fear
 
 [Césars 22](https://fr.wikipedia.org/wiki/22e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -749,7 +750,7 @@ Pas aimé:
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
-* Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) : esthétique bof mais scénario+
+* Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) #film-de-procès : esthétique bof mais scénario+
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 * pas vu: https://www.rottentomatoes.com/m/children_of_heaven
@@ -1472,7 +1473,7 @@ bof:
 Français:
 
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
-* Anatomie d'une chute (Justine Triet) 🌿
+* Anatomie d'une chute (Justine Triet) 🌿 #film-de-procès
 * Les Trois Mousquetaires
 
 
