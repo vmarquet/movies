@@ -304,8 +304,8 @@ Français:
 ### 1966
 
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
-* pas vu: https://www.rottentomatoes.com/m/king_of_hearts_1967
-* pas vu: https://www.rottentomatoes.com/m/blow_up_1966
+* bof: Blow-Up
+* pas vu: https://www.rottentomatoes.com/m/king_of_hearts_1967 (Philippe de Broca)
 
 
 ### 1967
@@ -320,7 +320,7 @@ Français:
 
 ### 1968
 
-* Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/1017834-romeo_and_juliet)
+* Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968)
 
 
 ### 1969
@@ -363,6 +363,7 @@ Français:
 * Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * pas vu: L'Esprit de la ruche (Espagne) [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive)
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
+* pas vu: https://www.rottentomatoes.com/m/american_graffiti
 
 
 ### 1974
@@ -529,9 +530,9 @@ Français:
 [Oscars 58](https://fr.wikipedia.org/wiki/58e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * White Nights (Soleil de nuit) (Russie, Mikhail Baryshnikov)
-* Tampopo (Japon)
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie
+* Tampopo (Japon)
 * pas vu: https://www.telerama.fr/cinema/films/detective,4714.php
 * pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
 
@@ -923,6 +924,7 @@ Pas aimé:
 * Thank You for Smoking
 * The Devil Wears Prada
 * Fanaa (Bollywood)
+* Blood Diamond
 * Apocalypto (Mel Gibson) : longuet
 * pas vu: https://www.rottentomatoes.com/m/stranger_than_fiction
 
@@ -1116,7 +1118,7 @@ Pas aimé:
 * Her (Spike Jonze, Joaquin Phoenix) ❤️
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ 🏆 (meilleur film étranger) ✨ 🌿
 * Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
-* Under the Skin
+* Under the Skin (Scarlett Johansson)
 * Only Lovers Left Alive (Jim Jarmusch) ❤️
 * A Touch of Sin (Chine)
 * Wrong Cops (Quentin Dupieux)
@@ -1175,7 +1177,7 @@ Bof:
 * Les Huit Salopards (Tarentino) ❤️
 * Mustang (Turquie) ❤️
 * The Assassin 🎥 ❤️ (arts martiaux chinois)
-* The Revenant 🎥 (Alejandro González Iñárritu)
+* The Revenant (Alejandro González Iñárritu) 🎥
 * The Lobster (Yórgos Lánthimos, Colin Farrell)
 * The Big Short
 * Cemetery of Splendour (vu ?) 🌿
