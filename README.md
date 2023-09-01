@@ -332,7 +332,7 @@ Français:
 ### 1970
 
 * Deep End 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
-* Le Cercle rouge (Jean-Pierre Melville)
+* Le Cercle rouge (Jean-Pierre Melville) #policier
 * MASH (Robert Altman) #film-de-guerre
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
 
@@ -431,6 +431,7 @@ Français:
 * The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
 * Midnight Express
 * Nosferatu (Werner Herzog)
+* pas vu: https://www.rottentomatoes.com/m/the_marriage_of_maria_braun
 
 [Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -497,6 +498,7 @@ Français:
 * The Thing (John Carpenter)
 * Tootsie (Sydney Pollack, Dustin Hoffman) [🍅](https://www.rottentomatoes.com/m/tootsie) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
 * First Blood (Sylvester Stallone)
+* pas vu: https://www.rottentomatoes.com/m/draughtsmans_contract
 
 [Césars 8](https://fr.wikipedia.org/wiki/8e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -528,6 +530,7 @@ Français:
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
+* pas vu: https://www.rottentomatoes.com/m/killing_fields
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1221,7 +1224,7 @@ Bof:
 * Better Watch Out #film-de-noel
 * Moana (Disney)
 * Toni Erdmann
-* Hacksaw Ridge (Tu ne tueras point) #guerre
+* Hacksaw Ridge (Tu ne tueras point) #film-de-guerre
 * Una (Rooney Mara)
 * The Red Turtle [🍅](https://www.rottentomatoes.com/m/the_red_turtle) #famille
 * Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
