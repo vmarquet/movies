@@ -385,11 +385,11 @@ Français:
 ### 1975
 
 * Monty Python : Sacré Graal ! 💙 (Terry Gilliam, Terry Jones) #comedie
+* Dog Day Afternoon (Sidney Lumet, Al Pacino, John Cazale) [🍅](https://www.rottentomatoes.com/m/dog_day_afternoon)
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Section spéciale (Costa-Gavras)
 * Dersou Ouzala (Russie/Japon, Akira Kurosawa)
-* pas vu: https://www.rottentomatoes.com/m/dog_day_afternoon (Sidney Lumet, Al Pacino)
 
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -550,6 +550,7 @@ bof:
 [Oscars 59](https://fr.wikipedia.org/wiki/59e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Le Nom de la Rose (JJ Annaud, Sean Connery, Michael Lonsdale) ✨ [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986) #thriller
+* Aliens #sf
 * Ferris Bueller's Day Off #teen-movie
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
 
@@ -1292,12 +1293,12 @@ Cannes, pas vu:
 ### 2019
 
 * The Lighthouse (Willem Dafoe, Robert Pattinson) 🎥 ❤️
-* 1917 🎥
-* Joker ❤️
-* Jojo Rabbit ❤️
-* Marriage Story
+* 1917 (Sam Mendes) 🎥 #film-de-guerre
+* Joker (Joaquin Phoenix) ❤️
+* Jojo Rabbit (Taika Waititi) ❤️
+* Marriage Story (Scarlett Johansson, Adam Driver)
 * Ad Astra (James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra) #sf
-* Le Roi (Chalamet)
+* Le Roi (Timothée Chalamet)
 * Scheme Birds (documentaire) ❤️
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * The Two Popes
@@ -1400,7 +1401,7 @@ bof:
 * Triangle of Sadness [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php)
 * La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
-* A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022)
+* A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
 * War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
 * Fire Island [🍅](https://www.rottentomatoes.com/m/fire_island_2022) #romcom
 * bof:
