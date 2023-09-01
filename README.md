@@ -495,6 +495,7 @@ Français:
 * Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
 * Gandhi (Richard Attenborough) 🏆
 * The Thing (John Carpenter)
+* Tootsie (Sydney Pollack, Dustin Hoffman) [🍅](https://www.rottentomatoes.com/m/tootsie) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
 * First Blood (Sylvester Stallone)
 
 [Césars 8](https://fr.wikipedia.org/wiki/8e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -530,7 +531,7 @@ Français:
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* La Diagonale du fou ✨ 🏆 (meilleur film étranger)
+* La Diagonale du fou (Michel Piccoli) ✨ 🏆 (meilleur film étranger)
 
 
 ### 1985
@@ -1504,15 +1505,11 @@ Français:
 * Vampires en toute Intimité (What we do in the Shadows) (2014) ❤️
 * Shaun of the Dead (2004)
 * Zombieland  (2009) [🍅](https://www.rottentomatoes.com/m/zombieland)
-* Tootsie  (1982) --> pour Dustin Hoffman
-  [(et voir ici)](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
-  [🍅](https://www.rottentomatoes.com/m/tootsie)
 * Le Tigre et la Neige (2005, Roberto Benigni)
 * Do the right thing (1989)
 * Starbuck (2011)
 * Rush Hour 2 (2001)
 * The 40 year old virgin (2005)
-* Hapiness Therapy (2012)
 
 
 ##### Comédies pour enfants
