@@ -333,6 +333,7 @@ Français:
 
 * Deep End 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
 * Le Cercle rouge (Jean-Pierre Melville)
+* MASH (Robert Altman) #film-de-guerre
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
 
 
@@ -427,6 +428,7 @@ Français:
 ### 1978
 
 * Days of Heaven (Terrence Malick) ❤️ [🍅](https://www.rottentomatoes.com/m/days_of_heaven)
+* The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
 * Midnight Express
 * Nosferatu (Werner Herzog)
 
@@ -437,7 +439,10 @@ Français:
 
 ### 1979
 
-* Kramer contre Kramer (Dustin Hoffman, Meryl Streep)
+[Oscars 52](https://fr.wikipedia.org/wiki/52e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
+* Apocalypse Now (FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
+* Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
@@ -554,6 +559,7 @@ bof:
 
 * Le Nom de la Rose (JJ Annaud, Sean Connery, Michael Lonsdale) ✨ [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986) #thriller
 * Aliens #sf
+* Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
 
@@ -568,6 +574,7 @@ bof:
 
 [Oscars 60](https://fr.wikipedia.org/wiki/60e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Full Metal Jacket (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket) #film-de-guerre
 * Les Ailes du Désir (Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
 * Cobra Verde (Werner Herzog, Klaus Kinski)
@@ -759,8 +766,9 @@ Pas aimé:
 
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham)
-* Kirikou et la Sorcière
-* pas vu: Saving Private Ryan
+* Kirikou et la Sorcière #famille
+* The Thin Red Line (Terrence Malick) #film-de-guerre
+* pas vu: Saving Private Ryan (Steven Spielberg) #film-de-guerre
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1666,18 +1674,6 @@ Français:
 
 
 ### Films de Guerre
-
-
-* Apocalypse Now (1979, FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
-* Platoon (1986, Oliver Stone, Charlie Sheen, Christopher Walken)
-* Full Metal Jacket (1987, Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket)
-* The Deer Hunter (Voyage au Bout de l'Enfer) (1978, Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
-* The Thin Red Line (1998, Terrence Malick)
-* MASH (1970, Robert Altman)
-
-
-![](images/affiches/FMJ.jpg)
-
 
 #### WWII
 
