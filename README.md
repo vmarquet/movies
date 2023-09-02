@@ -202,7 +202,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1953
 
-* Le Salaire de la peur : début longuet
+* Le Salaire de la peur (HG Clouzot) : début longuet
 
 ### 1954
 
@@ -363,7 +363,7 @@ Français:
 
 * Badlands (Terrence Malick, Martin Sheen) ❤️
 * Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
-* pas vu: L'Esprit de la ruche (Espagne) [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive)
+* pas vu: L'Esprit de la ruche (Espagne) [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * pas vu: https://www.rottentomatoes.com/m/american_graffiti
 
@@ -416,9 +416,9 @@ Français:
 
 * The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
+* Sorcerer [🍅](https://www.rottentomatoes.com/m/1019441-sorcerer) : première moitiée longuette mais épique ensuite
 * pas vu: Eraserhead (David Lynch)
 * pas vu: https://www.rottentomatoes.com/m/opening_night
-* pas vu: https://www.rottentomatoes.com/m/1019441-sorcerer
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -431,7 +431,7 @@ Français:
 * The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
 * Midnight Express
 * Nosferatu (Werner Herzog)
-* pas vu: https://www.rottentomatoes.com/m/the_marriage_of_maria_braun
+* pas vu: https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
 
 [Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -545,12 +545,12 @@ Français:
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie
 * Tampopo (Japon)
-* pas vu: https://www.telerama.fr/cinema/films/detective,4714.php
 * pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
 
 bof:
 
 * Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
+* Détective (Jean-Luc Godard) [📰](https://www.telerama.fr/cinema/films/detective,4714.php) : esthétiquement sympa mais scénario trop décousu et sans grand intérêt
 
 [Césars 11](https://fr.wikipedia.org/wiki/11e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1073,12 +1073,12 @@ Pas aimé:
 * Drive ❤️
 * Millenium, the girl with the dragon tattoo
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥 🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
-* Margin Call
+* Margin Call (Kevin Spacey)
 * Starbuck
 * Rango
-* Le Moine
+* Le Moine (Vincent Cassel)
 * Tinker Tailor Soldier Spy (La Taupe)
-* Django Unchained
+* Django Unchained (Tarentino)
 * Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
