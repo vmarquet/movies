@@ -415,10 +415,10 @@ Français:
 ### 1977
 
 * The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
-* The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
 * Sorcerer [🍅](https://www.rottentomatoes.com/m/1019441-sorcerer) : première moitiée longuette mais épique ensuite
+* The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
 * pas vu: Eraserhead (David Lynch)
-* pas vu: https://www.rottentomatoes.com/m/opening_night
+* bof: Opening Night
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -496,9 +496,9 @@ Français:
 * Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
 * Gandhi (Richard Attenborough) 🏆
 * The Thing (John Carpenter)
+* The Draughtsman's Contract [🍅](https://www.rottentomatoes.com/m/draughtsmans_contract)
 * Tootsie (Sydney Pollack, Dustin Hoffman) [🍅](https://www.rottentomatoes.com/m/tootsie) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
 * First Blood (Sylvester Stallone)
-* pas vu: https://www.rottentomatoes.com/m/draughtsmans_contract
 
 [Césars 8](https://fr.wikipedia.org/wiki/8e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
