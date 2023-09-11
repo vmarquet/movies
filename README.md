@@ -422,7 +422,7 @@ Français:
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Le Crabe-Tambour (Pierre Schoenderffer, Jean Rochefort) ❤️ [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
+* Le Crabe-Tambour (Pierre Schoendoerffer, Jean Rochefort) ❤️ [📰](https://www.telerama.fr/cinema/films/le-crabe-tambour,47984.php)
 
 
 ### 1978
@@ -716,7 +716,7 @@ bof:
 [Césars 21](https://fr.wikipedia.org/wiki/21e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * La Haine ✨
-* La Cité des enfants perdus
+* La Cité des enfants perdus (Jean-Pierre Jeunet)
 * Underground (Emir Kusturica) ✨ 🌿 ❤️ [📰](https://www.telerama.fr/cinema/films/underground,37761.php)
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (?)
@@ -913,7 +913,7 @@ Pas aimé:
 * Capote
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2) #sf
-* pas vu: https://www.telerama.fr/cinema/films/memoires-d-une-geisha,253423.php
+* bof: Mémoires d'une geisha
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -944,7 +944,7 @@ Pas aimé:
 * Fanaa (Bollywood)
 * Blood Diamond
 * Apocalypto (Mel Gibson) : longuet
-* pas vu: https://www.rottentomatoes.com/m/stranger_than_fiction
+* bof: Stranger than fiction (Will Ferrell)
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1071,13 +1071,14 @@ Pas aimé:
 * Il était une fois en Anatolie (Nuri Bilge Ceylan) 🌿
 * Midnight in Paris (Woody Allen) 🎥
 * Drive ❤️
-* Millenium, the girl with the dragon tattoo
+* Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥 🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
+* The Tree of Life (Terrence Malick)
 * Margin Call (Kevin Spacey)
-* Starbuck
+* Starbuck #comédie
 * Rango
 * Le Moine (Vincent Cassel)
-* Tinker Tailor Soldier Spy (La Taupe)
+* Tinker Tailor Soldier Spy (La Taupe) #thriller
 * Django Unchained (Tarentino)
 * Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
 * Take Shelter (Jeff Nichols)
@@ -1466,6 +1467,7 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/a_haunting_in_venice (Kenneth Branagh)
 * pas vu: https://www.rottentomatoes.com/m/rye_lane
 * pas vu: https://www.rottentomatoes.com/m/past_lives
+* pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * pas vu: la beauté du geste (Japon)
 * pas vu (tous TTT):
     * la bête dans la jungle
@@ -1548,7 +1550,6 @@ Français:
 * Les Trois Jours du Condor  [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor)
   (Sydney Pollack, avec Robert Redford)
 * Marathon Man    (avec Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man)
-* The Girl with the Dragon Tattoo (David Fincher)
 * Zodiac (David Fincher)
 * L.A. Confidential  (avec Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
 * Mystic River  (2003, Clint Eastwood, avec Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river)
