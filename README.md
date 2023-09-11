@@ -356,6 +356,7 @@ Français:
 * Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
 * Le Parrain (FF Coppola) 🎥 ❤️
 * César et Rosalie (Claude Sautet) ❤️
+* Délivrance ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance) #thriller
 * L'aventure c'est l'aventure (Claude Lelouch, Lino Ventura, Jacques Brel) #aventure
 * Le Grand Blond avec une chaussure noire (Yves Robert, Pierre Richard, Jean Rochefort) #comédie #famille
 
@@ -1632,18 +1633,15 @@ Français:
 ### Epouvante / Horreur
 
 
-* Rosemary's Baby (Roman Polanski) 🎥 💙
-  [🍅](https://www.rottentomatoes.com/m/rosemarys_baby)
-  [(qq explications ici)](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
-* Le Silence des Agneaux  (1991, avec Anthony Hopkins) 💙 [🍅](https://www.rottentomatoes.com/m/silence_of_the_lambs)
-* Délivrance  (1972) ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance)
-* Shining  (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
-* The Others (Amenabar)
-* Suspiria (1977)  pour le cadrage et l'esthétique
+* Rosemary's Baby (1968, Roman Polanski) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/rosemarys_baby) [💡](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
+* Suspiria (1977) : pour le cadrage et l'esthétique
+* Shining (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
+* Le Silence des Agneaux (1991, avec Anthony Hopkins) 💙 [🍅](https://www.rottentomatoes.com/m/silence_of_the_lambs)
 * Scream (1996, Wes Craven)
-* Ringu  (1998, film japonais qui a inspiré The Ring) [🍅](https://www.rottentomatoes.com/m/ringu)
+* Ringu (1998, Japon) [🍅](https://www.rottentomatoes.com/m/ringu)
 * The Blair Witch Project (1999) 💙
-* Kairo (Japon, 2001)
+* The Others (2001, Alejandro Amenabar)
+* Kairo (2001, Japon)
 * Dragon Rouge (2002) : pas inoubliable mais prequel potable du Silence des Agneaux
 * Saw (2004)
 * The Descent (2005)
@@ -1658,7 +1656,7 @@ Français:
 * Better Watch Out (2016)
 * A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)
-* Us (2019) (ok sans plus)
+* Us (2019) : ok sans plus
 * Impetigore (2019)
 * His House (2020) : 1ère heure bien, fin décevante
 * The Night House (2021)
