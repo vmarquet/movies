@@ -321,6 +321,7 @@ Français:
 ### 1968
 
 * Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968)
+* L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair) #policier
 
 
 ### 1969
@@ -373,9 +374,10 @@ Français:
 * Sugarland Express (Steven Spielberg) ❤️
 * Phantom of the Paradise (Brian de Palma) #fantastique
 * Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
+* Don't Look Now #thriller : suspense et musiques +
 * Conversation Secrète (FF Coppola) #thriller
 * Chinatown (Roman Polanski)
-* pas vu: Parfum de femme https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
+* pas vu: Parfum de femme (Italie) https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
 Français:
 
@@ -388,6 +390,7 @@ Français:
 
 * Monty Python : Sacré Graal ! 💙 (Terry Gilliam, Terry Jones) #comedie
 * Dog Day Afternoon (Sidney Lumet, Al Pacino, John Cazale) [🍅](https://www.rottentomatoes.com/m/dog_day_afternoon)
+* Les Trois Jours du Condor (Sydney Pollack, Robert Redford) [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor) #thriller
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Section spéciale (Costa-Gavras)
@@ -403,6 +406,7 @@ Français:
 * Taxi Driver (Martin Scorsese, Robert de Niro) 💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
 * Le Locataire (Roman Polanski) ❤️ #thriller
 * L'Empire des sens (Nagisa Ōshima) 🎥
+* Marathon Man (Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man) #thriller
 
 [Césars 2](https://fr.wikipedia.org/wiki/2e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -542,6 +546,7 @@ Français:
 [Oscars 58](https://fr.wikipedia.org/wiki/58e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * White Nights (Soleil de nuit) (Russie, Mikhail Baryshnikov)
+* Witness (Peter Weier, Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness) #thriller
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie
 * Tampopo (Japon)
@@ -628,6 +633,7 @@ bof:
 
 * Edward aux mains d'argent (Tim Burton, Johnny Depp) #fantastique
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
+* King of New York (Abel Ferrara, Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york) #policier : le meilleur rôle de Christopher Walken
 * Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -704,8 +710,9 @@ bof:
 ### 1995
 
 * The Bridges of Madison County (Clint Eastwood) ❤️
-* Usual Suspects
+* Usual Suspects (Kevin Spacey) #thriller
 * Seven (David Fincher) #thriller
+* Heat (Michael Mann, Al Pacino) #policier
 * Dead Man (Jim Jarmusch)
 * 12 Monkeys (Terry Gilliam) #sf
 * Braveheart (Mel Gibson)
@@ -754,6 +761,7 @@ Pas aimé:
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) #film-de-procès : esthétique bof mais scénario+
+* Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 * pas vu: https://www.rottentomatoes.com/m/children_of_heaven
@@ -906,10 +914,11 @@ Pas aimé:
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * La Science des Rêves (Michel Gondry)
+* Sin City (Franck Miller, Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/sin_city) #policier
 * Broken Flowers (Jim Jarmusch)
 * The Constant Gardener (Ralph Fiennes)
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
-* Million Dollar Baby
+* Million Dollar Baby (Clint Eastwood)
 * Capote
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2) #sf
@@ -1547,23 +1556,13 @@ Français:
 
 ### Policier/Thriller
 
-* Les Trois Jours du Condor  [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor)
-  (Sydney Pollack, avec Robert Redford)
-* Marathon Man    (avec Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man)
 * Zodiac (David Fincher)
 * L.A. Confidential  (avec Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
 * Mystic River  (2003, Clint Eastwood, avec Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river)
 * Collateral (Michael Mann)
-* L'Affaire Thomas Crown  (l'original de 1968 , avec Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair)
-* Don't Look Now (1974) (suspense et musiques +)
 * Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
-* Heat (Michael Mann, Al Pacino)
 * The Pledge (Sean Penn, avec Jack Nicholson)
-* King of New York  (1990) (le meilleur rôle de Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york)
 * Aniki mon Frère (et autres de Takeshi Kitano)
-* Witness  (Peter Weier, avec Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness)
-* Copland  (1997, avec Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land)
-* Sin City  (2005) [🍅](https://www.rottentomatoes.com/m/sin_city)
 
 
 #### Thrillers policiers + amoureux
