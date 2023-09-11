@@ -336,6 +336,7 @@ Français:
 * Le Cercle rouge (Jean-Pierre Melville) #policier
 * MASH (Robert Altman) #film-de-guerre
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
+* Little Big Man (Arthur Penn, Dustin Hoffman) #western : longuet
 
 
 ### 1971
@@ -647,6 +648,7 @@ bof:
 
 [Oscars 64](https://fr.wikipedia.org/wiki/64e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Danse avec les Loups (Kevin Costner) 🎥 7🏆 (meilleur film) [🍅](https://www.rottentomatoes.com/m/dances_with_wolves) #western
 * Thelma & Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
 * Dead Again (Kenneth Brannagh)
 * pas vu: https://www.rottentomatoes.com/m/what_about_bob
@@ -969,7 +971,8 @@ Pas aimé:
 [Oscars 80](https://fr.wikipedia.org/wiki/80e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s) —
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_2007#S%C3%A9lection_officielle)
 
-* The Darjeeling Limited ❤️
+* The Darjeeling Limited (Wes Anderson) ❤️
+* There Will Be Blood (P.T. Anderson, Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men ❤️ 🏆
@@ -977,6 +980,8 @@ Pas aimé:
 * Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes) #sf
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
+* The Assassination of Jesse James by the Coward Robert Ford #western
+* 3:10 to Yuma #western
 * Paranoid Park (Gus Van Sant)
 * 99 Francs
 * Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
@@ -1209,6 +1214,7 @@ Bof:
 * The Revenant (Alejandro González Iñárritu) 🎥
 * The Lobster (Yórgos Lánthimos, Colin Farrell)
 * The Big Short
+* Bone Tomahawk #western
 * Cemetery of Splendour (vu ?) 🌿
 * Carol (Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
@@ -1683,16 +1689,6 @@ Français:
 
 
 ### Westerns
-
-#### Sérieux
-
-* Danse avec les Loups  [🍅](https://www.rottentomatoes.com/m/dances_with_wolves)
-  (de et avec Kevin Costner, 7🏆 meilleur film 1991) 🎥
-* There Will Be Blood   (2007, P.T. Anderson, avec Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood)
-* 3:10 to Yuma (2007)
-* The Assassination of Jesse James by the Coward Robert Ford (2007)
-* Bone Tomahawk (2015)
-* Little Big Man (1970) (longuet)
 
 #### Spaghettis
 
