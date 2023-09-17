@@ -8,7 +8,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 
 * 💙 = film admis comme culte, à avoir vu au moins une fois
 * ❤️ = mes films préférés
-* 🎥 = film à l'esthétique très travaillé (🎥🎥 =  excellent cadrage en plus)
+* 🎥 = film à l'esthétique très travaillé
 * 🏆 = nominé aux Oscars
 * ✨ = nominé aux Césars
 * 🌿 = nominé à Cannes
