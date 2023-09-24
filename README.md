@@ -817,7 +817,7 @@ Pas aimé:
 
 * Tigre et Dragon (Ang Lee) 🎥 ❤️ 4🏆 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
 * Amores Perros (Alejandro Gonzalez Iñárritu) ❤️
-* In the Mood for Love (Wong Kar-wai)
+* In the Mood for Love (Wong Kar-wai) [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
 * Gladiator 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt)
@@ -1263,10 +1263,10 @@ Bof:
 * The Death of Stalin (Steve Buscemi) ❤️ #comédie-satirique
 * You Were Never Really Here (Joaquin Phoenix)
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
-* Ingrid Goes West
+* Ingrid Goes West (Aubrey Plaza)
+* I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu:
-    * https://www.rottentomatoes.com/m/i_tonya
     * https://www.rottentomatoes.com/m/my_days_of_mercy
     * https://www.rottentomatoes.com/m/the_square_2017
 
@@ -1340,7 +1340,6 @@ Cannes, pas vu:
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.rottentomatoes.com/m/a_hidden_life_2019
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
-* pas vu: https://www.rottentomatoes.com/m/the_death_of_dick_long (par les auteurs de Swiss Army Man)
 * pas vu: La odisea de los giles (Heroic Losers) (Argentine) https://www.rottentomatoes.com/m/heroic_losers
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1358,6 +1357,7 @@ bof:
 
 * Parasite
 * Once Upon a Time in Hollywood
+* The Death of Dick Long [🍅](https://www.rottentomatoes.com/m/the_death_of_dick_long)
 * Les Misérables
 * Liberté (Albert Serra) 🎥 🌿
 
@@ -1426,7 +1426,7 @@ bof:
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
-* Spirited (Ryan Reynolds)
+* Spirited (Ryan Reynolds, Will Ferrell) #film-de-noel
 * Official Competition (Espagne, Penélope Cruz, Antonio Banderas)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
@@ -1490,6 +1490,7 @@ bof:
     * fermer les yeux
     * strange way of life
     * quand les vagues se retirent
+    * passages
 
 Français:
 
