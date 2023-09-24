@@ -7,8 +7,8 @@ Cette liste regroupe tous les films qui m'ont particulièrement plu, pour une ra
 Pour chaque catégorie, les films sont classés par ordre de préférence (les meilleurs en premier), sauf quelques listes où ils sont classés par année de sortie.
 
 * 💙 = film admis comme culte, à avoir vu au moins une fois
-* ❤️ = pas forcément culte mais le mériterait d'après moi, original, à voir
-* 🎥 = film à l'esthétique très travaillé (🎥🎥 =  excellent cadrage en plus)
+* ❤️ = mes films préférés
+* 🎥 = film à l'esthétique très travaillé
 * 🏆 = nominé aux Oscars
 * ✨ = nominé aux Césars
 * 🌿 = nominé à Cannes
