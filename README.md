@@ -669,7 +669,8 @@ bof:
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* pas vu: https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php 4T 4✨
+* Les nuits fauves ❤️ [📰](https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php) 4✨
+    * > ❝ Vous avez de la chance d'être si facilement malheureux, alors qu'on peut le faire d'une manière tellement plus sophistiquée ❞
 * pas vu: https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php (Claude Sautet)
 
 
