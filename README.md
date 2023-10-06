@@ -1003,6 +1003,7 @@ Pas aimé:
   [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
   [🍅](https://www.rottentomatoes.com/m/two_lovers)
 * Zetwal ❤️
+* Tulpan (Kazakhstan) ❤️
 * Bons baisers de Bruges (Martin McDonagh, Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 * The Reader (Kate Winslet, Ralph Fiennes)
 * Okuribito (Départs, Japon) (winner 🏆)
@@ -1292,7 +1293,7 @@ bof:
 * Dunkirk (Christopher Nolan) #film-de-guerre
 * La Saveur des Ramens (Japon/Singapour)
 * The Favourite (Yórgos Lánthimos, Emma Stone)
-* La Ballade de Buster Scruggs
+* La Ballade de Buster Scruggs (frères Coen) #western
 * Bird Box (Sandra Bullock)
 * Bohemian Rhapsody (Rami Malek) 4🏆
 * Capernaum (Capharnaüm) (Liban) 🏆
@@ -1439,6 +1440,7 @@ bof:
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
 * War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
 * Fire Island [🍅](https://www.rottentomatoes.com/m/fire_island_2022) #romcom
+* L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
     * The Pale Blue Eye (Christian Bale)
@@ -1450,7 +1452,6 @@ bof:
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
     * https://www.rottentomatoes.com/m/fresh_2022
-    * L'Enfant, la Taupe, le Renard et le Cheval 🏆
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1492,12 +1493,13 @@ bof:
     * strange way of life
     * quand les vagues se retirent
     * passages
+    * https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php
 
 Français:
 
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Anatomie d'une chute (Justine Triet) 🌿 #film-de-procès
-* Les Trois Mousquetaires
+* Les Trois Mousquetaires #aventure
 
 
 
@@ -1802,6 +1804,7 @@ Mes préférés:
 * Marriage story
 * Breaking the waves
 * Kramer contre Kramer
+* Les Nuits Fauves
 
 
 [⬆️ retour sommaire](#sommaire)
