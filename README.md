@@ -328,6 +328,7 @@ Français:
 
 * Easy Rider (Dennis Hopper, Peter Fonda) [📰](https://www.telerama.fr/cinema/films/easy-rider,4721.php)
 * L'Armée des ombres (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/l-armee-des-ombres,14662.php) #ww2 : bof, longuet
+* pas vu: https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
 
 
 ### 1970
@@ -1071,6 +1072,7 @@ Pas aimé:
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
 * Buried
 * pas vu: L'Illusionniste
+* pas vu: Les Petits Mouchoirs (Guillaume Canet)
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1105,6 +1107,7 @@ Pas aimé:
 * Rapace (Grégory Gadebois)
 * The Deep Blue Sea (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
+* pas vu: https://www.telerama.fr/cinema/films/elena,428535.php
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1303,6 +1306,7 @@ bof:
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 * pas vu: https://www.rottentomatoes.com/m/the_wild_pear_tree (Nuri Bilge Ceylan)
+* pas vu: Le Grand Bain (Gilles Lellouche)
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 
@@ -1475,6 +1479,7 @@ bof:
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * Sick of Myself (Norvège)
 * Air (Matt Damon)
+* Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
 * Oppenheimer [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 * pas vu: https://www.rottentomatoes.com/m/il_boemo
@@ -1488,12 +1493,15 @@ bof:
 * pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * pas vu: la beauté du geste (Japon)
 * pas vu (tous TTT):
+    * https://www.telerama.fr/cinema/romain-duris-magnetique-dans-le-regne-animal-captivant-conte-politique_cri-7028864.php
     * la bête dans la jungle
     * fermer les yeux
     * strange way of life
     * quand les vagues se retirent
     * passages
     * https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php
+    * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
+    * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
 
 Français:
 
