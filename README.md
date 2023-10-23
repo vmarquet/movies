@@ -1072,7 +1072,6 @@ Pas aimé:
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
 * Buried
 * pas vu: L'Illusionniste
-* pas vu: Les Petits Mouchoirs (Guillaume Canet)
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1305,7 +1304,6 @@ bof:
 * Sorry to Bother You
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
-* pas vu: https://www.rottentomatoes.com/m/the_wild_pear_tree (Nuri Bilge Ceylan)
 * pas vu: Le Grand Bain (Gilles Lellouche)
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
@@ -1451,7 +1449,6 @@ bof:
     * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
-    * https://www.telerama.fr/cinema/films/la-montagne-1-215001753.php
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
@@ -1475,6 +1472,8 @@ bof:
 ### 2023
 
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
+* Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
+    * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * Sick of Myself (Norvège)
@@ -1488,8 +1487,6 @@ bof:
 * pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * pas vu: https://www.rottentomatoes.com/m/reality_2023
 * pas vu: https://www.rottentomatoes.com/m/a_haunting_in_venice (Kenneth Branagh)
-* pas vu: https://www.rottentomatoes.com/m/rye_lane
-* pas vu: https://www.rottentomatoes.com/m/past_lives
 * pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * pas vu: la beauté du geste (Japon)
 * pas vu (tous TTT):
