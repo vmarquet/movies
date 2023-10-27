@@ -247,6 +247,7 @@ Pas aimé:
 * Psychose (Alfred Hitchcock) 💙 #horreur
 * L'Île nue (Japon)
 * La Vérité (HG Clouzot) 🏆 #film-de-procès
+* pas vu: https://www.telerama.fr/cinema/films/plein-soleil,16625.php #thriller
 
 
 ### 1961
@@ -672,7 +673,7 @@ bof:
 
 * Les nuits fauves ❤️ [📰](https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php) 4✨
     * > ❝ Vous avez de la chance d'être si facilement malheureux, alors qu'on peut le faire d'une manière tellement plus sophistiquée ❞
-* pas vu: https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php (Claude Sautet)
+* Un Coeur en Hiver (Claude Sautet) [📰](https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php) : premier tiers top, puis sonne un peu faux
 
 
 ### 1993
@@ -1490,7 +1491,6 @@ bof:
 * pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * pas vu: la beauté du geste (Japon)
 * pas vu (tous TTT):
-    * https://www.telerama.fr/cinema/romain-duris-magnetique-dans-le-regne-animal-captivant-conte-politique_cri-7028864.php
     * la bête dans la jungle
     * fermer les yeux
     * strange way of life
@@ -1499,6 +1499,7 @@ bof:
     * https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
+* bog: Le Règne animal
 
 Français:
 
