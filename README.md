@@ -1263,6 +1263,7 @@ Bof:
 
 ### 2017
 
+* The Square (Ruben Östlund) [🍅](https://www.rottentomatoes.com/m/the_square_2017)
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
 * The Death of Stalin (Steve Buscemi) ❤️ #comédie-satirique
@@ -1271,9 +1272,7 @@ Bof:
 * Ingrid Goes West (Aubrey Plaza)
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Phantom Thread (Daniel Day-Lewis)
-* pas vu:
-    * https://www.rottentomatoes.com/m/my_days_of_mercy
-    * https://www.rottentomatoes.com/m/the_square_2017
+* pas vu: https://www.rottentomatoes.com/m/my_days_of_mercy
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1437,7 +1436,7 @@ bof:
 * Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
 * L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php)
 * The Whale (Darren Aronofsky, Brendan Fraser)
-* Triangle of Sadness [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php)
+* Triangle of Sadness (Ruben Östlund) [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
 * La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
@@ -1468,6 +1467,7 @@ bof:
     * En Corps (Klapisch) [📰](https://www.telerama.fr/cinema/films/en-corps-1-194593649.php)
     * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
     * Athena (Romain Gavras) : quelques plans iconiques pour un scénario très vide
+    * La Montagne
 
 
 ### 2023
@@ -1499,7 +1499,7 @@ bof:
     * https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
-* bog: Le Règne animal
+* bof: Le Règne animal
 
 Français:
 
