@@ -1132,7 +1132,7 @@ Pas aimé:
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
 * Antiviral (Brandon Cronenberg)
 * Ted [🍅](https://www.rottentomatoes.com/m/ted_2012) #romcom
-* Moonrise Kingdom
+* Moonrise Kingdom (Wes Anderson)
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
 * The Hunt (Danemark, Mads Mikkelsen)
 * Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence) #romcom
@@ -1200,6 +1200,7 @@ Bof:
 * pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
+* pas vu: https://www.rottentomatoes.com/m/force_majeure_2014 (Ruben Östlund)
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1263,7 +1264,7 @@ Bof:
 
 ### 2017
 
-* The Square (Ruben Östlund) [🍅](https://www.rottentomatoes.com/m/the_square_2017)
+* The Square (Ruben Östlund) [🍅](https://www.rottentomatoes.com/m/the_square_2017) 🌿
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
 * The Death of Stalin (Steve Buscemi) ❤️ #comédie-satirique
@@ -1493,13 +1494,12 @@ bof:
 * pas vu (tous TTT):
     * la bête dans la jungle
     * fermer les yeux
-    * strange way of life
     * quand les vagues se retirent
     * passages
     * https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
-* bof: Le Règne animal
+* bof: Le Règne animal, Strange Way of Life
 
 Français:
 
