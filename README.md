@@ -203,6 +203,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1953
 
 * Le Salaire de la peur (HG Clouzot) : début longuet
+* pas vu: https://www.rottentomatoes.com/m/roman_holiday
 
 ### 1954
 
@@ -339,6 +340,7 @@ Français:
 * MASH (Robert Altman) #film-de-guerre
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
 * Little Big Man (Arthur Penn, Dustin Hoffman) #western : longuet
+* pas vu: Peau d'âne
 
 
 ### 1971
@@ -620,6 +622,7 @@ bof:
 * La vie est un long fleuve tranquille
 * Itinéraire d’un enfant gâté (Claude Lelouch, Jean-Paul Belmondo) [📰](https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php)
     * > ❝ le bonheur c'est quand les emmerdes se reposent ❞
+* pas vu: Camille Claudel https://www.telerama.fr/cinema/films/camille-claudel,14774.php
 
 
 ### 1989
@@ -1476,6 +1479,7 @@ bof:
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
+* Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * Sick of Myself (Norvège)
@@ -1487,7 +1491,6 @@ bof:
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
 * pas vu: Napoléon (Ridley Scott)
 * pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
-* pas vu: https://www.rottentomatoes.com/m/reality_2023
 * pas vu: https://www.rottentomatoes.com/m/a_haunting_in_venice (Kenneth Branagh)
 * pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * pas vu: la beauté du geste (Japon)
