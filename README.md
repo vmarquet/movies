@@ -1492,13 +1492,14 @@ bof:
       > &emsp; – Scary stories make life less scary. ❞ 
 * Passages
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
+* bof: The Killer (David Fincher)
 * pas vu: https://www.rottentomatoes.com/m/il_boemo
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
 * pas vu: Napoléon (Ridley Scott)
 * pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * pas vu: la beauté du geste (Japon)
-* pas vu: https://www.rottentomatoes.com/m/the_killer_2023 (David Fincher)
+* pas vu: https://www.rottentomatoes.com/m/radical
 * pas vu (tous TTT):
     * la bête dans la jungle
     * fermer les yeux
