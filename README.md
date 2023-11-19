@@ -132,11 +132,14 @@ Bonus:
 * Le Nom de la Rose
 * Tigre et Dragon
 * Apocalypse Now
-* Inglorious Basterds
 * Lion
 * Nightcall
+* Aguirre, la Colère de Dieu
+* Inglorious Basterds
 * Le Sel de la Terre (docu)
+* Zétwal (docu)
 * Baraka (docu)
+* Scheme Birds (docu)
 
 
 ## Par année de sortie
@@ -358,7 +361,7 @@ Français:
 
 ### 1972
 
-* Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god)
+* Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god) [💡](https://www.youtube.com/watch?v=8mpgg_IsWhs)
 * Le Parrain (FF Coppola) 🎥 ❤️
 * César et Rosalie (Claude Sautet) ❤️
 * Délivrance ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance) #thriller
