@@ -625,7 +625,7 @@ bof:
 * L'Ours (JJ Annaud)
 * La vie est un long fleuve tranquille
 * Itinéraire d’un enfant gâté (Claude Lelouch, Jean-Paul Belmondo) [📰](https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php)
-    * > ❝ le bonheur c'est quand les emmerdes se reposent ❞
+    * > ❝ Le bonheur c'est quand les emmerdes se reposent ❞
 * pas vu: Camille Claudel https://www.telerama.fr/cinema/films/camille-claudel,14774.php
 
 
@@ -707,6 +707,7 @@ bof:
 ### 1994
 
 * Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express)
+    * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
     * > Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. [source](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
 * La Cité de la peur ❤️
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
