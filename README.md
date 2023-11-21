@@ -636,6 +636,7 @@ bof:
 * Sex, Lies and Videotape (Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
 * Mystery Train (Jim Jarmusch)
 * Le Cercle des poètes disparus (Peter Weir)
+* Do the right thing (Spike Lee)
 
 
 ### 1990
@@ -710,6 +711,7 @@ bof:
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
     * > Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. [💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
 * La Cité de la peur ❤️
+* Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comedie
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
 * pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
@@ -792,6 +794,7 @@ Pas aimé:
 
 [Oscars 71](https://fr.wikipedia.org/wiki/71e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* The Big Lebowski (frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski)
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham)
 * Kirikou et la Sorcière #famille
@@ -900,7 +903,7 @@ Pas aimé:
 
 ### 2004
 
-* Lost in Translation (Sofia Coppola) ❤️
+* Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
 * Eternal Sunshine of the Spotless Mind (Michel Gondry) ❤️
 * Kill Bill
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
@@ -933,6 +936,7 @@ Pas aimé:
 * Sin City (Franck Miller, Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/sin_city) #policier
 * Broken Flowers (Jim Jarmusch)
 * The Constant Gardener (Ralph Fiennes)
+* Le Tigre et la Neige (Roberto Benigni)
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Million Dollar Baby (Clint Eastwood)
 * Capote
@@ -964,7 +968,7 @@ Pas aimé:
 * Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
 * Le Dernier Roi d'Ecosse (Forest Whitaker) [🍅](https://www.rottentomatoes.com/m/last_king_of_scotland)
 * This is England
-* Thank You for Smoking
+* Thank You for Smoking (Jason Reitman)
 * The Devil Wears Prada
 * Fanaa (Bollywood)
 * Blood Diamond
@@ -985,6 +989,7 @@ Pas aimé:
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_2007#S%C3%A9lection_officielle)
 
 * The Darjeeling Limited (Wes Anderson) ❤️
+* Juno (Jason Reitman) [🍅](https://www.rottentomatoes.com/m/juno) 🏆 #coming-of-age
 * There Will Be Blood (P.T. Anderson, Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
@@ -1083,6 +1088,7 @@ Pas aimé:
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
 * Buried
+* Up in the Air (Jason Reitman, George Clooney)
 * pas vu: L'Illusionniste
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1265,7 +1271,7 @@ Bof:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
-* pas vu: Manchester by the Sea
+* bof: Moonlight, Manchester by the Sea
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1541,20 +1547,11 @@ Français:
 
 ### Comédies
 
-* The Darjeeling Limited
-* Lost in Translation  (2003, Sofia Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
-* Juno  [🍅](https://www.rottentomatoes.com/m/juno)
-* The Big Lebowski   (et autres des frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski)
-* Clerks, les employés modèles  (1994) 💙 [🍅](https://www.rottentomatoes.com/m/clerks)
 * Kiss Kiss Bang Bang  [🍅](https://www.rottentomatoes.com/m/kiss_kiss_bang_bang)
-* Thank You for Smoking (avec Aaron Eckhart)
 * Kaboom  (2010, Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php)
 * Vampires en toute Intimité (What we do in the Shadows) (2014) ❤️
 * Shaun of the Dead (2004)
 * Zombieland  (2009) [🍅](https://www.rottentomatoes.com/m/zombieland)
-* Le Tigre et la Neige (2005, Roberto Benigni)
-* Do the right thing (1989)
-* Starbuck (2011)
 * Rush Hour 2 (2001)
 * The 40 year old virgin (2005)
 
