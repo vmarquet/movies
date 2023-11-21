@@ -707,17 +707,20 @@ bof:
 
 ### 1994
 
+[Oscars 67](https://fr.wikipedia.org/wiki/67e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
     * > Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. [💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
-* La Cité de la peur ❤️
 * Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comedie
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
+* bof: Forrest Gump, The Shawshank Redemption
 * pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
+* La Cité de la peur ❤️
 * Léon
 * pas vu: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * pas vu: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
@@ -726,13 +729,15 @@ bof:
 
 ### 1995
 
-* The Bridges of Madison County (Clint Eastwood) ❤️
+[Oscars 68](https://fr.wikipedia.org/wiki/68e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
+* The Bridges of Madison County (Clint Eastwood, Meryl Streep) ❤️
 * Usual Suspects (Kevin Spacey) #thriller
 * Seven (David Fincher) #thriller
 * Heat (Michael Mann, Al Pacino) #policier
 * Dead Man (Jim Jarmusch)
 * 12 Monkeys (Terry Gilliam) #sf
-* Braveheart (Mel Gibson)
+* Braveheart (Mel Gibson) 🏆
 * Leaving Las Vegas
 * Smoke (Harvey Keitel) 🧸
 * Before Sunrise
@@ -1106,7 +1111,7 @@ Pas aimé:
 
 * Il était une fois en Anatolie (Nuri Bilge Ceylan) 🌿
 * Midnight in Paris (Woody Allen) 🎥
-* Drive ❤️
+* Drive (Nicolas Winding Refn, Ryan Gosling) ❤️
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥 🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
 * The Tree of Life (Terrence Malick)
