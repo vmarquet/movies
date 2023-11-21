@@ -708,7 +708,7 @@ bof:
 
 * Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
-    * > Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. [source](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
+    * > Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. [💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
 * La Cité de la peur ❤️
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
@@ -888,6 +888,7 @@ Pas aimé:
 * Le mystère de la chambre jaune (Bruno Podalydès)
 * Le Monde de Nemo (Pixar)
 * Memories of Murder (Corée) [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
+* Save the Green Planet! (Corée) : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
