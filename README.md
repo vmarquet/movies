@@ -913,7 +913,7 @@ Pas aimé:
 * Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Kingdom of Heaven (Ridley Scott)
-* pas vu: https://www.rottentomatoes.com/m/1144992-crash 🏆
+* Crash [🍅]( https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * RRRrrrr!!!
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
