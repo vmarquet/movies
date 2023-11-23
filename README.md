@@ -674,7 +674,7 @@ bof:
 [Oscars 65](https://fr.wikipedia.org/wiki/65e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Singles
-* Basic Instinct
+* Basic Instinct (Paul Verhoeven)
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -778,7 +778,7 @@ Pas aimé:
 
 * Titanic 💙 11🏆
 * Contact (Jodie Foster) 💙
-* The Fifth Element (Luc Besson)
+* The Fifth Element (Luc Besson) #sf
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
@@ -787,8 +787,8 @@ Pas aimé:
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 * pas vu: https://www.rottentomatoes.com/m/children_of_heaven
-* pas vu: https://www.rottentomatoes.com/m/in_the_company_of_men
 * pas vu: https://www.rottentomatoes.com/m/donnie_brasco
+* bof: In the Company of Men
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -910,7 +910,8 @@ Pas aimé:
 
 * Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
 * Eternal Sunshine of the Spotless Mind (Michel Gondry) ❤️
-* Kill Bill
+* 2046 (Wong Kar-wai) ❤️
+* Kill Bill (Tarentino)
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar)
 * Mystic River (Clint Eastwood)
@@ -1220,7 +1221,7 @@ Bof:
 * Creep
 * Still Alice
 * Snow Therapy (Force Majeure) (France/Suède) (Ruben Östlund) [🍅](https://www.rottentomatoes.com/m/force_majeure_2014)
-* pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php
+* pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php (Russie)
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
 
@@ -1510,8 +1511,7 @@ bof:
       > &emsp; – Scary stories make life less scary. ❞ 
 * Passages
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: The Killer (David Fincher)
-* pas vu: https://www.rottentomatoes.com/m/il_boemo
+* bof: The Killer (David Fincher), Strange Way of Life (Almodovar), Il Boemo
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
 * pas vu: Napoléon (Ridley Scott)
 * pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
@@ -1525,13 +1525,13 @@ bof:
     * https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
-* bof: Le Règne animal, Strange Way of Life
 
 Français:
 
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Anatomie d'une chute (Justine Triet) 🌿 #film-de-procès
 * Les Trois Mousquetaires #aventure
+* bof: Le Règne animal (Romain Duris)
 
 
 
