@@ -763,8 +763,13 @@ Pas aimé:
 * The English Patient ❤️ 9🏆
 * Trainspotting
 * Breaking the Waves (Lars von Trier)
+* Primal Fear [🍅](https://www.rottentomatoes.com/m/1070992-primal_fear) #thriller
+    * > ❝ I haven't seen this many lawyers and politicians gathered in one place since confession this morning. ❞
+    * > ❝ – Your job is just to sit there and look innocent.  
+      > &emsp; – Well, I am innocent.  
+      > &emsp; – That's it, that's exactly how I want you to look! ❞ 
+    * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
 * Lone Star [🍅](https://www.rottentomatoes.com/m/1074022-lone_star) #neowestern
-* pas vu: https://www.rottentomatoes.com/m/1070992-primal_fear
 
 [Césars 22](https://fr.wikipedia.org/wiki/22e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1193,6 +1198,7 @@ Pas aimé:
 * The Lunchbox (Inde)
 * Tangerines (Géorgie)
 * pas vu: https://www.rottentomatoes.com/m/new_world (Corée)
+* pas vu: L'Écume des jours (Michel Gondry)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
