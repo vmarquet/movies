@@ -542,8 +542,8 @@ Français:
 * The Hit (Stephen Frears, Tim Roth)
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
+* The Killing Fields [🍅](https://www.rottentomatoes.com/m/killing_fields)
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
-* pas vu: https://www.rottentomatoes.com/m/killing_fields
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -661,7 +661,7 @@ bof:
 * Danse avec les Loups (Kevin Costner) 🎥 7🏆 (meilleur film) [🍅](https://www.rottentomatoes.com/m/dances_with_wolves) #western
 * Thelma & Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
 * Dead Again (Kenneth Brannagh)
-* pas vu: https://www.rottentomatoes.com/m/what_about_bob
+* bof: What about Bob
 
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
