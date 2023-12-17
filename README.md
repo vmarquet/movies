@@ -196,7 +196,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1949
 
-* pas vu: The third man (Orson Welles) [🍅](https://www.rottentomatoes.com/m/the_third_man)
+* The third man (Orson Welles) 🎥 [🍅](https://www.rottentomatoes.com/m/the_third_man) : esthétique superbe mais intrigue triviale
 
 ### 1951
 
@@ -829,6 +829,7 @@ Pas aimé:
 * Todo sobre my madre (Pedro Almodóvar) 🇪🇸
 * Matrix #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
+* pas vu: The Insider https://www.rottentomatoes.com/m/insider
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1472,6 +1473,7 @@ bof:
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
 * War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
 * Fire Island [🍅](https://www.rottentomatoes.com/m/fire_island_2022) #romcom
+* Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
@@ -1482,7 +1484,6 @@ bof:
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till, the quiet girl
-    * https://www.rottentomatoes.com/m/fresh_2022
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
