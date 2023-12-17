@@ -80,6 +80,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * [Now You See It](https://www.youtube.com/c/NowYouSeeIt/videos)
 * [Every Frame a Painting](https://www.youtube.com/c/everyframeapainting/videos)
 * [The Closer Look](https://www.youtube.com/c/TheCloserLook/videos)
+* [La chronique de Thomas Bidegain - France Inter](https://www.youtube.com/watch?v=JDaK6vHlGWk&list=PL43OynbWaTMKQkvk6IBpR6Ux74MGOYSM5&index=2)
 * [Kombini video club](https://www.youtube.com/results?search_query=konbini+video+club)
 * [Le Fossoyeur de Films](https://www.youtube.com/user/deadwattsofficiel/videos)
 </details>
@@ -1193,12 +1194,12 @@ Pas aimé:
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai)
 * Dallas Buyers Club (Matthew McConaughey)
+* New World (Corée) [🍅](https://www.rottentomatoes.com/m/new_world) #thriller
 * All is Lost (?)
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox (Inde)
 * Tangerines (Géorgie)
-* pas vu: https://www.rottentomatoes.com/m/new_world (Corée)
 * pas vu: L'Écume des jours (Michel Gondry)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1526,10 +1527,8 @@ bof:
 * pas vu: la beauté du geste (Japon)
 * pas vu: https://www.rottentomatoes.com/m/radical
 * pas vu (tous TTT):
-    * la bête dans la jungle
     * fermer les yeux
     * quand les vagues se retirent
-    * https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
 
@@ -1538,6 +1537,7 @@ Français:
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Anatomie d'une chute (Justine Triet) 🌿 #film-de-procès
 * Les Trois Mousquetaires #aventure
+* La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
 * bof: Le Règne animal (Romain Duris)
 
 
