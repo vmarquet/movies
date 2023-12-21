@@ -1193,14 +1193,14 @@ Pas aimé:
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai)
-* Dallas Buyers Club (Matthew McConaughey)
+* L'Écume des jours (Michel Gondry)
 * New World (Corée) [🍅](https://www.rottentomatoes.com/m/new_world) #thriller
+* Dallas Buyers Club (Matthew McConaughey)
 * All is Lost (?)
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox (Inde)
 * Tangerines (Géorgie)
-* pas vu: L'Écume des jours (Michel Gondry)
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1531,6 +1531,7 @@ bof:
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
+    * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php
 
 Français:
 
@@ -1852,7 +1853,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
     * Witness, Dead Poets Society, Etat Second
 * [Francis Ford Coppola](https://www.rottentomatoes.com/celebrity/francis_ford_coppola)
 * [Terry Gilliam](https://www.rottentomatoes.com/celebrity/terry_gilliam)
-* [Clint Eastwood](https://www.rottentomatoes.com/celebrity/clint_eastwood)
+* [Clint Eastwood](https://www.rottentomatoes.com/celebrity/clint_eastwood) [📰](https://www.telerama.fr/cinema/on-a-classe-les-films-de-clint-eastwood,-du-nanar-au-chef-doeuvre,n6605076.php)
 * [Roman Polanski](https://www.rottentomatoes.com/celebrity/roman_polaski)
 * [Martin Scorsese](https://www.rottentomatoes.com/celebrity/martin_scorsese)
 * [Darren Aronofsky](https://www.rottentomatoes.com/celebrity/darren_aronofsky)
