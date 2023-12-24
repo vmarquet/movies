@@ -1363,6 +1363,7 @@ Cannes, pas vu:
 
 ### 2019
 
+* Scheme Birds (documentaire) ❤️
 * The Lighthouse (Willem Dafoe, Robert Pattinson) 🎥 ❤️
 * 1917 (Sam Mendes) 🎥 #film-de-guerre
 * Joker (Joaquin Phoenix) ❤️
@@ -1370,7 +1371,6 @@ Cannes, pas vu:
 * Marriage Story (Scarlett Johansson, Adam Driver)
 * Ad Astra (James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra) #sf
 * Le Roi (Timothée Chalamet)
-* Scheme Birds (documentaire) ❤️
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * The Two Popes
 * Dark Waters (Mark Ruffalo)
@@ -1392,8 +1392,8 @@ Cannes, pas vu:
 
 bof:
 
-* Parasite
-* Once Upon a Time in Hollywood
+* Parasite (Corée, Bong Joon-ho) 4🏆 🌿
+* Once Upon a Time in Hollywood (Tarentino)
 * The Death of Dick Long [🍅](https://www.rottentomatoes.com/m/the_death_of_dick_long)
 * Les Misérables
 * Liberté (Albert Serra) 🎥 🌿
@@ -1403,9 +1403,11 @@ bof:
 
 ### 2020
 
+[Oscars 93](https://fr.wikipedia.org/wiki/93e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+
 * Une vie démente (Belgique, 7 Magritte) ❤️ [📰](https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php)
 * La plataforma (Espagne) ❤️ #sf
-* Drunk (Danemark, Mads Mikkelsen) 🍷
+* Drunk (Danemark, Mads Mikkelsen) 🍷 🏆
 * L'Homme Invisible (avec Elisabeth Moss)
 * Mandibules (Quentin Dupieux) 🤘
 * The Father (Anthony Hopkins)
@@ -1478,6 +1480,7 @@ bof:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
+    * Everything Everywhere All at Once
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
     * The Pale Blue Eye (Christian Bale)
     * The Menu (Ralph Fiennes)
@@ -1505,10 +1508,13 @@ bof:
 
 ### 2023
 
-* Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
+[Rotten Tomatoes – Top Movies of 2023](https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/)
+
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
 * The Holdovers ❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
+    * ❝ Beautifully bittersweet... thought-provoking dramedy... dialogue-driven movie... ❞ 🍅
+* Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
@@ -1519,17 +1525,18 @@ bof:
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
-* Passages
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: The Killer (David Fincher), Strange Way of Life (Almodovar), Il Boemo
+* bof: Passages, The Killer (David Fincher), Strange Way of Life (Almodovar), Il Boemo
+* pas vu: https://www.rottentomatoes.com/m/poor_things (Yórgos Lánthimos)
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
 * pas vu: Napoléon (Ridley Scott)
 * pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * pas vu: la beauté du geste (Japon)
 * pas vu: https://www.rottentomatoes.com/m/radical
-* pas vu: https://www.rottentomatoes.com/m/poor_things
 * pas vu: https://www.rottentomatoes.com/m/all_of_us_strangers
+* pas vu: https://www.rottentomatoes.com/m/society_of_the_snow
+* pas vu: https://www.rottentomatoes.com/m/saltburn
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
