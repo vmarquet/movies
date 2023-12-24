@@ -721,6 +721,18 @@ bof:
 * Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comedie
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
+* Quiz Show (Robert Redford, John Turturro) #film-à-énigme : witty dialogue-driven movie
+    *   <details>
+        <summary>répliques:</summary>
+        <pre>
+        * > ❝ You want to be worshipped? Go to India and moo! ❞
+        * > ❝ - Why aren't you dressed?  
+          > &emsp; - The child has to learn the depths that humanity can sink to.  
+          > &emsp; - You're gonna give him your ulcer. Let him grow up with his own ulcer ❞
+        * > ❝ He wouldn't know the answer to a doorbell if you didn't give it to him! ❞
+        * > ❝ If you're at a table and you don't know who the sucker is, it's you. ❞ (talking about poker)
+        </pre>
+        </details>
 * bof: Forrest Gump, The Shawshank Redemption
 * pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 
@@ -1220,12 +1232,11 @@ Pas aimé:
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox (Inde)
 * Tangerines (Géorgie)
+* bof: Nosotros los Nobles (Mexique), The Best Offer
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-Bof:
-
-* Nosotros los Nobles (Mexique)
+* bof: Quai d'Orsay (Bertrand Tavernier), La vie d'Adèle, L'inconnu du lac, Jimmy P., La Vénus à la fourrure
 
 
 ### 2014
