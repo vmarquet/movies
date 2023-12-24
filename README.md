@@ -663,6 +663,7 @@ bof:
 
 * Danse avec les Loups (Kevin Costner) 🎥 7🏆 (meilleur film) [🍅](https://www.rottentomatoes.com/m/dances_with_wolves) #western
 * Thelma & Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
+* Barton Fink (frères Coen)
 * Dead Again (Kenneth Brannagh)
 * bof: What about Bob
 
@@ -871,6 +872,7 @@ Pas aimé:
 * Lord of the Rings
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
+* The Barber (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
 * pas vu: A Beautiful Mind 🏆
 
@@ -1868,6 +1870,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Terrence Malick](https://www.rottentomatoes.com/celebrity/terrence_malick)
 * [David Lynch](https://www.rottentomatoes.com/celebrity/david_lynch)
 * [Ridley Scott](https://www.rottentomatoes.com/celebrity/ridley_scott)
+* [Frères Coen](https://www.rottentomatoes.com/celebrity/joel_coen)
 * [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
 * [David Cronenberg](https://www.rottentomatoes.com/celebrity/david_cronenberg)
 * [David Fincher](https://www.rottentomatoes.com/celebrity/david_fincher)
@@ -1901,13 +1904,6 @@ Japonais:
 * [Akira Kurosawa](https://www.rottentomatoes.com/celebrity/akirakurosawa)
 * [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
 
-
-### [Frères Coen](https://www.rottentomatoes.com/celebrity/joel_coen)
-
-* The Big Lebowski
-* The Barber
-* No Country For Old Men
-* Barton Fink
 
 ### [Tim Burton](https://www.rottentomatoes.com/celebrity/tim_burton)
 
