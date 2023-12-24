@@ -887,12 +887,12 @@ Pas aimé:
 
 ### 2002
 
-* Le Voyage de Chihiro
+* Le Voyage de Chihiro (Hayao Miyazaki)
 * L'Homme sans passé (Kaurismäki)
 * La Cité de Dieu (Brésil)
 * Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
 * The Bourne Identity (Matt Damon) #thriller
-* Gangs of New York (Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
+* Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
 * pas vu: Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1499,15 +1499,13 @@ bof:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once
+    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
-    * The Pale Blue Eye (Christian Bale)
-    * The Menu (Ralph Fiennes)
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
-        * no bears, happening, girl picture, till, the quiet girl
+        * no bears, happening, girl picture, till
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1541,6 +1539,7 @@ bof:
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
 * Oppenheimer [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
+* The Boy and the Heron (Hayao Miyazaki) : intrigue décousue
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
