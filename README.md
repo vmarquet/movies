@@ -339,7 +339,7 @@ Français:
 
 ### 1970
 
-* Deep End 🎥 🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
+* Deep End 🎥🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
 * Le Cercle rouge (Jean-Pierre Melville) #policier
 * MASH (Robert Altman) #film-de-guerre
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
@@ -677,6 +677,7 @@ bof:
 [Oscars 65](https://fr.wikipedia.org/wiki/65e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Singles
+* Reservoir Dogs (Tarentino)
 * Basic Instinct (Paul Verhoeven)
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
 
@@ -712,6 +713,7 @@ bof:
 
 [Oscars 67](https://fr.wikipedia.org/wiki/67e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Pulp Fiction (Tarentino) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
 * Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
     * > Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. [💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
@@ -1015,6 +1017,7 @@ Pas aimé:
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men (frères Coen) ❤️ 🏆
+* Boulevard de la Mort (Death Proof) (Tarentino)
 * Zodiac (David Fincher) #thriller
 * Gone Baby Gone (Ben Affleck)
 * Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes) #sf
@@ -1073,6 +1076,7 @@ Pas aimé:
 ### 2009
 
 * Bright Star (Jane Campion) 🎥 ❤️
+* Inglorious Basterds (Tarentino) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
 * Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Whatever Works (Woody Allen)
@@ -1867,6 +1871,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
 * [David Cronenberg](https://www.rottentomatoes.com/celebrity/david_cronenberg)
 * [David Fincher](https://www.rottentomatoes.com/celebrity/david_fincher)
+* [Quentin Tarentino](https://www.rottentomatoes.com/celebrity/quentin_tarantino)
 * [Jim Jarmusch](https://www.rottentomatoes.com/celebrity/jim_jarmusch)
 * [Pedro Almodovar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
 * Robert Rodriguez
@@ -1917,15 +1922,6 @@ Japonais:
 * La Cité Interdite
 * Le Secret des Poignards Volants
 * pas vu: https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php
-
-### [Tarentino](https://www.rottentomatoes.com/celebrity/quentin_tarantino)
-
-* Inglorious Basterds 🎥 [🍅](https://www.rottentomatoes.com/m/inglourious_basterds) ❤️
-* Pulp Fiction (1994) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
-* Les Huit Salopards ❤️
-* Kill Bill
-* Reservoir Dogs
-* Boulevard de la Mort (Death Proof)
 
 
 
