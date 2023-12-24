@@ -931,6 +931,7 @@ Pas aimé:
 * Kingdom of Heaven (Ridley Scott)
 * Crash [🍅]( https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * RRRrrrr!!!
+* pas vu: https://www.rottentomatoes.com/m/sideways
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1373,8 +1374,8 @@ Cannes, pas vu:
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * The Two Popes
 * Dark Waters (Mark Ruffalo)
+* A Hidden Life (Terrence Malick) 🎥 [🍅](https://www.rottentomatoes.com/m/a_hidden_life_2019) : bien mais longuet
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
-* pas vu: https://www.rottentomatoes.com/m/a_hidden_life_2019
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * pas vu: La odisea de los giles (Heroic Losers) (Argentine) https://www.rottentomatoes.com/m/heroic_losers
 
@@ -1507,6 +1508,7 @@ bof:
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
+* The Holdovers ❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
@@ -1526,6 +1528,8 @@ bof:
 * pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * pas vu: la beauté du geste (Japon)
 * pas vu: https://www.rottentomatoes.com/m/radical
+* pas vu: https://www.rottentomatoes.com/m/poor_things
+* pas vu: https://www.rottentomatoes.com/m/all_of_us_strangers
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
