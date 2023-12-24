@@ -787,6 +787,7 @@ Pas aimé:
 * The Fifth Element (Luc Besson) #sf
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
+* L.A. Confidential (Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) #film-de-procès : esthétique bof mais scénario+
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
@@ -851,6 +852,7 @@ Pas aimé:
 * Dancer in the Dark (Lars von Trier)
 * Battle Royale (Japon)
 * Billy Elliot
+* Aniki mon Frère (Takeshi Kitano) #policier
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -865,6 +867,7 @@ Pas aimé:
 * Lord of the Rings
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
+* The Pledge (Sean Penn, Jack Nicholson) #thriller
 * pas vu: A Beautiful Mind 🏆
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -880,6 +883,7 @@ Pas aimé:
 * Le Voyage de Chihiro
 * L'Homme sans passé (Kaurismäki)
 * La Cité de Dieu (Brésil)
+* Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
 * pas vu: Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
@@ -921,13 +925,14 @@ Pas aimé:
 * Kill Bill (Tarentino)
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar)
-* Mystic River (Clint Eastwood)
+* Mystic River (Clint Eastwood, Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river) #thriller
 * OldBoy (Corée) [🍅](https://www.rottentomatoes.com/m/oldboy)
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal)
 * Crazy Kung-Fu (Stephen Chow)
 * Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
+* Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
 * Crash [🍅]( https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * RRRrrrr!!!
@@ -1007,8 +1012,9 @@ Pas aimé:
 * There Will Be Blood (P.T. Anderson, Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
-* No Country for Old Men ❤️ 🏆
-* Gone Baby Gone
+* No Country for Old Men (frères Coen) ❤️ 🏆
+* Zodiac (David Fincher) #thriller
+* Gone Baby Gone (Ben Affleck)
 * Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes) #sf
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
@@ -1460,7 +1466,7 @@ bof:
 
 ### 2022
 
-* Le otto montagne ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
+* Le otto montagne (Italie) ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
@@ -1608,15 +1614,6 @@ Français:
 
 
 ### Policier/Thriller
-
-* Zodiac (David Fincher)
-* L.A. Confidential  (avec Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
-* Mystic River  (2003, Clint Eastwood, avec Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river)
-* Collateral (Michael Mann)
-* Insomnia  (Christopher Nolan, avec Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia)
-* The Pledge (Sean Penn, avec Jack Nicholson)
-* Aniki mon Frère (et autres de Takeshi Kitano)
-
 
 #### Thrillers policiers + amoureux
 
