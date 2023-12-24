@@ -509,6 +509,7 @@ Français:
 * Das Boot (Allemagne) ❤️ (6 nominations 🏆)
 * Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
 * Gandhi (Richard Attenborough) 🏆
+* Body Heat #thriller-erotique
 * The Thing (John Carpenter)
 * The Draughtsman's Contract [🍅](https://www.rottentomatoes.com/m/draughtsmans_contract)
 * Tootsie (Sydney Pollack, Dustin Hoffman) [🍅](https://www.rottentomatoes.com/m/tootsie) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
@@ -637,6 +638,7 @@ bof:
 * Sex, Lies and Videotape (Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
 * Mystery Train (Jim Jarmusch)
 * Le Cercle des poètes disparus (Peter Weir)
+* Sea of Love (Al Pacino) #thriller-erotique
 * Do the right thing (Spike Lee)
 
 
@@ -1613,12 +1615,6 @@ Français:
 * From Dusk till Dawn (1996, Robert Rodriguez, avec Harvey Keitel)
 
 
-### Policier/Thriller
-
-#### Thrillers policiers + amoureux
-
-* Body Heat (1982)
-* Sea of Love (1989)
 
 ### Bon scénario/Twist
 
