@@ -1088,7 +1088,6 @@ Pas aimé:
 * Le Ruban blanc (Michael Haneke) 🌿
 * Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
 * Fish Tank
-* Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * An Education (Carey Mulligan)
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
@@ -1096,9 +1095,11 @@ Pas aimé:
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
+* Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * A l'origine (François Cluzet)
 * Le Concert (Radu Mihaileanu) #comédie : bof
 * Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php) : bof
+* bof: Un Prophète (Jacques Audiard)
 * pas vu: Welcome
 
 
@@ -1281,6 +1282,7 @@ Bof:
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * La Loi du Marché : bien aimé mais pas inoubliable
+* bof: Dheepan (Jacques Audiard)
 
 
 ### 2016
@@ -1369,7 +1371,7 @@ bof:
 bof:
 
 * A Star Is Born
-* Call Me by Your Name
+* Call Me by Your Name (Timothée Chalamet)
 * Manta Ray
 * Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
 
@@ -1428,7 +1430,7 @@ bof:
 * L'Homme Invisible (avec Elisabeth Moss)
 * Mandibules (Quentin Dupieux) 🤘
 * The Father (Anthony Hopkins)
-* Riders of Justice (Retfærdighedens ryttere, Danemark, Mads Mikkelsen)
+* Riders of Justice (Retfærdighedens ryttere) (Danemark, Mads Mikkelsen) #thriller
 * Palm Springs (Andy Samberg) #romcom
 * Possessor (Brandon Cronenberg) ☀️
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
@@ -1455,8 +1457,8 @@ bof:
 
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
-* King Richard (Will Smith, biopic Venus Williams) ❤️
-* Don't Look Up (Déni Cosmique) (Comédie, Jennifer Lawrence, Leonardo DiCaprio)
+* King Richard (Will Smith) ❤️ : biopic Venus Williams
+* Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comedie
 * Annette (Leos Carax, Adam Driver)
 * Jai Bhim (India) [🍅](https://www.rottentomatoes.com/m/jai_bhim)
 * Judas and the Black Messiah
