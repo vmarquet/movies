@@ -646,7 +646,7 @@ bof:
 
 [Oscars 63](https://fr.wikipedia.org/wiki/63e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Edward aux mains d'argent (Tim Burton, Johnny Depp) #fantastique
+* Edward aux mains d'argent (Tim Burton, Johnny Depp) ❤️ #fantastique
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * King of New York (Abel Ferrara, Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york) #policier : le meilleur rôle de Christopher Walken
 * Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
@@ -833,6 +833,7 @@ Pas aimé:
   [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
   [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
+* Sleepy Hollow (Tim Burton)
 * Todo sobre my madre (Pedro Almodóvar) 🇪🇸
 * Matrix #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
@@ -954,6 +955,7 @@ Pas aimé:
 ### 2005
 
 * The New World (Terrence Malick, Christian Bale, Colin Farrell) 🎥 ❤️
+* Les Noces funèbres (Tim Burton) ❤️
 * Trois Enterrements (Tommy Lee Jones) 🌿 [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada) #neowestern
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
@@ -1016,6 +1018,7 @@ Pas aimé:
 * The Darjeeling Limited (Wes Anderson) ❤️
 * Juno (Jason Reitman) [🍅](https://www.rottentomatoes.com/m/juno) 🏆 #coming-of-age
 * There Will Be Blood (P.T. Anderson, Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
+* Sweeney Todd (Tim Burton) ❤️
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men (frères Coen) ❤️ 🏆
@@ -1870,6 +1873,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Terrence Malick](https://www.rottentomatoes.com/celebrity/terrence_malick)
 * [David Lynch](https://www.rottentomatoes.com/celebrity/david_lynch)
 * [Ridley Scott](https://www.rottentomatoes.com/celebrity/ridley_scott)
+* [Tim Burton](https://www.rottentomatoes.com/celebrity/tim_burton)
 * [Frères Coen](https://www.rottentomatoes.com/celebrity/joel_coen)
 * [Steven Soderbergh](https://www.rottentomatoes.com/celebrity/steven_soderbergh)
 * [David Cronenberg](https://www.rottentomatoes.com/celebrity/david_cronenberg)
@@ -1904,13 +1908,6 @@ Japonais:
 * [Akira Kurosawa](https://www.rottentomatoes.com/celebrity/akirakurosawa)
 * [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
 
-
-### [Tim Burton](https://www.rottentomatoes.com/celebrity/tim_burton)
-
-* Sweeney Todd ❤️
-* Edward aux mains d'argent ❤️
-* Les Noces funèbres ❤️
-* Sleepy Hollow
 
 ### [Zhang Yimou](https://www.rottentomatoes.com/celebrity/zhang_yimou) (arts-martiaux chinois)
 
