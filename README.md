@@ -776,6 +776,7 @@ Pas aimé:
 * The English Patient ❤️ 9🏆
 * Trainspotting
 * Breaking the Waves (Lars von Trier)
+* From Dusk till Dawn (Robert Rodriguez, Harvey Keitel)
 * Primal Fear [🍅](https://www.rottentomatoes.com/m/1070992-primal_fear) #thriller
     * > ❝ I haven't seen this many lawyers and politicians gathered in one place since confession this morning. ❞
     * > ❝ – Your job is just to sit there and look innocent.  
@@ -803,6 +804,7 @@ Pas aimé:
 * L.A. Confidential (Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) #film-de-procès : esthétique bof mais scénario+
+* Perdita Durango (Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
@@ -1134,6 +1136,7 @@ Pas aimé:
 * Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
 * The King's Speech (Le Discours d'un roi)
 * 127 Hours (Danny Boyle, James Franco)
+* Machete (Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/machete)
 * Tucker and Dale vs Evil
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
@@ -1625,14 +1628,6 @@ Français:
 
 
 ![](images/affiches/lost.jpg)
-
-
-
-### Parodique/second degré
-
-* Machete  (2010, Robert Rodriguez) ❤️ [🍅](https://www.rottentomatoes.com/m/machete)
-* Perdita Durango   (1997, avec Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
-* From Dusk till Dawn (1996, Robert Rodriguez, avec Harvey Keitel)
 
 
 
