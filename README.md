@@ -739,6 +739,7 @@ bof:
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * La Cité de la peur ❤️
+* Le Péril jeune (Cédric Klapisch)
 * Léon
 * pas vu: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * pas vu: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
@@ -914,6 +915,7 @@ Pas aimé:
 * L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
 * Monsieur Batignole (Gérard Jugnot)
+* bof: Irréversible (Gaspard Noé)
 
 
 ### 2003
@@ -1566,6 +1568,7 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/all_of_us_strangers
 * pas vu: https://www.rottentomatoes.com/m/society_of_the_snow
 * pas vu: https://www.rottentomatoes.com/m/saltburn
+* pas vu: Vampire humaniste cherche suicidaire consentant
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
