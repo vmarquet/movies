@@ -122,7 +122,7 @@ Bonus:
 * Hateful Eight (Tarentino)
 * Fight Club
 * Le Lauréat
-* Eternal Sunshine
+* Eternal Sunshine of the Spotless Mind
 * Le Nom de la Rose
 * Tigre et Dragon
 * Apocalypse Now
@@ -453,7 +453,7 @@ Français:
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
-* Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php) (vu ?)
+* Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -468,7 +468,7 @@ Français:
 * Elephant Man (Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
 * The Blues Brothers (John Landis) 💙
 * La Porte du Paradis (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php) : mémorable mais longuet
-* Raging Bull (Martin Scorsese) (vu ?)
+* Raging Bull (Martin Scorsese)
 
 [Césars 6](https://fr.wikipedia.org/wiki/6e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -693,7 +693,7 @@ bof:
 * Beaucoup de Bruit pour rien (Kenneth Brannagh)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
-* In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father) (vu ?)
+* In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father)
 * pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
 * pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas
 * pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
@@ -761,7 +761,7 @@ bof:
 * La Cité des enfants perdus (Jean-Pierre Jeunet)
 * Underground (Emir Kusturica) ✨ 🌿 ❤️ [📰](https://www.telerama.fr/cinema/films/underground,37761.php)
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
-* Le bonheur est dans le pré (?)
+* Le bonheur est dans le pré (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
 
 Pas aimé:
@@ -852,7 +852,7 @@ Pas aimé:
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Himalaya : L'Enfance d'un chef
-* Les Enfants du Marais (vu ?)
+* Les Enfants du Marais
 
 
 ### 2000
@@ -1378,6 +1378,7 @@ bof:
 * Sorry to Bother You
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
+* pas vu: https://www.rottentomatoes.com/m/the_spy_gone_north
 * pas vu: Le Grand Bain (Gilles Lellouche)
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
