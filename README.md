@@ -33,7 +33,6 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
     * [2010](#2010)
     * [2020](#2020)
 * [Films étrangers par genre/thème](#films-étrangers-par-genrethème)
-    * [Drames](#drames)
     * [Comédies](#comédies)
     * [Bon scénario/Twist](#bon-scénariotwist)
     * [Science-Fiction](#science-fiction)
@@ -690,6 +689,7 @@ bof:
 * The Piano (Jane Campion)
 * Arizona Dream (Emir Kusturica, Johnny Depp) 💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream) #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
+* La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
 * Beaucoup de Bruit pour rien (Kenneth Brannagh)
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
@@ -797,6 +797,7 @@ Pas aimé:
 * Titanic 💙 11🏆
 * Contact (Jodie Foster) 💙
 * The Fifth Element (Luc Besson) #sf
+* La Vie est Belle (Roberto Benigni) #ww2
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
 * L.A. Confidential (Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
@@ -908,7 +909,7 @@ Pas aimé:
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Le Pianiste (Roman Polanski) ❤️
+* Le Pianiste (Roman Polanski) ❤️ #ww2
 * Astérix et Obélix : Mission Cléopâtre
 * L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
@@ -957,7 +958,7 @@ Pas aimé:
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
-* Crash [🍅]( https://www.rottentomatoes.com/m/1144992-crash) 🏆
+* Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * RRRrrrr!!!
 * pas vu: https://www.rottentomatoes.com/m/sideways
 
@@ -1538,6 +1539,7 @@ bof:
     * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
     * Athena (Romain Gavras) : quelques plans iconiques pour un scénario très vide
     * La Montagne
+    * Pacifiction - tourment sur les îles
 
 
 ### 2023
@@ -1594,15 +1596,6 @@ Français:
 
 
 ## Films étrangers par genre/thème
-
-### Drames
-
-* Thème: WWII
-    * Le Pianiste
-    * La Liste de Schindler
-        * voir [ici](https://www.youtube.com/watch?v=CAKS3rdYTpI) un commentaire de Terry Gilliam sur ce film
-    * La Vie est Belle (1997)
-
 
 ### Comédies
 
