@@ -35,18 +35,12 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * [Films étrangers par genre/thème](#films-étrangers-par-genrethème)
     * [Drames](#drames)
     * [Comédies](#comédies)
-    * [Comédies Dramatiques](#comédies-dramatiques)
-    * [Comédies Romantiques](#comédies-romantiques)
-    * [Policier/Thriller](#policierthriller)
     * [Bon scénario/Twist](#bon-scénariotwist)
     * [Science-Fiction](#science-fiction)
-    * [Fantastique](#fantastique)
     * [Epouvante/Horreur](#epouvante--horreur)
     * [Films de guerre](#films-de-guerre)
     * [Westerns](#westerns)
-    * [Animés](#animés)
 * [Films français par genre/thème](#films-français-par-genrethème)
-    * [Vieux classiques (noir et blanc)](#vieux-classiques-noir-et-blanc)
 * [Mes listes de films préférés par thème](#mes-listes-de-films-préférés-par-thème)
     * [Drames romantiques intenses](#drames-romantiques-intenses)
 * [Par réalisateur](#par-réalisateur)
@@ -1501,7 +1495,6 @@ bof:
 * Official Competition (Espagne, Penélope Cruz, Antonio Banderas)
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
-* L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php)
 * The Whale (Darren Aronofsky, Brendan Fraser)
 * Triangle of Sadness (Ruben Östlund) [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
 * La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
@@ -1528,6 +1521,7 @@ bof:
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
 * L'Innocent [📰](https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php)
 * Nos Frangins (Rachid Bouchared) #cinema-qui-denonce
+* L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php) : la fin vend le film, sinon c'est un peu vide
 * bof:
     * Novembre (Cédric Jimenez, Jean Dujardin)
     * En Corps (Klapisch) [📰](https://www.telerama.fr/cinema/films/en-corps-1-194593649.php)
@@ -1568,7 +1562,6 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/all_of_us_strangers
 * pas vu: https://www.rottentomatoes.com/m/society_of_the_snow
 * pas vu: https://www.rottentomatoes.com/m/saltburn
-* pas vu: Vampire humaniste cherche suicidaire consentant
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
@@ -1582,7 +1575,7 @@ Français:
 * Anatomie d'une chute (Justine Triet) 🌿 #film-de-procès
 * Les Trois Mousquetaires #aventure
 * La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
-* bof: Le Règne animal (Romain Duris)
+* bof: Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec)
 
 
 
