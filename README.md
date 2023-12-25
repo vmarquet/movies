@@ -876,6 +876,8 @@ Pas aimé:
 
 ### 2001
 
+[Oscars 74](https://fr.wikipedia.org/wiki/74e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
+
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
 * Lord of the Rings
 * Ocean's Eleven (Steven Soderbergh)
@@ -893,6 +895,8 @@ Pas aimé:
 
 
 ### 2002
+
+[Oscars 75](https://fr.wikipedia.org/wiki/75e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
 * Le Voyage de Chihiro (Hayao Miyazaki)
 * L'Homme sans passé (Kaurismäki)
@@ -914,6 +918,8 @@ Pas aimé:
 
 ### 2003
 
+[Oscars 76](https://fr.wikipedia.org/wiki/76e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
+
 * Master and Commander: The Far Side of the World (Peter Weier, Russell Crowe) 🏆
 * Good Bye, Lenin! (Wolfgang Becker, Allemagne)
 * Le Maître du jeu (Runaway Jury)
@@ -933,6 +939,8 @@ Pas aimé:
 
 
 ### 2004
+
+[Oscars 77](https://fr.wikipedia.org/wiki/77e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
 * Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
 * Eternal Sunshine of the Spotless Mind (Michel Gondry) ❤️
@@ -962,6 +970,8 @@ Pas aimé:
 
 ### 2005
 
+[Oscars 78](https://fr.wikipedia.org/wiki/78e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
+
 * The New World (Terrence Malick, Christian Bale, Colin Farrell) 🎥 ❤️
 * Les Noces funèbres (Tim Burton) ❤️
 * Trois Enterrements (Tommy Lee Jones) 🌿 [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada) #neowestern
@@ -973,7 +983,7 @@ Pas aimé:
 * The Constant Gardener (Ralph Fiennes)
 * Le Tigre et la Neige (Roberto Benigni)
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
-* Million Dollar Baby (Clint Eastwood)
+* Million Dollar Baby (Clint Eastwood) 🏆
 * Capote
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2) #sf
@@ -997,7 +1007,7 @@ Pas aimé:
 * The Fall [🍅](https://www.rottentomatoes.com/m/the-fall-2008) #fantastique
 * Le Labyrinthe de Pan (Guillermo del Toro)
 * The Black Dahlia (Brian de Palma)
-* Le Secret de Brokeback Mountain (Ang Lee)
+* Le Secret de Brokeback Mountain (Ang Lee) 🏆
 * Babel (Alejandro González Iñárritu)
 * The Queen (Stephen Frears) 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
 * Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
@@ -1534,10 +1544,10 @@ bof:
 
 [Rotten Tomatoes – Top Movies of 2023](https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/)
 
+* The Holdovers ❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
+    * ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
-* The Holdovers ❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
-    * ❝ Beautifully bittersweet... thought-provoking dramedy... dialogue-driven movie... ❞ 🍅
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
