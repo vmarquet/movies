@@ -74,7 +74,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * [Every Frame a Painting](https://www.youtube.com/c/everyframeapainting/videos)
 * [The Closer Look](https://www.youtube.com/c/TheCloserLook/videos)
 * [La chronique de Thomas Bidegain - France Inter](https://www.youtube.com/watch?v=JDaK6vHlGWk&list=PL43OynbWaTMKQkvk6IBpR6Ux74MGOYSM5&index=2)
-* [Kombini video club](https://www.youtube.com/results?search_query=konbini+video+club)
+* [Konbini video club](https://www.youtube.com/results?search_query=konbini+video+club)
 * [Le Fossoyeur de Films](https://www.youtube.com/user/deadwattsofficiel/videos)
 </details>
 
@@ -612,7 +612,7 @@ bof:
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
 * Gorillas in the mist (Sigourney Weaver) [🍅](https://www.rottentomatoes.com/m/gorillas_in_the_mist) : longuet
-* They Live (John Carpenter)
+* They Live (John Carpenter) 💙
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -642,7 +642,7 @@ bof:
 * Edward aux mains d'argent (Tim Burton, Johnny Depp) ❤️ #fantastique
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * King of New York (Abel Ferrara, Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york) #policier : le meilleur rôle de Christopher Walken
-* Sailor et Lula (Wild at Heart) (Nicolas Cage, Laura Dern)
+* Sailor et Lula (Wild at Heart) (David Lynch, Nicolas Cage, Laura Dern)
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -867,7 +867,7 @@ Pas aimé:
 * Snatch (Guy Ritchie, Brad Pitt)
 * Dancer in the Dark (Lars von Trier)
 * Battle Royale (Japon)
-* Billy Elliot
+* Billy Elliot (Stephen Daldry)
 * Aniki mon Frère (Takeshi Kitano) #policier
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -908,11 +908,12 @@ Pas aimé:
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
 * pas vu: Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
+* pas vu: The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Le Pianiste (Roman Polanski) ❤️ #ww2
-* Astérix et Obélix : Mission Cléopâtre
+* Astérix et Obélix : Mission Cléopâtre ❤️
 * L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
 * Monsieur Batignole (Gérard Jugnot)
@@ -1066,15 +1067,15 @@ Pas aimé:
 
 ### 2008
 
-* Burn After Reading ❤️
+* Burn After Reading (frères Coen) ❤️
 * Two Lovers (Joaquin Phoenix) 🎥 ❤️
   [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
   [🍅](https://www.rottentomatoes.com/m/two_lovers)
-* Zetwal ❤️
+* Zetwal ❤️ #docu
 * Tulpan (Kazakhstan) ❤️
 * Bons baisers de Bruges (Martin McDonagh, Colin Farrell, Ralph Fiennes, Brendan Gleeson)
-* The Reader (Kate Winslet, Ralph Fiennes)
-* Okuribito (Départs, Japon) (winner 🏆)
+* The Reader (Stephen Daldry, Kate Winslet, Ralph Fiennes)
+* Okuribito (Départs) (Japon) (winner 🏆)
 * Gran Torino (Clint Eastwood)
 * Be Kind, Rewind (Michel Gondry, Jack Black)
 * The Wrestler (Darren Aronofsky)
