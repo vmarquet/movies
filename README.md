@@ -1379,7 +1379,7 @@ bof:
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 * pas vu: https://www.rottentomatoes.com/m/the_spy_gone_north
-* pas vu: Le Grand Bain (Gilles Lellouche)
+* pas vu: Les Oiseaux de Passage https://www.lemonde.fr/festival-de-cannes/article/2018/05/09/cannes-2018-les-oiseaux-de-passage-un-scarface-tribal-et-hallucine-en-colombie_5296474_766360.html
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 
@@ -1390,6 +1390,7 @@ bof:
 * Shéhérazade
 * En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
+* pas vu: Le Grand Bain (Gilles Lellouche)
 
 bof:
 
@@ -1397,10 +1398,6 @@ bof:
 * Call Me by Your Name (Timothée Chalamet)
 * Manta Ray
 * Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
-
-Cannes, pas vu:
-
-* https://www.lemonde.fr/festival-de-cannes/article/2018/05/09/cannes-2018-les-oiseaux-de-passage-un-scarface-tribal-et-hallucine-en-colombie_5296474_766360.html
 
 
 ### 2019
