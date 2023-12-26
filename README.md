@@ -367,6 +367,7 @@ Français:
 
 * Badlands (Terrence Malick, Martin Sheen) ❤️
 * Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
+* bof: Serpico (Sydney Lumet, Al Pacino)
 * pas vu: L'Esprit de la ruche (Espagne) [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * pas vu: https://www.rottentomatoes.com/m/american_graffiti
@@ -555,6 +556,7 @@ Français:
 * The Breakfast Club #teen-movie
 * Tampopo (Japon)
 * pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
+* pas vu: https://www.rottentomatoes.com/m/come_and_see
 
 bof:
 
@@ -694,8 +696,8 @@ bof:
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
 * In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father)
-* pas vu: https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film) 🏆 (meilleur film étranger, 9 goyas)
-* pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas
+* Belle Époque [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
+* pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
 * pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -801,6 +803,7 @@ Pas aimé:
 * La Vie est Belle (Roberto Benigni) #ww2
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
+* Donnie Brasco (Al Pacino, Johnny Depp, Michael Madsen) [🍅](https://www.rottentomatoes.com/m/donnie_brasco)
 * L.A. Confidential (Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) #film-de-procès : esthétique bof mais scénario+
@@ -809,7 +812,6 @@ Pas aimé:
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 * pas vu: https://www.rottentomatoes.com/m/children_of_heaven
-* pas vu: https://www.rottentomatoes.com/m/donnie_brasco
 * bof: In the Company of Men
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1112,6 +1114,7 @@ Pas aimé:
 * Fish Tank
 * An Education (Carey Mulligan)
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
+* Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
