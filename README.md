@@ -540,6 +540,7 @@ Français:
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
 * The Killing Fields [🍅](https://www.rottentomatoes.com/m/killing_fields)
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
+* pas vu: https://www.rottentomatoes.com/m/birdy
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -998,8 +999,8 @@ Pas aimé:
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Va, vis et deviens
+* Le Petit Lieutenant [📰](https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php) : film policier réaliste et bien documenté
 * La Marche de l'empereur
-* pas vu: https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php
 
 
 ### 2006
@@ -1114,6 +1115,7 @@ Pas aimé:
 * Fish Tank
 * An Education (Carey Mulligan)
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
+* The Hangover (Very Bad Trip)
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
@@ -1579,6 +1581,7 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/all_of_us_strangers
 * pas vu: https://www.rottentomatoes.com/m/society_of_the_snow
 * pas vu: https://www.rottentomatoes.com/m/saltburn
+* pas vu: https://www.rottentomatoes.com/m/the_teachers_lounge
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
