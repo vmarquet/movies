@@ -333,10 +333,13 @@ Français:
 ### 1970
 
 * Deep End 🎥🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
-* Le Cercle rouge (Jean-Pierre Melville) #policier
 * MASH (Robert Altman) #film-de-guerre
-* Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
 * Little Big Man (Arthur Penn, Dustin Hoffman) #western : longuet
+
+Français:
+
+* Le Cercle rouge (Jean-Pierre Melville) #policier
+* Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
 * pas vu: Peau d'âne
 
 
@@ -344,6 +347,7 @@ Français:
 
 * Orange Mécanique (Stanley Kubrick)
 * Harold and Maude : pas fan de l'esthétique et du storytelling mais le fin mot de l'intrigue est intéressant [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
+* pas vu: https://www.rottentomatoes.com/m/last_picture_show
 
 Français:
 
@@ -357,8 +361,12 @@ Français:
 
 * Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god) [💡](https://www.youtube.com/watch?v=8mpgg_IsWhs)
 * Le Parrain (FF Coppola) 🎥 ❤️
-* César et Rosalie (Claude Sautet) ❤️
 * Délivrance ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance) #thriller
+* pas vu: https://www.rottentomatoes.com/m/the_new_land
+
+Français:
+
+* César et Rosalie (Claude Sautet) ❤️
 * L'aventure c'est l'aventure (Claude Lelouch, Lino Ventura, Jacques Brel) #aventure
 * Le Grand Blond avec une chaussure noire (Yves Robert, Pierre Richard, Jean Rochefort) #comédie #famille
 
@@ -455,6 +463,7 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
+* pas vu: https://www.rottentomatoes.com/m/all_that_jazz
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -578,6 +587,7 @@ bof:
 * Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
+* pas vu: https://www.rottentomatoes.com/m/round_midnight #jazz
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -765,6 +775,7 @@ bof:
 * Underground (Emir Kusturica) ✨ 🌿 ❤️ [📰](https://www.telerama.fr/cinema/films/underground,37761.php)
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (vu ?)
+* pas vu: N'oublie pas que tu vas mourir (Xavier Beauvois)
 * pas vu: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
 
 Pas aimé:
@@ -999,7 +1010,7 @@ Pas aimé:
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Va, vis et deviens
-* Le Petit Lieutenant [📰](https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php) : film policier réaliste et bien documenté
+* Le Petit Lieutenant (Xavier Beauvois) [📰](https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php) : film policier réaliste et bien documenté
 * La Marche de l'empereur
 
 
@@ -1155,7 +1166,7 @@ Pas aimé:
 
 * Le Bruit des glaçons (Bertrand Blier, Jean Dujardin, Albert Dupontel) ❤️ [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php) #comédie
 * Le Nom des Gens (Jacques Gamblin) [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php) #comédie
-* Des hommes et des dieux (Michael Lonsdale) 🎥 [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
+* Des hommes et des dieux (Xavier Beauvois, Michael Lonsdale) 🎥 [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
 * L'Arnacoeur (Romain Duris) #romcom
 * Tournée (Mathieu Amalric) 🎥
 * Mammuth (Délépine et Kervern, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
@@ -1553,7 +1564,7 @@ bof:
 
 [Rotten Tomatoes – Top Movies of 2023](https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/)
 
-* The Holdovers ❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
+* The Holdovers ❤️❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
     * ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
@@ -1582,6 +1593,7 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/society_of_the_snow
 * pas vu: https://www.rottentomatoes.com/m/saltburn
 * pas vu: https://www.rottentomatoes.com/m/the_teachers_lounge
+* pas vu: Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
