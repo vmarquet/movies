@@ -1527,6 +1527,7 @@ bof:
 * Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
 * The Whale (Darren Aronofsky, Brendan Fraser)
 * Triangle of Sadness (Ruben Östlund) [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
+* As Bestas 🇪🇸 [🍅](https://www.rottentomatoes.com/m/the_beasts) : "un thriller à l’hyperréalisme terrifiant" (télérama)
 * La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
@@ -1539,7 +1540,6 @@ bof:
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
-    * As Bestas 🇪🇸 https://www.rottentomatoes.com/m/the_beasts
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till
