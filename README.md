@@ -813,7 +813,7 @@ Pas aimé:
 * Contact (Jodie Foster) 💙
 * The Fifth Element (Luc Besson) #sf
 * La Vie est Belle (Roberto Benigni) #ww2
-* Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem)
+* Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem) 🇪🇸
 * Cure (Japon, Kiyoshi Kurosawa) 🎥
 * Donnie Brasco (Al Pacino, Johnny Depp, Michael Madsen) [🍅](https://www.rottentomatoes.com/m/donnie_brasco)
 * L.A. Confidential (Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
@@ -839,7 +839,8 @@ Pas aimé:
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham)
 * Kirikou et la Sorcière #famille
-* The Thin Red Line (Terrence Malick) #film-de-guerre
+* Los amantes del círculo polar 🇪🇸 : inégal
+* The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
 * pas vu: Saving Private Ryan (Steven Spielberg) #film-de-guerre
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -994,7 +995,7 @@ Pas aimé:
 * Les Noces funèbres (Tim Burton) ❤️
 * Trois Enterrements (Tommy Lee Jones) 🌿 [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada) #neowestern
 * A History of Violence (David Cronenberg)
-* Mar adentro (Alejandro Amenábar, Javier Bardem) [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
+* Mar adentro (Alejandro Amenábar, Javier Bardem) 🇪🇸 [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * La Science des Rêves (Michel Gondry)
 * Sin City (Franck Miller, Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/sin_city) #policier
 * Broken Flowers (Jim Jarmusch)
@@ -1538,6 +1539,7 @@ bof:
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
     * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
+    * As Bestas 🇪🇸 https://www.rottentomatoes.com/m/the_beasts
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till
@@ -1581,7 +1583,7 @@ bof:
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: Passages, The Killer (David Fincher), Strange Way of Life (Almodovar), Il Boemo
+* bof: Passages, The Killer (David Fincher), Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
 * pas vu: https://www.rottentomatoes.com/m/poor_things (Yórgos Lánthimos)
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
 * pas vu: Napoléon (Ridley Scott)
@@ -1594,6 +1596,8 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/saltburn
 * pas vu: https://www.rottentomatoes.com/m/the_teachers_lounge
 * pas vu: Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
+* pas vu: Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
+* pas vu: https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
