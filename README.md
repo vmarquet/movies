@@ -303,8 +303,7 @@ Français:
 ### 1966
 
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
-* bof: Blow-Up
-* pas vu: https://www.rottentomatoes.com/m/king_of_hearts_1967 (Philippe de Broca)
+* bof: Blow-Up, Le Roi de Coeur (Philippe de Broca)
 
 
 ### 1967
@@ -495,9 +494,8 @@ Français:
 * Coup de torchon (Bertrand Tavernier)
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
 * bof:
-    * Chariots of Fire
+    * Chariots of Fire, Prince of the City (Sidney Lumet)
     * Le Hasard (Przypadek) (Krzysztof Kieślowski, Pologne)
-* pas vu: https://www.rottentomatoes.com/m/prince_of_the_city
 
 [Césars 7](https://fr.wikipedia.org/wiki/7e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -823,8 +821,7 @@ Pas aimé:
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
 * pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
-* pas vu: https://www.rottentomatoes.com/m/children_of_heaven
-* bof: In the Company of Men
+* bof: Children of Heaven (Iran), In the Company of Men
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
