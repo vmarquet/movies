@@ -681,9 +681,10 @@ bof:
 
 [Oscars 65](https://fr.wikipedia.org/wiki/65e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Singles
+* Singles #comédie
 * Reservoir Dogs (Tarentino)
-* Basic Instinct (Paul Verhoeven)
+* Basic Instinct (Paul Verhoeven) #thriller
+* Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -855,6 +856,7 @@ Pas aimé:
   [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
   [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
+* Office Space 💙 #comédie-de-bureau
 * Sleepy Hollow (Tim Burton)
 * Todo sobre my madre (Pedro Almodóvar) 🇪🇸
 * Matrix #sf
@@ -1255,6 +1257,7 @@ Pas aimé:
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai)
+* The Internship (Vince Vaughn, Owen Wilson) #comédie-de-bureau
 * L'Écume des jours (Michel Gondry)
 * New World (Corée) [🍅](https://www.rottentomatoes.com/m/new_world) #thriller
 * Dallas Buyers Club (Matthew McConaughey)
@@ -1634,17 +1637,6 @@ Français:
 * Maman, j'ai raté l'avion ! (Home Alone)
 * Les dieux sont tombés sur la tête (The Gods Must Be Crazy) (1980)
 * La Coccinelle à Mexico, etc
-
-
-#### Comédie de bureau
-
-* Glengarry Glen Ross (1992)
-* Office Space (1999)
-* The Internship (2013, Vince Vaughn, Owen Wilson)
-
-
-![](images/affiches/lost.jpg)
-
 
 
 ### Bon scénario/Twist
