@@ -399,7 +399,7 @@ Français:
 
 ### 1975
 
-* Monty Python : Sacré Graal ! 💙 (Terry Gilliam, Terry Jones) #comedie
+* Monty Python : Sacré Graal ! 💙 (Terry Gilliam, Terry Jones) #comédie
 * Dog Day Afternoon (Sidney Lumet, Al Pacino, John Cazale) [🍅](https://www.rottentomatoes.com/m/dog_day_afternoon)
 * Les Trois Jours du Condor (Sydney Pollack, Robert Redford) [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor) #thriller
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
@@ -724,7 +724,7 @@ bof:
 * Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
     * > Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. [💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
-* Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comedie
+* Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comédie
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
 * Quiz Show (Robert Redford, John Turturro) #film-à-énigme : witty dialogue-driven movie
@@ -1502,7 +1502,7 @@ bof:
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
 * King Richard (Will Smith) ❤️ : biopic Venus Williams
-* Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comedie
+* Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie
 * Annette (Leos Carax, Adam Driver)
 * Jai Bhim (India) [🍅](https://www.rottentomatoes.com/m/jai_bhim)
 * Judas and the Black Messiah
