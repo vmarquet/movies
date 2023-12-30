@@ -310,7 +310,7 @@ Français:
 
 * Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 💙
   [🍅](https://www.rottentomatoes.com/m/graduate)
-  [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php)
+  [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
 * Le Samouraï (Jean-Pierre Melville) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php) #policier
 * pas vu: https://www.telerama.fr/cinema/films/nuages-epars,53150.php (Japon)
@@ -377,7 +377,7 @@ Français:
 * bof: Serpico (Sydney Lumet, Al Pacino)
 * pas vu: L'Esprit de la ruche (Espagne) [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
-* pas vu: https://www.rottentomatoes.com/m/american_graffiti
+* pas vu: https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
 
 
 ### 1974
@@ -561,7 +561,7 @@ Français:
 * White Nights (Soleil de nuit) (Russie, Mikhail Baryshnikov)
 * Witness (Peter Weier, Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness) #thriller
 * Flesh and Blood (Paul Verhoeven)
-* The Breakfast Club #teen-movie
+* The Breakfast Club #teen-movie #coming-of-age
 * Tampopo (Japon)
 * pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
 * pas vu: https://www.rottentomatoes.com/m/come_and_see
@@ -977,6 +977,7 @@ Pas aimé:
 * Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * RRRrrrr!!!
 * pas vu: https://www.rottentomatoes.com/m/sideways
+* bof: Napoleon Dynamite #coming-of-age #teen-movie
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1347,7 +1348,7 @@ Pas aimé:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
-* bof: Moonlight, Manchester by the Sea
+* bof: Moonlight #coming-of-age, Manchester by the Sea
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1367,7 +1368,7 @@ Pas aimé:
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: https://www.rottentomatoes.com/m/my_days_of_mercy
-* bof: Split (James McAvoy), Lady Bird, Valérian et la Cité des mille planètes #sf
+* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1395,7 +1396,7 @@ Pas aimé:
 * pas vu: https://www.rottentomatoes.com/m/the_spy_gone_north
 * pas vu: Les Oiseaux de Passage https://www.lemonde.fr/festival-de-cannes/article/2018/05/09/cannes-2018-les-oiseaux-de-passage-un-scarface-tribal-et-hallucine-en-colombie_5296474_766360.html
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet), Manta Ray
+* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, Manta Ray
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1471,9 +1472,9 @@ Pas aimé:
 
 ### 2021
 
+* King Richard (Will Smith) ❤️ : biopic Venus Williams
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
-* King Richard (Will Smith) ❤️ : biopic Venus Williams
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie
 * Annette (Leos Carax, Adam Driver)
 * Jai Bhim (India) [🍅](https://www.rottentomatoes.com/m/jai_bhim)
@@ -1556,9 +1557,10 @@ Pas aimé:
 * Sick of Myself (Norvège)
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
-* Oppenheimer [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
+* Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * The Boy and the Heron (Hayao Miyazaki) : intrigue décousue
-* A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel très réussi
+* How to have sex #coming-of-age
+* A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
