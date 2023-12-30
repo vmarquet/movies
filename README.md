@@ -895,6 +895,7 @@ Pas aimé:
 
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
 * Lord of the Rings
+* Rush Hour 2 #comédie
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
 * The Barber (frères Coen)
@@ -961,6 +962,7 @@ Pas aimé:
 * Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
 * Eternal Sunshine of the Spotless Mind (Michel Gondry) ❤️
 * 2046 (Wong Kar-wai) ❤️
+* Shaun of the Dead #comédie
 * Kill Bill (Tarentino)
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar)
@@ -994,8 +996,10 @@ Pas aimé:
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) 🇪🇸 [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * La Science des Rêves (Michel Gondry)
+* Kiss Kiss Bang Bang [🍅](https://www.rottentomatoes.com/m/kiss_kiss_bang_bang) #comédie
 * Sin City (Franck Miller, Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/sin_city) #policier
 * Broken Flowers (Jim Jarmusch)
+* The 40 year old virgin (Steve Carell) #comédie
 * The Constant Gardener (Ralph Fiennes)
 * Le Tigre et la Neige (Roberto Benigni)
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
@@ -1119,6 +1123,7 @@ Pas aimé:
 * Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Whatever Works (Woody Allen)
+* Zombieland [🍅](https://www.rottentomatoes.com/m/zombieland) #comédie
 * Le Ruban blanc (Michael Haneke) 🌿
 * Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
 * Fish Tank
@@ -1156,6 +1161,7 @@ Pas aimé:
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
+* Kaboom (Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php) #comédie
 * Buried
 * Up in the Air (Jason Reitman, George Clooney)
 * pas vu: L'Illusionniste
@@ -1269,6 +1275,7 @@ Pas aimé:
 * Nightcrawler ❤️
 * Ex Machina ❤️
 * Whiplash ❤️
+* Vampires en toute Intimité (What we do in the Shadows) ❤️ #comédie
 * Birdman
 * Gone Girl (Fincher)
 * Black Coal (Chine) 🧸
@@ -1619,15 +1626,6 @@ Français:
 ## Films étrangers par genre/thème
 
 ### Comédies
-
-* Kiss Kiss Bang Bang  [🍅](https://www.rottentomatoes.com/m/kiss_kiss_bang_bang)
-* Kaboom  (2010, Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php)
-* Vampires en toute Intimité (What we do in the Shadows) (2014) ❤️
-* Shaun of the Dead (2004)
-* Zombieland  (2009) [🍅](https://www.rottentomatoes.com/m/zombieland)
-* Rush Hour 2 (2001)
-* The 40 year old virgin (2005)
-
 
 ##### Comédies pour enfants
 
