@@ -565,15 +565,12 @@ Français:
 * Tampopo (Japon)
 * pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
 * pas vu: https://www.rottentomatoes.com/m/come_and_see
-
-bof:
-
-* Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
-* Détective (Jean-Luc Godard) [📰](https://www.telerama.fr/cinema/films/detective,4714.php) : esthétiquement sympa mais scénario trop décousu et sans grand intérêt
+* bof: Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
 
 [Césars 11](https://fr.wikipedia.org/wiki/11e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Police (Depardieu) [📰](https://www.telerama.fr/cinema/films/police,5378.php) (vu ?)
+* bof: Détective (Jean-Luc Godard) [📰](https://www.telerama.fr/cinema/films/detective,4714.php) : esthétiquement sympa mais scénario trop décousu et sans grand intérêt
 
 
 ### 1986
@@ -1211,8 +1208,7 @@ Pas aimé:
 * La guerre est déclarée (Valérie Donzelli)
 * Jimmy Rivière
 * L’Exercice de l’État
-* pas vu:
-    * Le Havre (Aki Kaurismäki)
+* pas vu: Le Havre (Aki Kaurismäki)
 
 
 ### 2012
@@ -1371,20 +1367,14 @@ Pas aimé:
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: https://www.rottentomatoes.com/m/my_days_of_mercy
+* bof: Split (James McAvoy), Lady Bird, Valérian et la Cité des mille planètes #sf
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * 120 battements par minute ❤️ #cinema-qui-denonce
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Grave
-
-bof:
-
-* Le Brio (Daniel Auteuil)
-* Split (James McAvoy)
-* Lady Bird
-* Valérian et la Cité des mille planètes #sf
-* Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
+* bof: Le Brio (Daniel Auteuil), Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
 
 
 ### 2018
@@ -1405,7 +1395,7 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/the_spy_gone_north
 * pas vu: Les Oiseaux de Passage https://www.lemonde.fr/festival-de-cannes/article/2018/05/09/cannes-2018-les-oiseaux-de-passage-un-scarface-tribal-et-hallucine-en-colombie_5296474_766360.html
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
+* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet), Manta Ray
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1414,14 +1404,9 @@ bof:
 * Shéhérazade
 * En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
+* Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 * pas vu: Le Grand Bain (Gilles Lellouche)
-
-bof:
-
-* A Star Is Born
-* Call Me by Your Name (Timothée Chalamet)
-* Manta Ray
-* Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
+* bof: Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
 
 
 ### 2019
@@ -1441,6 +1426,7 @@ bof:
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * pas vu: La odisea de los giles (Heroic Losers) (Argentine) https://www.rottentomatoes.com/m/heroic_losers
+* bof: Parasite (Corée, Bong Joon-ho) 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1452,14 +1438,7 @@ bof:
 * Le Nom de la Terre
 * La Vie Scolaire #film-scolaire
 * La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
-
-bof:
-
-* Parasite (Corée, Bong Joon-ho) 4🏆 🌿
-* Once Upon a Time in Hollywood (Tarentino)
-* The Death of Dick Long [🍅](https://www.rottentomatoes.com/m/the_death_of_dick_long)
-* Les Misérables
-* Liberté (Albert Serra) 🎥 🌿
+* bof: Les Misérables, Liberté (Albert Serra) 🎥 🌿
 
 [Cannes 2019 - toutes les notes télérama](https://www.telerama.fr/festival-de-cannes/2019/cannes-2019-voici-le-programme-des-films-en-competition,n6238497.php)
 
@@ -1479,17 +1458,10 @@ bof:
 * Possessor (Brandon Cronenberg) ☀️
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
 * pas vu: https://www.rottentomatoes.com/m/the_call_of_the_wild_2020 (Harrison Ford) #aventure
-
-bof:
-
-* Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias
-* Promising Young Woman : divertissement sympa sans plus
-* Sound of Metal
-* Soul (Pixar)
-* News of the World (Tom Hanks) #western
-* Tenet
-* The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php)
-* Pig [🍅](https://www.rottentomatoes.com/m/pig_2021)
+* bof:
+    * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
+    * Promising Young Woman : divertissement sympa sans plus
+    * Sound of Metal, Soul (Pixar), News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Pig [🍅](https://www.rottentomatoes.com/m/pig_2021)
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
