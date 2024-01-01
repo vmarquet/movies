@@ -93,6 +93,12 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 </details>
 
 <details>
+<summary>Various movie lists</summary>
+
+* [Writers guild of America: 101 Greatest Screenplays of the 21st Century](https://www.wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/list)
+</details>
+
+<details>
 <summary>Friends</summary>
 
 * https://mustapp.com/@lucasrr
@@ -678,6 +684,7 @@ Français:
 
 [Oscars 65](https://fr.wikipedia.org/wiki/65e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Impitoyable (Clint Eastwood) 4🏆 [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven) #western
 * Singles #comédie
 * Reservoir Dogs (Tarentino)
 * Basic Instinct (Paul Verhoeven) #thriller
@@ -959,7 +966,7 @@ Pas aimé:
 [Oscars 77](https://fr.wikipedia.org/wiki/77e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
 * Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
-* Eternal Sunshine of the Spotless Mind (Michel Gondry) ❤️
+* Eternal Sunshine of the Spotless Mind (Michel Gondry, Jim Carrey) ❤️
 * 2046 (Wong Kar-wai) ❤️
 * Shaun of the Dead #comédie
 * Kill Bill (Tarentino)
@@ -1022,7 +1029,7 @@ Pas aimé:
 
 * Volver (Pedro Almodóvar) 🎥 ❤️❤️ [🍅](https://www.rottentomatoes.com/m/volver)
 * La Vie des autres ❤️ 🏆 (meilleur film étranger)
-* Little Miss Sunshine ❤️ ☀️
+* Little Miss Sunshine (Paul Dano) ❤️ ☀️
 * Casino Royale ❤️
 * The Fall [🍅](https://www.rottentomatoes.com/m/the-fall-2008) #fantastique
 * Le Labyrinthe de Pan (Guillermo del Toro)
@@ -1055,7 +1062,7 @@ Pas aimé:
 
 * The Darjeeling Limited (Wes Anderson) ❤️
 * Juno (Jason Reitman) [🍅](https://www.rottentomatoes.com/m/juno) 🏆 #coming-of-age
-* There Will Be Blood (P.T. Anderson, Daniel Day Lewis) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
+* There Will Be Blood (P.T. Anderson, Daniel Day Lewis, Paul Dano) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
 * Sweeney Todd (Tim Burton) ❤️
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
@@ -1394,9 +1401,8 @@ Pas aimé:
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
 * pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 * pas vu: https://www.rottentomatoes.com/m/the_spy_gone_north
-* pas vu: Les Oiseaux de Passage https://www.lemonde.fr/festival-de-cannes/article/2018/05/09/cannes-2018-les-oiseaux-de-passage-un-scarface-tribal-et-hallucine-en-colombie_5296474_766360.html
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, Manta Ray
+* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, Les Oiseaux de Passage, Manta Ray, Roma
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1557,14 +1563,15 @@ Pas aimé:
 * Sick of Myself (Norvège)
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
+* How to have sex #coming-of-age (prix Un Certain Regard 🌿) : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
+    * ❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * The Boy and the Heron (Hayao Miyazaki) : intrigue décousue
-* How to have sex #coming-of-age
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: Passages, The Killer (David Fincher), Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
+* bof: Passages, The Killer (David Fincher), Saltburn, The Teacher's Lounge, Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
 * pas vu: https://www.rottentomatoes.com/m/poor_things (Yórgos Lánthimos)
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
 * pas vu: Napoléon (Ridley Scott)
@@ -1574,8 +1581,6 @@ Pas aimé:
 * pas vu: https://www.rottentomatoes.com/m/radical
 * pas vu: https://www.rottentomatoes.com/m/all_of_us_strangers
 * pas vu: https://www.rottentomatoes.com/m/society_of_the_snow
-* pas vu: https://www.rottentomatoes.com/m/saltburn
-* pas vu: https://www.rottentomatoes.com/m/the_teachers_lounge
 * pas vu: Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
 * pas vu: Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
 * pas vu: https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
@@ -1615,7 +1620,7 @@ Français:
 
 ### Bon scénario/Twist
 
-* The Truman Show
+* The Truman Show (Jim Carrey)
 * Eternal Sunshine (et autres de Michel Gondry) 🎥
 * Memento (Christopher Nolan)
 * eXistenZ  [🍅](https://www.rottentomatoes.com/m/existenz)
@@ -1658,7 +1663,6 @@ Français:
 * Antiviral
 * I, Robot (2003, Will Smith)
 * The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
-* pas vu: https://www.telerama.fr/cinema/films/anon,517509.php
 * pas vu: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
 
 
@@ -1734,7 +1738,6 @@ Français:
 	* Le Bon, la Brute et le Truand  (1966) [🍅](https://www.rottentomatoes.com/m/good_the_bad_and_the_ugly)
   * même genre:
     * L'Homme des Hautes Plaines (1973) (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
-    * Impitoyable (1992) (Clint Eastwood, 4🏆 dont meilleur film) [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven)
 * Le Grand Silence (1968) (Sergio Corbucci, Ennio Morricone, Klaus Kinski)
 * Mon nom est Personne (1973) (Tonino Valerii, Terence Hill, Henri Fonda)
 
