@@ -96,6 +96,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 <summary>Various movie lists</summary>
 
 * [Writers guild of America: 101 Greatest Screenplays of the 21st Century](https://www.wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/list)
+* [prix Edgar-Allan-Poe](https://fr.wikipedia.org/wiki/Prix_Edgar-Allan-Poe#Meilleur_film_(Best_Motion_Picture)) (récompense les auteurs des meilleures œuvres policières)
 </details>
 
 <details>
@@ -352,7 +353,7 @@ Français:
 
 * Orange Mécanique (Stanley Kubrick)
 * Harold and Maude : pas fan de l'esthétique et du storytelling mais le fin mot de l'intrigue est intéressant [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
-* pas vu: https://www.rottentomatoes.com/m/last_picture_show
+* bof: The Last Picture Show
 
 Français:
 
@@ -887,6 +888,7 @@ Pas aimé:
 * Battle Royale (Japon)
 * Billy Elliot (Stephen Daldry)
 * Aniki mon Frère (Takeshi Kitano) #policier
+* bof: Almost Famous
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -977,13 +979,13 @@ Pas aimé:
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal)
 * Crazy Kung-Fu (Stephen Chow)
+* Sideways (Paul Giamatti) [🍅](https://www.rottentomatoes.com/m/sideways)
 * Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
 * Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * RRRrrrr!!!
-* pas vu: https://www.rottentomatoes.com/m/sideways
 * bof: Napoleon Dynamite #coming-of-age #teen-movie
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1402,7 +1404,7 @@ Pas aimé:
 * pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
 * pas vu: https://www.rottentomatoes.com/m/the_spy_gone_north
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, Les Oiseaux de Passage, Manta Ray, Roma
+* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree, Les Oiseaux de Passage, Manta Ray, Roma
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1552,7 +1554,7 @@ Pas aimé:
 
 [Rotten Tomatoes – Top Movies of 2023](https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/)
 
-* The Holdovers ❤️❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
+* The Holdovers (Paul Giamatti) ❤️❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
     * ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
