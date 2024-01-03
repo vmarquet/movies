@@ -97,6 +97,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 
 * [Writers guild of America: 101 Greatest Screenplays of the 21st Century](https://www.wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/list)
 * [prix Edgar-Allan-Poe](https://fr.wikipedia.org/wiki/Prix_Edgar-Allan-Poe#Meilleur_film_(Best_Motion_Picture)) (récompense les auteurs des meilleures œuvres policières)
+* [Palmarès Sundance](https://www.allocine.fr/festivals/festival-124/edition-18356433/palmares/)
 </details>
 
 <details>
@@ -1221,7 +1222,7 @@ Pas aimé:
 
 ### 2012
 
-* Beasts of the Southern Wild ❤️
+* Beasts of the Southern Wild ❤️ ☀️
 * Mud ❤️
 * Laurence Anyways (Xavier Dolan) ❤️
 * A Royal Affair (Danemark) ❤️
@@ -1265,12 +1266,13 @@ Pas aimé:
 * L'Écume des jours (Michel Gondry)
 * New World (Corée) [🍅](https://www.rottentomatoes.com/m/new_world) #thriller
 * Dallas Buyers Club (Matthew McConaughey)
-* All is Lost (?)
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox (Inde)
 * Tangerines (Géorgie)
-* bof: Nosotros los Nobles (Mexique), The Best Offer
+* pas vu: https://www.rottentomatoes.com/m/fruitvale_station ☀️
+* pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
+* bof: All is Lost, Nosotros los Nobles (Mexique), The Best Offer
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1327,6 +1329,7 @@ Pas aimé:
 * Il est de retour (Allemagne) #comédie-satirique
 * pas vu: https://www.rottentomatoes.com/m/macbeth_2015
 * pas vu: Le Fils de Saul 🌿
+* pas vu: Me and Earl and the Dying Girl ☀️ #coming-of-age
 * pas vu: https://www.rottentomatoes.com/m/long_way_north #famille
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1355,6 +1358,7 @@ Pas aimé:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
+* pas vu: The Birth of a Nation ☀️
 * bof: Moonlight #coming-of-age, Manchester by the Sea
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1375,6 +1379,7 @@ Pas aimé:
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: https://www.rottentomatoes.com/m/my_days_of_mercy
+* pas vu: I Don't Feel at Home in This World Anymore ☀️
 * bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1387,7 +1392,8 @@ Pas aimé:
 
 ### 2018
 
-* Three Billboards (Martin McDonagh) ❤️
+* Three Billboards (Martin McDonagh, Frances McDormand) ❤️
+* Come as you are ❤️ [🍅](https://www.rottentomatoes.com/m/come_as_you_are_2020) ☀️
 * Dunkirk (Christopher Nolan) #film-de-guerre
 * La Saveur des Ramens (Japon/Singapour)
 * The Favourite (Yórgos Lánthimos, Emma Stone)
@@ -1399,7 +1405,6 @@ Pas aimé:
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
-* pas vu: https://www.rottentomatoes.com/m/come_as_you_are_2020 ☀️
 * pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree, Les Oiseaux de Passage, The Spy Gone North, Manta Ray, Roma
