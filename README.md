@@ -970,6 +970,7 @@ Pas aimé:
 * Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
 * Eternal Sunshine of the Spotless Mind (Michel Gondry, Jim Carrey) ❤️
 * 2046 (Wong Kar-wai) ❤️
+* Sideways (Paul Giamatti) [🍅](https://www.rottentomatoes.com/m/sideways)
 * Shaun of the Dead #comédie
 * Kill Bill (Tarentino)
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
@@ -979,7 +980,6 @@ Pas aimé:
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal)
 * Crazy Kung-Fu (Stephen Chow)
-* Sideways (Paul Giamatti) [🍅](https://www.rottentomatoes.com/m/sideways)
 * Troie
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Collateral (Michael Mann) #thriller
@@ -1080,7 +1080,6 @@ Pas aimé:
 * Paranoid Park (Gus Van Sant)
 * 99 Francs
 * Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
-* pas vu: https://fr.wikipedia.org/wiki/Elizabeth_:_L%27%C3%82ge_d%27or
 * pas vu: https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
@@ -1147,9 +1146,7 @@ Pas aimé:
 * La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
 * Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * A l'origine (François Cluzet)
-* Le Concert (Radu Mihaileanu) #comédie : bof
-* Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php) : bof
-* bof: Un Prophète (Jacques Audiard)
+* bof: Le Concert (Radu Mihaileanu) #comédie, Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
 * pas vu: Welcome
 
 
@@ -1174,6 +1171,7 @@ Pas aimé:
 * Buried
 * Up in the Air (Jason Reitman, George Clooney)
 * pas vu: L'Illusionniste
+* pas vu: Winter's Bone (Jennifer Lawrence) ☀️
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1401,10 +1399,10 @@ Pas aimé:
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
-* pas vu: https://www.allocine.fr/festivals/festival-124/edition-18355906/palmares/
-* pas vu: https://www.rottentomatoes.com/m/the_spy_gone_north
+* pas vu: https://www.rottentomatoes.com/m/come_as_you_are_2020 ☀️
+* pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree, Les Oiseaux de Passage, Manta Ray, Roma
+* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree, Les Oiseaux de Passage, The Spy Gone North, Manta Ray, Roma
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1585,6 +1583,7 @@ Pas aimé:
 * pas vu: https://www.rottentomatoes.com/m/society_of_the_snow
 * pas vu: Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
 * pas vu: Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
+* pas vu: https://www.rottentomatoes.com/m/scrapper_2023 ☀️
 * pas vu: https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * pas vu (tous TTT):
     * fermer les yeux
