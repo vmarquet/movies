@@ -96,8 +96,9 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 <summary>Various movie lists</summary>
 
 * [Writers guild of America: 101 Greatest Screenplays of the 21st Century](https://www.wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/list)
-* [prix Edgar-Allan-Poe](https://fr.wikipedia.org/wiki/Prix_Edgar-Allan-Poe#Meilleur_film_(Best_Motion_Picture)) (récompense les auteurs des meilleures œuvres policières)
+* [Prix Edgar-Allan-Poe](https://fr.wikipedia.org/wiki/Prix_Edgar-Allan-Poe#Meilleur_film_(Best_Motion_Picture)) (récompense les auteurs des meilleures œuvres policières)
 * [Palmarès Sundance](https://www.allocine.fr/festivals/festival-124/edition-18356433/palmares/)
+* [Palmarès Deauville](https://fr.wikipedia.org/wiki/Prix_du_jury_du_Festival_de_Deauville)
 </details>
 
 <details>
@@ -1272,7 +1273,7 @@ Pas aimé:
 * Tangerines (Géorgie)
 * pas vu: https://www.rottentomatoes.com/m/fruitvale_station ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
-* bof: All is Lost, Nosotros los Nobles (Mexique), The Best Offer
+* bof: All is Lost (Robert Redford), Nosotros los Nobles (Mexique), The Best Offer
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1318,7 +1319,7 @@ Pas aimé:
 
 * Les Huit Salopards (Tarentino) ❤️
 * Mustang (Turquie) ❤️
-* The Assassin 🎥 ❤️ (arts martiaux chinois)
+* The Assassin (Chine) 🎥 ❤️ #arts-martiaux
 * The Revenant (Alejandro González Iñárritu) 🎥
 * The Lobster (Yórgos Lánthimos, Colin Farrell)
 * The Big Short
@@ -1359,6 +1360,7 @@ Pas aimé:
 * The Nice Guys
 * The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
 * pas vu: The Birth of a Nation ☀️
+* pas vu: https://www.rottentomatoes.com/m/the_edge_of_seventeen
 * bof: Moonlight #coming-of-age, Manchester by the Sea
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1417,7 +1419,7 @@ Pas aimé:
 * En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
-* pas vu: Le Grand Bain (Gilles Lellouche)
+* Le Grand Bain (Gilles Lellouche) : comédie ok sans prétention
 * bof: Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
 
 
@@ -1570,6 +1572,7 @@ Pas aimé:
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
     * ❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)
+* La Sociedad de la Nieve [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * The Boy and the Heron (Hayao Miyazaki) : intrigue décousue
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
@@ -1585,10 +1588,10 @@ Pas aimé:
 * pas vu: la beauté du geste (Japon)
 * pas vu: https://www.rottentomatoes.com/m/radical
 * pas vu: https://www.rottentomatoes.com/m/all_of_us_strangers
-* pas vu: https://www.rottentomatoes.com/m/society_of_the_snow
 * pas vu: Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
 * pas vu: Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
 * pas vu: https://www.rottentomatoes.com/m/scrapper_2023 ☀️
+* pas vu: https://www.rottentomatoes.com/m/the_iron_claw_2023
 * pas vu: https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * pas vu (tous TTT):
     * fermer les yeux
