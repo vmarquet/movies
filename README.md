@@ -671,7 +671,7 @@ Français:
 
 [Oscars 64](https://fr.wikipedia.org/wiki/64e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Danse avec les Loups (Kevin Costner) 🎥 7🏆 (meilleur film) [🍅](https://www.rottentomatoes.com/m/dances_with_wolves) #western
+* Danse avec les Loups (Kevin Costner) 🎥 7🏆 [🍅](https://www.rottentomatoes.com/m/dances_with_wolves) #western
 * Thelma & Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
 * Barton Fink (frères Coen)
 * Dead Again (Kenneth Brannagh)
@@ -952,7 +952,6 @@ Pas aimé:
 * Le Maître du jeu (Runaway Jury)
 * The Station Agent (Peter Dinklage) ☀️🎭
 * Pirates of the Caribbean
-* Le mystère de la chambre jaune (Bruno Podalydès)
 * Le Monde de Nemo (Pixar)
 * Memories of Murder (Corée) [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! (Corée) : esthétique sympa mais scénario nanar
@@ -962,6 +961,7 @@ Pas aimé:
 
 * Stupeur et Tremblements (Alain Corneau)
 * Les Triplettes de Belleville
+* Le mystère de la chambre jaune (Bruno Podalydès)
 * Les Invasions Barbares [📰](https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php) : sympa sans plus
 
 
@@ -1505,6 +1505,7 @@ Pas aimé:
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
 * bof: Titane, Onoda, L'évènement, Boite noire, Benedetta
+* pas vu: Albatros (Xavier Beauvois)
 
 
 ### 2022
@@ -1529,9 +1530,8 @@ Pas aimé:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon
+    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon, Eo (Pologne) 🌿
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
-    * Eo (Pologne) [📰](https://www.telerama.fr/cinema/films/eo-1-225458516.php) 🌿
 * pas vu:
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
@@ -1547,12 +1547,8 @@ Pas aimé:
 * Nos Frangins (Rachid Bouchared) #cinema-qui-denonce
 * L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php) : la fin vend le film, sinon c'est un peu vide
 * bof:
-    * Novembre (Cédric Jimenez, Jean Dujardin)
-    * En Corps (Klapisch) [📰](https://www.telerama.fr/cinema/films/en-corps-1-194593649.php)
-    * Coupez ! (Michel Hazanavicius) [📰](https://www.telerama.fr/cinema/coupez-de-michel-hazanavicius-une-ode-hilarante-au-cinema-fauche-7010399.php)
+    * Novembre, En Corps (Klapisch), Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires
     * Athena (Romain Gavras) : quelques plans iconiques pour un scénario très vide
-    * La Montagne
-    * Pacifiction - tourment sur les îles
 
 
 ### 2023
@@ -1572,7 +1568,7 @@ Pas aimé:
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
     * ❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)
-* La Sociedad de la Nieve [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
+* La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * The Boy and the Heron (Hayao Miyazaki) : intrigue décousue
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
@@ -1593,6 +1589,7 @@ Pas aimé:
 * pas vu: https://www.rottentomatoes.com/m/scrapper_2023 ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_iron_claw_2023
 * pas vu: https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
+* pas vu: https://www.rottentomatoes.com/m/lost_ladies
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
