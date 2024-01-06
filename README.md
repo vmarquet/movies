@@ -272,7 +272,7 @@ Pas aimé:
 
 Français:
 
-* Le Soupirant (Pierre Etaix) 🎥 [📰](https://www.telerama.fr/cinema/films/le-soupirant-en-version-restauree,14179.php) ❤️ ◯
+* Le Soupirant (Pierre Etaix) 🎥 ❤️ ◯
 * Un Singe en Hiver  (Jean-Paul Belmondo, Jean Gabin) [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php) : dialogues excellents (Audiard), musique très sympa
 * La Jetée #sf
 * Cléo de 5 à 7 (Agnès Varda) : pas fan
@@ -284,7 +284,7 @@ Français:
     * même genre:
         * Les Barbouzes (1964, Georges Lautner)
         * Ne nous fâchons pas (1966, Georges Lautner)
-* Le Mépris (Godard) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
+* Le Mépris (Godard) 🎥🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
 * Le Guépard (Italie, Luchino Visconti) [📰](https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film)) 🌿 : longuet
 * 8½ (Italie, Federico Fellini) : pas fan, trop décousu
 
@@ -301,7 +301,7 @@ Français:
 
 ### 1965
 
-* Pierrot le Fou (Godard, Belmondo) 🎥 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/pierrot-le-fou-version-restauree,4609.php)
+* Pierrot le Fou (Godard, Belmondo) 🎥🎥 ❤️
 * Alphaville (Jean-Luc Godard) ❤️ #sf
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * Yoyo (Pierre Etaix) ◯
@@ -321,13 +321,13 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/graduate)
   [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
-* Le Samouraï (Jean-Pierre Melville) 🎥 🎥 [📰](https://www.telerama.fr/cinema/films/le-samoura,16660.php) #policier
+* Le Samouraï (Jean-Pierre Melville) 🎥🎥 #policier
 * pas vu: https://www.telerama.fr/cinema/films/nuages-epars,53150.php (Japon)
 
 
 ### 1968
 
-* Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968)
+* Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968) ❤️
 * L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair) #policier
 
 
@@ -485,7 +485,7 @@ Français:
 
 * Elephant Man (Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
 * The Blues Brothers (John Landis) 💙
-* La Porte du Paradis (Michael Cimino) [📰](https://www.telerama.fr/cinema/films/la-porte-du-paradis,481506.php) : mémorable mais longuet
+* La Porte du Paradis (Michael Cimino) : mémorable mais longuet
 * Raging Bull (Martin Scorsese)
 
 [Césars 6](https://fr.wikipedia.org/wiki/6e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1192,7 +1192,7 @@ Pas aimé:
 * Midnight in Paris (Woody Allen) 🎥
 * Drive (Nicolas Winding Refn, Ryan Gosling) ❤️
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
-* Shame (Steve McQueen, avec Michael Fassbender) 🎥 🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
+* Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
 * The Tree of Life (Terrence Malick)
 * Margin Call (Kevin Spacey)
 * Starbuck #comédie
@@ -1372,6 +1372,7 @@ Pas aimé:
 ### 2017
 
 * The Square (Ruben Östlund) [🍅](https://www.rottentomatoes.com/m/the_square_2017) 🌿
+* My Days of Mercy [🍅](https://www.rottentomatoes.com/m/my_days_of_mercy) ❤️
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
 * The Death of Stalin (Steve Buscemi) ❤️ #comédie-satirique
@@ -1380,7 +1381,6 @@ Pas aimé:
 * Ingrid Goes West (Aubrey Plaza)
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Phantom Thread (Daniel Day-Lewis)
-* pas vu: https://www.rottentomatoes.com/m/my_days_of_mercy
 * pas vu: I Don't Feel at Home in This World Anymore ☀️
 * bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf
 
@@ -1471,11 +1471,10 @@ Pas aimé:
 * Palm Springs (Andy Samberg) #romcom
 * Possessor (Brandon Cronenberg) ☀️
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
-* pas vu: https://www.rottentomatoes.com/m/the_call_of_the_wild_2020 (Harrison Ford) #aventure
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
-    * Sound of Metal, Soul (Pixar), News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Pig [🍅](https://www.rottentomatoes.com/m/pig_2021)
+    * Sound of Metal, Soul (Pixar), News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Pig [🍅](https://www.rottentomatoes.com/m/pig_2021), The Call of the Wild
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1590,6 +1589,7 @@ Pas aimé:
 * pas vu: https://www.rottentomatoes.com/m/the_iron_claw_2023
 * pas vu: https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * pas vu: https://www.rottentomatoes.com/m/lost_ladies
+* pas vu: https://www.rottentomatoes.com/m/monster_2023
 * pas vu (tous TTT):
     * fermer les yeux
     * quand les vagues se retirent
