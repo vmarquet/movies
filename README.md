@@ -728,9 +728,8 @@ Français:
 [Oscars 67](https://fr.wikipedia.org/wiki/67e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Pulp Fiction (Tarentino) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
-* Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express)
+* Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express) <span title="❝ Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. ❞">💡</span>[💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
-    * > Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. [💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
 * Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comédie
 * Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
@@ -930,8 +929,10 @@ Pas aimé:
 * Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
-* pas vu: Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
-* pas vu: The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
+* pas vu:
+    * Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
+    * The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
+    * https://www.telerama.fr/cinema/films/le-sourire-de-ma-mere-1-3082998.php
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1440,7 +1441,7 @@ Pas aimé:
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * pas vu: La odisea de los giles (Heroic Losers) (Argentine) https://www.rottentomatoes.com/m/heroic_losers
-* bof: Parasite (Corée, Bong Joon-ho) 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long
+* bof: Parasite (Corée, Bong Joon-ho) 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1535,6 +1536,7 @@ Pas aimé:
     * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
     * https://editorial.rottentomatoes.com/guide/best-movies-2022/
         * no bears, happening, girl picture, till
+    * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1555,7 +1557,7 @@ Pas aimé:
 [Rotten Tomatoes – Top Movies of 2023](https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/)
 
 * The Holdovers (Paul Giamatti) ❤️❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
-    * ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
+    * > ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
@@ -1565,8 +1567,7 @@ Pas aimé:
 * Sick of Myself (Norvège)
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
-* How to have sex #coming-of-age (prix Un Certain Regard 🌿) : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
-    * ❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)
+* How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * The Boy and the Heron (Hayao Miyazaki) : intrigue décousue
@@ -1575,7 +1576,7 @@ Pas aimé:
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
 * bof: Passages, The Killer (David Fincher), Saltburn, The Teacher's Lounge, Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
-* pas vu: https://www.rottentomatoes.com/m/poor_things (Yórgos Lánthimos)
+* pas vu: Poor Things (Yórgos Lánthimos) [🍅](https://www.rottentomatoes.com/m/poor_things) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
 * pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
 * pas vu: Napoléon (Ridley Scott)
 * pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
