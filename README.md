@@ -1575,28 +1575,7 @@ Pas aimé:
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: Passages, The Killer (David Fincher), Saltburn, The Teacher's Lounge, Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
-* pas vu: Poor Things (Yórgos Lánthimos) [🍅](https://www.rottentomatoes.com/m/poor_things) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
-* pas vu: https://www.telerama.fr/cinema/films/el-agua-1-214983075.php
-* pas vu: Napoléon (Ridley Scott)
-* pas vu: https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
-* pas vu: https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
-* pas vu: la beauté du geste (Japon)
-* pas vu: https://www.rottentomatoes.com/m/radical
-* pas vu: https://www.rottentomatoes.com/m/all_of_us_strangers
-* pas vu: Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
-* pas vu: Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
-* pas vu: https://www.rottentomatoes.com/m/scrapper_2023 ☀️
-* pas vu: https://www.rottentomatoes.com/m/the_iron_claw_2023
-* pas vu: https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
-* pas vu: https://www.rottentomatoes.com/m/lost_ladies
-* pas vu: https://www.rottentomatoes.com/m/monster_2023
-* pas vu (tous TTT):
-    * fermer les yeux
-    * quand les vagues se retirent
-    * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
-    * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
-    * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php
+* bof: Passages, The Killer (David Fincher), Saltburn, La Salle des Profs (Allemagne), Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
 
 Français:
 
