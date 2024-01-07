@@ -1,3 +1,11 @@
+### 2022
+
+* Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
+* https://editorial.rottentomatoes.com/guide/best-movies-2022/
+    * no bears, happening, girl picture, till
+* https://www.telerama.fr/cinema/films/vivre-1-230294726.php
+
+
 ### 2023
 
 * Poor Things (Yórgos Lánthimos) [🍅](https://www.rottentomatoes.com/m/poor_things) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
@@ -26,10 +34,12 @@
 
 ### 2024
 
-* https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php
+* https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php TT
 * https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
 * https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
 * https://www.rottentomatoes.com/m/if_only_i_could_hibernate ?
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
 * https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
+* https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php TTTT
+* https://www.telerama.fr/cinema/moi-capitaine-de-matteo-garrone-l-odyssee-touchante-de-deux-candidats-a-l-exil_cri-7030445.php
 

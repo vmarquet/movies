@@ -1532,11 +1532,6 @@ Pas aimé:
 * bof:
     * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon, Eo (Pologne) 🌿
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
-* pas vu:
-    * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
-    * https://editorial.rottentomatoes.com/guide/best-movies-2022/
-        * no bears, happening, girl picture, till
-    * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
