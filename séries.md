@@ -17,6 +17,7 @@
 * What We Do in the Shadows (2019) [🍅](https://www.rottentomatoes.com/tv/what_we_do_in_the_shadows) +++
 * Space Force (2020, Netflix) [🍅](https://www.rottentomatoes.com/tv/space_force) +++
 * The Great (2020) [🍅](https://www.rottentomatoes.com/tv/the_great) +++
+* pas vu: Beef (2023) 🌐 [🍅](https://www.rottentomatoes.com/tv/beef)
 
 #### Français
 
