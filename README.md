@@ -37,7 +37,6 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
     * [Bon scénario/Twist](#bon-scénariotwist)
     * [Science-Fiction](#science-fiction)
     * [Epouvante/Horreur](#epouvante--horreur)
-    * [Westerns](#westerns)
 * [Films français par genre/thème](#films-français-par-genrethème)
 * [Mes listes de films préférés par thème](#mes-listes-de-films-préférés-par-thème)
     * [Drames romantiques intenses](#drames-romantiques-intenses)
@@ -290,6 +289,8 @@ Français:
 
 ### 1964
 
+* Pour une poignée de dollars (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/fistful_of_dollars) #western-spaghetti
+    * note: voir les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio_leone), [Sergio Corbucci](https://www.rottentomatoes.com/celebrity/sergio_corbucci), [Sergio Sollima](https://www.rottentomatoes.com/celebrity/sergio_sollima)
 * Docteur Folamour (Stanley Kubrick)
 * L'Homme de Rio (Philippe de Broca, Belmondo) #aventure
 
@@ -302,6 +303,7 @@ Français:
 
 * Pierrot le Fou (Godard, Belmondo) 🎥🎥 ❤️
 * Alphaville (Jean-Luc Godard) ❤️ #sf
+* Et pour quelques Dollars de plus (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/for_a_few_dollars_more) #western-spaghetti
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * Yoyo (Pierre Etaix) ◯
 * Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin se tient
@@ -310,6 +312,7 @@ Français:
 
 ### 1966
 
+* Le Bon, la Brute et le Truand (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/good_the_bad_and_the_ugly) #western-spaghetti
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
 * bof: Blow-Up, Le Roi de Coeur (Philippe de Broca)
 
@@ -327,6 +330,7 @@ Français:
 ### 1968
 
 * Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968) ❤️
+* Le Grand Silence (Sergio Corbucci, Ennio Morricone, Klaus Kinski) #western-spaghetti
 * L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair) #policier
 
 
@@ -381,6 +385,8 @@ Français:
 ### 1973
 
 * Badlands (Terrence Malick, Martin Sheen) ❤️
+* L'Homme des Hautes Plaines (Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter) #western-spaghetti
+* Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
 * Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * bof: Serpico (Sydney Lumet, Al Pacino)
 * pas vu: L'Esprit de la ruche 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
@@ -1698,23 +1704,6 @@ Français:
 
 [gag](https://loadingartist.com/comic/horror-movie/)
 
-
-
-
-### Westerns
-
-#### Spaghettis
-
-* La Trilogie du Dollar (Sergio Leone, avec Clint Eastwood): 🎥 💙
-	* Pour une poignée de dollars  (1964) [🍅](https://www.rottentomatoes.com/m/fistful_of_dollars)
-	* Et pour quelques Dollars de plus  (1965) [🍅](https://www.rottentomatoes.com/m/for_a_few_dollars_more)
-	* Le Bon, la Brute et le Truand  (1966) [🍅](https://www.rottentomatoes.com/m/good_the_bad_and_the_ugly)
-  * même genre:
-    * L'Homme des Hautes Plaines (1973) (de et avec Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter)
-* Le Grand Silence (1968) (Sergio Corbucci, Ennio Morricone, Klaus Kinski)
-* Mon nom est Personne (1973) (Tonino Valerii, Terence Hill, Henri Fonda)
-
-Les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio_leone), [Sergio Corbucci](https://www.rottentomatoes.com/celebrity/sergio_corbucci), [Sergio Sollima](https://www.rottentomatoes.com/celebrity/sergio_sollima)
 
 
 ### Aventure et divertissement familial
