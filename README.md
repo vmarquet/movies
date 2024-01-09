@@ -37,14 +37,12 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
     * [2000](#2000)
     * [2010](#2010)
     * [2020](#2020)
-* [Films étrangers par genre/thème](#films-étrangers-par-genrethème)
-    * [Comédies](#comédies)
+* [Films par genre/thème](#films-par-genrethème)
     * [Bon scénario/Twist](#bon-scénariotwist)
     * [Science-Fiction](#science-fiction)
     * [Epouvante/Horreur](#epouvante--horreur)
-* [Films français par genre/thème](#films-français-par-genrethème)
-* [Mes listes de films préférés par thème](#mes-listes-de-films-préférés-par-thème)
-    * [Drames romantiques intenses](#drames-romantiques-intenses)
+* [Liste de comédies françaises](#comédies-françaises)
+* [Liste de drames romantiques intenses](#liste-de-drames-romantiques-intenses)
 * [Par réalisateur](#par-réalisateur)
 
 
@@ -726,6 +724,7 @@ Français:
 * Belle Époque 🇪🇸 [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
 * pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
 * pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
+* bof: Short Cuts (Robert Altman)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -811,7 +810,7 @@ Français:
       > &emsp; – Well, I am innocent.  
       > &emsp; – That's it, that's exactly how I want you to look! ❞ 
     * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
-* Fargo (frères Coen)
+* Fargo (frères Coen, Frances McDormand, Steve Buscemi)
 * Lone Star [🍅](https://www.rottentomatoes.com/m/1074022-lone_star) #neowestern
 
 [Césars 22](https://fr.wikipedia.org/wiki/22e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1600,17 +1599,7 @@ Français:
 
 
 
-## Films étrangers par genre/thème
-
-### Comédies
-
-##### Comédies pour enfants
-
-* SOS Fantômes (Ghostbusters)
-* Gremlins
-* Maman, j'ai raté l'avion ! (Home Alone)
-* Les dieux sont tombés sur la tête (The Gods Must Be Crazy) (1980)
-* La Coccinelle à Mexico, etc
+## Films par genre/thème
 
 
 ### Bon scénario/Twist
@@ -1715,6 +1704,15 @@ Français:
 * Back to the Future
 
 
+#### Comédies pour enfants
+
+* SOS Fantômes (Ghostbusters)
+* Gremlins
+* Maman, j'ai raté l'avion ! (Home Alone)
+* Les dieux sont tombés sur la tête (The Gods Must Be Crazy) (1980)
+* La Coccinelle à Mexico, etc
+
+
 ### Animés
 
 * La plupart des Hayao Miyasaki ❤️
@@ -1733,9 +1731,7 @@ Français:
 
 
 
-## Films français par genre/thème
-
-### Comédies
+## Comédies françaises
 
 * Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙 #film-de-noel
 * Le bonheur est dans le pré (1995)
@@ -1788,9 +1784,7 @@ Mes préférés:
 
 
 
-## Mes listes de films préférés par thème
-
-### Drames romantiques intenses
+## Liste de drames romantiques intenses
 
 * Portrait de la jeune fille en feu
 * 37°2 le matin (Betty Blue)
