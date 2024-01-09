@@ -37,7 +37,6 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
     * [Bon scénario/Twist](#bon-scénariotwist)
     * [Science-Fiction](#science-fiction)
     * [Epouvante/Horreur](#epouvante--horreur)
-    * [Films de guerre](#films-de-guerre)
     * [Westerns](#westerns)
 * [Films français par genre/thème](#films-français-par-genrethème)
 * [Mes listes de films préférés par thème](#mes-listes-de-films-préférés-par-thème)
@@ -977,12 +976,13 @@ Pas aimé:
 * Shaun of the Dead #comédie
 * Kill Bill (Tarentino)
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
-* La Mauvaise Éducation (Pedro Almodóvar)
+* La Mauvaise Éducation (Pedro Almodóvar) 🇪🇸
 * Mystic River (Clint Eastwood, Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river) #thriller
 * OldBoy 🇰🇷 [🍅](https://www.rottentomatoes.com/m/oldboy)
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal) 🇦🇷🇨🇱🇵🇪
 * Crazy Kung-Fu (Stephen Chow) 🇭🇰
+* La Chute 🇩🇪 #ww2
 * Troie (Brad Pitt)
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Collateral (Michael Mann) #thriller
@@ -1032,8 +1032,8 @@ Pas aimé:
 
 [Oscars 79](https://fr.wikipedia.org/wiki/79e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Volver (Pedro Almodóvar) 🎥 ❤️❤️ [🍅](https://www.rottentomatoes.com/m/volver)
-* La Vie des autres ❤️ 🏆 (meilleur film étranger)
+* Volver (Pedro Almodóvar) 🇪🇸 🎥 ❤️❤️ [🍅](https://www.rottentomatoes.com/m/volver)
+* La Vie des autres 🇩🇪 ❤️ 🏆 (meilleur film étranger)
 * Little Miss Sunshine (Paul Dano) ❤️ ☀️
 * Casino Royale ❤️
 * The Fall [🍅](https://www.rottentomatoes.com/m/the-fall-2008) #fantastique
@@ -1111,6 +1111,7 @@ Pas aimé:
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera) #coming-of-age #romcomdrama
 * Valse avec Bachir
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
+* Walkyrie (Tom Cruise) #ww2
 * Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1183,6 +1184,7 @@ Pas aimé:
 * Des hommes et des dieux (Xavier Beauvois, Michael Lonsdale) 🎥 [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
 * L'Arnacoeur (Romain Duris) #romcom
 * Tournée (Mathieu Amalric) 🎥
+* La Rafle #ww2
 * Mammuth (Délépine et Kervern, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * La Princesse de Montpensier (vu ?)
 
@@ -1381,6 +1383,7 @@ Pas aimé:
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West (Aubrey Plaza)
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
+* Darkest Hour #ww2
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: I Don't Feel at Home in This World Anymore ☀️
 * bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf
@@ -1696,16 +1699,6 @@ Français:
 [gag](https://loadingartist.com/comic/horror-movie/)
 
 
-
-
-### Films de Guerre
-
-#### WWII
-
-* La Chute (2004)
-* Walkyrie (2008, Tom Cruise)
-* La Rafle (2010)
-* Darkest Hour (2017)
 
 
 ### Westerns
