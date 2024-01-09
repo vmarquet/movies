@@ -245,10 +245,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Les Quatre Cents Coups (Truffaut) : le seul Truffaut que j'aime
 * Hiroshima mon amour (Alain Resnais) : bof, pas fan de la narration
 * pas vu: Orfeu Negro (Marcel Camus) 🌿 🏆
-
-Pas aimé:
-
-* Le Tigre du Bengale (Fritz Lang) : très mal vieilli, intrigue cliché
+* ~~Le Tigre du Bengale (Fritz Lang)~~ : à éviter, très mal vieilli, intrigue cliché
 
 
 ### 1960
@@ -724,16 +721,16 @@ Français:
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
 * La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
 * Beaucoup de Bruit pour rien (Kenneth Brannagh)
-* La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * Etat Second (Peter Weir)
 * In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father)
-* Belle Époque [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
+* Belle Époque 🇪🇸 [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
 * pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
 * pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Les Visiteurs
+* La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
 * pas vu: https://www.telerama.fr/cinema/films/no-smoking,29537.php
 
 
@@ -741,9 +738,9 @@ Français:
 
 [Oscars 67](https://fr.wikipedia.org/wiki/67e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Pulp Fiction (Tarentino) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
 * Chungking Express (Wong Kar-wai) 🇭🇰 ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express) <span title="❝ Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. ❞">💡</span>[💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
+* Pulp Fiction (Tarentino) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
 * Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comédie
 * Soleil trompeur (Nikita Mikhalkov) 🇷🇺 🏆 🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
@@ -777,6 +774,7 @@ Français:
 [Oscars 68](https://fr.wikipedia.org/wiki/68e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The Bridges of Madison County (Clint Eastwood, Meryl Streep) ❤️
+* Underground (Emir Kusturica) ✨ 🌿 ❤️ [📰](https://www.telerama.fr/cinema/films/underground,37761.php)
 * Usual Suspects (Kevin Spacey) #thriller
 * Seven (David Fincher) #thriller
 * Cold Fever 🇮🇸
@@ -792,15 +790,11 @@ Français:
 
 * La Haine ✨
 * La Cité des enfants perdus (Jean-Pierre Jeunet)
-* Underground (Emir Kusturica) ✨ 🌿 ❤️ [📰](https://www.telerama.fr/cinema/films/underground,37761.php)
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (vu ?)
 * pas vu: N'oublie pas que tu vas mourir (Xavier Beauvois)
 * pas vu: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
-
-Pas aimé:
-
-* La Cérémonie (Claude Chabrol, Sandrine Bonnaire)
+* bof: La Cérémonie (Claude Chabrol)
 
 
 ### 1996
