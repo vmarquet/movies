@@ -837,7 +837,7 @@ Français:
 * Perdita Durango (Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
-* bof: Children of Heaven (Iran), In the Company of Men
+* bof: Children of Heaven 🇮🇷, In the Company of Men
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -889,7 +889,7 @@ Français:
 [Oscars 73](https://fr.wikipedia.org/wiki/73e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
 * Tigre et Dragon (Ang Lee) 🎥 ❤️ 4🏆 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
-* Amores Perros (Alejandro Gonzalez Iñárritu) ❤️
+* Amores Perros (Alejandro Gonzalez Iñárritu) 🇲🇽 ❤️
 * In the Mood for Love (Wong Kar-wai) 🇭🇰 [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
 * Gladiator 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
@@ -904,7 +904,7 @@ Français:
 
 * Harry, un ami qui vous veut du bien
 * Les Rivières pourpres #polar
-* La Fausse Suivante (?)
+* La Fausse Suivante (vu ?)
 
 
 ### 2001
@@ -912,7 +912,7 @@ Français:
 [Oscars 74](https://fr.wikipedia.org/wiki/74e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
 * Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
-* Lord of the Rings
+* Lord of the Rings (Peter Jackson) 17🏆 #fantastique
 * Rush Hour 2 #comédie
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
@@ -932,9 +932,9 @@ Français:
 
 [Oscars 75](https://fr.wikipedia.org/wiki/75e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
-* Le Voyage de Chihiro (Hayao Miyazaki)
-* L'Homme sans passé (Kaurismäki)
-* La Cité de Dieu (Brésil)
+* Le Voyage de Chihiro (Hayao Miyazaki) 🇯🇵
+* L'Homme sans passé (Kaurismäki) 🇫🇮
+* La Cité de Dieu 🇧🇷
 * Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
@@ -958,10 +958,10 @@ Français:
 [Oscars 76](https://fr.wikipedia.org/wiki/76e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
 * Master and Commander: The Far Side of the World (Peter Weier, Russell Crowe) 🏆
-* Good Bye, Lenin! (Wolfgang Becker, Allemagne)
+* Good Bye, Lenin! (Wolfgang Becker) 🇩🇪
 * Le Maître du jeu (Runaway Jury)
 * The Station Agent (Peter Dinklage) ☀️🎭
-* Pirates of the Caribbean
+* Pirates of the Caribbean #fantastique
 * Le Monde de Nemo (Pixar)
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
@@ -998,7 +998,6 @@ Français:
 * Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
 * Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
-* RRRrrrr!!!
 * bof: Napoleon Dynamite #coming-of-age #teen-movie
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1006,6 +1005,7 @@ Français:
 * Les Choristes
 * Deux Frères
 * Violence des échanges en milieu tempéré
+* RRRrrrr!!!
 
 
 ### 2005
@@ -1034,7 +1034,7 @@ Français:
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Va, vis et deviens
-* Le Petit Lieutenant (Xavier Beauvois) [📰](https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php) : film policier réaliste et bien documenté
+* Le Petit Lieutenant (Xavier Beauvois) [📰](https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php) : film policier touchant, réaliste et bien documenté
 * La Marche de l'empereur
 
 
@@ -1047,7 +1047,7 @@ Français:
 * Little Miss Sunshine (Paul Dano) ❤️ ☀️
 * Casino Royale ❤️
 * The Fall [🍅](https://www.rottentomatoes.com/m/the-fall-2008) #fantastique
-* Le Labyrinthe de Pan (Guillermo del Toro)
+* Le Labyrinthe de Pan (Guillermo del Toro) 🇪🇸
 * The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee) 🏆
 * Babel (Alejandro González Iñárritu)
@@ -1091,8 +1091,6 @@ Français:
 * The Assassination of Jesse James by the Coward Robert Ford #western
 * 3:10 to Yuma #western
 * Paranoid Park (Gus Van Sant)
-* 99 Francs
-* Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
 * pas vu: https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
@@ -1100,6 +1098,8 @@ Français:
 * Le Scaphandre et le Papillon 🏆
 * Persépolis
 * La Graine et le Mulet
+* 99 Francs
+* Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
 
 
 ### 2008
@@ -1119,7 +1119,7 @@ Français:
 * The Curious Case of Benjamin Button (David Fincher)
 * The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera) #coming-of-age #romcomdrama
-* Valse avec Bachir
+* Valse avec Bachir 🇮🇱
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
 * Walkyrie (Tom Cruise) #ww2
 * Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
@@ -1151,7 +1151,7 @@ Français:
 * Fish Tank
 * An Education (Carey Mulligan)
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
-* The Hangover (Very Bad Trip)
+* The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
@@ -1210,7 +1210,6 @@ Français:
 * Margin Call (Kevin Spacey)
 * Starbuck #comédie
 * Rango
-* Le Moine (Vincent Cassel)
 * Tinker Tailor Soldier Spy (La Taupe) #thriller
 * Django Unchained (Tarentino)
 * Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
@@ -1218,7 +1217,6 @@ Français:
 * Carnage (Roman Polanski, Christoph Waltz)
 * Habemus Papam (Nanni Moretti)
 * Melancholia (Lars von Trier)
-* Rapace (Grégory Gadebois)
 * The Deep Blue Sea (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
 * pas vu: https://www.telerama.fr/cinema/films/elena,428535.php
@@ -1230,7 +1228,9 @@ Français:
 * Polisse (Maïwenn) [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
 * La guerre est déclarée (Valérie Donzelli)
 * Jimmy Rivière
+* Le Moine (Vincent Cassel)
 * L’Exercice de l’État
+* Rapace (Grégory Gadebois)
 * pas vu: Le Havre (Aki Kaurismäki)
 
 
@@ -1252,13 +1252,13 @@ Français:
 * Lincoln (Steven Spielberg, Daniel Day-Lewis)
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
-* Le grand soir (Delépine et Kervern, Benoît Poelvoorde)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Holy Motors (Leos Carax) ❤️
 * Amour (Michael Haneke)
 * De Rouille et d'Os (Jacques Audiard) 9✨
+* Le grand soir (Delépine et Kervern, Benoît Poelvoorde)
 * pas vu: Les Adieux à la reine
 
 
@@ -1268,11 +1268,11 @@ Français:
 * Tom à la Ferme (Xavier Dolan) ❤️
 * Winter Sleep (Nuri Bilge Ceylan) 🇹🇷 🌿
 * Her (Spike Jonze, Joaquin Phoenix) ❤️
-* La grande bellezza (Paolo Sorrentino) 🎥 ❤️ 🏆 (meilleur film étranger) ✨ 🌿
+* La grande bellezza (Paolo Sorrentino) 🇮🇹 🎥 ❤️ 🏆 (meilleur film étranger) ✨ 🌿
 * Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
 * Under the Skin (Scarlett Johansson)
 * Only Lovers Left Alive (Jim Jarmusch) ❤️
-* A Touch of Sin (Chine)
+* A Touch of Sin 🇨🇳
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai) 🇭🇰
@@ -1305,7 +1305,7 @@ Français:
 * Reality (Quentin Dupieux, Alain Chabat)
 * Inherent Vice (Joaquin Phoenix)
 * Leviathan 🇷🇺
-* A Girl Walks Home Alone at Night (Iran)
+* A Girl Walks Home Alone at Night 🇮🇷
 * Dear White People ☀️
 * Coming Home (Zhang Yimou) 🇨🇳
 * Noah (Darren Aronofsky, Russell Crowe)
@@ -1331,7 +1331,7 @@ Français:
 ### 2015
 
 * Les Huit Salopards (Tarentino) ❤️
-* Mustang (Turquie) ❤️
+* Mustang 🇹🇷 ❤️
 * The Assassin 🇨🇳 🎥 ❤️ #arts-martiaux
 * The Revenant (Alejandro González Iñárritu) 🎥
 * The Lobster (Yórgos Lánthimos, Colin Farrell)
@@ -1361,14 +1361,13 @@ Français:
 * Captain Fantastic (Viggo Mortensen) ☀️
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
 * La La Land
-* I Daniel Blake
+* I Daniel Blake (Ken Loach)
 * Better Watch Out #film-de-noel
 * Moana (Disney)
-* Toni Erdmann
+* Toni Erdmann 🇩🇪
 * Hacksaw Ridge (Tu ne tueras point) #film-de-guerre
 * Una (Rooney Mara)
 * The Red Turtle [🍅](https://www.rottentomatoes.com/m/the_red_turtle) #famille
-* Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷 [🍅](https://www.rottentomatoes.com/m/the_wailing)
@@ -1379,12 +1378,13 @@ Français:
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * La Mort de Louis XIV (Albert Serra, Jean-Pierre Léaud) 🌿 ❤️
+* Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * Dans les forêts de Sibérie (musique par Ibrahim Maalouf) #aventure
 
 
 ### 2017
 
-* The Square (Ruben Östlund) [🍅](https://www.rottentomatoes.com/m/the_square_2017) 🌿
+* The Square (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/the_square_2017) 🌿
 * My Days of Mercy [🍅](https://www.rottentomatoes.com/m/my_days_of_mercy) ❤️
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
@@ -1501,7 +1501,7 @@ Français:
 * King Richard (Will Smith) ❤️ : biopic Venus Williams
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
-* Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie
+* Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie #satire
 * Annette (Leos Carax, Adam Driver)
 * Jai Bhim 🇮🇳 [🍅](https://www.rottentomatoes.com/m/jai_bhim)
 * Judas and the Black Messiah
@@ -1544,7 +1544,7 @@ Français:
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
     * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon, Eo 🇵🇱 🌿
-    * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
+    * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1579,7 +1579,7 @@ Français:
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
-* The Boy and the Heron (Hayao Miyazaki) : intrigue décousue
+* The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
