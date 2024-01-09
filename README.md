@@ -429,6 +429,7 @@ Français:
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
+* pas vu: https://www.telerama.fr/cinema/films/adieu-poulet,4250.php (Patrice Dewaere, Lino Ventura)
 
 
 ### 1976
@@ -480,7 +481,7 @@ Français:
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
-* Le Tambour 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
+* Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 * pas vu: https://www.rottentomatoes.com/m/all_that_jazz
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -510,7 +511,6 @@ Français:
 * Mephisto 🇩🇪 🎥 ❤️ 🏆 (meilleur film étranger) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
 * Escape from New York (John Carpenter)
 * An American Werewolf in London (John Landis) #fantastique
-* Coup de torchon (Bertrand Tavernier)
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
 * bof: Chariots of Fire, Prince of the City (Sidney Lumet), Le Hasard (Przypadek) (Krzysztof Kieślowski) 🇵🇱
 
@@ -518,6 +518,7 @@ Français:
 
 * Garde à Vue (Claude Miller, avec Michel Serrault, Lino Ventura) ❤️ 4✨ [📰](https://television.telerama.fr/tele/films/garde-a-vue,27596.php) #policier
 * La Guerre du Feu (JJ Annaud) ✨
+* Coup de torchon (Bertrand Tavernier)
 
 
 ### 1982
@@ -659,6 +660,10 @@ Français:
 * Le Cercle des poètes disparus (Peter Weir)
 * Sea of Love (Al Pacino) #thriller-erotique
 * Do the right thing (Spike Lee)
+
+[Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
+
+* bof: La Vie et rien d'autre (Bertrand Tavernier)
 
 
 ### 1990
