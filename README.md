@@ -203,7 +203,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1951
 
-* Rashomon (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/rashomon)
+* Rashomon (Akira Kurosawa) 🇯🇵 [🍅](https://www.rottentomatoes.com/m/rashomon)
 * A Streetcar Named Desire (Marlon Brando) [🍅](https://www.rottentomatoes.com/m/1020333-streetcar_named_desire) : bof (dans mes souvenirs, vu il y a longtemps)
 
 ### 1953
@@ -213,7 +213,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1954
 
-* Les 7 Samourais (Akira Kurosawa) [🍅](https://www.rottentomatoes.com/m/1018639-seven_samurai)
+* Les 7 Samourais (Akira Kurosawa) 🇯🇵 [🍅](https://www.rottentomatoes.com/m/1018639-seven_samurai)
 
 ### 1956
 
@@ -414,7 +414,7 @@ Français:
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Section spéciale (Costa-Gavras)
-* Dersou Ouzala (Russie/Japon, Akira Kurosawa)
+* Dersou Ouzala (Akira Kurosawa) 🇷🇺🇯🇵
 
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -425,7 +425,7 @@ Français:
 
 * Taxi Driver (Martin Scorsese, Robert de Niro) 💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
 * Le Locataire (Roman Polanski) ❤️ #thriller
-* L'Empire des sens (Nagisa Ōshima) 🎥
+* L'Empire des sens (Nagisa Ōshima) 🇯🇵 🎥
 * Marathon Man (Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man) #thriller
 
 [Césars 2](https://fr.wikipedia.org/wiki/2e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -984,8 +984,8 @@ Pas aimé:
 * OldBoy (Corée) [🍅](https://www.rottentomatoes.com/m/oldboy)
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal)
-* Crazy Kung-Fu (Stephen Chow)
-* Troie
+* Crazy Kung-Fu (Stephen Chow) 🇭🇰
+* Troie (Brad Pitt)
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
@@ -1049,7 +1049,7 @@ Pas aimé:
 * This is England
 * Thank You for Smoking (Jason Reitman)
 * The Devil Wears Prada
-* Fanaa (Bollywood)
+* Fanaa 🇮🇳 #bollywood
 * Blood Diamond
 * Apocalypto (Mel Gibson) : longuet
 * bof: Stranger than fiction (Will Ferrell)
@@ -1072,7 +1072,7 @@ Pas aimé:
 * There Will Be Blood (P.T. Anderson, Daniel Day Lewis, Paul Dano) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
 * Sweeney Todd (Tim Burton) ❤️
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
-* 4 mois, 3 semaines, 2 jours (Roumanie) 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
+* 4 mois, 3 semaines, 2 jours 🇷🇴 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men (frères Coen) ❤️ 🏆
 * Boulevard de la Mort (Death Proof) (Tarentino)
 * Zodiac (David Fincher) #thriller
@@ -1101,20 +1101,17 @@ Pas aimé:
   [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
   [🍅](https://www.rottentomatoes.com/m/two_lovers)
 * Zetwal ❤️ #docu
-* Tulpan (Kazakhstan) ❤️
+* Tulpan 🇰🇿 ❤️
 * Bons baisers de Bruges (Martin McDonagh, Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 * The Reader (Stephen Daldry, Kate Winslet, Ralph Fiennes)
-* Okuribito (Départs) (Japon) (winner 🏆)
+* Okuribito (Départs) 🇯🇵 🏆
 * Gran Torino (Clint Eastwood)
 * Be Kind, Rewind (Michel Gondry, Jack Black)
 * The Wrestler (Darren Aronofsky)
 * The Curious Case of Benjamin Button (David Fincher)
 * The Dark Knight (Christopher Nolan)
-* Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera)
+* Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera) #coming-of-age #romcomdrama
 * Valse avec Bachir
-* Musée haut, musée bas
-* 35 Rhums
-* Les Grandes Personnes (JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 * The Wave (Die Welle) (Allemagne) [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
 * Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
 
@@ -1125,6 +1122,9 @@ Pas aimé:
     * suite de Mon Petit Doigt m'a Dit (2004)
 * Bienvenue chez les Ch'tis (Kad Merad, Dany Boon)
 * Le Premier Jour du reste de ta vie (vu ?)
+* Musée haut, musée bas
+* 35 Rhums
+* Les Grandes Personnes (JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 * La Fille de Monaco
 * pas vu: https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
 
@@ -1272,7 +1272,7 @@ Pas aimé:
 * Dallas Buyers Club (Matthew McConaughey)
 * Ida (Pologne)
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
-* The Lunchbox (Inde)
+* The Lunchbox 🇮🇳
 * Tangerines (Géorgie)
 * pas vu: https://www.rottentomatoes.com/m/fruitvale_station ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
@@ -1299,7 +1299,6 @@ Pas aimé:
 * Dear White People ☀️
 * Coming Home (Chine, Zhang Yimou)
 * Noah (Darren Aronofsky, Russell Crowe)
-* Nos étoiles contraires (?)
 * The Imitation Game (Benedict Cumberbatch)
 * Creep
 * Still Alice
@@ -1307,6 +1306,7 @@ Pas aimé:
 * pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php (Russie)
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
+* bof: Nos étoiles contraires #coming-of-age
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1573,7 +1573,7 @@ Pas aimé:
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: Scrapper ☀️, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
+* bof: Scrapper ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
 
 Français:
 
