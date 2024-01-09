@@ -727,7 +727,7 @@ Français:
 [Oscars 67](https://fr.wikipedia.org/wiki/67e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Pulp Fiction (Tarentino) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
-* Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express) <span title="❝ Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. ❞">💡</span>[💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
+* Chungking Express (Wong Kar-wai) 🇭🇰 ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express) <span title="❝ Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. ❞">💡</span>[💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
 * Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comédie
 * Soleil trompeur (Nikita Mikhalkov) 🇷🇺 🏆 🌿
@@ -881,7 +881,7 @@ Pas aimé:
 
 * Tigre et Dragon (Ang Lee) 🎥 ❤️ 4🏆 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
 * Amores Perros (Alejandro Gonzalez Iñárritu) ❤️
-* In the Mood for Love (Wong Kar-wai) [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
+* In the Mood for Love (Wong Kar-wai) 🇭🇰 [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
 * Gladiator 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt)
@@ -954,8 +954,8 @@ Pas aimé:
 * The Station Agent (Peter Dinklage) ☀️🎭
 * Pirates of the Caribbean
 * Le Monde de Nemo (Pixar)
-* Memories of Murder (Corée) [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
-* Save the Green Planet! (Corée) : esthétique sympa mais scénario nanar
+* Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
+* Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -972,16 +972,16 @@ Pas aimé:
 
 * Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
 * Eternal Sunshine of the Spotless Mind (Michel Gondry, Jim Carrey) ❤️
-* 2046 (Wong Kar-wai) ❤️
+* 2046 (Wong Kar-wai) 🇭🇰 ❤️
 * Sideways (Paul Giamatti) [🍅](https://www.rottentomatoes.com/m/sideways)
 * Shaun of the Dead #comédie
 * Kill Bill (Tarentino)
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar)
 * Mystic River (Clint Eastwood, Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river) #thriller
-* OldBoy (Corée) [🍅](https://www.rottentomatoes.com/m/oldboy)
+* OldBoy 🇰🇷 [🍅](https://www.rottentomatoes.com/m/oldboy)
 * Aviator (Martin Scorsese)
-* Carnets de voyage (Diarios de motocicleta) (Gael García Bernal)
+* Carnets de voyage (Diarios de motocicleta) (Gael García Bernal) 🇦🇷🇨🇱🇵🇪
 * Crazy Kung-Fu (Stephen Chow) 🇭🇰
 * Troie (Brad Pitt)
 * The Passion of the Christ (Mel Gibson) (vu ?)
@@ -1263,9 +1263,9 @@ Pas aimé:
 * A Touch of Sin (Chine)
 * Wrong Cops (Quentin Dupieux)
 * Side Effects (Steven Soderbergh)
-* The Grandmaster (Wong Kar-wai)
+* The Grandmaster (Wong Kar-wai) 🇭🇰
 * The Internship (Vince Vaughn, Owen Wilson) #comédie-de-bureau
-* New World (Corée) [🍅](https://www.rottentomatoes.com/m/new_world) #thriller
+* New World 🇰🇷 [🍅](https://www.rottentomatoes.com/m/new_world) #thriller
 * Dallas Buyers Club (Matthew McConaughey)
 * Ida 🇵🇱
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
@@ -1344,7 +1344,7 @@ Pas aimé:
 
 * Lion ❤️
 * Love and Friendship ❤️
-* Mademoiselle (Corée) 🌿
+* Mademoiselle 🇰🇷 🌿
 * Arrival (Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
@@ -1359,7 +1359,7 @@ Pas aimé:
 * Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * The Lost City of Z
 * The Nice Guys
-* The Wailing (Corée) [🍅](https://www.rottentomatoes.com/m/the_wailing)
+* The Wailing 🇰🇷 [🍅](https://www.rottentomatoes.com/m/the_wailing)
 * pas vu: The Birth of a Nation ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_edge_of_seventeen
 * bof: Moonlight #coming-of-age, Manchester by the Sea
@@ -1441,7 +1441,7 @@ Pas aimé:
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * pas vu: La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
-* bof: Parasite (Corée, Bong Joon-ho) 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
