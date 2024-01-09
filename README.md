@@ -6,7 +6,10 @@ Cette liste regroupe tous les films qui m'ont particulièrement plu, pour une ra
 
 Pour chaque catégorie, les films sont classés par ordre de préférence (les meilleurs en premier), sauf quelques listes où ils sont classés par année de sortie.
 
-* 💙 = film admis comme culte, à avoir vu au moins une fois
+<details>
+<summary>Légende</summary>
+
+* 💙 = film admis comme culte, à avoir vu une fois
 * ❤️ = mes films préférés
 * 🎥 = film à l'esthétique très travaillé
 * 🏆 = nominé aux Oscars
@@ -17,9 +20,11 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * 🌐 = nominé aux Golden Globes
 * 🎭 = nominé aux Bafta
 * 🦁 = nominé à la Mostra de Venise
-* 🍅 = lien vers https://www.rottentomatoes.com/
-* 📰 = lien vers https://www.telerama.fr/
-* ◯ = movie/director available in the [Criterion Channel](https://www.criterionchannel.com/)
+* 🍅 = lien vers [rottentomatoes.com](https://www.rottentomatoes.com/)
+* 📰 = lien vers [telerama.fr](https://www.telerama.fr/)
+* ◯ = film disponible sur [Criterion Channel](https://www.criterionchannel.com/)
+
+</details>
 
 
 ## Sommaire
@@ -870,7 +875,7 @@ Pas aimé:
 * Office Space 💙 #comédie-de-bureau
 * Sleepy Hollow (Tim Burton)
 * Todo sobre my madre (Pedro Almodóvar) 🇪🇸
-* Matrix #sf
+* Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * pas vu: The Insider https://www.rottentomatoes.com/m/insider
 
@@ -1678,7 +1683,7 @@ Français:
 * The Descent (2005)
 * L'Orphelinat (2007)
 * [•REC]  (2007) 🇪🇸
-* The Mist (2007)
+* The Mist (2007) : la fin vend le film, sinon c'est assez médiocre
 * Morse (2008) 🇸🇪 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php) : très beau mais le scénario est un peu mou
 * The Conjuring (2013)
 * The Babadook (2014)
