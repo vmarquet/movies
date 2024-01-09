@@ -17,7 +17,6 @@
 * https://www.rottentomatoes.com/m/all_of_us_strangers
 * Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
-* https://www.rottentomatoes.com/m/scrapper_2023 ☀️
 * https://www.rottentomatoes.com/m/the_iron_claw_2023
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies

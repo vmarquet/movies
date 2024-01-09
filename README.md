@@ -393,7 +393,7 @@ Français:
 
 * Sugarland Express (Steven Spielberg) ❤️
 * Phantom of the Paradise (Brian de Palma) #fantastique
-* Scènes de la vie conjugale (Suède, Ingmar Bergman) 🌐
+* Scènes de la vie conjugale (Ingmar Bergman) 🇸🇪 🌐
 * Don't Look Now #thriller : suspense et musiques +
 * Conversation Secrète (FF Coppola) #thriller
 * Chinatown (Roman Polanski)
@@ -543,6 +543,7 @@ Français:
 [Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Tchao Pantin (Coluche) ❤️
+* pas vu: A nos amours (Maurice Pialat) https://www.telerama.fr/cinema/films/a-nos-amours,5420.php
 
 
 ### 1984
@@ -765,6 +766,7 @@ Français:
 * The Bridges of Madison County (Clint Eastwood, Meryl Streep) ❤️
 * Usual Suspects (Kevin Spacey) #thriller
 * Seven (David Fincher) #thriller
+* Cold Fever 🇮🇸
 * Heat (Michael Mann, Al Pacino) #policier
 * Dead Man (Jim Jarmusch)
 * 12 Monkeys (Terry Gilliam) #sf
@@ -802,6 +804,7 @@ Pas aimé:
       > &emsp; – Well, I am innocent.  
       > &emsp; – That's it, that's exactly how I want you to look! ❞ 
     * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
+* Fargo (frères Coen)
 * Lone Star [🍅](https://www.rottentomatoes.com/m/1074022-lone_star) #neowestern
 
 [Césars 22](https://fr.wikipedia.org/wiki/22e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -827,7 +830,6 @@ Pas aimé:
 * Perdita Durango (Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
-* pas vu: https://www.telerama.fr/cinema/films/cold-fever,31483.php
 * bof: Children of Heaven (Iran), In the Company of Men
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1301,7 +1303,7 @@ Pas aimé:
 * The Imitation Game (Benedict Cumberbatch)
 * Creep
 * Still Alice
-* Snow Therapy (Force Majeure) (France/Suède) (Ruben Östlund) [🍅](https://www.rottentomatoes.com/m/force_majeure_2014)
+* Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/force_majeure_2014)
 * pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php (Russie)
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
@@ -1559,10 +1561,10 @@ Pas aimé:
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
-* El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php)
+* El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
-* Sick of Myself (Norvège)
+* Sick of Myself 🇳🇴
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
@@ -1571,7 +1573,7 @@ Pas aimé:
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: Passages, The Killer (David Fincher), Saltburn, La Salle des Profs (Allemagne), Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
+* bof: Scrapper ☀️, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
 
 Français:
 
