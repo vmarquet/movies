@@ -55,6 +55,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * https://films.criterionchannel.com/
 * https://mubi.com/fr/showing
     * https://mubi.com/fr/specials/mubi-top-1000
+    * https://mubi.com/fr/lists/the-top-1000
     * https://mubi.com/fr/specials/cannes-film-festival
     * https://mubi.com/fr/specials/fortnight
     * https://mubi.com/fr/specials/film-festival-favorites
@@ -477,6 +478,7 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
+* bof: Stalker (Andrei Tarkovsky) #sf
 * pas vu: https://www.rottentomatoes.com/m/all_that_jazz
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1064,6 +1066,7 @@ Français:
 * The Devil Wears Prada
 * Fanaa 🇮🇳 #bollywood
 * Blood Diamond
+* Borat
 * Apocalypto (Mel Gibson) : longuet
 * bof: Stranger than fiction (Will Ferrell)
 * pas vu: https://www.rottentomatoes.com/m/half_nelson
@@ -1258,6 +1261,7 @@ Français:
 * Lincoln (Steven Spielberg, Daniel Day-Lewis)
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
+* bof: 21 jump street
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1322,6 +1326,7 @@ Français:
 * pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
+* pas vu: https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
 * bof: Nos étoiles contraires #coming-of-age
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1428,6 +1433,7 @@ Français:
 * Sorry to Bother You
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
+* pas vu: https://www.rottentomatoes.com/m/tully_2018
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree, Les Oiseaux de Passage, The Spy Gone North, Manta Ray, Roma
 
@@ -1460,6 +1466,7 @@ Français:
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * pas vu: La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
+* pas vu: https://www.rottentomatoes.com/m/booksmart
 * bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1516,6 +1523,7 @@ Français:
 * Dune (Denis Villeneuve) #sf
 * Werewolves Within (comédie/horreur) #film-de-noel
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
+* bof: Drive My Car 🇯🇵
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
