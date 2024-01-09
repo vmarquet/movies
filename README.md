@@ -384,7 +384,7 @@ Français:
 * Badlands (Terrence Malick, Martin Sheen) ❤️
 * Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * bof: Serpico (Sydney Lumet, Al Pacino)
-* pas vu: L'Esprit de la ruche (Espagne) [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
+* pas vu: L'Esprit de la ruche 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * pas vu: https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
 
@@ -497,7 +497,7 @@ Français:
 
 [Oscars 54](https://fr.wikipedia.org/wiki/54e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Mephisto (Allemagne/Hongrie) 🎥 ❤️ 🏆 (meilleur film étranger) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
+* Mephisto 🇩🇪 🎥 ❤️ 🏆 (meilleur film étranger) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
 * Escape from New York (John Carpenter)
 * An American Werewolf in London (John Landis) #fantastique
 * Coup de torchon (Bertrand Tavernier)
@@ -514,7 +514,7 @@ Français:
 
 [Oscars 56](https://fr.wikipedia.org/wiki/55e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Das Boot (Allemagne) ❤️ (6 nominations 🏆)
+* Das Boot 🇩🇪 ❤️ (6 nominations 🏆)
 * Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
 * Gandhi (Richard Attenborough) 🏆
 * Body Heat #thriller-erotique
@@ -1075,7 +1075,7 @@ Pas aimé:
 * Boulevard de la Mort (Death Proof) (Tarentino)
 * Zodiac (David Fincher) #thriller
 * Gone Baby Gone (Ben Affleck)
-* Time crimes (Espagne) [🍅](https://www.rottentomatoes.com/m/time_crimes) #sf
+* Time crimes 🇪🇸 [🍅](https://www.rottentomatoes.com/m/time_crimes) #sf
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
 * The Assassination of Jesse James by the Coward Robert Ford #western
@@ -1110,7 +1110,7 @@ Pas aimé:
 * The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera) #coming-of-age #romcomdrama
 * Valse avec Bachir
-* The Wave (Die Welle) (Allemagne) [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
+* The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
 * Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1131,7 +1131,7 @@ Pas aimé:
 
 * Bright Star (Jane Campion) 🎥 ❤️
 * Inglorious Basterds (Tarentino) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
-* Dans ses yeux (El secreto de sus ojos) (énigme/thriller argentin) ✨
+* Dans ses yeux (El secreto de sus ojos) 🇦🇷 ✨ #thriller #énigme
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Whatever Works (Woody Allen)
 * Zombieland [🍅](https://www.rottentomatoes.com/m/zombieland) #comédie
@@ -1227,7 +1227,7 @@ Pas aimé:
 * Beasts of the Southern Wild ❤️ ☀️
 * Mud ❤️
 * Laurence Anyways (Xavier Dolan) ❤️
-* A Royal Affair (Danemark) ❤️
+* A Royal Affair (Mads Mikkelsen) 🇩🇰 ❤️
 * Cosmopolis (David Cronemberg, Robert Pattinson) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
 * The Place Beyond the Pines
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
@@ -1235,10 +1235,10 @@ Pas aimé:
 * Ted [🍅](https://www.rottentomatoes.com/m/ted_2012) #romcom
 * Moonrise Kingdom (Wes Anderson)
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
-* The Hunt (Danemark, Mads Mikkelsen)
+* The Hunt (Mads Mikkelsen) 🇩🇰
 * Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence) #romcom
 * Lincoln (Steven Spielberg, Daniel Day-Lewis)
-* No (Chili, Gael García Bernal)
+* No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
 * Le grand soir (Delépine et Kervern, Benoît Poelvoorde)
 
@@ -1289,13 +1289,13 @@ Pas aimé:
 * Vampires en toute Intimité (What we do in the Shadows) ❤️ #comédie
 * Birdman
 * Gone Girl (Fincher)
-* Black Coal (Chine) 🧸
+* Black Coal 🇨🇳 🧸
 * Reality (Quentin Dupieux, Alain Chabat)
 * Inherent Vice (Joaquin Phoenix)
 * Leviathan (Russie)
 * A Girl Walks Home Alone at Night (Iran)
 * Dear White People ☀️
-* Coming Home (Chine, Zhang Yimou)
+* Coming Home (Zhang Yimou) 🇨🇳
 * Noah (Darren Aronofsky, Russell Crowe)
 * The Imitation Game (Benedict Cumberbatch)
 * Creep
@@ -1320,7 +1320,7 @@ Pas aimé:
 
 * Les Huit Salopards (Tarentino) ❤️
 * Mustang (Turquie) ❤️
-* The Assassin (Chine) 🎥 ❤️ #arts-martiaux
+* The Assassin 🇨🇳 🎥 ❤️ #arts-martiaux
 * The Revenant (Alejandro González Iñárritu) 🎥
 * The Lobster (Yórgos Lánthimos, Colin Farrell)
 * The Big Short
@@ -1328,7 +1328,7 @@ Pas aimé:
 * Cemetery of Splendour (Apichatpong Weerasethakul) 🇹🇭 🌿
 * Carol (Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
-* Il est de retour (Allemagne) #comédie-satirique
+* Il est de retour 🇩🇪 #comédie-satirique
 * pas vu: https://www.rottentomatoes.com/m/macbeth_2015
 * pas vu: Le Fils de Saul 🇭🇺 🌿
 * pas vu: Me and Earl and the Dying Girl ☀️ #coming-of-age
@@ -1440,7 +1440,7 @@ Pas aimé:
 * A Hidden Life (Terrence Malick) 🎥 [🍅](https://www.rottentomatoes.com/m/a_hidden_life_2019) : bien mais longuet
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
-* pas vu: La odisea de los giles (Heroic Losers) (Argentine) https://www.rottentomatoes.com/m/heroic_losers
+* pas vu: La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 * bof: Parasite (Corée, Bong Joon-ho) 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1462,13 +1462,12 @@ Pas aimé:
 
 [Oscars 93](https://fr.wikipedia.org/wiki/93e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Une vie démente (Belgique, 7 Magritte) ❤️ [📰](https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php)
-* La plataforma (Espagne) ❤️ #sf
-* Drunk (Danemark, Mads Mikkelsen) 🍷 🏆
-* L'Homme Invisible (avec Elisabeth Moss)
-* Mandibules (Quentin Dupieux) 🤘
+* Une vie démente 🇧🇪 (7 Magritte) ❤️ [📰](https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php)
+* La plataforma 🇪🇸 ❤️ #sf
+* Drunk (Mads Mikkelsen) 🇩🇰 🍷 🏆
+* L'Homme Invisible (Elisabeth Moss)
 * The Father (Anthony Hopkins)
-* Riders of Justice (Retfærdighedens ryttere) (Danemark, Mads Mikkelsen) #thriller
+* Riders of Justice (Retfærdighedens ryttere) (Mads Mikkelsen) 🇩🇰 #thriller
 * Palm Springs (Andy Samberg) #romcom
 * Possessor (Brandon Cronenberg) ☀️
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
@@ -1480,6 +1479,7 @@ Pas aimé:
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Teddy [📰](https://www.telerama.fr/cinema/films/teddy,n6689626.php)
+* Mandibules (Quentin Dupieux) 🤘
 * bof: Antoinette dans les Cévennes, Adieu les cons, Les Choses qu'on dit, les Choses qu'on fait, ADN
 
 
@@ -1490,7 +1490,7 @@ Pas aimé:
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie
 * Annette (Leos Carax, Adam Driver)
-* Jai Bhim (India) [🍅](https://www.rottentomatoes.com/m/jai_bhim)
+* Jai Bhim 🇮🇳 [🍅](https://www.rottentomatoes.com/m/jai_bhim)
 * Judas and the Black Messiah
 * Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
@@ -1516,7 +1516,7 @@ Pas aimé:
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
 * Spirited (Ryan Reynolds, Will Ferrell) #film-de-noel
-* Official Competition (Espagne, Penélope Cruz, Antonio Banderas)
+* Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
 * The Whale (Darren Aronofsky, Brendan Fraser)
@@ -1571,7 +1571,7 @@ Pas aimé:
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: Scrapper ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodovar), Il Boemo, The Fabelmans
+* bof: Scrapper ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo, The Fabelmans
 
 Français:
 
@@ -1853,7 +1853,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [David Fincher](https://www.rottentomatoes.com/celebrity/david_fincher)
 * [Quentin Tarentino](https://www.rottentomatoes.com/celebrity/quentin_tarantino)
 * [Jim Jarmusch](https://www.rottentomatoes.com/celebrity/jim_jarmusch)
-* [Pedro Almodovar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
+* [Pedro Almodóvar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
 * Robert Rodriguez
     * Machete, Sin City, From Dusk till Dawn
 * [Michel Gondry](https://www.rottentomatoes.com/celebrity/michel_gondry)
