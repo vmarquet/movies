@@ -253,7 +253,7 @@ Pas aimé:
 
 ### 1960
 
-* La Dolce Vita (Italie, Federico Fellini, Marcello Mastroianni) 🌿
+* La Dolce Vita (Federico Fellini, Marcello Mastroianni) 🇮🇹 🌿
 * Psychose (Alfred Hitchcock) 💙 #horreur
 * L'Île nue 🇯🇵
 * La Vérité (HG Clouzot) 🏆 #film-de-procès
@@ -288,8 +288,8 @@ Français:
         * Les Barbouzes (1964, Georges Lautner)
         * Ne nous fâchons pas (1966, Georges Lautner)
 * Le Mépris (Godard) 🎥🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
-* Le Guépard (Italie, Luchino Visconti) [📰](https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film)) 🌿 : longuet
-* 8½ (Italie, Federico Fellini) : pas fan, trop décousu
+* Le Guépard (Luchino Visconti) 🇮🇹 [📰](https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film)) 🌿 : longuet
+* 8½ (Federico Fellini) 🇮🇹 : pas fan, trop décousu
 
 
 ### 1964
@@ -392,7 +392,7 @@ Français:
 * Badlands (Terrence Malick, Martin Sheen) ❤️
 * L'Homme des Hautes Plaines (Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter) #western-spaghetti
 * Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
-* Amarcord (Italie, Federico Fellini) [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
+* Amarcord (Federico Fellini) 🇮🇹 [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * bof: Serpico (Sydney Lumet, Al Pacino)
 * pas vu: L'Esprit de la ruche 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
