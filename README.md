@@ -195,7 +195,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * The Lady from Shanghai (Orson Welles) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
 * Macbeth (Orson Welles)
 * La Corde (Alfred Hitchcock)
-* pas vu: https://www.rottentomatoes.com/m/bicycle_thieves (Italie)
+* pas vu: https://www.rottentomatoes.com/m/bicycle_thieves 🇮🇹
 
 ### 1949
 
@@ -397,7 +397,7 @@ Français:
 * Don't Look Now #thriller : suspense et musiques +
 * Conversation Secrète (FF Coppola) #thriller
 * Chinatown (Roman Polanski)
-* pas vu: Parfum de femme (Italie) https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
+* pas vu: Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
 Français:
 
@@ -502,9 +502,7 @@ Français:
 * An American Werewolf in London (John Landis) #fantastique
 * Coup de torchon (Bertrand Tavernier)
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
-* bof:
-    * Chariots of Fire, Prince of the City (Sidney Lumet)
-    * Le Hasard (Przypadek) (Krzysztof Kieślowski, Pologne)
+* bof: Chariots of Fire, Prince of the City (Sidney Lumet), Le Hasard (Przypadek) (Krzysztof Kieślowski) 🇵🇱
 
 [Césars 7](https://fr.wikipedia.org/wiki/7e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1164,7 +1162,7 @@ Pas aimé:
 * Shutter Island (Martin Scorsese)
 * True Grit (frères Coen) #western
 * Four Lions ❤️
-* Uncle Boonmee Who Can Recall His Past Lives (Thailande) 🌿
+* Uncle Boonmee Who Can Recall His Past Lives (Apichatpong Weerasethakul) 🇹🇭 🌿
 * The King's Speech (Le Discours d'un roi)
 * 127 Hours (Danny Boyle, James Franco)
 * Machete (Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/machete)
@@ -1191,7 +1189,7 @@ Pas aimé:
 
 ### 2011
 
-* Il était une fois en Anatolie (Nuri Bilge Ceylan) 🌿
+* Il était une fois en Anatolie (Nuri Bilge Ceylan) 🇹🇷 🌿
 * Midnight in Paris (Woody Allen) 🎥
 * Drive (Nicolas Winding Refn, Ryan Gosling) ❤️
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
@@ -1203,7 +1201,7 @@ Pas aimé:
 * Le Moine (Vincent Cassel)
 * Tinker Tailor Soldier Spy (La Taupe) #thriller
 * Django Unchained (Tarentino)
-* Une séparation (Asghar Farhadi) (vainqueur 🏆✨🌐)
+* Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
 * Habemus Papam (Nanni Moretti)
@@ -1256,7 +1254,7 @@ Pas aimé:
 
 * 12 Years a Slave (Steve McQueen) 🎥 ❤️ 🏆
 * Tom à la Ferme (Xavier Dolan) ❤️
-* Winter Sleep (Nuri Bilge Ceylan) 🌿
+* Winter Sleep (Nuri Bilge Ceylan) 🇹🇷 🌿
 * Her (Spike Jonze, Joaquin Phoenix) ❤️
 * La grande bellezza (Paolo Sorrentino) 🎥 ❤️ 🏆 (meilleur film étranger) ✨ 🌿
 * Gravity (Alfonso Cuarón, Sandra Bullock, George Clooney) ❤️
@@ -1267,19 +1265,19 @@ Pas aimé:
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai)
 * The Internship (Vince Vaughn, Owen Wilson) #comédie-de-bureau
-* L'Écume des jours (Michel Gondry)
 * New World (Corée) [🍅](https://www.rottentomatoes.com/m/new_world) #thriller
 * Dallas Buyers Club (Matthew McConaughey)
-* Ida (Pologne)
+* Ida 🇵🇱
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
-* Tangerines (Géorgie)
+* Tangerines 🇬🇪
 * pas vu: https://www.rottentomatoes.com/m/fruitvale_station ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
-* bof: All is Lost (Robert Redford), Nosotros los Nobles (Mexique), The Best Offer
+* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, The Best Offer
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
+* L'Écume des jours (Michel Gondry)
 * bof: Quai d'Orsay (Bertrand Tavernier), La vie d'Adèle, L'inconnu du lac, Jimmy P., La Vénus à la fourrure
 
 
@@ -1327,12 +1325,12 @@ Pas aimé:
 * The Lobster (Yórgos Lánthimos, Colin Farrell)
 * The Big Short
 * Bone Tomahawk #western
-* Cemetery of Splendour (vu ?) 🌿
+* Cemetery of Splendour (Apichatpong Weerasethakul) 🇹🇭 🌿
 * Carol (Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
 * Il est de retour (Allemagne) #comédie-satirique
 * pas vu: https://www.rottentomatoes.com/m/macbeth_2015
-* pas vu: Le Fils de Saul 🌿
+* pas vu: Le Fils de Saul 🇭🇺 🌿
 * pas vu: Me and Earl and the Dying Girl ☀️ #coming-of-age
 * pas vu: https://www.rottentomatoes.com/m/long_way_north #famille
 
@@ -1405,8 +1403,8 @@ Pas aimé:
 * La Ballade de Buster Scruggs (frères Coen) #western
 * Bird Box (Sandra Bullock)
 * Bohemian Rhapsody (Rami Malek) 4🏆
-* Capernaum (Capharnaüm) (Liban) 🏆
-* Heureux comme Lazzaro (Italie)
+* Capernaum (Capharnaüm) 🇱🇧 🏆
+* Heureux comme Lazzaro 🇮🇹
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
@@ -1428,7 +1426,7 @@ Pas aimé:
 
 ### 2019
 
-* Scheme Birds (documentaire) ❤️
+* Scheme Birds (documentaire) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❤️
 * The Lighthouse (Willem Dafoe, Robert Pattinson) 🎥 ❤️
 * 1917 (Sam Mendes) 🎥 #film-de-guerre
 * Joker (Joaquin Phoenix) ❤️
@@ -1512,7 +1510,7 @@ Pas aimé:
 
 ### 2022
 
-* Le otto montagne (Italie) ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
+* Le otto montagne 🇮🇹 ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
@@ -1532,7 +1530,7 @@ Pas aimé:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon, Eo (Pologne) 🌿
+    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon, Eo 🇵🇱 🌿
     * Burning Days (Turquie) [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
