@@ -756,7 +756,7 @@ Français:
 
 * La Cité de la peur ❤️
 * Le Péril jeune (Cédric Klapisch)
-* Léon
+* Léon (Luc Besson)
 * pas vu: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * pas vu: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
 * pas vu: https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
@@ -1655,14 +1655,10 @@ Français:
 * The Island (2005) [🍅](https://www.rottentomatoes.com/m/island) : voir juste la première heure, après c'est nul
 * pas vu: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
 
+|     |     |     |
+| --- | --- | --- |
+| ![](images/affiches/brazil.jpg) | ![](images/affiches/bladerunner.jpg) | ![](images/affiches/gattaca.jpg) |
 
-![](images/affiches/brazil.jpg)
-
-![](images/affiches/bladerunner.jpg)
-
-![](images/affiches/gattaca.jpg)
-
-![](images/affiches/D9.jpg)
 
 
 
@@ -1699,10 +1695,7 @@ Français:
 
 [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 
-
-![](images/affiches/silence.jpeg)
-
-[gag](https://loadingartist.com/comic/horror-movie/)
+[bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
 
 
