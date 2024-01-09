@@ -876,6 +876,7 @@ Français:
 * Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * pas vu: The Insider https://www.rottentomatoes.com/m/insider
+* pas vu: https://www.rottentomatoes.com/m/boys_dont_cry
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -918,6 +919,8 @@ Français:
 * The Barber (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
 * pas vu: A Beautiful Mind 🏆
+* pas vu: Y tu mamá también (Alfonso Cuarón) 🇲🇽 [🍅](https://www.rottentomatoes.com/m/y_tu_mama_tambien)
+* pas vu: https://www.rottentomatoes.com/m/son_of_the_bride
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -965,6 +968,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
+* pas vu: https://www.rottentomatoes.com/m/the_return
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -998,6 +1002,8 @@ Français:
 * Kingdom of Heaven (Ridley Scott)
 * Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * bof: Napoleon Dynamite #coming-of-age #teen-movie
+* pas vu: https://www.rottentomatoes.com/m/maria_full_of_grace
+* pas vu: https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1060,6 +1066,7 @@ Français:
 * Blood Diamond
 * Apocalypto (Mel Gibson) : longuet
 * bof: Stranger than fiction (Will Ferrell)
+* pas vu: https://www.rottentomatoes.com/m/half_nelson
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1544,6 +1551,8 @@ Français:
 * bof:
     * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon, Eo 🇵🇱 🌿
     * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
+* pas vu: https://www.rottentomatoes.com/m/aftersun
+* pas vu: https://www.rottentomatoes.com/m/decision_to_leave 🇰🇷
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 

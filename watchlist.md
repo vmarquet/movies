@@ -41,3 +41,23 @@
 * https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php TTTT
 * https://www.telerama.fr/cinema/moi-capitaine-de-matteo-garrone-l-odyssee-touchante-de-deux-candidats-a-l-exil_cri-7030445.php
 
+
+### Vrac
+
+* la regle du jeu (film francais TTT)
+* the hunter (film du moyen orient)
+* la tour infernale
+* la loi du milieu TT (polar avec Michael Caine)
+* les uns et les autres
+* how the west as won (le film avec champ ultra large)
+* the duchess
+* manhattan murder mystery (woody allen)
+* MADE IN USA de Jean Luc Godard
+* mary poppins
+* ben X
+* vacances M. Hulot
+* brubaker
+* cuirassé potemkine (montage ++)
+* balls of fury (le film sur le ping avec Christopher Walken)
+* bonsai TT (mexicain)
+* taxandria
