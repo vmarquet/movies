@@ -229,8 +229,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1958
 
 * Ascenseur pour l'échafaud (Louis Malle) ❤️ #policier
-* La Ballade de Narayama (Japon) (note: le remake de 1983 est très bon également)
-* pas vu: https://www.rottentomatoes.com/m/1009583-hidden_fortress (Japon)
+* La Ballade de Narayama 🇯🇵 (note: le remake de 1983 est très bon également)
+* pas vu: https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
 
 
 ### 1959
@@ -252,7 +252,7 @@ Pas aimé:
 
 * La Dolce Vita (Italie, Federico Fellini, Marcello Mastroianni) 🌿
 * Psychose (Alfred Hitchcock) 💙 #horreur
-* L'Île nue (Japon)
+* L'Île nue 🇯🇵
 * La Vérité (HG Clouzot) 🏆 #film-de-procès
 * pas vu: https://www.telerama.fr/cinema/films/plein-soleil,16625.php #thriller
 
@@ -322,7 +322,7 @@ Français:
   [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
 * Le Samouraï (Jean-Pierre Melville) 🎥🎥 #policier
-* pas vu: https://www.telerama.fr/cinema/films/nuages-epars,53150.php (Japon)
+* pas vu: https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
 
 
 ### 1968
@@ -534,7 +534,7 @@ Français:
 [Oscars 56](https://fr.wikipedia.org/wiki/56e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Flashdance 🎥 [📰](https://www.lemonde.fr/m-le-mag/article/2023/08/18/flashdance-un-film-culte-qui-a-failli-ne-jamais-voir-le-jour_6185760_4500055.html)
-* La Ballade de Narayama (Japon) 🌿
+* La Ballade de Narayama 🇯🇵 🌿
 * Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo)
 
@@ -566,11 +566,11 @@ Français:
 
 [Oscars 58](https://fr.wikipedia.org/wiki/58e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* White Nights (Soleil de nuit) (Russie, Mikhail Baryshnikov)
+* White Nights (Soleil de nuit) (Mikhail Baryshnikov) 🇷🇺
 * Witness (Peter Weier, Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness) #thriller
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie #coming-of-age
-* Tampopo (Japon)
+* Tampopo 🇯🇵
 * pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
 * pas vu: https://www.rottentomatoes.com/m/come_and_see
 * bof: Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
@@ -604,7 +604,7 @@ Français:
 [Oscars 60](https://fr.wikipedia.org/wiki/60e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Full Metal Jacket (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket) #film-de-guerre
-* Les Ailes du Désir (Wim Wenders) [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
+* Les Ailes du Désir (Wim Wenders) 🇩🇪 [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
 * Cobra Verde (Werner Herzog, Klaus Kinski)
 * Les Incorruptibles (Brian de Palma) #policier
@@ -730,7 +730,7 @@ Français:
 * Chungking Express (Hongkong, Wong Kar-wai) ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express) <span title="❝ Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. ❞">💡</span>[💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
 * Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comédie
-* Soleil trompeur (Russie, Nikita Mikhalkov) 🏆🌿
+* Soleil trompeur (Nikita Mikhalkov) 🇷🇺 🏆 🌿
 * Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
 * Quiz Show (Robert Redford, John Turturro) #film-à-énigme : witty dialogue-driven movie
     *   <details>
@@ -820,7 +820,7 @@ Pas aimé:
 * The Fifth Element (Luc Besson) #sf
 * La Vie est Belle (Roberto Benigni) #ww2
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem) 🇪🇸
-* Cure (Japon, Kiyoshi Kurosawa) 🎥
+* Cure (Kiyoshi Kurosawa) 🇯🇵 🎥
 * Donnie Brasco (Al Pacino, Johnny Depp, Michael Madsen) [🍅](https://www.rottentomatoes.com/m/donnie_brasco)
 * L.A. Confidential (Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
@@ -886,7 +886,7 @@ Pas aimé:
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt)
 * Dancer in the Dark (Lars von Trier)
-* Battle Royale (Japon)
+* Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry)
 * Aniki mon Frère (Takeshi Kitano) #policier
 * bof: Almost Famous
@@ -1292,7 +1292,7 @@ Pas aimé:
 * Black Coal 🇨🇳 🧸
 * Reality (Quentin Dupieux, Alain Chabat)
 * Inherent Vice (Joaquin Phoenix)
-* Leviathan (Russie)
+* Leviathan 🇷🇺
 * A Girl Walks Home Alone at Night (Iran)
 * Dear White People ☀️
 * Coming Home (Zhang Yimou) 🇨🇳
@@ -1301,7 +1301,7 @@ Pas aimé:
 * Creep
 * Still Alice
 * Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/force_majeure_2014)
-* pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php (Russie)
+* pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
 * bof: Nos étoiles contraires #coming-of-age
@@ -1398,7 +1398,7 @@ Pas aimé:
 * Three Billboards (Martin McDonagh, Frances McDormand) ❤️
 * Come as you are ❤️ [🍅](https://www.rottentomatoes.com/m/come_as_you_are_2020) ☀️
 * Dunkirk (Christopher Nolan) #film-de-guerre
-* La Saveur des Ramens (Japon/Singapour)
+* La Saveur des Ramens 🇯🇵🇸🇬
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * La Ballade de Buster Scruggs (frères Coen) #western
 * Bird Box (Sandra Bullock)
@@ -1407,7 +1407,7 @@ Pas aimé:
 * Heureux comme Lazzaro 🇮🇹
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
-* pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php
+* pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree, Les Oiseaux de Passage, The Spy Gone North, Manta Ray, Roma
@@ -1518,11 +1518,11 @@ Pas aimé:
 * Spirited (Ryan Reynolds, Will Ferrell) #film-de-noel
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
-* Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
+* Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php) 🇩🇰🇮🇸
 * The Whale (Darren Aronofsky, Brendan Fraser)
 * Triangle of Sadness (Ruben Östlund) [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
 * As Bestas 🇪🇸 [🍅](https://www.rottentomatoes.com/m/the_beasts) : "un thriller à l’hyperréalisme terrifiant" (télérama)
-* La Femme de Tchaikovski (Russie) [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
+* La Femme de Tchaikovski 🇷🇺 [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
 * War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
@@ -1622,29 +1622,28 @@ Français:
 
 ### Science-Fiction
 
-* Brazil  (Terry Gilliam) 💙 [🍅](https://www.rottentomatoes.com/m/1003033-brazil)
-* Blade Runner  (Ridley Scott, avec Harrison Ford) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/blade_runner)
-* Bienvenue à Gattaca   (avec Ethan Hawke, Jude Law) 💙❤️ [🍅](https://www.rottentomatoes.com/m/gattaca)
-* La Planète des Singes  (l'original, avec Charlton Heston) [🍅](https://www.rottentomatoes.com/m/1016397-planet_of_the_apes)
-* Solaris (1972, Russie, Andreï Tarkovski) 🌿
-* District 9  (2009) [🍅](https://www.rottentomatoes.com/m/district_9)
-* Soleil Vert  (1973, avec Charlton Heston) ❤️ [🍅](https://www.rottentomatoes.com/m/soylent_green)
-* Moon  (2009) 🎥 [🍅](https://www.rottentomatoes.com/m/10009075-moon)
-* Alien  (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien) [❓](https://twitter.com/ATRightMovies/status/1661664750273527810)
-* Alien IV  [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
-  (JP Jeunet)
+* Brazil (Terry Gilliam) 💙 [🍅](https://www.rottentomatoes.com/m/1003033-brazil)
+* Blade Runner (Ridley Scott, avec Harrison Ford) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/blade_runner)
+* Bienvenue à Gattaca (Ethan Hawke, Jude Law) 💙❤️ [🍅](https://www.rottentomatoes.com/m/gattaca)
+* La Planète des Singes (1968, Charlton Heston) [🍅](https://www.rottentomatoes.com/m/1016397-planet_of_the_apes)
+* Solaris (1972, Andreï Tarkovski) 🇷🇺 🌿
+* District 9 (2009) [🍅](https://www.rottentomatoes.com/m/district_9)
+* Soleil Vert (1973, avec Charlton Heston) ❤️ [🍅](https://www.rottentomatoes.com/m/soylent_green)
+* Moon (2009) 🎥 [🍅](https://www.rottentomatoes.com/m/10009075-moon)
+* Alien (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien) [❓](https://twitter.com/ATRightMovies/status/1661664750273527810)
+* Alien IV (JP Jeunet) [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
 * Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen)
 * Minority Report (2002, Spielberg)
 * Artificial Intelligence: A.I. (2001, Spielberg)
-* 2001 A Space Odyssey   (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
-* Le Monde sur le Fil (1973, Rainer Werner Fassbinder)
+* 2001 A Space Odyssey (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
+* Le Monde sur le Fil (1973, Rainer Werner Fassbinder) 🇩🇪
 * Cube (1997)
 * Dark City (1998)
-* THX 1138   (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
+* THX 1138 (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
 * La Guerre des mondes (2005, Spielberg)
 * Antiviral
 * I, Robot (2003, Will Smith)
-* The Island  (2005) (voir juste la première heure, après c'est nul) [🍅](https://www.rottentomatoes.com/m/island)
+* The Island (2005) [🍅](https://www.rottentomatoes.com/m/island) : voir juste la première heure, après c'est nul
 * pas vu: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
 
 
@@ -1660,23 +1659,22 @@ Français:
 
 ### Epouvante / Horreur
 
-
 * Rosemary's Baby (1968, Roman Polanski) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/rosemarys_baby) [💡](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
 * Suspiria (1977) : pour le cadrage et l'esthétique
 * Shining (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
 * Le Silence des Agneaux (1991, avec Anthony Hopkins) 💙 [🍅](https://www.rottentomatoes.com/m/silence_of_the_lambs)
 * Scream (1996, Wes Craven)
-* Ringu (1998, Japon) [🍅](https://www.rottentomatoes.com/m/ringu)
+* Ringu (1998) 🇯🇵 [🍅](https://www.rottentomatoes.com/m/ringu)
 * The Blair Witch Project (1999) 💙
 * The Others (2001, Alejandro Amenabar)
-* Kairo (2001, Japon)
+* Kairo (2001) 🇯🇵
 * Dragon Rouge (2002) : pas inoubliable mais prequel potable du Silence des Agneaux
 * Saw (2004)
 * The Descent (2005)
 * L'Orphelinat (2007)
-* [•REC]  (2007)
+* [•REC]  (2007) 🇪🇸
 * The Mist (2007)
-* Morse (2008) 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php) : très beau mais le scénario est un peu mou
+* Morse (2008) 🇸🇪 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php) : très beau mais le scénario est un peu mou
 * The Conjuring (2013)
 * The Babadook (2014)
 * It Follows (2014)
@@ -1685,7 +1683,7 @@ Français:
 * A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)
 * Us (2019) : ok sans plus
-* Impetigore (2019)
+* Impetigore (2019) 🇮🇩 ❤️
 * His House (2020) : 1ère heure bien, fin décevante
 * The Night House (2021)
 * Scream (2022)
