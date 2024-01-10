@@ -167,7 +167,7 @@ def add_movie_poster doc
     next if li.text.strip.start_with?('bof')
 
     title = li.text.split('(')[0].split(':')[0].split('#')[0]
-    title = title.tr('éèê', 'e')
+    title = title.tr('éèêë', 'e')
     title = title.tr('àâ', 'a')
     title = title.tr('ù', 'u')
     title = title.gsub(/[^0-9a-z' ]/i, '') # remove all emojis
