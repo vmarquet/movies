@@ -39,7 +39,8 @@ def main
   add_summary_anchor doc
   a_with_target_blank doc
   create_id_for_anchors doc
-  add_awards_links doc
+  add_movie_poster doc
+  # add_awards_links doc
 
   File.open(OUTPUT, 'w+') do |file|
     file.write doc.to_s
@@ -105,6 +106,109 @@ def to_anchor s
   s = s.gsub(' ', '-')
 end
 
+def add_poster_css doc
+  head = doc.css('head')[0]
+  head << """
+<style>
+  img.poster {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    max-height: 600px;
+    border-radius: 0px 0px 0px 3px;
+  }
+</style>
+
+<script>
+  function setPosterPath(path) {
+    var image = document.querySelector('img.poster');
+    image.src = path;
+  }
+</script>
+"""
+end
+
+def add_poster_div doc
+  body = doc.css('body')[0]
+  body << """
+<img class='poster' src='' />
+"""
+end
+
+def add_movie_poster doc
+  add_poster_css doc
+  add_poster_div doc
+
+  keys = YAML.load_file('secrets.yml')
+  tmdb_api_key = keys['tmdb']['api_key']
+
+  if tmdb_api_key.nil?
+    puts "Could not find tmdb api key"
+    return
+  else
+    puts "Found tmdb api key"
+  end
+
+  puts "Loading movie posters..."
+  posters_file = 'scripts/movie_posters_database.json'
+  posters_db = JSON.parse File.read(posters_file)
+  puts "Found #{posters_db.keys.size} posters in #{posters_file}"
+
+  i = 0
+
+  doc.css('li').each do |li|
+    i += 1
+    next if i >= 200
+
+    next if li.text.strip.empty?
+    next if li.text.strip.start_with?('pas vu')
+    next if li.text.strip.start_with?('bof')
+
+    title = li.text.split('(')[0].split(':')[0]
+    title = title.tr('éèê', 'e')
+    title = title.gsub(/[^0-9a-z' ]/i, '') # remove all emojis
+    title = title.strip
+    next if title.size > 35
+    next if ["1960", "1970", "1980", "1990", "2000", "2010", "2020", "ScienceFiction", "https", "Now You See It", "The Closer Look"].include?(title)
+
+    if posters_db.key?(title)
+      poster_path = "https://image.tmdb.org/t/p/original/#{posters_db[title]}"
+    else
+      next
+      url = "https://api.themoviedb.org/3/search/movie?api_key=#{tmdb_api_key}&language=en-US&query=#{CGI.escape title}&page=1&include_adult=false"
+
+      # HTTP non S
+      # response = Net::HTTP.get_response('api.themoviedb.org', "/3/search/movie?api_key=#{tmdb_api_key}&language=en-US&query=#{title}&page=1&include_adult=false")
+      
+      # net = Net::HTTP.new('api.themoviedb.org', 443)
+      # net.use_ssl = true
+      # net.get_response("/3/search/movie?api_key=#{tmdb_api_key}&language=en-US&query=#{title}&page=1&include_adult=false")
+
+      puts "Searching movie #{title} : #{url}"
+      response = HTTParty.get(url)
+
+      data = JSON.parse response.body
+      next if data['results'].empty?
+
+      rel_poster_path = data['results'][0]['poster_path']
+      next if rel_poster_path.nil?
+
+      poster_path = "https://image.tmdb.org/t/p/original/#{rel_poster_path}"
+      # poster_path = "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+      puts "Found new poster at #{rel_poster_path}"
+
+      posters_db[title] = rel_poster_path
+
+      sleep 3
+    end
+
+    File.write(posters_file, JSON.pretty_generate(posters_db))
+
+    li['onmouseover'] = "console.log(\"#{poster_path}\"); setPosterPath(\"#{poster_path}\");"
+    li['onmouseleave'] = "setPosterPath(\"\");"
+  end
+end
+
 def add_awards_links doc
   # byebug
 
@@ -160,8 +264,6 @@ def add_awards_links doc
     response = HTTParty.get(url)
 
     data = JSON.parse response.body
-
-    byebug
 
     li['class'] = (li['class'] || '') << " tooltip"
     li << '<span class="tooltiptext">Tooltip text</span>'
