@@ -1333,10 +1333,12 @@ Français:
 
 * Les Combattants (Adèle Haenel) ❤️
 * Diplomatie (Niels Arestrup, André Dussolier) ❤️
+* L'enlèvement de Michel Houellebecq ❤️
 * Saint-Laurent (Gaspard Ulliel)
 * Hippocrate
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier) #comédie
 * Babysitting (Christian Clavier) ❤️ #comédie
+* Near Death Experience (Délépine et Kervern, Michel Houellebecq)
 
 
 ### 2015
@@ -1491,7 +1493,7 @@ Français:
 * Une vie démente 🇧🇪 (7 Magritte) ❤️ [📰](https://www.telerama.fr/cinema/films/une-vie-demente-1-191572152.php)
 * La plataforma 🇪🇸 ❤️ #sf
 * Drunk (Mads Mikkelsen) 🇩🇰 🍷 🏆
-* L'Homme Invisible (Elisabeth Moss)
+* L'Homme Invisible (Elisabeth Moss) #thriller
 * The Father (Anthony Hopkins)
 * Riders of Justice (Retfærdighedens ryttere) (Mads Mikkelsen) 🇩🇰 #thriller
 * Palm Springs (Andy Samberg) #romcom
@@ -1756,9 +1758,6 @@ Français:
 * Rire et Châtiment (2003, José Garcia) [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
 * L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)
 * Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
-* avec Michel Houellebecq:
-    * L'enlèvement de Michel Houellebecq ❤️
-    * Near Death Experience
 
 Mes préférés:
 
