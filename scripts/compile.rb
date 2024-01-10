@@ -168,6 +168,8 @@ def add_movie_poster doc
 
     title = li.text.split('(')[0].split(':')[0].split('#')[0]
     title = title.tr('éèê', 'e')
+    title = title.tr('àâ', 'a')
+    title = title.tr('ù', 'u')
     title = title.gsub(/[^0-9a-z' ]/i, '') # remove all emojis
     title = title.strip
     next if title.size > 35
@@ -205,7 +207,7 @@ def add_movie_poster doc
 
     File.write(posters_file, JSON.pretty_generate(posters_db))
 
-    li['onmouseover'] = "console.log(\"#{poster_path}\"); setPosterPath(\"#{poster_path}\");"
+    li['onmouseover'] = "setPosterPath(\"#{poster_path}\");"
     li['onmouseleave'] = "setPosterPath(\"\");"
   end
 end

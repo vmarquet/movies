@@ -1624,8 +1624,7 @@ Français:
 * The Truman Show (Jim Carrey)
 * Eternal Sunshine (et autres de Michel Gondry) 🎥
 * Memento (Christopher Nolan)
-* eXistenZ  [🍅](https://www.rottentomatoes.com/m/existenz)
-  (David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe)
+* eXistenZ (David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe) [🍅](https://www.rottentomatoes.com/m/existenz)
 * Inception (Christopher Nolan)
 * Shutter Island (Martin Scorsese)
 * Le Limier (Kenneth Branagh, Jude Law, Michael Caine) [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php) : je préfère ce remake, l'original est longuet
