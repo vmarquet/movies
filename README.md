@@ -899,7 +899,7 @@ Français:
 * Dancer in the Dark (Lars von Trier)
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry)
-* Aniki mon Frère (Takeshi Kitano) #policier
+* Aniki mon Frère (Takeshi Kitano) 🇯🇵 #policier
 * bof: Almost Famous
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1305,9 +1305,9 @@ Français:
 
 ### 2014
 
-* Nightcrawler ❤️
+* Nightcrawler (Jake Gyllenhaal) ❤️
 * Ex Machina ❤️
-* Whiplash ❤️
+* Whiplash (Damien Chazelle) ❤️
 * Vampires en toute Intimité (What we do in the Shadows) ❤️ #comédie
 * Birdman
 * Gone Girl (Fincher)
@@ -1373,7 +1373,7 @@ Français:
 * Arrival (Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
-* La La Land
+* La La Land (Damien Chazelle)
 * I Daniel Blake (Ken Loach)
 * Better Watch Out #film-de-noel
 * Moana (Disney)
@@ -1436,6 +1436,7 @@ Français:
 * pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
 * pas vu: https://www.rottentomatoes.com/m/tully_2018
+* pas vu: https://www.rottentomatoes.com/m/first_man (Damien Chazelle)
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
 * bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree, Les Oiseaux de Passage, The Spy Gone North, Manta Ray, Roma
 
@@ -1559,7 +1560,7 @@ Français:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon, Eo 🇵🇱 🌿
+    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Eo 🇵🇱 🌿
     * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
 * pas vu: https://www.rottentomatoes.com/m/aftersun
 * pas vu: https://www.rottentomatoes.com/m/decision_to_leave 🇰🇷
