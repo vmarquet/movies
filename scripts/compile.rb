@@ -36,6 +36,7 @@ def main
   # common processing
   doc = Nokogiri::HTML text
 
+  set_page_title doc
   add_summary_anchor doc
   a_with_target_blank doc
   create_id_for_anchors doc
@@ -72,6 +73,12 @@ end
 def convert_with_grip
   `grip #{SOURCE} --export #{OUTPUT}`
   File.read(OUTPUT)
+end
+
+def set_page_title doc
+  doc.css('title').each do |title|
+    title.children[0].content = 'vmarquet/movies'
+  end
 end
 
 def add_summary_anchor doc
