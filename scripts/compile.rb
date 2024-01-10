@@ -124,12 +124,46 @@ def add_poster_css doc
     max-height: 600px;
     border-radius: 0px 0px 0px 3px;
   }
+
+  img.fadein {
+    animation: fadeIn 0.3s;
+  }
+
+  img.fadeout {
+    animation: fadeOut 0.5s;
+  }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  @keyframes fadeOut {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+  }
 </style>
 
 <script>
+  function resetAnimation(image) {
+    image.style.animation = 'none';
+    image.offsetHeight; /* trigger reflow */
+    image.style.animation = null; 
+  }
+
   function setPosterPath(path) {
     var image = document.querySelector('img.poster');
     image.src = path;
+
+    if (path == null) {
+      image.classList.remove('fadein');
+      image.classList.add('fadeout');
+      resetAnimation(image);
+    } else {
+      image.classList.remove('fadeout');
+      image.classList.add('fadein');
+      resetAnimation(image);
+    }
   }
 </script>
 """

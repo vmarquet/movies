@@ -73,12 +73,46 @@
     max-height: 600px;
     border-radius: 0px 0px 0px 3px;
   }
+
+  img.fadein {
+    animation: fadeIn 0.3s;
+  }
+
+  img.fadeout {
+    animation: fadeOut 0.3s;
+  }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  @keyframes fadeOut {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+  }
 </style>
 
 <script>
+  function resetAnimation(image) {
+    image.style.animation = 'none';
+    image.offsetHeight; /* trigger reflow */
+    image.style.animation = null; 
+  }
+
   function setPosterPath(path) {
     var image = document.querySelector('img.poster');
     image.src = path;
+
+    if (path == null) {
+      image.classList.remove('fadein');
+      image.classList.add('fadeout');
+      resetAnimation(image);
+    } else {
+      image.classList.remove('fadeout');
+      image.classList.add('fadein');
+      resetAnimation(image);
+    }
   }
 </script>
 </head>
@@ -1190,7 +1224,7 @@
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//8Wdd3fQfbbQeoSfWpHrDfaFNhBU.jpg");' onmouseleave='setPosterPath("");'>Dancer in the Dark (Lars von Trier)</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//gFX7NuBUeKysOB9nEzRqVpHNT32.jpg");' onmouseleave='setPosterPath("");'>Battle Royale 🇯🇵</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//nOr5diUZxphmAD3li9aiILyI28F.jpg");' onmouseleave='setPosterPath("");'>Billy Elliot (Stephen Daldry)</li>
-<li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//rSRJozSafFFuiFT9XnwsE1ricHT.jpg");' onmouseleave='setPosterPath("");'>Aniki mon Frère (Takeshi Kitano) #policier</li>
+<li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//rSRJozSafFFuiFT9XnwsE1ricHT.jpg");' onmouseleave='setPosterPath("");'>Aniki mon Frère (Takeshi Kitano) 🇯🇵 #policier</li>
 <li>bof: Almost Famous</li>
 </ul>
 <p><a href="https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film" rel="noopener" target="_blank">Césars 26</a></p>
@@ -1678,10 +1712,12 @@
 <ul>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//xC0QDynS4kQm2F3cQHWcR1Fx1lI.jpg");' onmouseleave='setPosterPath("");'>Les Combattants (Adèle Haenel) ❤️</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//p4G0i0a5NJphxCrYOZIrcYlz15O.jpg");' onmouseleave='setPosterPath("");'>Diplomatie (Niels Arestrup, André Dussolier) ❤️</li>
+<li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//3Liu58WXxqNaY58oThNrmd8IlgK.jpg");' onmouseleave='setPosterPath("");'>L'enlèvement de Michel Houellebecq ❤️</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//yGcyc53IbZkmga96ulmn8AFkGn2.jpg");' onmouseleave='setPosterPath("");'>Saint-Laurent (Gaspard Ulliel)</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//qOwNCoSG0Kxwj13IboP4lNOJkpD.jpg");' onmouseleave='setPosterPath("");'>Hippocrate</li>
 <li>Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier) #comédie</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//oUhq9FG0nKUs2DtPVGR1b0q2RCT.jpg");' onmouseleave='setPosterPath("");'>Babysitting (Christian Clavier) ❤️ #comédie</li>
+<li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//2gW68Fgq2evFK3DNgmTWbGziloC.jpg");' onmouseleave='setPosterPath("");'>Near Death Experience (Délépine et Kervern, Michel Houellebecq)</li>
 </ul>
 <h3 id="2015">
 <a id="user-content-2015" class="anchor" aria-hidden="true" tabindex="-1" href="#2015"><span aria-hidden="true" class="octicon octicon-link"></span></a>2015 <a href="#top">↑</a>
@@ -1858,7 +1894,7 @@
 </li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//8ZX18L5m6rH5viSYpRnTSbb9eXh.jpg");' onmouseleave='setPosterPath("");'>La plataforma 🇪🇸 ❤️ #sf</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//xO5GRtkEvlRcBcYHTzIjgxJvQlw.jpg");' onmouseleave='setPosterPath("");'>Drunk (Mads Mikkelsen) 🇩🇰 🍷 🏆</li>
-<li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//wKzzDT9wZavFtifeeqIyDOawUcJ.jpg");' onmouseleave='setPosterPath("");'>L'Homme Invisible (Elisabeth Moss)</li>
+<li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//wKzzDT9wZavFtifeeqIyDOawUcJ.jpg");' onmouseleave='setPosterPath("");'>L'Homme Invisible (Elisabeth Moss) #thriller</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//pr3bEQ517uMb5loLvjFQi8uLAsp.jpg");' onmouseleave='setPosterPath("");'>The Father (Anthony Hopkins)</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//sshNnwmQLk720iBQ0dZg3GVGKfK.jpg");' onmouseleave='setPosterPath("");'>Riders of Justice (Retfærdighedens ryttere) (Mads Mikkelsen) 🇩🇰 #thriller</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg");' onmouseleave='setPosterPath("");'>Palm Springs (Andy Samberg) #romcom</li>
@@ -2210,12 +2246,6 @@
 </li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//aeYtaowpQTgp5OvIsimvsFHyNzG.jpg");' onmouseleave='setPosterPath("");'>L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)</li>
 <li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//3uwgelD3AyHyNZSqkGyqXMuG90g.jpg");' onmouseleave='setPosterPath("");'>Fais Moi Plaisir (2009) <a href="https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php" rel="noopener" target="_blank">📰</a>
-</li>
-<li>avec Michel Houellebecq:
-<ul>
-<li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//3Liu58WXxqNaY58oThNrmd8IlgK.jpg");' onmouseleave='setPosterPath("");'>L'enlèvement de Michel Houellebecq ❤️</li>
-<li onmouseover='setPosterPath("https://image.tmdb.org/t/p/original//2gW68Fgq2evFK3DNgmTWbGziloC.jpg");' onmouseleave='setPosterPath("");'>Near Death Experience</li>
-</ul>
 </li>
 </ul>
 <p>Mes préférés:</p>
