@@ -154,17 +154,12 @@ def add_movie_poster doc
   posters_db = JSON.parse File.read(posters_file)
   puts "Found #{posters_db.keys.size} posters in #{posters_file}"
 
-  i = 0
-
   doc.css('li').each do |li|
-    i += 1
-    next if i >= 200
-
     next if li.text.strip.empty?
     next if li.text.strip.start_with?('pas vu')
     next if li.text.strip.start_with?('bof')
 
-    title = li.text.split('(')[0].split(':')[0]
+    title = li.text.split('(')[0].split(':')[0].split('#')[0]
     title = title.tr('éèê', 'e')
     title = title.gsub(/[^0-9a-z' ]/i, '') # remove all emojis
     title = title.strip
@@ -174,7 +169,6 @@ def add_movie_poster doc
     if posters_db.key?(title)
       poster_path = "https://image.tmdb.org/t/p/original/#{posters_db[title]}"
     else
-      next
       url = "https://api.themoviedb.org/3/search/movie?api_key=#{tmdb_api_key}&language=en-US&query=#{CGI.escape title}&page=1&include_adult=false"
 
       # HTTP non S
@@ -199,7 +193,7 @@ def add_movie_poster doc
 
       posters_db[title] = rel_poster_path
 
-      sleep 3
+      sleep 0.1
     end
 
     File.write(posters_file, JSON.pretty_generate(posters_db))

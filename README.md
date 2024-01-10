@@ -1500,7 +1500,7 @@ Français:
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
-    * Sound of Metal, Soul (Pixar), News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Pig [🍅](https://www.rottentomatoes.com/m/pig_2021), The Call of the Wild
+    * Sound of Metal, Soul (Pixar), News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig [🍅](https://www.rottentomatoes.com/m/pig_2021), The Call of the Wild
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
