@@ -478,7 +478,7 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
-* bof: Stalker (Andrei Tarkovsky) #sf
+* bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf
 * pas vu: https://www.rottentomatoes.com/m/all_that_jazz
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -856,6 +856,7 @@ Français:
 * Los amantes del círculo polar 🇪🇸 : inégal
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
 * pas vu: Saving Private Ryan (Steven Spielberg) #film-de-guerre
+* pas vu: https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -993,7 +994,7 @@ Français:
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar) 🇪🇸
 * Mystic River (Clint Eastwood, Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river) #thriller
-* OldBoy 🇰🇷 [🍅](https://www.rottentomatoes.com/m/oldboy)
+* OldBoy (Park Chan-wook) 🇰🇷 [🍅](https://www.rottentomatoes.com/m/oldboy)
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal) 🇦🇷🇨🇱🇵🇪
 * Crazy Kung-Fu (Stephen Chow) 🇭🇰
@@ -1006,6 +1007,7 @@ Français:
 * bof: Napoleon Dynamite #coming-of-age #teen-movie
 * pas vu: https://www.rottentomatoes.com/m/maria_full_of_grace
 * pas vu: https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
+* pas vu: https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1369,7 +1371,7 @@ Français:
 
 * Lion ❤️
 * Love and Friendship ❤️
-* Mademoiselle 🇰🇷 🌿
+* Mademoiselle (Park Chan-wook) 🇰🇷 🌿
 * Arrival (Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
@@ -1438,7 +1440,7 @@ Français:
 * pas vu: https://www.rottentomatoes.com/m/tully_2018
 * pas vu: https://www.rottentomatoes.com/m/first_man (Damien Chazelle)
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* bof: A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree, Les Oiseaux de Passage, The Spy Gone North, Manta Ray, Roma
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, Les Oiseaux de Passage, The Spy Gone North 🇰🇷, Manta Ray, Roma
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1526,7 +1528,7 @@ Français:
 * Dune (Denis Villeneuve) #sf
 * Werewolves Within (comédie/horreur) #film-de-noel
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car 🇯🇵
+* bof: Drive My Car 🇯🇵, Onoda 🇯🇵
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1534,7 +1536,7 @@ Français:
 * Bac Nord
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
-* bof: Titane, Onoda, L'évènement, Boite noire, Benedetta
+* bof: Titane, L'évènement, Boite noire, Benedetta
 * pas vu: Albatros (Xavier Beauvois)
 
 
@@ -1557,13 +1559,13 @@ Français:
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
 * War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
 * Fire Island [🍅](https://www.rottentomatoes.com/m/fire_island_2022) #romcom
+* Decision to Leave (Park Chan-wook) 🇰🇷
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Eo 🇵🇱 🌿
+    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Corsage, Eo 🇵🇱 🌿
     * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
-* pas vu: https://www.rottentomatoes.com/m/aftersun
-* pas vu: https://www.rottentomatoes.com/m/decision_to_leave 🇰🇷
+* pas vu: Broker (Koreeda) 🇰🇷, Aftersun
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1706,6 +1708,10 @@ Français:
 * Scream (2022)
 
 [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
+
+Pas vu:
+
+* https://www.rottentomatoes.com/m/audition_1999 🇯🇵
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
