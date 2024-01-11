@@ -479,7 +479,7 @@ Français:
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 * bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf
-* pas vu: https://www.rottentomatoes.com/m/all_that_jazz
+* pas vu: https://www.rottentomatoes.com/m/all_that_jazz 🌿
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -716,7 +716,7 @@ Français:
 
 [Oscars 66](https://fr.wikipedia.org/wiki/66e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* The Piano (Jane Campion)
+* The Piano (Jane Campion) 🌿
 * Arizona Dream (Emir Kusturica, Johnny Depp) 💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream) #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
 * La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
@@ -971,6 +971,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
+* bog: Elephant (Gus Van Sant) 🌿
 * pas vu: https://www.rottentomatoes.com/m/the_return
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1137,7 +1138,7 @@ Français:
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Entre les murs #film-scolaire
+* Entre les murs 🌿 #film-scolaire
 * Le Crime est notre affaire (Catherine Frot, André Dussollier, Claude Rich)
     * suite de Mon Petit Doigt m'a Dit (2004)
 * Bienvenue chez les Ch'tis (Kad Merad, Dany Boon)
@@ -1268,7 +1269,7 @@ Français:
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Holy Motors (Leos Carax) ❤️
-* Amour (Michael Haneke)
+* Amour (Michael Haneke) 🌿
 * De Rouille et d'Os (Jacques Audiard) 9✨
 * Le grand soir (Delépine et Kervern, Benoît Poelvoorde)
 * pas vu: Les Adieux à la reine
@@ -1302,7 +1303,7 @@ Français:
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * L'Écume des jours (Michel Gondry)
-* bof: Quai d'Orsay (Bertrand Tavernier), La vie d'Adèle, L'inconnu du lac, Jimmy P., La Vénus à la fourrure
+* bof: Quai d'Orsay (Bertrand Tavernier), La vie d'Adèle 🌿, L'inconnu du lac, Jimmy P., La Vénus à la fourrure
 
 
 ### 2014
@@ -1364,7 +1365,7 @@ Français:
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * La Loi du Marché : bien aimé mais pas inoubliable
-* bof: Dheepan (Jacques Audiard)
+* bof: Dheepan (Jacques Audiard) 🌿
 
 
 ### 2016
@@ -1376,7 +1377,7 @@ Français:
 * Captain Fantastic (Viggo Mortensen) ☀️
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
 * La La Land (Damien Chazelle)
-* I Daniel Blake (Ken Loach)
+* I Daniel Blake (Ken Loach) 🌿
 * Better Watch Out #film-de-noel
 * Moana (Disney)
 * Toni Erdmann 🇩🇪
@@ -1440,7 +1441,7 @@ Français:
 * pas vu: https://www.rottentomatoes.com/m/tully_2018
 * pas vu: https://www.rottentomatoes.com/m/first_man (Damien Chazelle)
 * City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, Les Oiseaux de Passage, The Spy Gone North 🇰🇷, Manta Ray, Roma
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, Les Oiseaux de Passage, The Spy Gone North 🇰🇷, Manta Ray, Roma
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1506,6 +1507,7 @@ Français:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
     * Sound of Metal, Soul (Pixar), News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig [🍅](https://www.rottentomatoes.com/m/pig_2021), The Call of the Wild
+* pas vu: https://www.rottentomatoes.com/m/true_mothers 🇯🇵
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1552,7 +1554,7 @@ Français:
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php) 🇩🇰🇮🇸
 * The Whale (Darren Aronofsky, Brendan Fraser)
-* Triangle of Sadness (Ruben Östlund) [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
+* Triangle of Sadness (Ruben Östlund) 🌿 [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
 * As Bestas 🇪🇸 [🍅](https://www.rottentomatoes.com/m/the_beasts) : "un thriller à l’hyperréalisme terrifiant" (télérama)
 * La Femme de Tchaikovski 🇷🇺 [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
@@ -1712,6 +1714,7 @@ Français:
 Pas vu:
 
 * https://www.rottentomatoes.com/m/audition_1999 🇯🇵
+* https://www.rottentomatoes.com/m/one_cut_of_the_dead 🇯🇵
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
