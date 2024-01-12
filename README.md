@@ -880,6 +880,7 @@ Français:
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * pas vu: The Insider https://www.rottentomatoes.com/m/insider
 * pas vu: https://www.rottentomatoes.com/m/boys_dont_cry
+* pas vu: Rosetta (frères Dardenne) 🌿
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1040,6 +1041,8 @@ Français:
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2) #sf
 * bof: Mémoires d'une geisha
+* pas vu: L'Enfant (frères Dardenne) 🌿
+* pas vu: https://www.rottentomatoes.com/m/sympathy_for_lady_vengeance (Park Chan-wook) 🇰🇷
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1361,6 +1364,7 @@ Français:
 * pas vu: Le Fils de Saul 🇭🇺 🌿
 * pas vu: Me and Earl and the Dying Girl ☀️ #coming-of-age
 * pas vu: https://www.rottentomatoes.com/m/long_way_north #famille
+* pas vu: https://www.telerama.fr/cinema/films/les-cowboys%2C498504.php TTT (Thomas Bidegain)
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1536,10 +1540,10 @@ Français:
 
 * Illusions Perdues (avec Xavier Dolan) ❤️ 7✨ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
 * Bac Nord
+* Albatros (Xavier Beauvois)
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
 * bof: Titane, L'évènement, Boite noire, Benedetta
-* pas vu: Albatros (Xavier Beauvois)
 
 
 ### 2022
