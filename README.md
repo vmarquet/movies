@@ -202,6 +202,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1949
 
 * The third man (Orson Welles) 🎥 [🍅](https://www.rottentomatoes.com/m/the_third_man) : esthétique superbe mais intrigue triviale
+* pas vu: https://www.rottentomatoes.com/m/1020312-stray_dog (Akira Kurosawa)
 
 ### 1951
 
@@ -333,6 +334,7 @@ Français:
 * Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968) ❤️
 * Le Grand Silence (Sergio Corbucci, Ennio Morricone, Klaus Kinski) #western-spaghetti
 * L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair) #policier
+* pas vu: https://www.rottentomatoes.com/m/swimmer
 
 
 ### 1969
@@ -545,6 +547,7 @@ Français:
 * La Ballade de Narayama 🇯🇵 🌿
 * Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo)
+* pas vu: https://www.rottentomatoes.com/m/national_lampoons_vacation
 
 [Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -637,6 +640,7 @@ Français:
 * Mississippi Burning (Gene Hackman, William Dafoe)
 * Gorillas in the mist (Sigourney Weaver) [🍅](https://www.rottentomatoes.com/m/gorillas_in_the_mist) : longuet
 * They Live (John Carpenter) 💙
+* pas vu: https://www.rottentomatoes.com/m/midnight_run
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1201,6 +1205,7 @@ Français:
 * Up in the Air (Jason Reitman, George Clooney)
 * pas vu: L'Illusionniste
 * pas vu: Winter's Bone (Jennifer Lawrence) ☀️
+* pas vu: https://www.rottentomatoes.com/m/i_saw_the_devil_2010
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1333,7 +1338,7 @@ Français:
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
 * pas vu: https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
-* bof: Nos étoiles contraires #coming-of-age
+* bof: Nos étoiles contraires #coming-of-age, Sils Maria
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1477,6 +1482,7 @@ Français:
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * pas vu: La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 * pas vu: https://www.rottentomatoes.com/m/booksmart
+* pas vu: https://www.rottentomatoes.com/m/the_gangster_the_cop_the_devil
 * bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1605,6 +1611,7 @@ Français:
 * Sick of Myself 🇳🇴
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
+* Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi

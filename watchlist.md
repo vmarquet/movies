@@ -1,3 +1,8 @@
+### 2021
+
+* https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
+
+
 ### 2022
 
 * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
@@ -9,7 +14,6 @@
 ### 2023
 
 * Poor Things (Yórgos Lánthimos) [🍅](https://www.rottentomatoes.com/m/poor_things) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
-* Napoléon (Ridley Scott)
 * https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * la beauté du geste (Japon)
@@ -28,6 +32,7 @@
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
     * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php
 * https://yts.mx/movies/polite-society-2023
+* https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
 
 
 ### 2024
@@ -61,3 +66,10 @@
 * balls of fury (le film sur le ping avec Christopher Walken)
 * bonsai TT (mexicain)
 * taxandria
+* https://www.rottentomatoes.com/m/the_death_of_mr_lazarescu
+* https://www.rottentomatoes.com/m/3_iron
+* https://www.rottentomatoes.com/m/broken_wings_2002
+* https://www.rottentomatoes.com/m/last_life_in_the_universe
+
+
+
