@@ -861,6 +861,7 @@ Français:
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
 * pas vu: Saving Private Ryan (Steven Spielberg) #film-de-guerre
 * pas vu: https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
+* pas vu: https://www.rottentomatoes.com/m/gods_and_monsters
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -882,6 +883,7 @@ Français:
 * Todo sobre my madre (Pedro Almodóvar) 🇪🇸
 * The Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
+* The Mummy (Brendan Fraser) #famille
 * pas vu: The Insider https://www.rottentomatoes.com/m/insider
 * pas vu: https://www.rottentomatoes.com/m/boys_dont_cry
 * pas vu: Rosetta (frères Dardenne) 🌿
@@ -1369,10 +1371,10 @@ Français:
 * pas vu: Le Fils de Saul 🇭🇺 🌿
 * pas vu: Me and Earl and the Dying Girl ☀️ #coming-of-age
 * pas vu: https://www.rottentomatoes.com/m/long_way_north #famille
-* pas vu: https://www.telerama.fr/cinema/films/les-cowboys%2C498504.php TTT (Thomas Bidegain)
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
+* Les Cowboys (Thomas Bidegain) [📰](https://www.telerama.fr/cinema/films/les-cowboys%2C498504.php)
 * La Loi du Marché : bien aimé mais pas inoubliable
 * bof: Dheepan (Jacques Audiard) 🌿
 
