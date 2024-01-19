@@ -23,6 +23,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * 🍅 = lien vers [rottentomatoes.com](https://www.rottentomatoes.com/)
 * 📰 = lien vers [telerama.fr](https://www.telerama.fr/)
 * ◯ = film disponible sur [Criterion Channel](https://www.criterionchannel.com/)
+* ▶️ = lien pour voir le film
 
 </details>
 
@@ -772,6 +773,7 @@ Français:
 * pas vu: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * pas vu: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
 * pas vu: https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
+* pas vu: Emilie Muller [▶️](https://www.youtube.com/watch?v=Om8e9494G-Q) #short
 
 
 ### 1995
@@ -842,6 +844,7 @@ Français:
 * Perdita Durango (Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
+* Doodlebug (Christopher Nolan) [▶️](https://www.youtube.com/watch?v=kahb97XojzI) #short
 * bof: Children of Heaven 🇮🇷, In the Company of Men
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1174,6 +1177,7 @@ Français:
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
+* bof: Valhalla Rising (Nicolas Winding Refn)
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1308,7 +1312,7 @@ Français:
 * Tangerines 🇬🇪
 * pas vu: https://www.rottentomatoes.com/m/fruitvale_station ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
-* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, The Best Offer
+* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Best Offer
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1400,7 +1404,7 @@ Français:
 * The Wailing 🇰🇷 [🍅](https://www.rottentomatoes.com/m/the_wailing)
 * pas vu: The Birth of a Nation ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_edge_of_seventeen
-* bof: Moonlight #coming-of-age, Manchester by the Sea
+* bof: Moonlight #coming-of-age, Manchester by the Sea, The Neon Demon (Nicolas Winding Refn)
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1469,7 +1473,7 @@ Français:
 ### 2019
 
 * Scheme Birds (documentaire) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❤️
-* The Lighthouse (Willem Dafoe, Robert Pattinson) 🎥 ❤️
+* The Lighthouse (Robert Eggers, Willem Dafoe, Robert Pattinson) 🎥 ❤️
 * 1917 (Sam Mendes) 🎥 #film-de-guerre
 * Joker (Joaquin Phoenix) ❤️
 * Jojo Rabbit (Taika Waititi) ❤️
@@ -1577,7 +1581,7 @@ Français:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Corsage, Eo 🇵🇱 🌿
+    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Corsage, The Northman (Robert Eggers), Eo 🇵🇱 🌿
     * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
 * pas vu: Broker (Koreeda) 🇰🇷, Aftersun
 
@@ -1712,7 +1716,7 @@ Français:
 * The Conjuring (2013)
 * The Babadook (2014)
 * It Follows (2014)
-* The Witch (2015) ❤️
+* The Witch (2015, Robert Eggers) ❤️
 * Better Watch Out (2016)
 * A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)

@@ -25,6 +25,7 @@
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies
 * https://www.rottentomatoes.com/m/monster_2023 (Koreeda) 🇯🇵
+* https://www.rottentomatoes.com/m/the_peasants
 * tous TTT:
     * fermer les yeux
     * quand les vagues se retirent
