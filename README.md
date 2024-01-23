@@ -481,7 +481,7 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
-* bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf
+* bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers)
 * pas vu: https://www.rottentomatoes.com/m/all_that_jazz 🌿
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -568,6 +568,7 @@ Français:
 * The Killing Fields [🍅](https://www.rottentomatoes.com/m/killing_fields)
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 * pas vu: https://www.rottentomatoes.com/m/birdy
+* pas vu: https://www.rottentomatoes.com/m/repo_man
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -862,6 +863,7 @@ Français:
 * Kirikou et la Sorcière #famille
 * Los amantes del círculo polar 🇪🇸 : inégal
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
+* bof: Pi (Darren Aronofsky)
 * pas vu: Saving Private Ryan (Steven Spielberg) #film-de-guerre
 * pas vu: https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
 * pas vu: https://www.rottentomatoes.com/m/gods_and_monsters
@@ -1368,7 +1370,7 @@ Français:
 * The Big Short
 * Bone Tomahawk #western
 * Cemetery of Splendour (Apichatpong Weerasethakul) 🇹🇭 🌿
-* Carol (Rooney Mara, Cate Blanchett)
+* Carol (Todd Haynes, Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
 * Il est de retour 🇩🇪 #comédie-satirique
 * pas vu: https://www.rottentomatoes.com/m/macbeth_2015
@@ -1482,7 +1484,7 @@ Français:
 * Le Roi (Timothée Chalamet)
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * The Two Popes
-* Dark Waters (Mark Ruffalo)
+* Dark Waters (Todd Haynes, Mark Ruffalo)
 * A Hidden Life (Terrence Malick) 🎥 [🍅](https://www.rottentomatoes.com/m/a_hidden_life_2019) : bien mais longuet
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
@@ -1632,7 +1634,7 @@ Français:
 * Anatomie d'une chute (Justine Triet) 🌿 #film-de-procès
 * Les Trois Mousquetaires #aventure
 * La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
-* bof: Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec)
+* bof: Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec)
 
 
 
