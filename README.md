@@ -76,6 +76,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * [Now You See It](https://www.youtube.com/c/NowYouSeeIt/videos)
 * [Every Frame a Painting](https://www.youtube.com/c/everyframeapainting/videos)
 * [The Closer Look](https://www.youtube.com/c/TheCloserLook/videos)
+* [Blow Up (arte)](https://www.youtube.com/@blowuplactualiteducinemaou121)
 * [La chronique de Thomas Bidegain - France Inter](https://www.youtube.com/watch?v=JDaK6vHlGWk&list=PL43OynbWaTMKQkvk6IBpR6Ux74MGOYSM5&index=2)
 * [Konbini video club](https://www.youtube.com/results?search_query=konbini+video+club)
 * [Le Fossoyeur de Films](https://www.youtube.com/user/deadwattsofficiel/videos)
@@ -889,6 +890,7 @@ Français:
 * The Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * The Mummy (Brendan Fraser) #famille
+* bof: Sixième Sens (Bruce Willis)
 * pas vu: The Insider https://www.rottentomatoes.com/m/insider
 * pas vu: https://www.rottentomatoes.com/m/boys_dont_cry
 * pas vu: Rosetta (frères Dardenne) 🌿
@@ -936,6 +938,7 @@ Français:
 * pas vu: A Beautiful Mind 🏆
 * pas vu: Y tu mamá también (Alfonso Cuarón) 🇲🇽 [🍅](https://www.rottentomatoes.com/m/y_tu_mama_tambien)
 * pas vu: https://www.rottentomatoes.com/m/son_of_the_bride
+* pas vu: https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1281,6 +1284,7 @@ Français:
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
 * bof: 21 jump street
+* pas vu: https://www.rottentomatoes.com/m/ruby_sparks (Paul Dano)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1429,7 +1433,7 @@ Français:
 * Darkest Hour #ww2
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: I Don't Feel at Home in This World Anymore ☀️
-* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf
+* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, Okja
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1491,7 +1495,7 @@ Français:
 * pas vu: La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 * pas vu: https://www.rottentomatoes.com/m/booksmart
 * pas vu: https://www.rottentomatoes.com/m/the_gangster_the_cop_the_devil
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, The Farewell
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1621,6 +1625,7 @@ Français:
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
 * Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
+* Dumb Money (Paul Dano)
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  

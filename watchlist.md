@@ -47,6 +47,7 @@
 * https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php TTTT
 * https://www.telerama.fr/cinema/moi-capitaine-de-matteo-garrone-l-odyssee-touchante-de-deux-candidats-a-l-exil_cri-7030445.php
 * https://www.rottentomatoes.com/m/totem_2023
+* https://www.rottentomatoes.com/m/hundreds_of_beavers
 
 
 ### Vrac
@@ -72,6 +73,7 @@
 * https://www.rottentomatoes.com/m/3_iron
 * https://www.rottentomatoes.com/m/broken_wings_2002
 * https://www.rottentomatoes.com/m/last_life_in_the_universe
+* https://www.rottentomatoes.com/m/brigsby_bear_2017
 
 
 
