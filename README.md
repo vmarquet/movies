@@ -256,6 +256,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Psychose (Alfred Hitchcock) 💙 #horreur
 * L'Île nue 🇯🇵
 * La Vérité (HG Clouzot) 🏆 #film-de-procès
+* bof: A Bout de Souffle (Jean-Luc Godard)
 * pas vu: https://www.telerama.fr/cinema/films/plein-soleil,16625.php #thriller
 
 
@@ -286,7 +287,7 @@ Français:
     * même genre:
         * Les Barbouzes (1964, Georges Lautner)
         * Ne nous fâchons pas (1966, Georges Lautner)
-* Le Mépris (Godard) 🎥🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
+* Le Mépris (Jean-Luc Godard) 🎥🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
 * Le Guépard (Luchino Visconti) 🇮🇹 [📰](https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film)) 🌿 : longuet
 * 8½ (Federico Fellini) 🇮🇹 : pas fan, trop décousu
 
@@ -305,7 +306,7 @@ Français:
 
 ### 1965
 
-* Pierrot le Fou (Godard, Belmondo) 🎥🎥 ❤️
+* Pierrot le Fou (Jean-Luc Godard, Belmondo) 🎥🎥 ❤️
 * Alphaville (Jean-Luc Godard) ❤️ #sf
 * Et pour quelques Dollars de plus (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/for_a_few_dollars_more) #western-spaghetti
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
@@ -328,6 +329,7 @@ Français:
   [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
 * Le Samouraï (Jean-Pierre Melville) 🎥🎥 #policier
+* La Chinoise (Jean-Luc Godard)
 * pas vu: https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
 
 
@@ -699,6 +701,7 @@ Français:
 
 * Tous les matins du monde (Alain Corneau, Gérard Depardieu) ❤️ [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
 * Les Amants du Pont Neuf (Leos Carax, Denis Lavant, Juliette Binoche) ❤️
+* Délicatessen (Jean-Pierre Jeunet)
 
 
 ### 1992
@@ -764,8 +767,11 @@ Français:
         * > ❝ If you're at a table and you don't know who the sucker is, it's you. ❞ (talking about poker)
         </pre>
         </details>
-* bof: Forrest Gump, The Shawshank Redemption
+* Four Weddings and a Funeral #romcom
+* bof: Forrest Gump, The Shawshank Redemption, Ed Wood
 * pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
+* pas vu: https://www.rottentomatoes.com/m/heavenly_creatures
+* pas vu: https://www.rottentomatoes.com/m/madness_of_king_george
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1362,6 +1368,7 @@ Français:
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier) #comédie
 * Babysitting (Christian Clavier) ❤️ #comédie
 * Near Death Experience (Délépine et Kervern, Michel Houellebecq)
+* Adieu au langage (Jean-Luc Godard)
 
 
 ### 2015
@@ -1854,9 +1861,7 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 
 * [Stanley Kubrick](https://www.rottentomatoes.com/celebrity/stanley_kubrick)
 * [Woody Allen](https://www.rottentomatoes.com/celebrity/woody_allen)
-    * Midnight in Paris, Scoop, Whatever Works, Escrocs mais pas trop
 * [Peter Weier](https://www.rottentomatoes.com/celebrity/peter_weir)
-    * Witness, Dead Poets Society, Etat Second
 * [Francis Ford Coppola](https://www.rottentomatoes.com/celebrity/francis_ford_coppola)
 * [Terry Gilliam](https://www.rottentomatoes.com/celebrity/terry_gilliam)
 * [Clint Eastwood](https://www.rottentomatoes.com/celebrity/clint_eastwood) [📰](https://www.telerama.fr/cinema/on-a-classe-les-films-de-clint-eastwood,-du-nanar-au-chef-doeuvre,n6605076.php)
@@ -1875,7 +1880,6 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 * [Jim Jarmusch](https://www.rottentomatoes.com/celebrity/jim_jarmusch)
 * [Pedro Almodóvar](https://www.rottentomatoes.com/celebrity/pedro_almodovar)
 * Robert Rodriguez
-    * Machete, Sin City, From Dusk till Dawn
 * [Michel Gondry](https://www.rottentomatoes.com/celebrity/michel_gondry)
 * [Kenneth Brannagh](https://www.rottentomatoes.com/celebrity/kenneth_branagh)
 * [Quentin Dupieux](https://www.rottentomatoes.com/celebrity/quentin_dupieux)
@@ -1886,13 +1890,11 @@ Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d
 Français:
 
 * [Jean-Luc Godard](https://www.telerama.fr/recherche/films?q=jean-luc%20godard)
-    * Pierrot le Fou, Alphaville, Le Mépris, A Bout de Souffle, La Chinoise, Adieu au langage
 * [Claude Sautet](https://www.telerama.fr/recherche/films?q=claude%20sautet)
 * [Jean-Paul Rappeneau](https://www.telerama.fr/recherche/films?q=rappeneau)
 * [Jean-Jacques Annaud](https://www.telerama.fr/recherche/films?q=annaud)
 * [Leos Carax](https://www.telerama.fr/recherche/films?q=leos%20carax)
 * [Jean-Pierre Jeunet](https://www.telerama.fr/recherche/films?q=Jean-Pierre%20Jeunet)
-    * Amélie Poulain, Délicatessen, Alien IV, La Cité des Enfants Perdus
 * [Xavier Dolan](https://www.rottentomatoes.com/celebrity/xavier_dolan)
 
 Japonais:

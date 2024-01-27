@@ -17,7 +17,6 @@
 * What We Do in the Shadows (2019) [🍅](https://www.rottentomatoes.com/tv/what_we_do_in_the_shadows) +++
 * Space Force (2020, Netflix) [🍅](https://www.rottentomatoes.com/tv/space_force) +++
 * The Great (2020) [🍅](https://www.rottentomatoes.com/tv/the_great) +++
-* pas vu: Beef (2023) 🌐 [🍅](https://www.rottentomatoes.com/tv/beef)
 
 #### Français
 
@@ -25,7 +24,7 @@
 * La Flamme (2020) ++
 * Le Flambeau (2022) ++
 * LOL : Qui rit, sort ! (2021) [📰](https://www.allocine.fr/series/ficheserie_gen_cserie=27798.html)
-* à voir: au service de la France
+* Au Service de la France
 
 
 ### Drame
