@@ -454,7 +454,7 @@ Français:
 * The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
 * Sorcerer [🍅](https://www.rottentomatoes.com/m/1019441-sorcerer) : première moitiée longuette mais épique ensuite
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
-* pas vu: Eraserhead (David Lynch)
+* pas vu: Eraserhead (David Lynch), Annie Hall (Woody Allen)
 * bof: Opening Night
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -922,6 +922,7 @@ Français:
 * Billy Elliot (Stephen Daldry)
 * Aniki mon Frère (Takeshi Kitano) 🇯🇵 #policier
 * bof: Almost Famous
+* pas vu: https://www.rottentomatoes.com/m/1095420-high_fidelity
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1177,6 +1178,7 @@ Français:
 
 * Bright Star (Jane Campion) 🎥 ❤️
 * Inglorious Basterds (Tarentino) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
+* Fantastic Mr. Fox (Wes Anderson)
 * Dans ses yeux (El secreto de sus ojos) 🇦🇷 ✨ #thriller #énigme
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Whatever Works (Woody Allen)
@@ -1289,7 +1291,7 @@ Français:
 * Lincoln (Steven Spielberg, Daniel Day-Lewis)
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
-* bof: 21 jump street
+* bof: 21 jump street, Argo
 * pas vu: https://www.rottentomatoes.com/m/ruby_sparks (Paul Dano)
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1460,6 +1462,7 @@ Français:
 * La Ballade de Buster Scruggs (frères Coen) #western
 * Bird Box (Sandra Bullock)
 * Bohemian Rhapsody (Rami Malek) 4🏆
+* Isle of Dogs (Wes Anderson)
 * Capernaum (Capharnaüm) 🇱🇧 🏆
 * Heureux comme Lazzaro 🇮🇹
 * Annihilation (Natalie Portman) #sf
@@ -1468,15 +1471,14 @@ Français:
 * pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
 * pas vu: https://www.rottentomatoes.com/m/tully_2018
 * pas vu: https://www.rottentomatoes.com/m/first_man (Damien Chazelle)
-* City of Lies (Johnny Depp) [📰](https://www.telerama.fr/cinema/films/city-of-lies-1-193500908.php)
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, Les Oiseaux de Passage, The Spy Gone North 🇰🇷, Manta Ray, Roma
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, The Spy Gone North 🇰🇷, Manta Ray, Roma
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Les Frères Sisters (Jacques Audiard) ❤️ 4✨ #western
 * L'Empereur de Paris (Vincent Cassel) ❤️
 * Shéhérazade
-* En liberté ! (Comédie, Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html)
+* En liberté ! (Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html) #comédie
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 * Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention
@@ -1621,11 +1623,11 @@ Français:
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
-* Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
+* Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
 * Sick of Myself 🇳🇴
 * Air (Matt Damon)

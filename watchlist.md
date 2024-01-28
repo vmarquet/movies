@@ -48,6 +48,8 @@
 * https://www.telerama.fr/cinema/moi-capitaine-de-matteo-garrone-l-odyssee-touchante-de-deux-candidats-a-l-exil_cri-7030445.php
 * https://www.rottentomatoes.com/m/totem_2023
 * https://www.rottentomatoes.com/m/hundreds_of_beavers
+* https://www.rottentomatoes.com/m/a_man (8 oscars japonais)
+* https://www.rottentomatoes.com/m/concrete_utopia
 
 
 ### Vrac
