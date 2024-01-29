@@ -203,7 +203,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1949
 
-* The third man (Orson Welles) 🎥 [🍅](https://www.rottentomatoes.com/m/the_third_man) : esthétique superbe mais intrigue triviale
+* The Third Man (Orson Welles) 🎥 [🍅](https://www.rottentomatoes.com/m/the_third_man) : esthétique superbe mais intrigue triviale
 * pas vu: https://www.rottentomatoes.com/m/1020312-stray_dog (Akira Kurosawa)
 
 ### 1951
@@ -480,11 +480,9 @@ Français:
 
 [Oscars 52](https://fr.wikipedia.org/wiki/52e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* All That Jazz (Bob Fosse) 4🏆 🌿 ❤️
+* All That Jazz (Bob Fosse) 🎥 4🏆 🌿 ❤️
 * Apocalypse Now (FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
-  [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
-  [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 * bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers)
 
@@ -570,6 +568,7 @@ Français:
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
 * The Killing Fields [🍅](https://www.rottentomatoes.com/m/killing_fields)
+* bof: Paris Texas (Wim Wenders)
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 * pas vu: https://www.rottentomatoes.com/m/birdy
 * pas vu: https://www.rottentomatoes.com/m/repo_man
@@ -655,7 +654,7 @@ Français:
 * La vie est un long fleuve tranquille
 * Itinéraire d’un enfant gâté (Claude Lelouch, Jean-Paul Belmondo) [📰](https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php)
     * > ❝ Le bonheur c'est quand les emmerdes se reposent ❞
-* pas vu: Camille Claudel https://www.telerama.fr/cinema/films/camille-claudel,14774.php
+* Camille Claudel (Isabelle Adjani)
 
 
 ### 1989
