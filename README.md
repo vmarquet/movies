@@ -381,6 +381,7 @@ Français:
 * Le Parrain (FF Coppola) 🎥 ❤️
 * Délivrance ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance) #thriller
 * pas vu: https://www.rottentomatoes.com/m/the_new_land
+* pas vu: Cabaret (Bob Fosse) 8🏆
 
 Français:
 
@@ -479,13 +480,13 @@ Français:
 
 [Oscars 52](https://fr.wikipedia.org/wiki/52e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* All That Jazz (Bob Fosse) 4🏆 🌿 ❤️
 * Apocalypse Now (FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
   [🍅](https://www.rottentomatoes.com/m/kramer_vs_kramer)
   [📰](https://www.telerama.fr/cinema/films/kramer-contre-kramer,6814.php)
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 * bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers)
-* pas vu: https://www.rottentomatoes.com/m/all_that_jazz 🌿
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
