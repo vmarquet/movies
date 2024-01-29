@@ -13,11 +13,12 @@
 
 ### 2023
 
+* https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/
+* https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * Poor Things (Yórgos Lánthimos) [🍅](https://www.rottentomatoes.com/m/poor_things) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
 * https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * la beauté du geste (Japon)
-* https://www.rottentomatoes.com/m/radical
 * https://www.rottentomatoes.com/m/all_of_us_strangers
 * Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
@@ -34,6 +35,11 @@
     * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php
 * https://yts.mx/movies/polite-society-2023
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
+* https://www.rottentomatoes.com/m/the_zone_of_interest
+* https://www.rottentomatoes.com/m/the_promised_land_2023 (Mads Mikkelsen)
+* https://www.rottentomatoes.com/m/the_monk_and_the_gun
+* https://www.rottentomatoes.com/m/american_fiction
+
 
 
 ### 2024

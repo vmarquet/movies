@@ -1537,7 +1537,7 @@ Français:
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
-    * Sound of Metal, Soul (Pixar), News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig [🍅](https://www.rottentomatoes.com/m/pig_2021), The Call of the Wild
+    * Sound of Metal, Soul (Pixar), Minari, News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig [🍅](https://www.rottentomatoes.com/m/pig_2021), The Call of the Wild
 * pas vu: https://www.rottentomatoes.com/m/true_mothers 🇯🇵
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1636,6 +1636,7 @@ Français:
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * Dumb Money (Paul Dano)
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
+* Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
