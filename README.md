@@ -439,7 +439,7 @@ Français:
 
 * Taxi Driver (Martin Scorsese, Robert de Niro) 💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
 * Le Locataire (Roman Polanski) ❤️ #thriller
-* L'Empire des sens (Nagisa Ōshima) 🇯🇵 🎥
+* L'Empire des sens (Nagisa Ōshima) 🇯🇵 🎥 #érotique
 * Marathon Man (Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man) #thriller
 
 [Césars 2](https://fr.wikipedia.org/wiki/2e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -530,7 +530,7 @@ Français:
 * Das Boot 🇩🇪 ❤️ (6 nominations 🏆)
 * Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
 * Gandhi (Richard Attenborough) 🏆
-* Body Heat #thriller-erotique
+* Body Heat #thriller-érotique
 * The Thing (John Carpenter)
 * The Draughtsman's Contract [🍅](https://www.rottentomatoes.com/m/draughtsmans_contract)
 * Tootsie (Sydney Pollack, Dustin Hoffman) [🍅](https://www.rottentomatoes.com/m/tootsie) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
@@ -664,7 +664,7 @@ Français:
 * Sex, Lies and Videotape (Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
 * Mystery Train (Jim Jarmusch)
 * Le Cercle des poètes disparus (Peter Weir)
-* Sea of Love (Al Pacino) #thriller-erotique
+* Sea of Love (Al Pacino) #thriller-érotique
 * Do the right thing (Spike Lee)
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -768,10 +768,10 @@ Français:
         * > ❝ If you're at a table and you don't know who the sucker is, it's you. ❞ (talking about poker)
         </pre>
         </details>
-* Four Weddings and a Funeral #romcom
+* Four Weddings and a Funeral (Mike Newell) #romcom
+* The Last Seduction #thriller-érotique : l'intrigue commence vraiment à la moitié du film
 * bof: Forrest Gump, The Shawshank Redemption, Ed Wood
 * pas vu: https://www.rottentomatoes.com/m/heavenly_creatures
-* pas vu: https://www.rottentomatoes.com/m/the_last_seduction #thriller-erotique
 * pas vu: https://www.rottentomatoes.com/m/madness_of_king_george
 * pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 
