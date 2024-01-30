@@ -747,7 +747,7 @@ Français:
 
 ### 1994
 
-[Oscars 67](https://fr.wikipedia.org/wiki/67e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
+[Oscars 67](https://fr.wikipedia.org/wiki/67e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s) — [RottenTomatoes 🍅](https://editorial.rottentomatoes.com/guide/best-1994-movies/)
 
 * Chungking Express (Wong Kar-wai) 🇭🇰 ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express) <span title="❝ Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. ❞">💡</span>[💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
@@ -769,9 +769,10 @@ Français:
         </details>
 * Four Weddings and a Funeral #romcom
 * bof: Forrest Gump, The Shawshank Redemption, Ed Wood
-* pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 * pas vu: https://www.rottentomatoes.com/m/heavenly_creatures
+* pas vu: https://www.rottentomatoes.com/m/the_last_seduction #thriller-erotique
 * pas vu: https://www.rottentomatoes.com/m/madness_of_king_george
+* pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1442,7 +1443,7 @@ Français:
 * Darkest Hour #ww2
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: I Don't Feel at Home in This World Anymore ☀️
-* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, Okja
+* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, Okja, Le Jeune Karl Marx
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1460,9 +1461,9 @@ Français:
 * La Saveur des Ramens 🇯🇵🇸🇬
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * La Ballade de Buster Scruggs (frères Coen) #western
-* Bird Box (Sandra Bullock)
 * Bohemian Rhapsody (Rami Malek) 4🏆
 * Isle of Dogs (Wes Anderson)
+* Bird Box (Sandra Bullock)
 * Capernaum (Capharnaüm) 🇱🇧 🏆
 * Heureux comme Lazzaro 🇮🇹
 * Annihilation (Natalie Portman) #sf
