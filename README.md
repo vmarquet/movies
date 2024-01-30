@@ -158,7 +158,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1921
 
-* Le Kid (et autres de Charlie Chaplin) [📰](https://fr.wikipedia.org/wiki/Charlie_Chaplin#Filmographie)
+* Le Kid (Charlie Chaplin)
 
 ### 1922
 
@@ -180,6 +180,10 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1931
 
 * M le maudit (Fritz Lang) 🎥 ❤️
+
+### 1940
+
+* Le Dictateur (Charlie Chaplin)
 
 ### 1941
 
@@ -917,7 +921,7 @@ Français:
 
 [Oscars 73](https://fr.wikipedia.org/wiki/73e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
-* Tigre et Dragon (Ang Lee) 🎥 ❤️ 4🏆 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
+* Tigre et Dragon (Ang Lee) 🇨🇳 🎥 ❤️ 4🏆 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
 * Amores Perros (Alejandro Gonzalez Iñárritu) 🇲🇽 ❤️
 * Memento (Christopher Nolan) #film-à-énigme
 * In the Mood for Love (Wong Kar-wai) 🇭🇰 [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
@@ -1259,7 +1263,7 @@ Français:
 * The Tree of Life (Terrence Malick)
 * Margin Call (Kevin Spacey)
 * Starbuck 🇨🇦 #comédie
-* Rango
+* Rango (Gore Verbinski) #western
 * Tinker Tailor Soldier Spy (La Taupe) #thriller
 * Django Unchained (Tarentino) #western
 * Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
