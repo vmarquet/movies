@@ -39,6 +39,8 @@
 * https://www.rottentomatoes.com/m/the_promised_land_2023 (Mads Mikkelsen)
 * https://www.rottentomatoes.com/m/the_monk_and_the_gun
 * https://www.rottentomatoes.com/m/american_fiction
+* https://www.rottentomatoes.com/m/the_settlers_2023
+* https://www.rottentomatoes.com/m/anselm (docu)
 
 
 
@@ -56,6 +58,9 @@
 * https://www.rottentomatoes.com/m/hundreds_of_beavers
 * https://www.rottentomatoes.com/m/a_man (8 oscars japonais)
 * https://www.rottentomatoes.com/m/concrete_utopia
+* https://www.rottentomatoes.com/m/the_crime_is_mine Mon Crime (Ozon)
+* https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
+* https://www.rottentomatoes.com/m/american_symphony (docu)
 
 
 ### Vrac
