@@ -39,7 +39,6 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
     * [2010](#2010)
     * [2020](#2020)
 * [Films par genre/thème](#films-par-genrethème)
-    * [Bon scénario/Twist](#bon-scénariotwist)
     * [Science-Fiction](#science-fiction)
     * [Epouvante/Horreur](#epouvante--horreur)
 * [Liste de comédies françaises](#comédies-françaises)
@@ -364,6 +363,7 @@ Français:
 ### 1971
 
 * Orange Mécanique (Stanley Kubrick)
+* Duel (Steven Spielberg)
 * Harold and Maude : pas fan de l'esthétique et du storytelling mais le fin mot de l'intrigue est intéressant [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 * bof: The Last Picture Show
 
@@ -733,6 +733,7 @@ Français:
 * Beaucoup de Bruit pour rien (Kenneth Brannagh)
 * Etat Second (Peter Weir)
 * In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father)
+* Un Jour sans Fin (Bill Murray) #film-à-énigme
 * Belle Époque 🇪🇸 [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
 * pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
 * pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
@@ -841,11 +842,13 @@ Français:
 [Oscars 70](https://fr.wikipedia.org/wiki/70e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Titanic 💙 11🏆
+* The Truman Show (Jim Carrey) #film-à-énigme
 * Contact (Jodie Foster) 💙
 * The Fifth Element (Luc Besson) #sf
 * La Vie est Belle (Roberto Benigni) #ww2
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem) 🇪🇸
 * Cure (Kiyoshi Kurosawa) 🇯🇵 🎥
+* The Game (David Fincher, Michael Douglas, Sean Penn) #film-à-énigme
 * Donnie Brasco (Al Pacino, Johnny Depp, Michael Madsen) [🍅](https://www.rottentomatoes.com/m/donnie_brasco)
 * L.A. Confidential (Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
 * Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
@@ -891,13 +894,15 @@ Français:
   [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
   [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
+* eXistenZ (David Cronemberg, Jude Law, Jennifer Jason Leigh, Willem Dafoe) [🍅](https://www.rottentomatoes.com/m/existenz) #film-à-énigme
+* Dans la peau de John Malkovich (Spike Jonze, John Malkovich) #film-à-énigme
 * Office Space 💙 #comédie-de-bureau
 * Sleepy Hollow (Tim Burton)
 * Todo sobre my madre (Pedro Almodóvar) 🇪🇸
 * The Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * The Mummy (Brendan Fraser) #famille
-* bof: Sixième Sens (Bruce Willis)
+* bof: Sixième Sens (Bruce Willis), Mafia Blues
 * pas vu: The Insider https://www.rottentomatoes.com/m/insider
 * pas vu: https://www.rottentomatoes.com/m/boys_dont_cry
 * pas vu: Rosetta (frères Dardenne) 🌿
@@ -914,6 +919,7 @@ Français:
 
 * Tigre et Dragon (Ang Lee) 🎥 ❤️ 4🏆 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
 * Amores Perros (Alejandro Gonzalez Iñárritu) 🇲🇽 ❤️
+* Memento (Christopher Nolan) #film-à-énigme
 * In the Mood for Love (Wong Kar-wai) 🇭🇰 [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
 * Gladiator 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
@@ -1010,7 +1016,7 @@ Français:
 [Oscars 77](https://fr.wikipedia.org/wiki/77e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
 * Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
-* Eternal Sunshine of the Spotless Mind (Michel Gondry, Jim Carrey) ❤️
+* Eternal Sunshine of the Spotless Mind (Michel Gondry, Jim Carrey) 🎥 ❤️
 * 2046 (Wong Kar-wai) 🇭🇰 ❤️
 * Sideways (Paul Giamatti) [🍅](https://www.rottentomatoes.com/m/sideways)
 * Shaun of the Dead #comédie
@@ -1018,6 +1024,7 @@ Français:
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar) 🇪🇸
 * Mystic River (Clint Eastwood, Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river) #thriller
+* The Machinist (Christian Bale)
 * OldBoy (Park Chan-wook) 🇰🇷 [🍅](https://www.rottentomatoes.com/m/oldboy)
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal) 🇦🇷🇨🇱🇵🇪
@@ -1086,6 +1093,7 @@ Français:
 * The Black Dahlia (Brian de Palma)
 * Le Secret de Brokeback Mountain (Ang Lee) 🏆
 * Babel (Alejandro González Iñárritu)
+* Le Prestige (Christopher Nolan) #film-à-énigme
 * The Queen (Stephen Frears) 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
 * Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
 * Le Dernier Roi d'Ecosse (Forest Whitaker) [🍅](https://www.rottentomatoes.com/m/last_king_of_scotland)
@@ -1119,6 +1127,8 @@ Français:
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours 🇷🇴 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men (frères Coen) ❤️ 🏆
+* The Man from Earth [🍅](https://www.rottentomatoes.com/m/man_from_earth) : tout repose sur le scénario, très original
+* Le Limier (Kenneth Branagh, Jude Law, Michael Caine) #film-à-énigme : je préfère ce remake, l'original est longuet
 * Boulevard de la Mort (Death Proof) (Tarentino)
 * Zodiac (David Fincher) #thriller
 * Gone Baby Gone (Ben Affleck)
@@ -1209,7 +1219,7 @@ Français:
 * Rubber (Quentin Dupieux) ❤️
 * Inception (Christopher Nolan) 💙 🏆 #film-à-énigme
 * Black Swan (Darren Aronofsky)
-* Shutter Island (Martin Scorsese)
+* Shutter Island (Martin Scorsese) #film-à-énigme
 * True Grit (frères Coen) #western
 * Four Lions ❤️
 * Uncle Boonmee Who Can Recall His Past Lives (Apichatpong Weerasethakul) 🇹🇭 🌿
@@ -1659,25 +1669,6 @@ Français:
 
 
 ## Films par genre/thème
-
-
-### Bon scénario/Twist
-
-* The Truman Show (Jim Carrey)
-* Eternal Sunshine (et autres de Michel Gondry) 🎥
-* Memento (Christopher Nolan)
-* eXistenZ (David Cronemberg, avec Jude Law, Jennifer Jason Leigh, Willem Dafoe) [🍅](https://www.rottentomatoes.com/m/existenz)
-* Inception (Christopher Nolan)
-* Shutter Island (Martin Scorsese)
-* Le Limier (Kenneth Branagh, Jude Law, Michael Caine) [📰](https://www.telerama.fr/cinema/films/le-limier-sleuth,332335.php) : je préfère ce remake, l'original est longuet
-* Dans la peau de John Malkovich (avec John Malkovich)
-* Usual Suspects (avec Kevin Spacey)
-* Duel  (Spielberg) 💙 [🍅](https://www.rottentomatoes.com/m/1006345-duel)
-* The Man from Earth   (tout repose sur le scénario, très original) [🍅](https://www.rottentomatoes.com/m/man_from_earth)
-* The Machinist (2004)
-* Le Prestige (Christopher Nolan)
-* Un Jour sans Fin (avec Bill Murray)
-* The Game (1997, David Fincher, Michael Douglas, Sean Penn)
 
 
 ### Science-Fiction
