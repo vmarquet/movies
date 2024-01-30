@@ -777,7 +777,7 @@ Français:
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* La Cité de la peur ❤️
+* La Cité de la peur (Alain Chabat) ❤️
 * Le Péril jeune (Cédric Klapisch)
 * Léon (Luc Besson)
 * pas vu: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
@@ -874,7 +874,7 @@ Français:
 * Kirikou et la Sorcière #famille
 * Los amantes del círculo polar 🇪🇸 : inégal
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
-* bof: Pi (Darren Aronofsky)
+* bof: Pi (Darren Aronofsky), ~~American History X~~
 * pas vu: Saving Private Ryan (Steven Spielberg) #film-de-guerre
 * pas vu: https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
 * pas vu: https://www.rottentomatoes.com/m/gods_and_monsters
@@ -1258,10 +1258,10 @@ Français:
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
 * The Tree of Life (Terrence Malick)
 * Margin Call (Kevin Spacey)
-* Starbuck #comédie
+* Starbuck 🇨🇦 #comédie
 * Rango
 * Tinker Tailor Soldier Spy (La Taupe) #thriller
-* Django Unchained (Tarentino)
+* Django Unchained (Tarentino) #western
 * Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
@@ -1453,7 +1453,7 @@ Français:
 * Darkest Hour #ww2
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: I Don't Feel at Home in This World Anymore ☀️
-* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, Okja, Le Jeune Karl Marx
+* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, Okja, Le Jeune Karl Marx, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
