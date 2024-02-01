@@ -259,8 +259,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Psychose (Alfred Hitchcock) 💙 #horreur
 * L'Île nue 🇯🇵
 * La Vérité (HG Clouzot) 🏆 #film-de-procès
+* Plein Soleil (Alain Delon) 🎥 #thriller : très beau mais dialogues assez insipides et histoire invraisemblable
 * bof: A Bout de Souffle (Jean-Luc Godard)
-* pas vu: https://www.telerama.fr/cinema/films/plein-soleil,16625.php #thriller
 
 
 ### 1961
@@ -348,6 +348,7 @@ Français:
 
 * Easy Rider (Dennis Hopper, Peter Fonda) [📰](https://www.telerama.fr/cinema/films/easy-rider,4721.php)
 * L'Armée des ombres (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/l-armee-des-ombres,14662.php) #ww2 : bof, longuet
+* La Piscine (Jacques Deray, Alain Delon, Romy Schneider) : bof
 * pas vu: https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
 
 
@@ -718,12 +719,14 @@ Français:
 * Basic Instinct (Paul Verhoeven) #thriller
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
+* pas vu: https://www.rottentomatoes.com/m/1040798-husbands_and_wives
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Les nuits fauves ❤️ [📰](https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php) 4✨
     * > ❝ Vous avez de la chance d'être si facilement malheureux, alors qu'on peut le faire d'une manière tellement plus sophistiquée ❞
 * Un Coeur en Hiver (Claude Sautet) [📰](https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php) : premier tiers top, puis sonne un peu faux
+* pas vu: Indochine
 
 
 ### 1993
@@ -1143,6 +1146,7 @@ Français:
 * 3:10 to Yuma #western
 * Paranoid Park (Gus Van Sant)
 * pas vu: https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
+* pas vu: Superbad #comédie
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1205,7 +1209,7 @@ Français:
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Valhalla Rising (Nicolas Winding Refn)
+* bof: Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1239,7 +1243,7 @@ Français:
 * Up in the Air (Jason Reitman, George Clooney)
 * pas vu: L'Illusionniste
 * pas vu: Winter's Bone (Jennifer Lawrence) ☀️
-* pas vu: https://www.rottentomatoes.com/m/i_saw_the_devil_2010
+* pas vu: https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1269,7 +1273,7 @@ Français:
 * Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
-* Habemus Papam (Nanni Moretti)
+* Habemus Papam (Nanni Moretti) 🇮🇹
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
 * pas vu: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
@@ -1306,8 +1310,7 @@ Français:
 * Lincoln (Steven Spielberg, Daniel Day-Lewis)
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
-* bof: 21 jump street, Argo
-* pas vu: https://www.rottentomatoes.com/m/ruby_sparks (Paul Dano)
+* bof: 21 jump street, Ruby Sparks, Argo
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1457,6 +1460,7 @@ Français:
 * Darkest Hour #ww2
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: I Don't Feel at Home in This World Anymore ☀️
+* pas vu: https://www.rottentomatoes.com/m/columbus_2017
 * bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, Okja, Le Jeune Karl Marx, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1486,7 +1490,7 @@ Français:
 * pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
 * pas vu: https://www.rottentomatoes.com/m/tully_2018
 * pas vu: https://www.rottentomatoes.com/m/first_man (Damien Chazelle)
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, The Spy Gone North 🇰🇷, Manta Ray, Roma
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1508,18 +1512,17 @@ Français:
 * Joker (Joaquin Phoenix) ❤️
 * Jojo Rabbit (Taika Waititi) ❤️
 * Marriage Story (Scarlett Johansson, Adam Driver)
+* Booksmart #comédie #coming-of-age
 * Ad Astra (James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra) #sf
+* A Hidden Life (Terrence Malick) 🎥 [🍅](https://www.rottentomatoes.com/m/a_hidden_life_2019) : mémorable mais longuet
+* The Two Popes
 * Le Roi (Timothée Chalamet)
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
-* The Two Popes
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* A Hidden Life (Terrence Malick) 🎥 [🍅](https://www.rottentomatoes.com/m/a_hidden_life_2019) : bien mais longuet
 * pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
 * pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * pas vu: La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
-* pas vu: https://www.rottentomatoes.com/m/booksmart
-* pas vu: https://www.rottentomatoes.com/m/the_gangster_the_cop_the_devil
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, The Farewell
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, The Farewell
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 

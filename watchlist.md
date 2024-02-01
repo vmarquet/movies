@@ -28,7 +28,7 @@
 * https://www.rottentomatoes.com/m/monster_2023 (Koreeda) 🇯🇵
 * https://www.rottentomatoes.com/m/the_peasants
 * tous TTT:
-    * fermer les yeux
+    * Cerrar los ojos (fermer les yeux) 🇪🇸
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
@@ -87,6 +87,8 @@
 * https://www.rottentomatoes.com/m/broken_wings_2002
 * https://www.rottentomatoes.com/m/last_life_in_the_universe
 * https://www.rottentomatoes.com/m/brigsby_bear_2017
+* https://www.rottentomatoes.com/m/el_cuerpo 🇪🇸 #suspense
+* https://www.rottentomatoes.com/m/el_robo_del_siglo 🇦🇷 #suspense
 
 
 
