@@ -354,7 +354,7 @@ Français:
 
 ### 1970
 
-* Deep End 🎥🎥 ❤️  [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
+* Deep End 🎥🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
 * MASH (Robert Altman) #film-de-guerre
 * Little Big Man (Arthur Penn, Dustin Hoffman) #western : longuet
 
@@ -432,6 +432,7 @@ Français:
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Section spéciale (Costa-Gavras)
+* Jaws (Steven Spielberg)
 * Dersou Ouzala (Akira Kurosawa) 🇷🇺🇯🇵
 
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -610,8 +611,8 @@ Français:
 * Aliens #sf
 * Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
+* 'Round Midnight (Bertrand Tavernier) #jazz : belle musique mais pas vraiment d'histoire
 * pas vu: https://www.rottentomatoes.com/m/1014027-mission
-* pas vu: https://www.rottentomatoes.com/m/round_midnight #jazz
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -864,7 +865,7 @@ Français:
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
 * Doodlebug (Christopher Nolan) [▶️](https://www.youtube.com/watch?v=kahb97XojzI) #short
-* bof: Children of Heaven 🇮🇷, In the Company of Men
+* bof: Children of Heaven 🇮🇷, ~~In the Company of Men~~
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1007,7 +1008,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
-* bog: Elephant (Gus Van Sant) 🌿
+* bog: Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes
 * pas vu: https://www.rottentomatoes.com/m/the_return
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1242,8 +1243,8 @@ Français:
 * Buried
 * Up in the Air (Jason Reitman, George Clooney)
 * pas vu: L'Illusionniste
-* pas vu: Winter's Bone (Jennifer Lawrence) ☀️
 * pas vu: https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷
+* bof: Winter's Bone (Jennifer Lawrence) ☀️
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1310,7 +1311,7 @@ Français:
 * Lincoln (Steven Spielberg, Daniel Day-Lewis)
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
-* bof: 21 jump street, Ruby Sparks, Argo
+* bof: 21 jump street, ~~Ruby Sparks~~, ~~Argo~~
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1344,7 +1345,7 @@ Français:
 * Tangerines 🇬🇪
 * pas vu: https://www.rottentomatoes.com/m/fruitvale_station ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
-* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Best Offer
+* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), The Best Offer
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1437,7 +1438,7 @@ Français:
 * The Wailing 🇰🇷 [🍅](https://www.rottentomatoes.com/m/the_wailing)
 * pas vu: The Birth of a Nation ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_edge_of_seventeen
-* bof: Moonlight #coming-of-age, Manchester by the Sea, The Neon Demon (Nicolas Winding Refn)
+* bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn)
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
