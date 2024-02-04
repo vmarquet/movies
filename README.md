@@ -405,6 +405,7 @@ Français:
 * pas vu: L'Esprit de la ruche 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * pas vu: https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
+* pas vu: https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
 
 
 ### 1974
@@ -443,7 +444,7 @@ Français:
 
 ### 1976
 
-* Taxi Driver (Martin Scorsese, Robert de Niro) 💙 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
+* Taxi Driver (Martin Scorsese, Robert de Niro) 💙 🌿 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
 * Le Locataire (Roman Polanski) ❤️ #thriller
 * L'Empire des sens (Nagisa Ōshima) 🇯🇵 🎥 #érotique
 * Marathon Man (Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man) #thriller
@@ -913,12 +914,12 @@ Français:
 * bof: Sixième Sens (Bruce Willis), Mafia Blues
 * pas vu: The Insider https://www.rottentomatoes.com/m/insider
 * pas vu: https://www.rottentomatoes.com/m/boys_dont_cry
-* pas vu: Rosetta (frères Dardenne) 🌿
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Himalaya : L'Enfance d'un chef
 * Les Enfants du Marais
+* bof: Rosetta (frères Dardenne) 🌿
 
 
 ### 2000
@@ -1023,6 +1024,7 @@ Français:
 
 [Oscars 77](https://fr.wikipedia.org/wiki/77e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
+* Maria, pleine de grâce 🇨🇴 ❤️ [🍅](https://www.rottentomatoes.com/m/maria_full_of_grace)
 * Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
 * Eternal Sunshine of the Spotless Mind (Michel Gondry, Jim Carrey) 🎥 ❤️
 * 2046 (Wong Kar-wai) 🇭🇰 ❤️
@@ -1044,7 +1046,6 @@ Français:
 * Kingdom of Heaven (Ridley Scott)
 * Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * bof: Napoleon Dynamite #coming-of-age #teen-movie
-* pas vu: https://www.rottentomatoes.com/m/maria_full_of_grace
 * pas vu: https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
 * pas vu: https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
 
@@ -1179,6 +1180,7 @@ Français:
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
 * Walkyrie (Tom Cruise) #ww2
 * Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
+* bof: Gomorra 🇮🇹, Vicky Cristina Barcelona
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1377,7 +1379,7 @@ Français:
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
 * pas vu: https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
-* bof: Nos étoiles contraires #coming-of-age, Sils Maria
+* bof: Nos étoiles contraires #coming-of-age, Sils Maria, ~~Mommy~~
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1414,7 +1416,7 @@ Français:
 
 * Les Cowboys (Thomas Bidegain) [📰](https://www.telerama.fr/cinema/films/les-cowboys%2C498504.php)
 * La Loi du Marché : bien aimé mais pas inoubliable
-* bof: Dheepan (Jacques Audiard) 🌿
+* bof: Dheepan (Jacques Audiard) 🌿, ~~Mon Roi~~
 
 
 ### 2016
