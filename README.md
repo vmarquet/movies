@@ -354,7 +354,7 @@ Français:
 
 ### 1970
 
-* Deep End 🎥🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
+* Deep End 🇬🇧 🎥🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
 * MASH (Robert Altman) #film-de-guerre
 * Little Big Man (Arthur Penn, Dustin Hoffman) #western : longuet
 
@@ -427,7 +427,7 @@ Français:
 
 ### 1975
 
-* Monty Python : Sacré Graal ! 💙 (Terry Gilliam, Terry Jones) #comédie
+* Monty Python : Sacré Graal ! (Terry Gilliam, Terry Jones) 🇬🇧 💙 #comédie
 * Dog Day Afternoon (Sidney Lumet, Al Pacino, John Cazale) [🍅](https://www.rottentomatoes.com/m/dog_day_afternoon)
 * Les Trois Jours du Condor (Sydney Pollack, Robert Redford) [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor) #thriller
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
@@ -539,7 +539,7 @@ Français:
 * Gandhi (Richard Attenborough) 🏆
 * Body Heat #thriller-érotique
 * The Thing (John Carpenter)
-* The Draughtsman's Contract [🍅](https://www.rottentomatoes.com/m/draughtsmans_contract)
+* The Draughtsman's Contract 🇬🇧 [🍅](https://www.rottentomatoes.com/m/draughtsmans_contract)
 * Tootsie (Sydney Pollack, Dustin Hoffman) [🍅](https://www.rottentomatoes.com/m/tootsie) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
 * First Blood (Sylvester Stallone)
 
@@ -746,7 +746,7 @@ Français:
 * Belle Époque 🇪🇸 [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
 * pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
 * pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
-* bof: Short Cuts (Robert Altman)
+* bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -777,7 +777,7 @@ Français:
         * > ❝ If you're at a table and you don't know who the sucker is, it's you. ❞ (talking about poker)
         </pre>
         </details>
-* Four Weddings and a Funeral (Mike Newell) #romcom
+* Four Weddings and a Funeral (Mike Newell) 🇬🇧 #romcom
 * The Last Seduction #thriller-érotique : l'intrigue commence vraiment à la moitié du film
 * bof: Forrest Gump, The Shawshank Redemption, Ed Wood
 * pas vu: https://www.rottentomatoes.com/m/heavenly_creatures
@@ -828,7 +828,7 @@ Français:
 [Oscars 69](https://fr.wikipedia.org/wiki/69e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The English Patient ❤️ 9🏆
-* Trainspotting
+* Trainspotting 🇬🇧
 * Breaking the Waves (Lars von Trier)
 * From Dusk till Dawn (Robert Rodriguez, Harvey Keitel)
 * Primal Fear [🍅](https://www.rottentomatoes.com/m/1070992-primal_fear) #thriller
@@ -879,7 +879,7 @@ Français:
 
 * The Big Lebowski (frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski)
 * Shakespeare in Love
-* Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham)
+* Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham) 🇬🇧
 * Kirikou et la Sorcière #famille
 * Los amantes del círculo polar 🇪🇸 : inégal
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
@@ -932,10 +932,10 @@ Français:
 * In the Mood for Love (Wong Kar-wai) 🇭🇰 [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
 * Gladiator 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
-* Snatch (Guy Ritchie, Brad Pitt)
+* Snatch (Guy Ritchie, Brad Pitt) 🇬🇧
 * Dancer in the Dark (Lars von Trier)
 * Battle Royale 🇯🇵
-* Billy Elliot (Stephen Daldry)
+* Billy Elliot (Stephen Daldry) 🇬🇧
 * Aniki mon Frère (Takeshi Kitano) 🇯🇵 #policier
 * bof: Almost Famous
 * pas vu: https://www.rottentomatoes.com/m/1095420-high_fidelity
@@ -1103,7 +1103,7 @@ Français:
 * Le Secret de Brokeback Mountain (Ang Lee) 🏆
 * Babel (Alejandro González Iñárritu)
 * Le Prestige (Christopher Nolan) #film-à-énigme
-* The Queen (Stephen Frears) 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
+* The Queen (Stephen Frears) 🇬🇧 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
 * Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
 * Le Dernier Roi d'Ecosse (Forest Whitaker) [🍅](https://www.rottentomatoes.com/m/last_king_of_scotland)
 * This is England
@@ -1205,14 +1205,14 @@ Français:
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Whatever Works (Woody Allen)
 * Zombieland [🍅](https://www.rottentomatoes.com/m/zombieland) #comédie
-* Le Ruban blanc (Michael Haneke) 🌿
+* Le Ruban blanc (Michael Haneke) 🇩🇪 🌿
 * Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
-* Fish Tank
+* Fish Tank 🇬🇧
 * An Education (Carey Mulligan)
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷
+* bof: Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧
 * pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1232,9 +1232,9 @@ Français:
 * Black Swan (Darren Aronofsky)
 * Shutter Island (Martin Scorsese) #film-à-énigme
 * True Grit (frères Coen) #western
-* Four Lions ❤️
+* Four Lions 🇬🇧 ❤️
 * Uncle Boonmee Who Can Recall His Past Lives (Apichatpong Weerasethakul) 🇹🇭 🌿
-* The King's Speech (Le Discours d'un roi)
+* The King's Speech (Le Discours d'un roi) 🇬🇧
 * 127 Hours (Danny Boyle, James Franco)
 * Machete (Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/machete)
 * Tucker and Dale vs Evil
@@ -1271,7 +1271,7 @@ Français:
 * Margin Call (Kevin Spacey)
 * Starbuck 🇨🇦 #comédie
 * Rango (Gore Verbinski) #western
-* Tinker Tailor Soldier Spy (La Taupe) #thriller
+* Tinker Tailor Soldier Spy (La Taupe) 🇬🇧 #thriller
 * Django Unchained (Tarentino) #western
 * Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
 * Take Shelter (Jeff Nichols)
@@ -1428,7 +1428,7 @@ Français:
 * Captain Fantastic (Viggo Mortensen) ☀️
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
 * La La Land (Damien Chazelle)
-* I Daniel Blake (Ken Loach) 🌿
+* I Daniel Blake (Ken Loach) 🇬🇧 🌿
 * Better Watch Out #film-de-noel
 * Moana (Disney)
 * Toni Erdmann 🇩🇪
@@ -1460,7 +1460,7 @@ Français:
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West (Aubrey Plaza)
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
-* Darkest Hour #ww2
+* Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Daniel Day-Lewis)
 * pas vu: I Don't Feel at Home in This World Anymore ☀️
 * pas vu: https://www.rottentomatoes.com/m/columbus_2017
