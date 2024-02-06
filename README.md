@@ -338,7 +338,7 @@ Français:
 
 ### 1968
 
-* Roméo et Juliette (Zeffirelli) [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968) ❤️
+* Roméo et Juliette (Zeffirelli) 🇬🇧🇮🇹 ❤️ [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968)
 * Le Grand Silence (Sergio Corbucci, Ennio Morricone, Klaus Kinski) #western-spaghetti
 * L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair) #policier
 * pas vu: https://www.rottentomatoes.com/m/swimmer
@@ -722,6 +722,7 @@ Français:
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
 * pas vu: https://www.rottentomatoes.com/m/1040798-husbands_and_wives
+* pas vu: https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -933,7 +934,7 @@ Français:
 * Gladiator 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt) 🇬🇧
-* Dancer in the Dark (Lars von Trier)
+* Dancer in the Dark (Lars von Trier) 🌿
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry) 🇬🇧
 * Aniki mon Frère (Takeshi Kitano) 🇯🇵 #policier
@@ -1048,6 +1049,7 @@ Français:
 * bof: Napoleon Dynamite #coming-of-age #teen-movie
 * pas vu: https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
 * pas vu: https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
+* pas vu: https://www.rottentomatoes.com/m/on_the_outs
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1148,6 +1150,7 @@ Français:
 * 3:10 to Yuma #western
 * Paranoid Park (Gus Van Sant)
 * pas vu: https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
+* pas vu: https://www.rottentomatoes.com/m/hairspray #musical
 * pas vu: Superbad #comédie
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
@@ -1220,7 +1223,7 @@ Français:
 * La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
 * Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * A l'origine (François Cluzet)
-* bof: Le Concert (Radu Mihaileanu) #comédie, Les herbes folles [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
+* bof: Le Concert (Radu Mihaileanu) #comédie, Les herbes folles (Alain Resnais) [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
 * pas vu: Welcome
 
 
@@ -1411,6 +1414,7 @@ Français:
 * pas vu: Le Fils de Saul 🇭🇺 🌿
 * pas vu: Me and Earl and the Dying Girl ☀️ #coming-of-age
 * pas vu: https://www.rottentomatoes.com/m/long_way_north #famille
+* pas vu: https://www.rottentomatoes.com/m/victoria_2015
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1617,7 +1621,7 @@ Français:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Corsage, The Northman (Robert Eggers), Eo 🇵🇱 🌿
+    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Corsage, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All
     * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
 * pas vu: Broker (Koreeda) 🇰🇷, Aftersun
 
