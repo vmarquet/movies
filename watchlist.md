@@ -9,6 +9,7 @@
 * https://editorial.rottentomatoes.com/guide/best-movies-2022/
     * no bears, happening, girl picture, till
 * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
+* https://www.rottentomatoes.com/m/out_of_darkness_2022
 
 
 ### 2023
@@ -19,7 +20,6 @@
 * https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * la beauté du geste (Japon)
-* https://www.rottentomatoes.com/m/all_of_us_strangers
 * Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
 * https://www.rottentomatoes.com/m/the_iron_claw_2023
@@ -28,7 +28,6 @@
 * https://www.rottentomatoes.com/m/monster_2023 (Koreeda) 🇯🇵
 * https://www.rottentomatoes.com/m/the_peasants
 * tous TTT:
-    * Cerrar los ojos (fermer les yeux) 🇪🇸
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
@@ -38,10 +37,10 @@
 * https://www.rottentomatoes.com/m/the_zone_of_interest
 * https://www.rottentomatoes.com/m/the_promised_land_2023 (Mads Mikkelsen)
 * https://www.rottentomatoes.com/m/the_monk_and_the_gun
-* https://www.rottentomatoes.com/m/american_fiction
 * https://www.rottentomatoes.com/m/the_settlers_2023
 * https://www.rottentomatoes.com/m/godzilla_minus_one
 * https://www.rottentomatoes.com/m/anselm (docu)
+* https://www.rottentomatoes.com/m/molli_and_max_in_the_future
 
 
 

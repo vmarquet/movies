@@ -90,6 +90,7 @@
 * The Boys (2019) [🍅](https://www.rottentomatoes.com/tv/the_boys_2019)
 * Slow Horses
 * pas vu: https://www.leblogducinema.com/critique-serie/yellowstone-western-contemporain-et-audience-record-critique-57942541/
+* pas vu: https://www.rottentomatoes.com/tv/shogun_2024
 
 
 ### Anime

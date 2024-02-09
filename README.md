@@ -402,7 +402,7 @@ Français:
 * Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
 * Amarcord (Federico Fellini) 🇮🇹 [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * bof: Serpico (Sydney Lumet, Al Pacino)
-* pas vu: L'Esprit de la ruche 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
+* pas vu: L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * pas vu: https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
 * pas vu: https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
@@ -673,6 +673,7 @@ Français:
 * Le Cercle des poètes disparus (Peter Weir)
 * Sea of Love (Al Pacino) #thriller-érotique
 * Do the right thing (Spike Lee)
+* pas vu: https://www.rottentomatoes.com/m/say_anything
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1497,7 +1498,7 @@ Français:
 * pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
 * pas vu: https://www.rottentomatoes.com/m/tully_2018
 * pas vu: https://www.rottentomatoes.com/m/first_man (Damien Chazelle)
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, Green Book, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1652,6 +1653,7 @@ Français:
 * Dungeons & Dragons: Honor Among Thieves : bon divertissement
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
+* American Fiction
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
 * Sick of Myself 🇳🇴
@@ -1662,6 +1664,8 @@ Français:
 * Dumb Money (Paul Dano)
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
+* Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
+* All of us Strangers 🇬🇧
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
