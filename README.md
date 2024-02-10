@@ -314,7 +314,7 @@ Français:
 * Et pour quelques Dollars de plus (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/for_a_few_dollars_more) #western-spaghetti
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * Yoyo (Pierre Etaix) ◯
-* Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin se tient
+* Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin est originale
 * pas vu: https://www.rottentomatoes.com/m/sound_of_music
 
 
@@ -341,13 +341,17 @@ Français:
 * Roméo et Juliette (Zeffirelli) 🇬🇧🇮🇹 ❤️ [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968)
 * Le Grand Silence (Sergio Corbucci, Ennio Morricone, Klaus Kinski) #western-spaghetti
 * L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair) #policier
-* pas vu: https://www.rottentomatoes.com/m/swimmer
+* The Swimmer (Burt Lancaster) 🎥 : critique sociale mais sans humour, pas inintéressant mais parfois pesant, daté
 
 
 ### 1969
 
 * Easy Rider (Dennis Hopper, Peter Fonda) [📰](https://www.telerama.fr/cinema/films/easy-rider,4721.php)
-* L'Armée des ombres (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/l-armee-des-ombres,14662.php) #ww2 : bof, longuet
+* bof: They Shoot Horses Don't They?
+
+Français:
+
+* L'Armée des ombres (Jean-Pierre Melville) #ww2 : bof, longuet
 * La Piscine (Jacques Deray, Alain Delon, Romy Schneider) : bof
 * pas vu: https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
 
@@ -564,7 +568,7 @@ Français:
 [Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Tchao Pantin (Coluche) ❤️
-* pas vu: A nos amours (Maurice Pialat) https://www.telerama.fr/cinema/films/a-nos-amours,5420.php
+* bof: A nos amours (Maurice Pialat, Sandrine Bonnaire)
 
 
 ### 1984
@@ -603,8 +607,8 @@ Français:
 
 [Césars 11](https://fr.wikipedia.org/wiki/11e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Police (Depardieu) [📰](https://www.telerama.fr/cinema/films/police,5378.php) (vu ?)
-* bof: Détective (Jean-Luc Godard) [📰](https://www.telerama.fr/cinema/films/detective,4714.php) : esthétiquement sympa mais scénario trop décousu et sans grand intérêt
+* Police (Maurice Pialat, Depardieu) [📰](https://www.telerama.fr/cinema/films/police,5378.php) (vu ?)
+* Détective (Jean-Luc Godard) [📰](https://www.telerama.fr/cinema/films/detective,4714.php) : bof, esthétiquement sympa mais scénario trop décousu et sans grand intérêt
 
 
 ### 1986
@@ -1351,9 +1355,8 @@ Français:
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
-* pas vu: https://www.rottentomatoes.com/m/fruitvale_station ☀️
 * pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
-* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), The Best Offer
+* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), The Best Offer, Fruitvale Station ☀️
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
