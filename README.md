@@ -435,11 +435,12 @@ Français:
 * Section spéciale (Costa-Gavras)
 * Jaws (Steven Spielberg)
 * Dersou Ouzala (Akira Kurosawa) 🇷🇺🇯🇵
+* bof: The Rocky Horror Picture Show
 
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
+* bof: Adieu Poulet (Patrice Dewaere, Lino Ventura)
 * pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
-* pas vu: https://www.telerama.fr/cinema/films/adieu-poulet,4250.php (Patrice Dewaere, Lino Ventura)
 
 
 ### 1976
@@ -462,7 +463,7 @@ Français:
 * The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
 * Sorcerer [🍅](https://www.rottentomatoes.com/m/1019441-sorcerer) : première moitiée longuette mais épique ensuite
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
-* pas vu: Eraserhead (David Lynch), Annie Hall (Woody Allen)
+* pas vu: Eraserhead (David Lynch), Annie Hall (Woody Allen), Saturday Night Fever (John Travolta)
 * bof: Opening Night
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -476,6 +477,7 @@ Français:
 * The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
 * Midnight Express
 * Nosferatu (Werner Herzog)
+* bof: Grease (John Travolta)
 * pas vu: https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
 
 [Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -575,6 +577,7 @@ Français:
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
 * The Killing Fields [🍅](https://www.rottentomatoes.com/m/killing_fields)
+* Terminator (James Cameron) 💙 #sf
 * bof: Paris Texas (Wim Wenders)
 * pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
 * pas vu: https://www.rottentomatoes.com/m/birdy
@@ -608,8 +611,8 @@ Français:
 
 [Oscars 59](https://fr.wikipedia.org/wiki/59e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Le Nom de la Rose (JJ Annaud, Sean Connery, Michael Lonsdale) ✨ [🍅](https://www.rottentomatoes.com/m/the_name_of_the_rose_1986) #thriller
-* Aliens #sf
+* Le Nom de la Rose (JJ Annaud, Sean Connery, Michael Lonsdale) ✨ ❤️ #thriller
+* Aliens (James Cameron) #sf
 * Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
 * 'Round Midnight (Bertrand Tavernier) #jazz : belle musique mais pas vraiment d'histoire
@@ -632,7 +635,7 @@ Français:
 * Cobra Verde (Werner Herzog, Klaus Kinski)
 * Les Incorruptibles (Brian de Palma) #policier
 * The Lost Boys #vampires
-* Empire of the Sun [🍅](https://www.rottentomatoes.com/m/empire_of_the_sun)
+* bof: Empire of the Sun (Steven Spielberg)
 * pas vu: https://www.telerama.fr/cinema/films/tandem,9962.php
 * pas vu: https://www.rottentomatoes.com/m/princess_bride #famille #aventure
 * pas vu: Un zoo la nuit https://www.cinematheque.qc.ca/fr/cinema/un-zoo-la-nuit/
@@ -722,7 +725,7 @@ Français:
 * Basic Instinct (Paul Verhoeven) #thriller
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
-* pas vu: https://www.rottentomatoes.com/m/1040798-husbands_and_wives
+* pas vu: https://www.rottentomatoes.com/m/1040798-husbands_and_wives (Woody Allen)
 * pas vu: https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -852,7 +855,7 @@ Français:
 
 [Oscars 70](https://fr.wikipedia.org/wiki/70e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Titanic 💙 11🏆
+* Titanic (James Cameron) 💙 11🏆
 * The Truman Show (Jim Carrey) #film-à-énigme
 * Contact (Jodie Foster) 💙
 * The Fifth Element (Luc Besson) #sf
@@ -868,7 +871,7 @@ Français:
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
 * Doodlebug (Christopher Nolan) [▶️](https://www.youtube.com/watch?v=kahb97XojzI) #short
-* bof: Children of Heaven 🇮🇷, ~~In the Company of Men~~
+* bof: Hana-bi (Takeshi Kitano) 🇯🇵, Children of Heaven 🇮🇷, ~~In the Company of Men~~
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -913,7 +916,7 @@ Français:
 * The Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * The Mummy (Brendan Fraser) #famille
-* bof: Sixième Sens (Bruce Willis), Mafia Blues
+* bof: Sixième Sens (Bruce Willis), Mafia Blues, ~~The Green Mile~~
 * pas vu: The Insider https://www.rottentomatoes.com/m/insider
 * pas vu: https://www.rottentomatoes.com/m/boys_dont_cry
 
@@ -938,8 +941,7 @@ Français:
 * Dancer in the Dark (Lars von Trier) 🌿
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry) 🇬🇧
-* Aniki mon Frère (Takeshi Kitano) 🇯🇵 #policier
-* bof: Almost Famous
+* bof: Aniki mon Frère (Takeshi Kitano) 🇯🇵, Almost Famous
 * pas vu: https://www.rottentomatoes.com/m/1095420-high_fidelity
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1184,7 +1186,7 @@ Français:
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
 * Walkyrie (Tom Cruise) #ww2
 * Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
-* bof: Gomorra 🇮🇹, Vicky Cristina Barcelona
+* bof: Gomorra 🇮🇹, Vicky Cristina Barcelona (Woody Allen)
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1563,8 +1565,8 @@ Français:
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
-    * Sound of Metal, Soul (Pixar), Minari, News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig [🍅](https://www.rottentomatoes.com/m/pig_2021), The Call of the Wild
-* pas vu: https://www.rottentomatoes.com/m/true_mothers 🇯🇵
+    * Sound of Metal, Soul (Pixar), Minari, News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild
+* pas vu: True Mothers 🇯🇵, The Half of It #coming-of-age
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
