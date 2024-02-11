@@ -430,10 +430,6 @@ Français:
 * Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
 * Amarcord (Federico Fellini) 🇮🇹 [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * bof: Serpico (Sydney Lumet, Al Pacino), ~~The Exorcist~~
-* pas vu: L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
-* pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
-* pas vu: https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
-* pas vu: https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
 
 
 ### 1974
@@ -607,9 +603,6 @@ Français:
 * The Killing Fields [🍅](https://www.rottentomatoes.com/m/killing_fields)
 * Terminator (James Cameron) 💙 #sf
 * bof: Paris Texas (Wim Wenders)
-* pas vu: https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
-* pas vu: https://www.rottentomatoes.com/m/birdy
-* pas vu: https://www.rottentomatoes.com/m/repo_man
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -625,8 +618,6 @@ Français:
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie #coming-of-age
 * Tampopo 🇯🇵
-* pas vu: Papa est en voyage d'affaires (Emir Kusturica) 🌿
-* pas vu: https://www.rottentomatoes.com/m/come_and_see
 * bof: Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
 
 [Césars 11](https://fr.wikipedia.org/wiki/11e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -664,9 +655,6 @@ Français:
 * Les Incorruptibles (Brian de Palma) #policier
 * The Lost Boys #vampires
 * bof: Empire of the Sun (Steven Spielberg)
-* pas vu: https://www.telerama.fr/cinema/films/tandem,9962.php
-* pas vu: https://www.rottentomatoes.com/m/princess_bride #famille #aventure
-* pas vu: Un zoo la nuit https://www.cinematheque.qc.ca/fr/cinema/un-zoo-la-nuit/
 
 [Césars 13](https://fr.wikipedia.org/wiki/13e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -683,7 +671,6 @@ Français:
 * Mississippi Burning (Gene Hackman, William Dafoe)
 * Gorillas in the mist (Sigourney Weaver) [🍅](https://www.rottentomatoes.com/m/gorillas_in_the_mist) : longuet
 * They Live (John Carpenter) 💙
-* pas vu: https://www.rottentomatoes.com/m/midnight_run
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -704,7 +691,6 @@ Français:
 * Le Cercle des poètes disparus (Peter Weir)
 * Sea of Love (Al Pacino) #thriller-érotique
 * Do the right thing (Spike Lee)
-* pas vu: https://www.rottentomatoes.com/m/say_anything
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -753,8 +739,6 @@ Français:
 * Basic Instinct (Paul Verhoeven) #thriller
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
-* pas vu: https://www.rottentomatoes.com/m/1040798-husbands_and_wives (Woody Allen)
-* pas vu: https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -762,7 +746,6 @@ Français:
     * > ❝ Vous avez de la chance d'être si facilement malheureux, alors qu'on peut le faire d'une manière tellement plus sophistiquée ❞
 * Un Coeur en Hiver (Claude Sautet) [📰](https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php) : premier tiers top, puis sonne un peu faux
 * bof: L.627 (Bertrand Tavernier)
-* pas vu: Indochine
 
 
 ### 1993
@@ -778,15 +761,12 @@ Français:
 * In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father)
 * Un Jour sans Fin (Bill Murray) #film-à-énigme
 * Belle Époque 🇪🇸 [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
-* pas vu: https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
-* pas vu: https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Les Visiteurs
 * La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
-* pas vu: https://www.telerama.fr/cinema/films/no-smoking,29537.php
 
 
 ### 1994
@@ -814,19 +794,12 @@ Français:
 * Four Weddings and a Funeral (Mike Newell) 🇬🇧 #romcom
 * The Last Seduction #thriller-érotique : l'intrigue commence vraiment à la moitié du film
 * bof: Forrest Gump, The Shawshank Redemption, Ed Wood
-* pas vu: https://www.rottentomatoes.com/m/heavenly_creatures
-* pas vu: https://www.rottentomatoes.com/m/madness_of_king_george
-* pas vu: Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * La Cité de la peur (Alain Chabat) ❤️
 * Le Péril jeune (Cédric Klapisch)
 * Léon (Luc Besson)
-* pas vu: https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
-* pas vu: https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
-* pas vu: https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
-* pas vu: Emilie Muller [▶️](https://www.youtube.com/watch?v=Om8e9494G-Q) #short
 
 
 ### 1995
@@ -852,8 +825,6 @@ Français:
 * La Cité des enfants perdus (Jean-Pierre Jeunet)
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (vu ?)
-* pas vu: N'oublie pas que tu vas mourir (Xavier Beauvois)
-* pas vu: https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
 * bof: La Cérémonie (Claude Chabrol)
 
 
@@ -877,7 +848,6 @@ Français:
 [Césars 22](https://fr.wikipedia.org/wiki/22e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Ridicule (Patrice Leconte, Jean Rochefort) ❤️ ✨ #comédie
-* pas vu: Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
 
 
 ### 1997
@@ -918,9 +888,6 @@ Français:
 * Los amantes del círculo polar 🇪🇸 : inégal
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
 * bof: Pi (Darren Aronofsky), ~~American History X~~
-* pas vu: Saving Private Ryan (Steven Spielberg) #film-de-guerre
-* pas vu: https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
-* pas vu: https://www.rottentomatoes.com/m/gods_and_monsters
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -946,8 +913,6 @@ Français:
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * The Mummy (Brendan Fraser) #famille
 * bof: Sixième Sens (Bruce Willis), Mafia Blues, ~~The Green Mile~~
-* pas vu: The Insider https://www.rottentomatoes.com/m/insider
-* pas vu: https://www.rottentomatoes.com/m/boys_dont_cry
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -971,7 +936,6 @@ Français:
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry) 🇬🇧
 * bof: Aniki mon Frère (Takeshi Kitano) 🇯🇵, Almost Famous
-* pas vu: https://www.rottentomatoes.com/m/1095420-high_fidelity
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -991,10 +955,6 @@ Français:
 * Monsters, Inc. (Pixar)
 * The Barber (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
-* pas vu: A Beautiful Mind 🏆
-* pas vu: Y tu mamá también (Alfonso Cuarón) 🇲🇽 [🍅](https://www.rottentomatoes.com/m/y_tu_mama_tambien)
-* pas vu: https://www.rottentomatoes.com/m/son_of_the_bride
-* pas vu: https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1014,10 +974,6 @@ Français:
 * Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
-* pas vu:
-    * Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
-    * The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
-    * https://www.telerama.fr/cinema/films/le-sourire-de-ma-mere-1-3082998.php
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1042,8 +998,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
-* bog: Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes
-* pas vu: https://www.rottentomatoes.com/m/the_return
+* bof: Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1079,9 +1034,6 @@ Français:
 * Kingdom of Heaven (Ridley Scott)
 * Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
 * bof: Napoleon Dynamite #coming-of-age #teen-movie
-* pas vu: https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
-* pas vu: https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
-* pas vu: https://www.rottentomatoes.com/m/on_the_outs
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1113,8 +1065,6 @@ Français:
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2) #sf
 * bof: Mémoires d'une geisha
-* pas vu: L'Enfant (frères Dardenne) 🌿
-* pas vu: https://www.rottentomatoes.com/m/sympathy_for_lady_vengeance (Park Chan-wook) 🇰🇷
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1148,7 +1098,6 @@ Français:
 * Borat
 * Apocalypto (Mel Gibson) : longuet
 * bof: Stranger than fiction (Will Ferrell)
-* pas vu: https://www.rottentomatoes.com/m/half_nelson
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1181,9 +1130,6 @@ Français:
 * The Assassination of Jesse James by the Coward Robert Ford #western
 * 3:10 to Yuma #western
 * Paranoid Park (Gus Van Sant)
-* pas vu: https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
-* pas vu: https://www.rottentomatoes.com/m/hairspray #musical
-* pas vu: Superbad #comédie
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1228,7 +1174,6 @@ Français:
 * 35 Rhums
 * Les Grandes Personnes (JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 * La Fille de Monaco
-* pas vu: https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
 
 
 ### 2009
@@ -1248,7 +1193,6 @@ Français:
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
 * bof: Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧
-* pas vu: https://www.telerama.fr/cinema/films/vincere,391336.php
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1279,8 +1223,6 @@ Français:
 * Kaboom (Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php) #comédie
 * Buried
 * Up in the Air (Jason Reitman, George Clooney)
-* pas vu: L'Illusionniste
-* pas vu: https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷
 * bof: Winter's Bone (Jennifer Lawrence) ☀️
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1315,8 +1257,6 @@ Français:
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
 * bof: Killer Joe
-* pas vu: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
-* pas vu: https://www.telerama.fr/cinema/films/elena,428535.php
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1381,7 +1321,6 @@ Français:
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
-* pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
 * bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), The Best Offer, Fruitvale Station ☀️, Blue Jasmine
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1410,10 +1349,6 @@ Français:
 * Creep
 * Still Alice
 * Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/force_majeure_2014)
-* pas vu: https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
-* pas vu: Selma
-* pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
-* pas vu: https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
 * bof: Nos étoiles contraires #coming-of-age, Sils Maria, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1443,11 +1378,6 @@ Français:
 * Manifesto (Cate Blanchett)
 * Il est de retour 🇩🇪 #comédie-satirique
 * bof: ~~The Martian~~
-* pas vu: https://www.rottentomatoes.com/m/macbeth_2015
-* pas vu: Le Fils de Saul 🇭🇺 🌿
-* pas vu: Me and Earl and the Dying Girl ☀️ #coming-of-age
-* pas vu: https://www.rottentomatoes.com/m/long_way_north #famille
-* pas vu: https://www.rottentomatoes.com/m/victoria_2015
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1475,8 +1405,6 @@ Français:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷 [🍅](https://www.rottentomatoes.com/m/the_wailing)
-* pas vu: The Birth of a Nation ☀️
-* pas vu: https://www.rottentomatoes.com/m/the_edge_of_seventeen
 * bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn)
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1499,8 +1427,6 @@ Français:
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Daniel Day-Lewis)
-* pas vu: I Don't Feel at Home in This World Anymore ☀️
-* pas vu: https://www.rottentomatoes.com/m/columbus_2017
 * bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, Okja, Le Jeune Karl Marx, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1526,10 +1452,6 @@ Français:
 * Heureux comme Lazzaro 🇮🇹
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
-* pas vu: https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
-* pas vu: https://www.rottentomatoes.com/m/night_comes_on ☀️
-* pas vu: https://www.rottentomatoes.com/m/tully_2018
-* pas vu: https://www.rottentomatoes.com/m/first_man (Damien Chazelle)
 * bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, Green Book, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1559,9 +1481,6 @@ Français:
 * Le Roi (Timothée Chalamet)
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* pas vu: https://www.rottentomatoes.com/m/ash_is_purest_white
-* pas vu: https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
-* pas vu: La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 * bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, The Farewell
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1596,7 +1515,6 @@ Français:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
     * Sound of Metal, Soul (Pixar), Minari, News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild
-* pas vu: True Mothers 🇯🇵, The Half of It #coming-of-age
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
