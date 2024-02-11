@@ -1,9 +1,73 @@
+### 1940s
+
+* https://www.rottentomatoes.com/m/bicycle_thieves 🇮🇹
+* https://www.rottentomatoes.com/m/1020312-stray_dog (Akira Kurosawa)
+
+
+### 1950s
+
+* https://www.rottentomatoes.com/m/roman_holiday
+* https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
+* Orfeu Negro (Marcel Camus) 🌿 🏆
+
+
+### 1960s
+
+* https://www.rottentomatoes.com/m/sound_of_music
+* https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
+* https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
+
+
+### 1970
+
+* Peau d'âne
+
+
+### 1971
+
+* https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
+
+
+### 1972
+
+* https://www.rottentomatoes.com/m/the_new_land
+* Cabaret (Bob Fosse) 8🏆
+
+
 ### 1973
 
 * L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
 * https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
+
+
+### 1974
+
+* Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
+* https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
+
+
+### 1975
+
+* https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
+
+
+### 1977
+
+* Eraserhead (David Lynch)
+* Annie Hall (Woody Allen)
+* Saturday Night Fever (John Travolta)
+
+
+### 1978
+
+* https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
+
+
+### 1983
+
+* https://www.rottentomatoes.com/m/national_lampoons_vacation
 
 
 ### 1984
@@ -17,6 +81,11 @@
 
 * Papa est en voyage d'affaires (Emir Kusturica) 🌿
 * https://www.rottentomatoes.com/m/come_and_see
+
+
+### 1986
+
+* https://www.rottentomatoes.com/m/1014027-mission
 
 
 ### 1987
@@ -72,11 +141,17 @@
 * Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
 
 
+### 1997
+
+* Western https://www.telerama.fr/cinema/films/western,35682.php
+
+
 ### 1998
 
 * Saving Private Ryan (Steven Spielberg) #film-de-guerre
 * https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
 * https://www.rottentomatoes.com/m/gods_and_monsters
+* https://www.telerama.fr/cinema/films/place-vendome,45583.php
 
 
 ### 1999
@@ -143,6 +218,7 @@
 ### 2009
 
 * https://www.telerama.fr/cinema/films/vincere,391336.php
+* Welcome
 
 
 ### 2010
@@ -155,6 +231,12 @@
 
 * https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
 * https://www.telerama.fr/cinema/films/elena,428535.php
+* Le Havre (Aki Kaurismäki)
+
+
+### 2012
+
+* Les Adieux à la reine
 
 
 ### 2013
@@ -224,6 +306,8 @@
     * no bears, happening, girl picture, till
 * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
 * https://www.rottentomatoes.com/m/out_of_darkness_2022
+* Broker (Koreeda) 🇰🇷
+* Aftersun
 
 
 ### 2023

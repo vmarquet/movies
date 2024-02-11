@@ -226,12 +226,10 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * The Lady from Shanghai (Orson Welles) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
 * Macbeth (Orson Welles)
 * La Corde (Alfred Hitchcock)
-* pas vu: https://www.rottentomatoes.com/m/bicycle_thieves 🇮🇹
 
 ### 1949
 
 * The Third Man (Orson Welles) 🎥 [🍅](https://www.rottentomatoes.com/m/the_third_man) : esthétique superbe mais intrigue triviale
-* pas vu: https://www.rottentomatoes.com/m/1020312-stray_dog (Akira Kurosawa)
 
 ### 1951
 
@@ -241,7 +239,6 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1953
 
 * Le Salaire de la peur (HG Clouzot) : début longuet
-* pas vu: https://www.rottentomatoes.com/m/roman_holiday
 
 ### 1954
 
@@ -262,7 +259,6 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Ascenseur pour l'échafaud (Louis Malle) ❤️ #policier
 * La Ballade de Narayama 🇯🇵 (note: le remake de 1983 est très bon également)
-* pas vu: https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
 
 
 ### 1959
@@ -273,7 +269,6 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Les Quatre Cents Coups (Truffaut) : le seul Truffaut que j'aime
 * Hiroshima mon amour (Alain Resnais) : bof, pas fan de la narration
-* pas vu: Orfeu Negro (Marcel Camus) 🌿 🏆
 * ~~Le Tigre du Bengale (Fritz Lang)~~ : à éviter, très mal vieilli, intrigue cliché
 
 
@@ -315,7 +310,7 @@ Français:
         * Les Barbouzes (1964, Georges Lautner)
         * Ne nous fâchons pas (1966, Georges Lautner)
 * Le Mépris (Jean-Luc Godard) 🎥🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
-* Le Guépard (Luchino Visconti) 🇮🇹 [📰](https://fr.wikipedia.org/wiki/Le_Gu%C3%A9pard_(film)) 🌿 : longuet
+* Le Guépard (Luchino Visconti) 🇮🇹 🌿 : longuet
 * 8½ (Federico Fellini) 🇮🇹 : pas fan, trop décousu
 
 
@@ -339,7 +334,6 @@ Français:
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * Yoyo (Pierre Etaix) ◯
 * Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin est originale
-* pas vu: https://www.rottentomatoes.com/m/sound_of_music
 
 
 ### 1966
@@ -357,7 +351,6 @@ Français:
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
 * Le Samouraï (Jean-Pierre Melville) 🎥🎥 #policier
 * La Chinoise (Jean-Luc Godard)
-* pas vu: https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
 
 
 ### 1968
@@ -377,7 +370,6 @@ Français:
 
 * L'Armée des ombres (Jean-Pierre Melville) #ww2 : bof, longuet
 * La Piscine (Jacques Deray, Alain Delon, Romy Schneider) : bof
-* pas vu: https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
 
 
 ### 1970
@@ -390,7 +382,6 @@ Français:
 
 * Le Cercle rouge (Jean-Pierre Melville) #policier
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
-* pas vu: Peau d'âne
 
 
 ### 1971
@@ -405,7 +396,6 @@ Français:
 * Max et les Ferrailleurs (Claude Sautet) ❤️
 * Le Chat (Jean Gabin, Simone Signoret) [📰](https://www.telerama.fr/cinema/films/le-chat,15925.php) 🧸
 * Sans Mobile Apparent (Philippe Labro, Jean-Louis Trintignant) #policier : bon polar, bonnes vannes
-* pas vu: https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
 
 
 ### 1972
@@ -413,8 +403,6 @@ Français:
 * Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god) [💡](https://www.youtube.com/watch?v=8mpgg_IsWhs)
 * Le Parrain (FF Coppola) 🎥 ❤️
 * Délivrance ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance) #thriller
-* pas vu: https://www.rottentomatoes.com/m/the_new_land
-* pas vu: Cabaret (Bob Fosse) 8🏆
 
 Français:
 
@@ -440,13 +428,11 @@ Français:
 * Don't Look Now #thriller : suspense et musiques +
 * Conversation Secrète (FF Coppola) #thriller
 * Chinatown (Roman Polanski)
-* pas vu: Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
 
 Français:
 
 * Les Valseuses (Bertrand Blier) ❤️ #comédie
 * Peur sur la Ville (Belmondo) (vu ?) #policier
-* pas vu: https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
 
 
 ### 1975
@@ -464,7 +450,6 @@ Français:
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * bof: Adieu Poulet (Patrice Dewaere, Lino Ventura)
-* pas vu: https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
 
 
 ### 1976
@@ -487,7 +472,6 @@ Français:
 * The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
 * Sorcerer [🍅](https://www.rottentomatoes.com/m/1019441-sorcerer) : première moitiée longuette mais épique ensuite
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
-* pas vu: Eraserhead (David Lynch), Annie Hall (Woody Allen), Saturday Night Fever (John Travolta)
 * bof: Opening Night
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -502,7 +486,6 @@ Français:
 * Midnight Express
 * Nosferatu (Werner Herzog)
 * bof: Grease (John Travolta)
-* pas vu: https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
 
 [Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -583,7 +566,6 @@ Français:
 * La Ballade de Narayama 🇯🇵 🌿
 * Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo)
-* pas vu: https://www.rottentomatoes.com/m/national_lampoons_vacation
 
 [Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -635,7 +617,6 @@ Français:
 * Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
 * 'Round Midnight (Bertrand Tavernier) #jazz : belle musique mais pas vraiment d'histoire
-* pas vu: https://www.rottentomatoes.com/m/1014027-mission
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -874,8 +855,6 @@ Français:
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* pas vu: Western https://www.telerama.fr/cinema/films/western,35682.php
-
 
 ### 1998
 
@@ -893,7 +872,6 @@ Français:
 
 * Le Diner de Cons
 * Taxi
-* pas vu: https://www.telerama.fr/cinema/films/place-vendome,45583.php
 
 
 ### 1999
@@ -1200,7 +1178,6 @@ Français:
 * Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * A l'origine (François Cluzet)
 * bof: Le Concert (Radu Mihaileanu) #comédie, Les herbes folles (Alain Resnais) [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
-* pas vu: Welcome
 
 
 ### 2010
@@ -1268,7 +1245,6 @@ Français:
 * Le Moine (Vincent Cassel)
 * L’Exercice de l’État
 * Rapace (Grégory Gadebois)
-* pas vu: Le Havre (Aki Kaurismäki)
 
 
 ### 2012
@@ -1297,7 +1273,6 @@ Français:
 * Amour (Michael Haneke) 🌿
 * De Rouille et d'Os (Jacques Audiard) 9✨
 * Le grand soir (Delépine et Kervern, Benoît Poelvoorde)
-* pas vu: Les Adieux à la reine
 
 
 ### 2013
@@ -1559,7 +1534,7 @@ Français:
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
-* Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php) 🇩🇰🇮🇸
+* Godland 🇩🇰🇮🇸 [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
 * The Whale (Darren Aronofsky, Brendan Fraser)
 * Triangle of Sadness (Ruben Östlund) 🌿 [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
 * As Bestas 🇪🇸 [🍅](https://www.rottentomatoes.com/m/the_beasts) : "un thriller à l’hyperréalisme terrifiant" (télérama)
@@ -1574,7 +1549,6 @@ Français:
 * bof:
     * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Corsage, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All
     * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
-* pas vu: Broker (Koreeda) 🇰🇷, Aftersun
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
