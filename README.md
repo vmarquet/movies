@@ -12,6 +12,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * 💙 = film admis comme culte, à avoir vu une fois
 * ❤️ = mes films préférés
 * 🎥 = film à l'esthétique très travaillé
+* 🍿 = divertissement léger
 * 🏆 = nominé aux Oscars
 * ✨ = nominé aux Césars
 * 🌿 = nominé à Cannes
@@ -397,7 +398,7 @@ Français:
 * Orange Mécanique (Stanley Kubrick)
 * Duel (Steven Spielberg)
 * Harold and Maude : pas fan de l'esthétique et du storytelling mais le fin mot de l'intrigue est intéressant [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
-* bof: The Last Picture Show
+* bof: The Last Picture Show, The French Connection
 
 Français:
 
@@ -428,7 +429,7 @@ Français:
 * L'Homme des Hautes Plaines (Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter) #western-spaghetti
 * Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
 * Amarcord (Federico Fellini) 🇮🇹 [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
-* bof: Serpico (Sydney Lumet, Al Pacino)
+* bof: Serpico (Sydney Lumet, Al Pacino), ~~The Exorcist~~
 * pas vu: L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * pas vu: https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * pas vu: https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
@@ -532,7 +533,7 @@ Français:
 
 [Oscars 53](https://fr.wikipedia.org/wiki/53e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Elephant Man (Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
+* Elephant Man (David Lynch, Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
 * The Blues Brothers (John Landis) 💙
 * La Porte du Paradis (Michael Cimino) : mémorable mais longuet
 * Raging Bull (Martin Scorsese)
@@ -1313,6 +1314,7 @@ Français:
 * Habemus Papam (Nanni Moretti) 🇮🇹
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
+* bof: Killer Joe
 * pas vu: https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
 * pas vu: https://www.telerama.fr/cinema/films/elena,428535.php
 
@@ -1380,7 +1382,7 @@ Français:
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
 * pas vu: https://www.rottentomatoes.com/m/the_spectacular_now
-* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), The Best Offer, Fruitvale Station ☀️
+* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), The Best Offer, Fruitvale Station ☀️, Blue Jasmine
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1412,7 +1414,7 @@ Français:
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
 * pas vu: https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
-* bof: Nos étoiles contraires #coming-of-age, Sils Maria, ~~Interstellar~~, ~~Mommy~~
+* bof: Nos étoiles contraires #coming-of-age, Sils Maria, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1615,7 +1617,7 @@ Français:
 * Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
 * Dune (Denis Villeneuve) #sf
-* Werewolves Within (comédie/horreur) #film-de-noel
+* Werewolves Within 🍿 (comédie/horreur) #film-de-noel
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
 * bof: Drive My Car 🇯🇵, Onoda 🇯🇵
 
@@ -1636,7 +1638,7 @@ Français:
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
-* Spirited (Ryan Reynolds, Will Ferrell) #film-de-noel
+* Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
 * Godland [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php) 🇩🇰🇮🇸
