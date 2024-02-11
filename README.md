@@ -111,6 +111,29 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 </details>
 
 <details>
+<summary>Bonus: guess the movie</summary>
+
+* 🕵🏼🕵🏿 👩🏼➡️📦
+* 👴👨👦👶
+* 🔍🐟
+* 🤓👨🏻‍🦽 🪪🔁 🚀
+* 🌊🚣🐅🏝️
+* 😴💭💭💭💡
+* 😴❌ 🤜 🧼🧨🏛🎇
+* 🔪🚿
+* 👨‍👩‍👦❄️🪓
+* 🥷🏿🕊️🍦🔫
+* 🖥💊🔌📞😎🤛🏻
+* 💍➡️🌋
+* 🧑⚡🚂🤺🐍
+* 🚀👨‍🚀💩🥔🌎
+* 🧓🏻👦🏠🎈⛰
+* 👨🐻🤕🔫🔪
+
+<!-- Seven, Benjamin Buton, Finding Nemo, Gattaca, Life of Pi, Inception, Fight Club, Psycho, The Shining, Ghost Dog, The Matrix, Lord of the Rings, Harry Potter and the Chamber of Secrets, The Martian, Up, The Revenant -->
+</details>
+
+<details>
 <summary>Bonus: humor</summary>
 
 * https://imoquest.tumblr.com/post/53547498057/eternal-torture
@@ -139,7 +162,7 @@ Bonus:
 * Tigre et Dragon
 * Apocalypse Now
 * Lion
-* Nightcall
+* Nightcrawler
 * Aguirre, la Colère de Dieu
 * Inglorious Basterds
 * Le Sel de la Terre (docu)
@@ -737,6 +760,7 @@ Français:
 * Les nuits fauves ❤️ [📰](https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php) 4✨
     * > ❝ Vous avez de la chance d'être si facilement malheureux, alors qu'on peut le faire d'une manière tellement plus sophistiquée ❞
 * Un Coeur en Hiver (Claude Sautet) [📰](https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php) : premier tiers top, puis sonne un peu faux
+* bof: L.627 (Bertrand Tavernier)
 * pas vu: Indochine
 
 
@@ -1388,7 +1412,7 @@ Français:
 * pas vu: Selma
 * pas vu: https://www.telerama.fr/cinema/films/good-kill,498797.php
 * pas vu: https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
-* bof: Nos étoiles contraires #coming-of-age, Sils Maria, ~~Mommy~~
+* bof: Nos étoiles contraires #coming-of-age, Sils Maria, ~~Interstellar~~, ~~Mommy~~
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1416,6 +1440,7 @@ Français:
 * Carol (Todd Haynes, Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
 * Il est de retour 🇩🇪 #comédie-satirique
+* bof: ~~The Martian~~
 * pas vu: https://www.rottentomatoes.com/m/macbeth_2015
 * pas vu: Le Fils de Saul 🇭🇺 🌿
 * pas vu: Me and Earl and the Dying Girl ☀️ #coming-of-age
@@ -1655,13 +1680,13 @@ Français:
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
-* Dungeons & Dragons: Honor Among Thieves : bon divertissement
+* Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
-* American Fiction
+* American Fiction (Jeffrey Wright) #satire
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
-* Sick of Myself 🇳🇴
+* Sick of Myself 🇳🇴 #satire
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
 * Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
