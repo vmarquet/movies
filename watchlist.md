@@ -25,7 +25,7 @@
 
 ### 1971
 
-* https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php
+* https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php (Jean-Paul Rappeneau)
 
 
 ### 1972
@@ -45,12 +45,12 @@
 ### 1974
 
 * Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
-* https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php
+* https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php (Bertrand Tavernier)
 
 
 ### 1975
 
-* https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php
+* https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php (Bertrand Tavernier)
 
 
 ### 1977
@@ -72,7 +72,7 @@
 
 ### 1984
 
-* https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php
+* https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
 * https://www.rottentomatoes.com/m/birdy
 * https://www.rottentomatoes.com/m/repo_man
 
@@ -81,6 +81,7 @@
 
 * Papa est en voyage d'affaires (Emir Kusturica) 🌿
 * https://www.rottentomatoes.com/m/come_and_see
+* https://www.rottentomatoes.com/m/my_beautiful_laundrette
 
 
 ### 1986
@@ -90,7 +91,7 @@
 
 ### 1987
 
-* https://www.telerama.fr/cinema/films/tandem,9962.php
+* https://www.telerama.fr/cinema/films/tandem,9962.php (Patrice Leconte)
 * https://www.rottentomatoes.com/m/princess_bride #famille #aventure
 * Un zoo la nuit https://www.cinematheque.qc.ca/fr/cinema/un-zoo-la-nuit/
 
@@ -115,6 +116,7 @@
 ### 1993
 
 * https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
+* https://www.rottentomatoes.com/m/manhattan_murder_mystery (Woody Allen)
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
 
@@ -152,6 +154,7 @@
 * https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
 * https://www.rottentomatoes.com/m/gods_and_monsters
 * https://www.telerama.fr/cinema/films/place-vendome,45583.php
+* https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh)
 
 
 ### 1999
@@ -171,6 +174,7 @@
 * Y tu mamá también (Alfonso Cuarón) 🇲🇽 [🍅](https://www.rottentomatoes.com/m/y_tu_mama_tambien)
 * https://www.rottentomatoes.com/m/son_of_the_bride
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
+* https://www.rottentomatoes.com/m/sex_and_lucia
 
 
 ### 2002
@@ -178,6 +182,7 @@
 * Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
 * The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
 * https://www.telerama.fr/cinema/films/le-sourire-de-ma-mere-1-3082998.php
+* https://www.rottentomatoes.com/m/secretary
 
 
 ### 2003
@@ -242,6 +247,7 @@
 ### 2013
 
 * https://www.rottentomatoes.com/m/the_spectacular_now
+* https://www.rottentomatoes.com/m/gloria_2012
 
 
 ### 2014
@@ -329,7 +335,7 @@
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
-    * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php
+    * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php https://www.rottentomatoes.com/m/the_settlers_2023
 * https://yts.mx/movies/polite-society-2023
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
 * https://www.rottentomatoes.com/m/the_zone_of_interest
@@ -339,6 +345,7 @@
 * https://www.rottentomatoes.com/m/godzilla_minus_one
 * https://www.rottentomatoes.com/m/anselm (docu)
 * https://www.rottentomatoes.com/m/molli_and_max_in_the_future
+* https://www.rottentomatoes.com/m/talk_to_me_2023 (Golden Tomato Award best international movie 2023)
 
 
 

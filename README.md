@@ -103,6 +103,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * [Prix Edgar-Allan-Poe](https://fr.wikipedia.org/wiki/Prix_Edgar-Allan-Poe#Meilleur_film_(Best_Motion_Picture)) (récompense les auteurs des meilleures œuvres policières)
 * [Palmarès Sundance](https://www.allocine.fr/festivals/festival-124/edition-18356433/palmares/)
 * [Palmarès Deauville](https://fr.wikipedia.org/wiki/Prix_du_jury_du_Festival_de_Deauville)
+* [Rotten Tomatoes – Best Romantic Comedies of All Time](https://editorial.rottentomatoes.com/guide/best-romantic-comedies-of-all-time/)
 </details>
 
 <details>
@@ -617,6 +618,7 @@ Français:
 * Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
 * 'Round Midnight (Bertrand Tavernier) #jazz : belle musique mais pas vraiment d'histoire
+* The Fly (David Cronenberg) #nanar
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -686,6 +688,7 @@ Français:
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * King of New York (Abel Ferrara, Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york) #policier : le meilleur rôle de Christopher Walken
 * Sailor et Lula (Wild at Heart) (David Lynch, Nicolas Cage, Laura Dern)
+* bof: Total Recall
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -851,7 +854,7 @@ Français:
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
 * Good Will Hunting (Gus van Sant)
 * Doodlebug (Christopher Nolan) [▶️](https://www.youtube.com/watch?v=kahb97XojzI) #short
-* bof: Hana-bi (Takeshi Kitano) 🇯🇵, Children of Heaven 🇮🇷, ~~In the Company of Men~~
+* bof: Hana-bi (Takeshi Kitano) 🇯🇵, Boogie Nights (Paul Thomas Anderson), Children of Heaven 🇮🇷, ~~In the Company of Men~~
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -890,7 +893,7 @@ Français:
 * The Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * The Mummy (Brendan Fraser) #famille
-* bof: Sixième Sens (Bruce Willis), Mafia Blues, ~~The Green Mile~~
+* bof: Eyes Wide Shut (Kubrick), Sixième Sens (Bruce Willis), Mafia Blues, ~~The Green Mile~~
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -984,6 +987,7 @@ Français:
 * Les Triplettes de Belleville
 * Le mystère de la chambre jaune (Bruno Podalydès)
 * Les Invasions Barbares [📰](https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php) : sympa sans plus
+* bof: Swimming Pool (François Ozon)
 
 
 ### 2004
@@ -1062,7 +1066,7 @@ Français:
 * The Fall [🍅](https://www.rottentomatoes.com/m/the-fall-2008) #fantastique
 * Le Labyrinthe de Pan (Guillermo del Toro) 🇪🇸
 * The Black Dahlia (Brian de Palma)
-* Le Secret de Brokeback Mountain (Ang Lee) 🏆
+* Brokeback Mountain (Ang Lee) 🏆
 * Babel (Alejandro González Iñárritu)
 * Le Prestige (Christopher Nolan) #film-à-énigme
 * The Queen (Stephen Frears) 🇬🇧 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
@@ -1092,7 +1096,7 @@ Français:
 
 * The Darjeeling Limited (Wes Anderson) ❤️
 * Juno (Jason Reitman) [🍅](https://www.rottentomatoes.com/m/juno) 🏆 #coming-of-age
-* There Will Be Blood (P.T. Anderson, Daniel Day Lewis, Paul Dano) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
+* There Will Be Blood (Paul Thomas Anderson, Daniel Day Lewis, Paul Dano) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
 * Sweeney Todd (Tim Burton) ❤️
 * Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours 🇷🇴 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
@@ -1159,7 +1163,7 @@ Français:
 * Bright Star (Jane Campion) 🎥 ❤️
 * Inglorious Basterds (Tarentino) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
 * Fantastic Mr. Fox (Wes Anderson)
-* Dans ses yeux (El secreto de sus ojos) 🇦🇷 ✨ #thriller #énigme
+* Dans ses yeux (El secreto de sus ojos) 🇦🇷 ✨ #thriller
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Whatever Works (Woody Allen)
 * Zombieland [🍅](https://www.rottentomatoes.com/m/zombieland) #comédie
@@ -1233,7 +1237,7 @@ Français:
 * Habemus Papam (Nanni Moretti) 🇮🇹
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
-* bof: Killer Joe
+* bof: Take This Waltz, Killer Joe
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1265,7 +1269,7 @@ Français:
 * Lincoln (Steven Spielberg, Daniel Day-Lewis)
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
-* bof: 21 jump street, ~~Ruby Sparks~~, ~~Argo~~
+* bof: 21 jump street, The Master (Paul Thomas Anderson), ~~Ruby Sparks~~, ~~Argo~~
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1314,7 +1318,7 @@ Français:
 * Gone Girl (Fincher)
 * Black Coal 🇨🇳 🧸
 * Reality (Quentin Dupieux, Alain Chabat)
-* Inherent Vice (Joaquin Phoenix)
+* Inherent Vice (Paul Thomas Anderson, Joaquin Phoenix)
 * Leviathan 🇷🇺
 * A Girl Walks Home Alone at Night 🇮🇷
 * Dear White People ☀️
@@ -1368,6 +1372,7 @@ Français:
 * Mademoiselle (Park Chan-wook) 🇰🇷 🌿
 * Arrival (Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
+* Zootopia (Disney)
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
 * La La Land (Damien Chazelle)
 * I Daniel Blake (Ken Loach) 🇬🇧 🌿
@@ -1401,8 +1406,8 @@ Français:
 * Ingrid Goes West (Aubrey Plaza)
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Darkest Hour 🇬🇧 #ww2
-* Phantom Thread (Daniel Day-Lewis)
-* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, Okja, Le Jeune Karl Marx, ~~The Shape of Water~~
+* Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis)
+* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, The Big Sick, Okja, Le Jeune Karl Marx, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1529,6 +1534,7 @@ Français:
 * Le otto montagne 🇮🇹 ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
+* Puss in Boots: The Last Wish (Chat potté 2) ❤️
 * She Said (affaire Weinstein)
 * Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
@@ -1603,6 +1609,11 @@ Français:
 * Les Trois Mousquetaires #aventure
 * La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
 * bof: Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec)
+
+
+### 2024
+
+[Rotten Tomatoes – Top Movies of 2024](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
 
 
 
