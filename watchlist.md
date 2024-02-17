@@ -7,6 +7,7 @@
 
 ### 1950s
 
+* https://www.rottentomatoes.com/m/ikiru 🇯🇵 ++
 * https://www.rottentomatoes.com/m/roman_holiday
 * https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
 * Orfeu Negro (Marcel Camus) 🌿 🏆
@@ -51,11 +52,13 @@
 
 ### 1975
 
+* https://www.rottentomatoes.com/m/the-passenger-professione-reporter
 * https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php (Bertrand Tavernier)
 
 
 ### 1977
 
+* https://www.rottentomatoes.com/m/stroszek ++
 * Eraserhead (David Lynch)
 * Annie Hall (Woody Allen)
 * Saturday Night Fever (John Travolta)
@@ -65,6 +68,11 @@
 ### 1978
 
 * https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
+
+
+### 1981
+
+* https://www.rottentomatoes.com/m/my_dinner_with_andre ++
 
 
 ### 1983
@@ -106,7 +114,13 @@
 
 ### 1989
 
+* https://en.wikipedia.org/wiki/Dekalog
 * https://www.rottentomatoes.com/m/say_anything
+
+
+### 1990
+
+* https://www.rottentomatoes.com/m/1032970-awakenings ++
 
 
 ### 1992
@@ -118,6 +132,7 @@
 
 ### 1993
 
+* https://www.rottentomatoes.com/m/1046151-fearless ++
 * https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
@@ -164,6 +179,8 @@
 
 * The Insider https://www.rottentomatoes.com/m/insider
 * https://www.rottentomatoes.com/m/boys_dont_cry
+* https://www.rottentomatoes.com/m/magnolia (Paul Thomas Anderson)
+* https://www.rottentomatoes.com/m/1093579-man_on_the_moon
 
 
 ### 2000
@@ -175,6 +192,7 @@
 
 * A Beautiful Mind 🏆
 * Y tu mamá también (Alfonso Cuarón) 🇲🇽 [🍅](https://www.rottentomatoes.com/m/y_tu_mama_tambien)
+* https://www.rottentomatoes.com/m/waking_life
 * https://www.rottentomatoes.com/m/son_of_the_bride
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
 * https://www.rottentomatoes.com/m/sex_and_lucia
@@ -190,11 +208,14 @@
 
 ### 2003
 
+* https://www.rottentomatoes.com/m/spring_summer_fall_winterand_spring ++
 * https://www.rottentomatoes.com/m/the_return
+* https://www.rottentomatoes.com/m/facing_windows ?
 
 
 ### 2004
 
+* https://www.rottentomatoes.com/m/i_heart_huckabees
 * https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
 * https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
 * https://www.rottentomatoes.com/m/on_the_outs
@@ -209,6 +230,8 @@
 ### 2006
 
 * https://www.rottentomatoes.com/m/half_nelson
+* https://www.rottentomatoes.com/m/the_fountain
+* https://www.rottentomatoes.com/m/snow_cake
 
 
 ### 2007
@@ -216,10 +239,12 @@
 * https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
 * https://www.rottentomatoes.com/m/hairspray #musical
 * Superbad #comédie
+* https://www.rottentomatoes.com/m/1189416-shelter ?
 
 
 ### 2008
 
+* https://www.rottentomatoes.com/m/synecdoche_new_york ++
 * https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
 
 
@@ -237,18 +262,22 @@
 
 ### 2011
 
+* https://www.rottentomatoes.com/m/the_turin_horse ++
 * https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
 * https://www.telerama.fr/cinema/films/elena,428535.php
+* https://www.rottentomatoes.com/m/detachment
 * Le Havre (Aki Kaurismäki)
 
 
 ### 2012
 
+* https://www.rottentomatoes.com/m/its_such_a_beautiful_day ++
 * Les Adieux à la reine
 
 
 ### 2013
 
+* https://www.rottentomatoes.com/m/upstream_color ++
 * https://www.rottentomatoes.com/m/the_spectacular_now
 * https://www.rottentomatoes.com/m/gloria_2012
 

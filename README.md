@@ -341,7 +341,7 @@ Français:
 
 * Le Bon, la Brute et le Truand (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/good_the_bad_and_the_ugly) #western-spaghetti
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
-* bof: Blow-Up, Le Roi de Coeur (Philippe de Broca)
+* bof: Persona (Ingmar Bergman), Blow-Up, Le Roi de Coeur (Philippe de Broca)
 
 
 ### 1967
@@ -964,7 +964,7 @@ Français:
 * L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
 * Monsieur Batignole (Gérard Jugnot)
-* bof: Irréversible (Gaspard Noé)
+* bof: Irréversible (Gaspar Noé)
 
 
 ### 2003
@@ -1175,7 +1175,7 @@ Français:
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧
+* bof: Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1520,7 +1520,7 @@ Français:
 * Dune (Denis Villeneuve) #sf
 * Werewolves Within 🍿 (comédie/horreur) #film-de-noel
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car 🇯🇵, Onoda 🇯🇵
+* bof: Drive My Car 🇯🇵, Onoda 🇯🇵, Vortex (Gaspar Noé)
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
