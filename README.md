@@ -501,7 +501,7 @@ Français:
 * Apocalypse Now (FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
-* bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers)
+* bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers), Mad Max
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -552,6 +552,7 @@ Français:
 * The Draughtsman's Contract 🇬🇧 [🍅](https://www.rottentomatoes.com/m/draughtsmans_contract)
 * Tootsie (Sydney Pollack, Dustin Hoffman) [🍅](https://www.rottentomatoes.com/m/tootsie) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
 * First Blood (Sylvester Stallone)
+* bof: Conan le barbare
 
 [Césars 8](https://fr.wikipedia.org/wiki/8e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -618,7 +619,7 @@ Français:
 * Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
 * 'Round Midnight (Bertrand Tavernier) #jazz : belle musique mais pas vraiment d'histoire
-* The Fly (David Cronenberg) #nanar
+* The Fly (David Cronenberg) #nanar #so-bad-its-good
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -688,7 +689,7 @@ Français:
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * King of New York (Abel Ferrara, Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york) #policier : le meilleur rôle de Christopher Walken
 * Sailor et Lula (Wild at Heart) (David Lynch, Nicolas Cage, Laura Dern)
-* bof: Total Recall
+* bof: Total Recall, Pretty Woman
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -745,7 +746,7 @@ Français:
 * In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father)
 * Un Jour sans Fin (Bill Murray) #film-à-énigme
 * Belle Époque 🇪🇸 [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
-* bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman)
+* bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman), Manhattan Murder Mystery (Woody Allen)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -863,7 +864,7 @@ Français:
 
 [Oscars 71](https://fr.wikipedia.org/wiki/71e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* The Big Lebowski (frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski)
+* The Big Lebowski (frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski) 🎳
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham) 🇬🇧
 * Kirikou et la Sorcière #famille
@@ -893,7 +894,7 @@ Français:
 * The Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * The Mummy (Brendan Fraser) #famille
-* bof: Eyes Wide Shut (Kubrick), Sixième Sens (Bruce Willis), Mafia Blues, ~~The Green Mile~~
+* bof: Eyes Wide Shut (Kubrick), Sixième Sens (Bruce Willis), The Virgin Suicides (Sofia Coppola), Mafia Blues, ~~The Green Mile~~
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1079,7 +1080,7 @@ Français:
 * Blood Diamond
 * Borat
 * Apocalypto (Mel Gibson) : longuet
-* bof: Stranger than fiction (Will Ferrell)
+* bof: Stranger than fiction (Will Ferrell), Marie Antoinette (Sofia Coppola)
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1201,10 +1202,11 @@ Français:
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
+* The Social Network (David Fincher)
 * Kaboom (Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php) #comédie
 * Buried
 * Up in the Air (Jason Reitman, George Clooney)
-* bof: Winter's Bone (Jennifer Lawrence) ☀️
+* bof: Winter's Bone (Jennifer Lawrence) ☀️, Somewhere (Sofia Coppola)
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1356,7 +1358,8 @@ Français:
 * Carol (Todd Haynes, Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
 * Il est de retour 🇩🇪 #comédie-satirique
-* bof: ~~The Martian~~
+* Mad Max: Fury Road
+* bof: ~~The Martian~~, ~~A Bigger Splash~~
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1407,7 +1410,7 @@ Français:
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis)
-* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, The Big Sick, Okja, Le Jeune Karl Marx, ~~The Shape of Water~~
+* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja, ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1553,7 +1556,7 @@ Français:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), Corsage, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All
+    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, ~~Chevalier~~
     * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1579,12 +1582,14 @@ Français:
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
+* The Iron Claw
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * American Fiction (Jeffrey Wright) #satire
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
+* All of us Strangers 🇬🇧
 * La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
 * Sick of Myself 🇳🇴 #satire
 * Air (Matt Damon)
@@ -1595,7 +1600,6 @@ Français:
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
-* All of us Strangers 🇬🇧
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
@@ -1606,9 +1610,10 @@ Français:
 
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Anatomie d'une chute (Justine Triet) 🌿 #film-de-procès
+* Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)
 * Les Trois Mousquetaires #aventure
 * La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
-* bof: Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec)
+* bof: Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon)
 
 
 ### 2024

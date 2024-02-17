@@ -2,6 +2,7 @@
 
 * https://www.rottentomatoes.com/m/bicycle_thieves 🇮🇹
 * https://www.rottentomatoes.com/m/1020312-stray_dog (Akira Kurosawa)
+* https://www.rottentomatoes.com/m/double_indemnity (Billy Wilder) #noir
 
 
 ### 1950s
@@ -58,6 +59,7 @@
 * Eraserhead (David Lynch)
 * Annie Hall (Woody Allen)
 * Saturday Night Fever (John Travolta)
+* https://www.rottentomatoes.com/m/1017818-rolling_thunder
 
 
 ### 1978
@@ -92,6 +94,7 @@
 ### 1987
 
 * https://www.telerama.fr/cinema/films/tandem,9962.php (Patrice Leconte)
+* https://www.rottentomatoes.com/m/raising_arizona (frères Coen)
 * https://www.rottentomatoes.com/m/princess_bride #famille #aventure
 * Un zoo la nuit https://www.cinematheque.qc.ca/fr/cinema/un-zoo-la-nuit/
 
@@ -116,7 +119,6 @@
 ### 1993
 
 * https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
-* https://www.rottentomatoes.com/m/manhattan_murder_mystery (Woody Allen)
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
 
@@ -129,6 +131,7 @@
 * https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
 * https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
+* https://www.rottentomatoes.com/m/crow
 * Emilie Muller [▶️](https://www.youtube.com/watch?v=Om8e9494G-Q) #short
 
 
@@ -291,6 +294,7 @@
 
 * https://www.rottentomatoes.com/m/ash_is_purest_white
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
+* https://www.rottentomatoes.com/m/judy_2019
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 
 
@@ -312,6 +316,7 @@
     * no bears, happening, girl picture, till
 * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
 * https://www.rottentomatoes.com/m/out_of_darkness_2022
+* https://www.rottentomatoes.com/m/elvis
 * Broker (Koreeda) 🇰🇷
 * Aftersun
 
@@ -326,7 +331,6 @@
 * la beauté du geste (Japon)
 * Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
-* https://www.rottentomatoes.com/m/the_iron_claw_2023
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies
 * https://www.rottentomatoes.com/m/monster_2023 (Koreeda) 🇯🇵
@@ -334,7 +338,6 @@
 * tous TTT:
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
-    * https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php
     * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php https://www.rottentomatoes.com/m/the_settlers_2023
 * https://yts.mx/movies/polite-society-2023
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
@@ -363,7 +366,6 @@
 * https://www.rottentomatoes.com/m/hundreds_of_beavers
 * https://www.rottentomatoes.com/m/a_man (8 oscars japonais)
 * https://www.rottentomatoes.com/m/concrete_utopia
-* https://www.rottentomatoes.com/m/the_crime_is_mine Mon Crime (Ozon)
 * https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
 * https://www.rottentomatoes.com/m/american_symphony (docu)
 
@@ -377,7 +379,6 @@
 * les uns et les autres
 * how the west as won (le film avec champ ultra large)
 * the duchess
-* manhattan murder mystery (woody allen)
 * MADE IN USA de Jean Luc Godard
 * mary poppins
 * ben X
