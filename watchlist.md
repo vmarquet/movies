@@ -115,7 +115,6 @@
 ### 1989
 
 * https://en.wikipedia.org/wiki/Dekalog
-* https://www.rottentomatoes.com/m/say_anything
 
 
 ### 1990
@@ -358,7 +357,7 @@
 * https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * la beauté du geste (Japon)
-* Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023
+* Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023 ++
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies
@@ -367,18 +366,20 @@
 * tous TTT:
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
-    * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php https://www.rottentomatoes.com/m/the_settlers_2023
+    * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php https://www.rottentomatoes.com/m/the_settlers_2023 ++
 * https://yts.mx/movies/polite-society-2023
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
-* https://www.rottentomatoes.com/m/the_zone_of_interest
-* https://www.rottentomatoes.com/m/the_promised_land_2023 (Mads Mikkelsen)
+* https://www.rottentomatoes.com/m/the_zone_of_interest ++
+* https://www.rottentomatoes.com/m/the_promised_land_2023 (Mads Mikkelsen) ++
 * https://www.rottentomatoes.com/m/the_monk_and_the_gun
-* https://www.rottentomatoes.com/m/the_settlers_2023
 * https://www.rottentomatoes.com/m/godzilla_minus_one
 * https://www.rottentomatoes.com/m/anselm (docu)
 * https://www.rottentomatoes.com/m/molli_and_max_in_the_future
 * https://www.rottentomatoes.com/m/talk_to_me_2023 (Golden Tomato Award best international movie 2023)
-
+* https://www.rottentomatoes.com/m/double_blind
+* https://www.rottentomatoes.com/m/fitting_in_2023
+* https://www.rottentomatoes.com/m/the_persian_version
+* https://www.rottentomatoes.com/m/wonka
 
 
 ### 2024

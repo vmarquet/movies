@@ -675,6 +675,8 @@ Français:
 * Le Cercle des poètes disparus (Peter Weir)
 * Sea of Love (Al Pacino) #thriller-érotique
 * Do the right thing (Spike Lee)
+* Say Anything (Cameron Crowe) #coming-of-age
+    * > ❝ Are you here because you need someone, or because you need me? ❞
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -719,7 +721,7 @@ Français:
 [Oscars 65](https://fr.wikipedia.org/wiki/65e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Impitoyable (Clint Eastwood) 4🏆 [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven) #western
-* Singles #comédie
+* Singles (Cameron Crowe) #comédie
 * Reservoir Dogs (Tarentino)
 * Basic Instinct (Paul Verhoeven) #thriller
 * Glengarry Glen Ross #comédie-de-bureau
@@ -829,6 +831,7 @@ Français:
     * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
 * Fargo (frères Coen, Frances McDormand, Steve Buscemi)
 * Lone Star [🍅](https://www.rottentomatoes.com/m/1074022-lone_star) #neowestern
+* bof: Jerry Maguire (Cameron Crowe)
 
 [Césars 22](https://fr.wikipedia.org/wiki/22e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -917,7 +920,7 @@ Français:
 * Dancer in the Dark (Lars von Trier) 🌿
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry) 🇬🇧
-* bof: Aniki mon Frère (Takeshi Kitano) 🇯🇵, Almost Famous
+* bof: Aniki mon Frère (Takeshi Kitano) 🇯🇵, Almost Famous (Cameron Crowe)
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -937,6 +940,7 @@ Français:
 * Monsters, Inc. (Pixar)
 * The Barber (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
+* bof: ~~Vanilla Sky (Cameron Crowe)~~
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1239,7 +1243,7 @@ Français:
 * Habemus Papam (Nanni Moretti) 🇮🇹
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
-* bof: Take This Waltz, Killer Joe
+* bof: La piel que habito (Pedro Almodóvar), Take This Waltz, Killer Joe
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1410,6 +1414,7 @@ Français:
 * I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
 * Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis)
+* Blade Runner 2049 (Denis Villeneuve) #sf
 * bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja, ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1497,7 +1502,7 @@ Français:
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
-    * Sound of Metal, Soul (Pixar), Minari, News of the World (Tom Hanks) #western, Tenet, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild
+    * Sound of Metal, Soul (Pixar), Minari, News of the World (Tom Hanks) #western, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild, ~~Tenet~~
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
