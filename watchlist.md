@@ -1,3 +1,8 @@
+### 1930s
+
+* https://www.rottentomatoes.com/m/duck_soup
+
+
 ### 1940s
 
 * https://www.rottentomatoes.com/m/bicycle_thieves 🇮🇹
@@ -90,8 +95,10 @@
 ### 1985
 
 * Papa est en voyage d'affaires (Emir Kusturica) 🌿
-* https://www.rottentomatoes.com/m/come_and_see
+* https://www.rottentomatoes.com/m/come_and_see ++
 * https://www.rottentomatoes.com/m/my_beautiful_laundrette
+* https://www.rottentomatoes.com/m/real_genius
+* https://www.rottentomatoes.com/m/1002213-better_off_dead
 
 
 ### 1986
@@ -315,7 +322,6 @@
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * https://www.rottentomatoes.com/m/night_comes_on ☀️
 * https://www.rottentomatoes.com/m/tully_2018
-* https://www.rottentomatoes.com/m/first_man (Damien Chazelle)
 
 
 ### 2019
@@ -345,6 +351,7 @@
 * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
 * https://www.rottentomatoes.com/m/out_of_darkness_2022
 * https://www.rottentomatoes.com/m/elvis
+* https://www.rottentomatoes.com/m/the_blue_caftan
 * Broker (Koreeda) 🇰🇷
 * Aftersun
 

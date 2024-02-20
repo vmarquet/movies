@@ -546,7 +546,7 @@ Français:
 
 * Das Boot 🇩🇪 ❤️ (6 nominations 🏆)
 * Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
-* Gandhi (Richard Attenborough) 🏆
+* Gandhi (Richard Attenborough) 🏆 #biopic
 * Body Heat #thriller-érotique
 * The Thing (John Carpenter)
 * The Draughtsman's Contract 🇬🇧 [🍅](https://www.rottentomatoes.com/m/draughtsmans_contract)
@@ -1020,7 +1020,7 @@ Français:
 * Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
 * Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
-* bof: Napoleon Dynamite #coming-of-age #teen-movie
+* bof: Napoleon Dynamite #coming-of-age #teen-movie, Hotel Rwanda
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1048,10 +1048,10 @@ Français:
 * Le Tigre et la Neige (Roberto Benigni)
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Million Dollar Baby (Clint Eastwood) 🏆
-* Capote
+* Capote (Philip Seymour Hoffman) #biopic
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2) #sf
-* bof: Mémoires d'une geisha
+* bof: Walk the Line (Joaquin Phoenix) #biopic, Mémoires d'une geisha
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1243,7 +1243,8 @@ Français:
 * Habemus Papam (Nanni Moretti) 🇮🇹
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
-* bof: La piel que habito (Pedro Almodóvar), Take This Waltz, Killer Joe
+* Moneyball
+* bof: La piel que habito (Pedro Almodóvar), Take This Waltz, Killer Joe, ~~Source Code~~
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1272,7 +1273,7 @@ Français:
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
 * The Hunt (Mads Mikkelsen) 🇩🇰
 * Silver Linings Playbook (Happiness Therapy) (Bradley Cooper, Jennifer Lawrence) #romcom
-* Lincoln (Steven Spielberg, Daniel Day-Lewis)
+* Lincoln (Steven Spielberg, Daniel Day-Lewis) #biopic
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
 * bof: 21 jump street, The Master (Paul Thomas Anderson), ~~Ruby Sparks~~, ~~Argo~~
@@ -1306,7 +1307,7 @@ Français:
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
-* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), The Best Offer, Fruitvale Station ☀️, Blue Jasmine
+* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1330,7 +1331,7 @@ Français:
 * Dear White People ☀️
 * Coming Home (Zhang Yimou) 🇨🇳
 * Noah (Darren Aronofsky, Russell Crowe)
-* The Imitation Game (Benedict Cumberbatch)
+* The Imitation Game (Benedict Cumberbatch) #biopic
 * Creep
 * Still Alice
 * Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/force_majeure_2014)
@@ -1383,7 +1384,7 @@ Français:
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
 * La La Land (Damien Chazelle)
 * I Daniel Blake (Ken Loach) 🇬🇧 🌿
-* Better Watch Out #film-de-noel
+* Better Watch Out 🍿 #film-de-noel
 * Moana (Disney)
 * Toni Erdmann 🇩🇪
 * Hacksaw Ridge (Tu ne tueras point) #film-de-guerre
@@ -1433,11 +1434,12 @@ Français:
 * La Saveur des Ramens 🇯🇵🇸🇬
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * La Ballade de Buster Scruggs (frères Coen) #western
-* Bohemian Rhapsody (Rami Malek) 4🏆
+* Bohemian Rhapsody (Rami Malek) 4🏆 #biopic
 * Isle of Dogs (Wes Anderson)
 * Bird Box (Sandra Bullock)
 * Capernaum (Capharnaüm) 🇱🇧 🏆
 * Heureux comme Lazzaro 🇮🇹
+* First Man (Damien Chazelle) #biopic
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
 * bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, Green Book, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows
@@ -1561,7 +1563,7 @@ Français:
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, ~~Chevalier~~
+    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, ~~Chevalier~~
     * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
