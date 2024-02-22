@@ -473,7 +473,7 @@ Français:
 * The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
 * Sorcerer [🍅](https://www.rottentomatoes.com/m/1019441-sorcerer) : première moitiée longuette mais épique ensuite
 * The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
-* bof: Opening Night
+* bof: Opening Night, House 🇯🇵
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -691,6 +691,7 @@ Français:
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
 * King of New York (Abel Ferrara, Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york) #policier : le meilleur rôle de Christopher Walken
 * Sailor et Lula (Wild at Heart) (David Lynch, Nicolas Cage, Laura Dern)
+* Miller's Crossing (frères Coen)
 * bof: Total Recall, Pretty Woman
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -920,7 +921,7 @@ Français:
 * Dancer in the Dark (Lars von Trier) 🌿
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry) 🇬🇧
-* bof: Aniki mon Frère (Takeshi Kitano) 🇯🇵, Almost Famous (Cameron Crowe)
+* bof: Aniki mon Frère (Takeshi Kitano) 🇯🇵, Almost Famous (Cameron Crowe), ~~O Brother (frères Coen)~~
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -938,7 +939,7 @@ Français:
 * Rush Hour 2 #comédie
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
-* The Barber (frères Coen)
+* The Man Who Wasn't There (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
 * bof: ~~Vanilla Sky (Cameron Crowe)~~
 
@@ -984,7 +985,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
-* bof: Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes
+* bof: Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes, ~~Love Actually~~
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1179,7 +1180,7 @@ Français:
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
+* bof: A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1307,7 +1308,7 @@ Français:
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
-* bof: All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
+* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1699,6 +1700,7 @@ Français:
 * His House (2020) : 1ère heure bien, fin décevante
 * The Night House (2021)
 * Scream (2022)
+* Talk to Me (2023)
 
 [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 

@@ -90,6 +90,7 @@
 * https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
 * https://www.rottentomatoes.com/m/birdy
 * https://www.rottentomatoes.com/m/repo_man
+* https://www.rottentomatoes.com/m/blood_simple (frères Coen)
 
 
 ### 1985
@@ -187,6 +188,8 @@
 * https://www.rottentomatoes.com/m/boys_dont_cry
 * https://www.rottentomatoes.com/m/magnolia (Paul Thomas Anderson)
 * https://www.rottentomatoes.com/m/1093579-man_on_the_moon
+* https://www.rottentomatoes.com/m/notting_hill #romcom
+* https://www.rottentomatoes.com/m/1091577-ideal_husband
 
 
 ### 2000
@@ -341,6 +344,7 @@
 ### 2021
 
 * https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
+* https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
 
 
 ### 2022
@@ -382,11 +386,12 @@
 * https://www.rottentomatoes.com/m/godzilla_minus_one
 * https://www.rottentomatoes.com/m/anselm (docu)
 * https://www.rottentomatoes.com/m/molli_and_max_in_the_future
-* https://www.rottentomatoes.com/m/talk_to_me_2023 (Golden Tomato Award best international movie 2023)
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/fitting_in_2023
 * https://www.rottentomatoes.com/m/the_persian_version
 * https://www.rottentomatoes.com/m/wonka
+* https://www.rottentomatoes.com/m/one_life
+* https://www.rottentomatoes.com/m/the_color_purple
 
 
 ### 2024
