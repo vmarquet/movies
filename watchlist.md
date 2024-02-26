@@ -73,6 +73,7 @@
 ### 1978
 
 * https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
+* https://www.rottentomatoes.com/m/watership_down
 
 
 ### 1981
@@ -195,6 +196,7 @@
 ### 2000
 
 * https://www.rottentomatoes.com/m/1095420-high_fidelity
+* https://www.rottentomatoes.com/m/sexy_beast
 
 
 ### 2001
@@ -345,6 +347,7 @@
 
 * https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
+* https://www.rottentomatoes.com/m/coda_2021
 
 
 ### 2022
@@ -367,7 +370,6 @@
 * Poor Things (Yórgos Lánthimos) [🍅](https://www.rottentomatoes.com/m/poor_things) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
 * https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
-* la beauté du geste (Japon)
 * Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023 ++
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
@@ -380,7 +382,6 @@
     * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php https://www.rottentomatoes.com/m/the_settlers_2023 ++
 * https://yts.mx/movies/polite-society-2023
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
-* https://www.rottentomatoes.com/m/the_zone_of_interest ++
 * https://www.rottentomatoes.com/m/the_promised_land_2023 (Mads Mikkelsen) ++
 * https://www.rottentomatoes.com/m/the_monk_and_the_gun
 * https://www.rottentomatoes.com/m/godzilla_minus_one
@@ -392,6 +393,9 @@
 * https://www.rottentomatoes.com/m/wonka
 * https://www.rottentomatoes.com/m/one_life
 * https://www.rottentomatoes.com/m/the_color_purple
+* https://www.rottentomatoes.com/m/io_capitano
+* https://www.rottentomatoes.com/m/we_grown_now
+* https://www.rottentomatoes.com/m/may_december
 
 
 ### 2024

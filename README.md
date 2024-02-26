@@ -295,6 +295,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Le Procès (Orson Welles) 🎥 ❤️ #film-de-procès
 * Lawrence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
+* bof: Lolita (Stanley Kubrick)
 
 Français:
 
@@ -608,6 +609,7 @@ Français:
 
 * Police (Maurice Pialat, Depardieu) [📰](https://www.telerama.fr/cinema/films/police,5378.php) (vu ?)
 * Détective (Jean-Luc Godard) [📰](https://www.telerama.fr/cinema/films/detective,4714.php) : bof, esthétiquement sympa mais scénario trop décousu et sans grand intérêt
+* bof: Sans toit ni loi (Agnès Varda)
 
 
 ### 1986
@@ -638,7 +640,7 @@ Français:
 * Cobra Verde (Werner Herzog, Klaus Kinski)
 * Les Incorruptibles (Brian de Palma) #policier
 * The Lost Boys #vampires
-* bof: Empire of the Sun (Steven Spielberg)
+* bof: Good Morning Vietnam, Empire of the Sun (Steven Spielberg)
 
 [Césars 13](https://fr.wikipedia.org/wiki/13e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1130,7 +1132,6 @@ Français:
 
 ### 2008
 
-* Burn After Reading (frères Coen) ❤️
 * Two Lovers (Joaquin Phoenix) 🎥 ❤️
   [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
   [🍅](https://www.rottentomatoes.com/m/two_lovers)
@@ -1141,8 +1142,10 @@ Français:
 * Okuribito (Départs) 🇯🇵 🏆
 * Gran Torino (Clint Eastwood)
 * Be Kind, Rewind (Michel Gondry, Jack Black)
+* Burn After Reading (frères Coen)
 * The Wrestler (Darren Aronofsky)
 * The Curious Case of Benjamin Button (David Fincher)
+* Hunger (Steve McQueen)
 * The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera) #coming-of-age #romcomdrama
 * Valse avec Bachir 🇮🇱
@@ -1308,7 +1311,7 @@ Français:
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
-* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
+* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Jobs~~, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1443,7 +1446,7 @@ Français:
 * First Man (Damien Chazelle) #biopic
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, Green Book, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, Green Book, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows, Ready Player One
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1555,6 +1558,7 @@ Français:
 * The Whale (Darren Aronofsky, Brendan Fraser)
 * Triangle of Sadness (Ruben Östlund) 🌿 [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
 * As Bestas 🇪🇸 [🍅](https://www.rottentomatoes.com/m/the_beasts) : "un thriller à l’hyperréalisme terrifiant" (télérama)
+* Small, Slow But Steady (La Beauté du Geste) 🇯🇵
 * La Femme de Tchaikovski 🇷🇺 [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
@@ -1612,7 +1616,7 @@ Français:
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: Scrapper ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo, The Fabelmans
+* bof: The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo, The Fabelmans
 
 Français:
 
@@ -1621,7 +1625,7 @@ Français:
 * Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)
 * Les Trois Mousquetaires #aventure
 * La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
-* bof: Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon)
+* bof: Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
 
 
 ### 2024
