@@ -587,7 +587,7 @@ Français:
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
 * The Killing Fields [🍅](https://www.rottentomatoes.com/m/killing_fields)
 * Terminator (James Cameron) 💙 #sf
-* bof: Paris Texas (Wim Wenders)
+* bof: Blood Simple (frères Coen), Paris Texas (Wim Wenders)
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -783,7 +783,7 @@ Français:
         </details>
 * Four Weddings and a Funeral (Mike Newell) 🇬🇧 #romcom
 * The Last Seduction #thriller-érotique : l'intrigue commence vraiment à la moitié du film
-* bof: Forrest Gump, The Shawshank Redemption, Ed Wood
+* bof: Forrest Gump, Heavenly Creatures, The Shawshank Redemption, Ed Wood
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1183,7 +1183,7 @@ Français:
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
+* bof: Invictus (Clint Eastwood), A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1382,7 +1382,7 @@ Français:
 * Lion ❤️
 * Love and Friendship ❤️
 * Mademoiselle (Park Chan-wook) 🇰🇷 🌿
-* Arrival (Amy Adams) #sf
+* Arrival (Denis Villeneuve, Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
 * Zootopia (Disney)
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
@@ -1550,7 +1550,6 @@ Français:
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * Puss in Boots: The Last Wish (Chat potté 2) ❤️
 * She Said (affaire Weinstein)
-* Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
 * Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
@@ -1576,6 +1575,7 @@ Français:
 * Les Amandiers ❤️❤️ [📰](https://www.telerama.fr/cinema/films/les-amandiers-1-213223799.php)
 * La nuit du 12 ❤️ 6✨
 * Falcon Lake ❤️ [📰](https://www.telerama.fr/cinema/films/falcon-lake-1-214989452.php)
+* Incroyable mais vrai (Quentin Dupieux, Alain Chabat) ❤️
 * Les Passagers de la Nuit [📰](https://www.telerama.fr/cinema/films/les-passagers-de-la-nuit-1-195292674.php)
 * L'Innocent [📰](https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php)
 * Nos Frangins (Rachid Bouchared) #cinema-qui-denonce
@@ -1596,10 +1596,11 @@ Français:
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * The Iron Claw
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
+* American Fiction (Jeffrey Wright) #satire
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
-* American Fiction (Jeffrey Wright) #satire
+* Poor Things (Yórgos Lánthimos) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * All of us Strangers 🇬🇧
 * La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
@@ -1621,11 +1622,12 @@ Français:
 Français:
 
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
-* Anatomie d'une chute (Justine Triet) 🌿 #film-de-procès
+* Anatomie d'une chute (Justine Triet) 🌿 6✨ #film-de-procès
 * Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)
 * Les Trois Mousquetaires #aventure
+* Je verrai toujours vos visages (Jeanne Herry)
 * La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
-* bof: Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
+* bof: Chien de la Casse, Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
 
 
 ### 2024
@@ -1705,13 +1707,6 @@ Français:
 * The Night House (2021)
 * Scream (2022)
 * Talk to Me (2023)
-
-[🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
-
-Pas vu:
-
-* https://www.rottentomatoes.com/m/audition_1999 🇯🇵
-* https://www.rottentomatoes.com/m/one_cut_of_the_dead 🇯🇵
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 

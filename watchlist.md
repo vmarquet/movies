@@ -91,7 +91,6 @@
 * https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
 * https://www.rottentomatoes.com/m/birdy
 * https://www.rottentomatoes.com/m/repo_man
-* https://www.rottentomatoes.com/m/blood_simple (frères Coen)
 
 
 ### 1985
@@ -124,6 +123,7 @@
 ### 1989
 
 * https://en.wikipedia.org/wiki/Dekalog
+* https://vodkaster.telerama.fr/films/la-captive-du-desert/7842
 
 
 ### 1990
@@ -148,13 +148,13 @@
 
 ### 1994
 
-* https://www.rottentomatoes.com/m/heavenly_creatures
 * https://www.rottentomatoes.com/m/madness_of_king_george
 * Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 * https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
 * https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
 * https://www.rottentomatoes.com/m/crow
+* https://www.rottentomatoes.com/m/the-golden-ball-le-ballon-dor
 * Emilie Muller [▶️](https://www.youtube.com/watch?v=Om8e9494G-Q) #short
 
 
@@ -215,6 +215,7 @@
 * The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
 * https://www.telerama.fr/cinema/films/le-sourire-de-ma-mere-1-3082998.php
 * https://www.rottentomatoes.com/m/secretary
+* https://www.rottentomatoes.com/m/bend_it_like_beckham
 
 
 ### 2003
@@ -262,6 +263,7 @@
 ### 2009
 
 * https://www.telerama.fr/cinema/films/vincere,391336.php
+* https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
 * Welcome
 
 
@@ -320,6 +322,7 @@
 
 * I Don't Feel at Home in This World Anymore ☀️
 * https://www.rottentomatoes.com/m/columbus_2017
+* https://www.rottentomatoes.com/m/november_2018
 
 
 ### 2018
@@ -327,6 +330,8 @@
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * https://www.rottentomatoes.com/m/night_comes_on ☀️
 * https://www.rottentomatoes.com/m/tully_2018
+* https://www.rottentomatoes.com/m/prospect_2018
+* Pupille (Jeanne Herry)
 
 
 ### 2019
@@ -334,6 +339,7 @@
 * https://www.rottentomatoes.com/m/ash_is_purest_white
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * https://www.rottentomatoes.com/m/judy_2019
+* https://www.rottentomatoes.com/m/monos
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 
 
@@ -341,6 +347,7 @@
 
 * True Mothers 🇯🇵
 * The Half of It #coming-of-age
+* https://www.rottentomatoes.com/m/the_macaluso_sisters
 
 
 ### 2021
@@ -359,6 +366,7 @@
 * https://www.rottentomatoes.com/m/out_of_darkness_2022
 * https://www.rottentomatoes.com/m/elvis
 * https://www.rottentomatoes.com/m/the_blue_caftan
+* https://www.rottentomatoes.com/m/prey_2022
 * Broker (Koreeda) 🇰🇷
 * Aftersun
 
@@ -367,8 +375,6 @@
 
 * https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
-* Poor Things (Yórgos Lánthimos) [🍅](https://www.rottentomatoes.com/m/poor_things) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
-* https://fr.wikipedia.org/wiki/Une_ann%C3%A9e_difficile
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023 ++
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
@@ -396,6 +402,7 @@
 * https://www.rottentomatoes.com/m/io_capitano
 * https://www.rottentomatoes.com/m/we_grown_now
 * https://www.rottentomatoes.com/m/may_december
+* https://www.rottentomatoes.com/m/nyad #biopic
 
 
 ### 2024
@@ -414,6 +421,17 @@
 * https://www.rottentomatoes.com/m/concrete_utopia
 * https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
 * https://www.rottentomatoes.com/m/american_symphony (docu)
+* https://www.rottentomatoes.com/m/spaceman_2024
+
+
+
+### Horror
+
+* https://www.rottentomatoes.com/m/audition_1999 🇯🇵
+* https://www.rottentomatoes.com/m/one_cut_of_the_dead 🇯🇵
+* https://www.rottentomatoes.com/m/double_blind
+
+[🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 
 
 ### Vrac
