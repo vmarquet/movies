@@ -84,6 +84,7 @@
 ### 1983
 
 * https://www.rottentomatoes.com/m/national_lampoons_vacation
+* https://www.rottentomatoes.com/m/verdict
 
 
 ### 1984
@@ -105,6 +106,7 @@
 ### 1986
 
 * https://www.rottentomatoes.com/m/1014027-mission
+* https://www.rottentomatoes.com/m/labyrinth
 
 
 ### 1987
@@ -144,6 +146,7 @@
 * https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
+* https://www.rottentomatoes.com/m/bronx_tale
 
 
 ### 1994
@@ -252,6 +255,8 @@
 * https://www.rottentomatoes.com/m/hairspray #musical
 * Superbad #comédie
 * https://www.rottentomatoes.com/m/1189416-shelter ?
+* https://www.rottentomatoes.com/m/once
+* https://www.rottentomatoes.com/m/stardust
 
 
 ### 2008
@@ -376,7 +381,6 @@
 * https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
-* Perfect Days (Wim Wenders) https://www.rottentomatoes.com/m/perfect_days_2023 ++
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies
@@ -403,6 +407,9 @@
 * https://www.rottentomatoes.com/m/we_grown_now
 * https://www.rottentomatoes.com/m/may_december
 * https://www.rottentomatoes.com/m/nyad #biopic
+* https://www.rottentomatoes.com/m/bottoms
+* https://www.rottentomatoes.com/m/the_starling_girl
+* https://www.telerama.fr/cinema/le-vourdalak_cri-7029206.php
 
 
 ### 2024
@@ -422,6 +429,8 @@
 * https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
 * https://www.rottentomatoes.com/m/american_symphony (docu)
 * https://www.rottentomatoes.com/m/spaceman_2024
+* https://www.rottentomatoes.com/m/love_lies_bleeding_2024
+* https://www.rottentomatoes.com/m/ordinary_angels
 
 
 
@@ -430,6 +439,7 @@
 * https://www.rottentomatoes.com/m/audition_1999 🇯🇵
 * https://www.rottentomatoes.com/m/one_cut_of_the_dead 🇯🇵
 * https://www.rottentomatoes.com/m/double_blind
+* https://www.rottentomatoes.com/m/dont_breathe_2016
 
 [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 
