@@ -13,6 +13,7 @@
 ### 1950s
 
 * https://www.rottentomatoes.com/m/ikiru 🇯🇵 ++
+* https://www.rottentomatoes.com/m/on_the_waterfront
 * https://www.rottentomatoes.com/m/roman_holiday
 * https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
 * Orfeu Negro (Marcel Camus) 🌿 🏆
@@ -23,6 +24,7 @@
 * https://www.rottentomatoes.com/m/sound_of_music
 * https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
 * https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
+* https://yts.mx/movies/a-man-for-all-seasons-1966
 
 
 ### 1970
@@ -92,6 +94,8 @@
 * https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
 * https://www.rottentomatoes.com/m/birdy
 * https://www.rottentomatoes.com/m/repo_man
+* https://www.rottentomatoes.com/m/natural
+* https://www.rottentomatoes.com/m/places_in_the_heart
 
 
 ### 1985
@@ -101,12 +105,14 @@
 * https://www.rottentomatoes.com/m/my_beautiful_laundrette
 * https://www.rottentomatoes.com/m/real_genius
 * https://www.rottentomatoes.com/m/1002213-better_off_dead
+* https://www.rottentomatoes.com/m/trip_to_bountiful
 
 
 ### 1986
 
 * https://www.rottentomatoes.com/m/1014027-mission
 * https://www.rottentomatoes.com/m/labyrinth
+* https://www.rottentomatoes.com/m/hoosiers
 
 
 ### 1987
@@ -124,6 +130,7 @@
 
 ### 1989
 
+* https://fr.wikipedia.org/wiki/Le_Temps_des_Gitans
 * https://en.wikipedia.org/wiki/Dekalog
 * https://vodkaster.telerama.fr/films/la-captive-du-desert/7842
 
@@ -147,6 +154,7 @@
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
 * https://www.rottentomatoes.com/m/bronx_tale
+* https://www.rottentomatoes.com/m/philadelphia https://www.telerama.fr/cinema/films/philadelphia,30475.php
 
 
 ### 1994
@@ -163,7 +171,6 @@
 
 ### 1995
 
-* N'oublie pas que tu vas mourir (Xavier Beauvois)
 * https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
 
 
@@ -205,7 +212,6 @@
 ### 2001
 
 * A Beautiful Mind 🏆
-* Y tu mamá también (Alfonso Cuarón) 🇲🇽 [🍅](https://www.rottentomatoes.com/m/y_tu_mama_tambien)
 * https://www.rottentomatoes.com/m/waking_life
 * https://www.rottentomatoes.com/m/son_of_the_bride
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
@@ -325,6 +331,7 @@
 
 ### 2017
 
+* Vuelven (Tigers Are Not Afraid) 🇲🇽 https://www.rottentomatoes.com/m/tigers_are_not_afraid
 * I Don't Feel at Home in This World Anymore ☀️
 * https://www.rottentomatoes.com/m/columbus_2017
 * https://www.rottentomatoes.com/m/november_2018
@@ -353,6 +360,8 @@
 * True Mothers 🇯🇵
 * The Half of It #coming-of-age
 * https://www.rottentomatoes.com/m/the_macaluso_sisters
+* https://www.rottentomatoes.com/m/the_way_back_2020
+* https://www.rottentomatoes.com/m/son_of_monarchs
 
 
 ### 2021
@@ -360,6 +369,7 @@
 * https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
 * https://www.rottentomatoes.com/m/coda_2021
+* https://www.rottentomatoes.com/m/blue_bayou_2021
 
 
 ### 2022

@@ -732,7 +732,7 @@ Français:
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Les nuits fauves ❤️ [📰](https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php) 4✨
+* Les nuits fauves ❤️ 🎗️ 4✨ [📰](https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php)
     * > ❝ Vous avez de la chance d'être si facilement malheureux, alors qu'on peut le faire d'une manière tellement plus sophistiquée ❞
 * Un Coeur en Hiver (Claude Sautet) [📰](https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php) : premier tiers top, puis sonne un peu faux
 * bof: L.627 (Bertrand Tavernier)
@@ -813,6 +813,7 @@ Français:
 
 * La Haine ✨
 * La Cité des enfants perdus (Jean-Pierre Jeunet)
+* N'oublie pas que tu vas mourir (Xavier Beauvois) 🎗️
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (vu ?)
 * bof: La Cérémonie (Claude Chabrol)
@@ -923,6 +924,7 @@ Français:
 * Dancer in the Dark (Lars von Trier) 🌿
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry) 🇬🇧
+* Traffic (Steven Soderbergh)
 * bof: Aniki mon Frère (Takeshi Kitano) 🇯🇵, Almost Famous (Cameron Crowe), ~~O Brother (frères Coen)~~
 
 [Césars 26](https://fr.wikipedia.org/wiki/26e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -943,7 +945,7 @@ Français:
 * Monsters, Inc. (Pixar)
 * The Man Who Wasn't There (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
-* bof: ~~Vanilla Sky (Cameron Crowe)~~
+* bof: Y tu mamá también (Alfonso Cuarón) 🇲🇽, ~~Vanilla Sky (Cameron Crowe)~~
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -963,6 +965,7 @@ Français:
 * Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
+* Panic Room (David Fincher) #thriller
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1424,7 +1427,7 @@ Français:
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* 120 battements par minute ❤️ #cinema-qui-denonce
+* 120 battements par minute ❤️ 🎗️ #cinema-qui-denonce
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Grave
 * bof: Le Brio (Daniel Auteuil), Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
@@ -1628,7 +1631,7 @@ Français:
 * Les Trois Mousquetaires #aventure
 * Je verrai toujours vos visages (Jeanne Herry)
 * La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
-* bof: Chien de la Casse, Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
+* bof: La Passion de Dodin Bouffant, Chien de la Casse, Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
 
 
 ### 2024
