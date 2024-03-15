@@ -78,6 +78,11 @@
 * https://www.rottentomatoes.com/m/watership_down
 
 
+### 1980
+
+* https://www.rottentomatoes.com/m/fame
+
+
 ### 1981
 
 * https://www.rottentomatoes.com/m/my_dinner_with_andre ++
@@ -144,6 +149,7 @@
 
 * https://www.rottentomatoes.com/m/1040798-husbands_and_wives (Woody Allen)
 * https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical
+* https://www.rottentomatoes.com/m/bad_lieutenant
 * Indochine
 
 
@@ -154,7 +160,8 @@
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
 * https://www.rottentomatoes.com/m/bronx_tale
-* https://www.rottentomatoes.com/m/philadelphia https://www.telerama.fr/cinema/films/philadelphia,30475.php
+* https://www.rottentomatoes.com/m/philadelphia https://www.telerama.fr/cinema/films/philadelphia,30475.php 🎗️
+* https://www.rottentomatoes.com/m/carlitos_way
 
 
 ### 1994
@@ -177,6 +184,7 @@
 ### 1996
 
 * Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
+* https://www.rottentomatoes.com/m/ponette
 
 
 ### 1997
@@ -308,6 +316,7 @@
 
 ### 2014
 
+* https://www.rottentomatoes.com/m/the_normal_heart 🎗️
 * https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
 * Selma
 * https://www.telerama.fr/cinema/films/good-kill,498797.php
@@ -420,6 +429,7 @@
 * https://www.rottentomatoes.com/m/bottoms
 * https://www.rottentomatoes.com/m/the_starling_girl
 * https://www.telerama.fr/cinema/le-vourdalak_cri-7029206.php
+* https://yts.mx/movies/rustin-2023
 
 
 ### 2024
@@ -434,13 +444,13 @@
 * https://www.telerama.fr/cinema/moi-capitaine-de-matteo-garrone-l-odyssee-touchante-de-deux-candidats-a-l-exil_cri-7030445.php
 * https://www.rottentomatoes.com/m/totem_2023
 * https://www.rottentomatoes.com/m/hundreds_of_beavers
-* https://www.rottentomatoes.com/m/a_man (8 oscars japonais)
 * https://www.rottentomatoes.com/m/concrete_utopia
 * https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
 * https://www.rottentomatoes.com/m/american_symphony (docu)
 * https://www.rottentomatoes.com/m/spaceman_2024
 * https://www.rottentomatoes.com/m/love_lies_bleeding_2024
 * https://www.rottentomatoes.com/m/ordinary_angels
+* https://www.rottentomatoes.com/m/monkey_man
 
 
 
@@ -450,8 +460,10 @@
 * https://www.rottentomatoes.com/m/one_cut_of_the_dead 🇯🇵
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/dont_breathe_2016
+* https://www.rottentomatoes.com/m/smile_2022
+* [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
+* https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
 
-[🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 
 
 ### Vrac

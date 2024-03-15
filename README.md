@@ -656,6 +656,7 @@ Français:
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
 * Gorillas in the mist (Sigourney Weaver) [🍅](https://www.rottentomatoes.com/m/gorillas_in_the_mist) : longuet
+* Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -889,9 +890,7 @@ Français:
 
 [Oscars 72](https://fr.wikipedia.org/wiki/72e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
-* Ghost Dog: The Way of the Samurai (Jim Jarmusch) ❤️
-  [🍅](https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai)
-  [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
+* Ghost Dog: The Way of the Samurai (Jim Jarmusch) ❤️ 🍦 [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
 * eXistenZ (David Cronemberg, Jude Law, Jennifer Jason Leigh, Willem Dafoe) [🍅](https://www.rottentomatoes.com/m/existenz) #film-à-énigme
 * Dans la peau de John Malkovich (Spike Jonze, John Malkovich) #film-à-énigme
@@ -962,6 +961,7 @@ Français:
 * Le Voyage de Chihiro (Hayao Miyazaki) 🇯🇵
 * L'Homme sans passé (Kaurismäki) 🇫🇮
 * La Cité de Dieu 🇧🇷
+* Frida 🇲🇽
 * Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
@@ -1186,7 +1186,7 @@ Français:
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Invictus (Clint Eastwood), A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
+* bof: Invictus (Clint Eastwood) 🇿🇦🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1275,7 +1275,7 @@ Français:
 * The Place Beyond the Pines
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
 * Antiviral (Brandon Cronenberg)
-* Ted [🍅](https://www.rottentomatoes.com/m/ted_2012) #romcom
+* Ted 🧸 #romcom
 * Moonrise Kingdom (Wes Anderson)
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
 * The Hunt (Mads Mikkelsen) 🇩🇰
@@ -1342,7 +1342,7 @@ Français:
 * Creep
 * Still Alice
 * Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/force_majeure_2014)
-* bof: Nos étoiles contraires #coming-of-age, Sils Maria, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
+* bof: Nos étoiles contraires #coming-of-age, Sils Maria, Edge of Tomorrow, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1382,7 +1382,7 @@ Français:
 
 ### 2016
 
-* Lion ❤️
+* Lion 🇮🇳🇦🇺 ❤️
 * Love and Friendship ❤️
 * Mademoiselle (Park Chan-wook) 🇰🇷 🌿
 * Arrival (Denis Villeneuve, Amy Adams) #sf
@@ -1411,8 +1411,8 @@ Français:
 
 ### 2017
 
-* The Square (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/the_square_2017) 🌿
 * My Days of Mercy [🍅](https://www.rottentomatoes.com/m/my_days_of_mercy) ❤️
+* The Square (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/the_square_2017) 🌿
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
 * The Death of Stalin (Steve Buscemi) ❤️ #comédie-satirique
@@ -1522,7 +1522,7 @@ Français:
 
 ### 2021
 
-* King Richard (Will Smith) ❤️ : biopic Venus Williams
+* King Richard (Will Smith) ❤️ 🎾 : biopic Venus Williams
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
 * The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie #satire
@@ -1555,7 +1555,7 @@ Français:
 * She Said (affaire Weinstein)
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
-* Hustle (Adam Sandler) [🍅](https://www.rottentomatoes.com/m/hustle_2022)
+* Hustle (Adam Sandler) 🏀
 * Godland 🇩🇰🇮🇸 [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
 * The Whale (Darren Aronofsky, Brendan Fraser)
 * Triangle of Sadness (Ruben Östlund) 🌿 [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
@@ -1565,9 +1565,10 @@ Français:
 * Meurtres sans ordonnance (The Good Nurse)
 * A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
 * War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
-* Fire Island [🍅](https://www.rottentomatoes.com/m/fire_island_2022) #romcom
+* Fire Island 🏳️‍🌈 #romcom
 * Decision to Leave (Park Chan-wook) 🇰🇷
 * Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
+* A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
     * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, ~~Chevalier~~
