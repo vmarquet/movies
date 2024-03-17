@@ -420,7 +420,6 @@
 * https://www.rottentomatoes.com/m/fitting_in_2023
 * https://www.rottentomatoes.com/m/the_persian_version
 * https://www.rottentomatoes.com/m/wonka
-* https://www.rottentomatoes.com/m/one_life
 * https://www.rottentomatoes.com/m/the_color_purple
 * https://www.rottentomatoes.com/m/io_capitano
 * https://www.rottentomatoes.com/m/we_grown_now
@@ -429,7 +428,8 @@
 * https://www.rottentomatoes.com/m/bottoms
 * https://www.rottentomatoes.com/m/the_starling_girl
 * https://www.telerama.fr/cinema/le-vourdalak_cri-7029206.php
-* https://yts.mx/movies/rustin-2023
+* https://www.rottentomatoes.com/m/rustin_2023
+* https://www.rottentomatoes.com/m/problemista
 
 
 ### 2024
@@ -461,6 +461,8 @@
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/dont_breathe_2016
 * https://www.rottentomatoes.com/m/smile_2022
+* https://www.rottentomatoes.com/m/late_night_with_the_devil
+* https://www.rottentomatoes.com/m/five_nights_at_freddys
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
 
