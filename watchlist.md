@@ -340,7 +340,6 @@
 
 ### 2017
 
-* Vuelven (Tigers Are Not Afraid) 🇲🇽 https://www.rottentomatoes.com/m/tigers_are_not_afraid
 * I Don't Feel at Home in This World Anymore ☀️
 * https://www.rottentomatoes.com/m/columbus_2017
 * https://www.rottentomatoes.com/m/november_2018
@@ -379,6 +378,7 @@
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
 * https://www.rottentomatoes.com/m/coda_2021
 * https://www.rottentomatoes.com/m/blue_bayou_2021
+* https://www.rottentomatoes.com/m/luca_2021
 
 
 ### 2022
@@ -430,6 +430,8 @@
 * https://www.telerama.fr/cinema/le-vourdalak_cri-7029206.php
 * https://www.rottentomatoes.com/m/rustin_2023
 * https://www.rottentomatoes.com/m/problemista
+* https://www.rottentomatoes.com/m/femme_2023
+* https://www.rottentomatoes.com/m/limbo_2023
 
 
 ### 2024
@@ -463,6 +465,7 @@
 * https://www.rottentomatoes.com/m/smile_2022
 * https://www.rottentomatoes.com/m/late_night_with_the_devil
 * https://www.rottentomatoes.com/m/five_nights_at_freddys
+* https://www.rottentomatoes.com/m/in_flames 🇵🇰
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
 

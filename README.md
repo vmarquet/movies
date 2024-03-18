@@ -1413,6 +1413,7 @@ Français:
 
 * My Days of Mercy [🍅](https://www.rottentomatoes.com/m/my_days_of_mercy) ❤️
 * The Square (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/the_square_2017) 🌿
+* Vuelven (Tigers Are Not Afraid) 🇲🇽
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
 * The Death of Stalin (Steve Buscemi) ❤️ #comédie-satirique
@@ -1616,9 +1617,9 @@ Français:
 * Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
 * Dumb Money (Paul Dano)
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
+* One Life 🇬🇧 #history
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
-* One Life 🇬🇧 #history
 * A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
