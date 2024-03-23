@@ -24,7 +24,7 @@
 * https://www.rottentomatoes.com/m/sound_of_music
 * https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
 * https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
-* https://yts.mx/movies/a-man-for-all-seasons-1966
+* https://www.rottentomatoes.com/m/1013162-man_for_all_seasons
 
 
 ### 1970
@@ -360,6 +360,7 @@
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * https://www.rottentomatoes.com/m/judy_2019
 * https://www.rottentomatoes.com/m/monos
+* https://www.rottentomatoes.com/m/togo_2019
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 
 
@@ -409,9 +410,8 @@
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
     * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php https://www.rottentomatoes.com/m/the_settlers_2023 ++
-* https://yts.mx/movies/polite-society-2023
+* https://www.rottentomatoes.com/m/polite_society
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
-* https://www.rottentomatoes.com/m/the_promised_land_2023 (Mads Mikkelsen) ++
 * https://www.rottentomatoes.com/m/the_monk_and_the_gun
 * https://www.rottentomatoes.com/m/godzilla_minus_one
 * https://www.rottentomatoes.com/m/anselm (docu)
@@ -432,6 +432,7 @@
 * https://www.rottentomatoes.com/m/problemista
 * https://www.rottentomatoes.com/m/femme_2023
 * https://www.rottentomatoes.com/m/limbo_2023
+* https://www.rottentomatoes.com/m/inside_the_yellow_cocoon_shell
 
 
 ### 2024
