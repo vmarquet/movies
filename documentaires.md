@@ -3,6 +3,7 @@ Documentaires
 * Baraka (1992) 🎥 ❤️
     * Chronos (1985)
     * Samsara (2011)
+* Hoop Dreams (1994) 🏀
 * Zétwal (2008) ❤️
 * Le Sel de la Terre (2014) 🎥 ❤️
 * Lo and Behold, Reveries of the Connected World (2016, Werner Herzog) ([bande-annonce](https://www.youtube.com/watch?v=Zc1tZ8JsZvg))

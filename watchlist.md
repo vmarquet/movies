@@ -459,7 +459,6 @@
 
 ### Horror
 
-* https://www.rottentomatoes.com/m/audition_1999 🇯🇵
 * https://www.rottentomatoes.com/m/one_cut_of_the_dead 🇯🇵
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/dont_breathe_2016
@@ -467,7 +466,11 @@
 * https://www.rottentomatoes.com/m/late_night_with_the_devil
 * https://www.rottentomatoes.com/m/five_nights_at_freddys
 * https://www.rottentomatoes.com/m/in_flames 🇵🇰
+* https://www.rottentomatoes.com/m/new_life_2023
+* https://www.rottentomatoes.com/m/barbarian_2022
+* https://www.rottentomatoes.com/m/last_straw
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
+* [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
 
 

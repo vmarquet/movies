@@ -893,6 +893,7 @@ Français:
 * Ghost Dog: The Way of the Samurai (Jim Jarmusch) ❤️ 🍦 [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
 * eXistenZ (David Cronemberg, Jude Law, Jennifer Jason Leigh, Willem Dafoe) [🍅](https://www.rottentomatoes.com/m/existenz) #film-à-énigme
+* Audition 🇯🇵
 * Dans la peau de John Malkovich (Spike Jonze, John Malkovich) #film-à-énigme
 * Office Space 💙 #comédie-de-bureau
 * Sleepy Hollow (Tim Burton)
@@ -1367,6 +1368,7 @@ Français:
 * The Big Short
 * Bone Tomahawk #western
 * Cemetery of Splendour (Apichatpong Weerasethakul) 🇹🇭 🌿
+* Anomalisa
 * Carol (Todd Haynes, Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
 * Il est de retour 🇩🇪 #comédie-satirique
@@ -1599,12 +1601,13 @@ Français:
 * Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
-* The Iron Claw
-* Perfect Days (Wim Wenders) 🇯🇵
+* The Iron Claw ❤️
+* Perfect Days (Wim Wenders) 🇯🇵 ❤️
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
 * American Fiction (Jeffrey Wright) #satire
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * The Promised Land (Mads Mikkelsen) 🇩🇰
+* Le Moine et le fusil 🇧🇹
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * Poor Things (Yórgos Lánthimos) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
@@ -1714,7 +1717,8 @@ Français:
 * His House (2020) : 1ère heure bien, fin décevante
 * The Night House (2021)
 * Scream (2022)
-* Talk to Me (2023)
+* Talk to Me (2023) ❤️
+* You'll Never Find Me (2023) ❤️
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
