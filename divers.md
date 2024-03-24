@@ -54,17 +54,6 @@ Séries audio
 * [Les 2 minutes du peuple - François Pérusse](https://snolli.fr/?page=2minutes&cat=introduction)
 
 
-Jeux vidéos
------------
-* [Shadow of the Colossus](http://www.jeuxvideo.com/jeux/playstation-3-ps3/00037095-classics-hd-ico-shadow-of-the-colossus.htm):
-  jeu très poétique. Voir aussi Ico, de la même équipe.
-* [Portal](http://www.jeuxvideo.com/jeux/playstation-3-ps3/00020227-portal.htm): jeu de réflexion
-* Metal Gear Solid 1, 2, 3 et 4: les classiques des jeux d'infiltration
-* Dead Space 1 et 2: survival-horror dans un univers inspiré d'Alien. Une vraie direction artistique pour les graphismes.
-* Demon's Souls et Dark Souls: RPG bien pensés sans baratin et pertes de temps inutiles.
-* Antichamber: jeu de réflexion assez philosophique.
-* Et aussi: Limbo, Flower...
-
 
 Films avec bonne BO
 -------------------
