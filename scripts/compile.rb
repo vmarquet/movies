@@ -41,6 +41,7 @@ def main
   a_with_target_blank doc
   create_id_for_anchors doc
   add_movie_poster doc
+  add_country_stats doc
   # add_awards_links doc
 
   File.open(OUTPUT, 'w+') do |file|
@@ -341,6 +342,31 @@ end
 
 def target_blank
   ' target="_blank" rel="noopener" '
+end
+
+def add_country_stats doc
+  h2 = doc.css('h2').find{ |h2| h2.content == 'Tips' }
+
+  country_stats = File.read('README.md')
+                      .scan(/[🇦-🇿]{2}/).tally
+                      .to_a.sort_by{ |item| item[1] }.reverse
+
+  max_value = country_stats.map{ |country| country[1] }.max
+
+  str = country_stats.map do |flag, value|
+     "#{flag} #{'█' * value} #{value}"
+  end.join("\n")
+
+  span_node = doc.create_element('span')
+  span_node << <<~HTML
+    <details>
+      <summary>Films vu par pays</summary>
+      (n'inclut pas les films américains et français, vus en grand nombre)
+      <pre style="font-size: 20px;line-height: 32px;">#{str}</pre>
+    </details>
+  HTML
+
+  h2.add_next_sibling(span_node)
 end
 
 
