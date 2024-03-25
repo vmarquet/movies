@@ -131,6 +131,7 @@ def add_poster_css doc
 
   img.fadeout {
     animation: fadeOut 0.5s;
+    animation-fill-mode: forwards;
   }
 
   @keyframes fadeIn {
@@ -153,17 +154,17 @@ def add_poster_css doc
 
   function setPosterPath(path) {
     var image = document.querySelector('img.poster');
+    image.classList.remove('fadeout');
     image.src = path;
+    image.classList.add('fadein');
+    resetAnimation(image);
+  }
 
-    if (path == null) {
-      image.classList.remove('fadein');
-      image.classList.add('fadeout');
-      resetAnimation(image);
-    } else {
-      image.classList.remove('fadeout');
-      image.classList.add('fadein');
-      resetAnimation(image);
-    }
+  function hidePoster() {
+    var image = document.querySelector('img.poster');
+    image.classList.remove('fadein');
+    image.classList.add('fadeout');
+    resetAnimation(image);
   }
 </script>
 """
@@ -242,7 +243,7 @@ def add_movie_poster doc
     File.write(posters_file, JSON.pretty_generate(posters_db))
 
     li['onmouseover'] = "setPosterPath(\"#{poster_path}\");"
-    li['onmouseleave'] = "setPosterPath(\"\");"
+    li['onmouseleave'] = "hidePoster();"
   end
 end
 
