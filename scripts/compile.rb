@@ -115,58 +115,59 @@ end
 
 def add_poster_css doc
   head = doc.css('head')[0]
-  head << """
-<style>
-  img.poster {
-    position: fixed;
-    top: 0px;
-    right: 0px;
-    max-height: 600px;
-    border-radius: 0px 0px 0px 3px;
-  }
 
-  img.fadein {
-    animation: fadeIn 0.3s;
-  }
+  head << <<~HTML
+    <style>
+      img.poster {
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        max-height: 600px;
+        border-radius: 0px 0px 0px 3px;
+      }
 
-  img.fadeout {
-    animation: fadeOut 0.5s;
-  }
+      img.fadein {
+        animation: fadeIn 0.3s;
+      }
 
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
+      img.fadeout {
+        animation: fadeOut 0.5s;
+      }
 
-  @keyframes fadeOut {
-    0% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-</style>
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
 
-<script>
-  function resetAnimation(image) {
-    image.style.animation = 'none';
-    image.offsetHeight; /* trigger reflow */
-    image.style.animation = null; 
-  }
+      @keyframes fadeOut {
+        0% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+    </style>
 
-  function setPosterPath(path) {
-    var image = document.querySelector('img.poster');
-    image.src = path;
+    <script>
+      function resetAnimation(image) {
+        image.style.animation = 'none';
+        image.offsetHeight; /* trigger reflow */
+        image.style.animation = null; 
+      }
 
-    if (path == null) {
-      image.classList.remove('fadein');
-      image.classList.add('fadeout');
-      resetAnimation(image);
-    } else {
-      image.classList.remove('fadeout');
-      image.classList.add('fadein');
-      resetAnimation(image);
-    }
-  }
-</script>
-"""
+      function setPosterPath(path) {
+        var image = document.querySelector('img.poster');
+        image.src = path;
+
+        if (path == null) {
+          image.classList.remove('fadein');
+          image.classList.add('fadeout');
+          resetAnimation(image);
+        } else {
+          image.classList.remove('fadeout');
+          image.classList.add('fadein');
+          resetAnimation(image);
+        }
+      }
+    </script>
+  HTML
 end
 
 def add_poster_div doc
@@ -247,38 +248,37 @@ def add_movie_poster doc
 end
 
 def add_awards_links doc
-  # byebug
-
   # https://www.w3schools.com/css/css_tooltip.asp
   head = doc.css('head')[0]
-  head << """
-<style>
-/* Tooltip container */
-.tooltip {
-  position: relative;
-}
+  
+  head << <<~HTML
+    <style>
+    /* Tooltip container */
+    .tooltip {
+      position: relative;
+    }
 
-/* Tooltip text */
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
- 
-  /* Position the tooltip text - see examples below! */
-  position: absolute;
-  z-index: 1;
-}
+    /* Tooltip text */
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 120px;
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      padding: 5px 0;
+      border-radius: 6px;
+     
+      /* Position the tooltip text - see examples below! */
+      position: absolute;
+      z-index: 1;
+    }
 
-/* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>
-"""
+    /* Show the tooltip text when you mouse over the tooltip container */
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+    }
+    </style>
+  HTML
 
   keys = YAML.load_file('secrets.yml')
   tmdb_api_key = keys['tmdb']['api_key']
