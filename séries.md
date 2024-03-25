@@ -15,7 +15,7 @@
 * Parks and Recreation (2015) ++
 * Superstore (2015) ++
 * What We Do in the Shadows (2019) [🍅](https://www.rottentomatoes.com/tv/what_we_do_in_the_shadows) +++
-* Space Force (2020, Netflix) [🍅](https://www.rottentomatoes.com/tv/space_force) +++
+* Space Force (2020) [🍅](https://www.rottentomatoes.com/tv/space_force) +++
 * The Great (2020) [🍅](https://www.rottentomatoes.com/tv/the_great) +++
 
 #### Français
@@ -36,7 +36,7 @@
 * Peaky Blinders
 * Baron Noir (Kad Merad)
 * Homeland
-* L'Affaire OJ Simpson (Netflix)
+* L'Affaire OJ Simpson
 * Dérapages (Eric Cantona)
 * Big Little Lies (2017) ❤️❤️ [🍅](https://www.rottentomatoes.com/tv/big_little_lies)
 * The Dropout (Theranos) (2022) [🍅](https://www.rottentomatoes.com/tv/the_dropout/s01)
@@ -51,11 +51,11 @@
 
 ### SF
 
-* Black Mirror (2011, Netflix) [🍅](https://www.rottentomatoes.com/tv/black_mirror) ❤️
-* Love Death and Robots (2019, Netflix) [🍅](https://www.rottentomatoes.com/tv/love_death_robots) ❤️
-* Maniac (Emma Stone, Jonah Hill)
+* Black Mirror (2011) ❤️
+* Love Death and Robots (2019) ❤️
+* Severance (2022) ❤️
+* Maniac (2012, Emma Stone, Jonah Hill)
 * Real Humans
-* Severance (2022) [🍅](https://www.rottentomatoes.com/tv/severance)
 
 
 ### Polar

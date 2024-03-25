@@ -1328,7 +1328,7 @@ Français:
 * Nightcrawler (Jake Gyllenhaal) ❤️
 * Ex Machina ❤️
 * Whiplash (Damien Chazelle) ❤️
-* Vampires en toute Intimité (What we do in the Shadows) ❤️ #comédie
+* Vampires en toute Intimité (What we do in the Shadows) 🇳🇿 ❤️ #comédie
 * Birdman
 * Gone Girl (Fincher)
 * Black Coal 🇨🇳 🧸
@@ -1701,7 +1701,7 @@ Français:
 * Dragon Rouge (2002) : pas inoubliable mais prequel potable du Silence des Agneaux
 * Saw (2004)
 * The Descent (2005)
-* L'Orphelinat (2007)
+* L'Orphelinat (2007) 🇪🇸
 * [•REC]  (2007) 🇪🇸
 * The Mist (2007) : la fin vend le film, sinon c'est assez médiocre
 * Morse (2008) 🇸🇪 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php) : très beau mais le scénario est un peu mou
