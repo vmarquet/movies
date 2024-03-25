@@ -42,6 +42,7 @@ def main
   create_id_for_anchors doc
   add_movie_poster doc
   add_country_stats doc
+  add_year_stats doc
   # add_awards_links doc
 
   File.open(OUTPUT, 'w+') do |file|
@@ -345,28 +346,75 @@ def target_blank
 end
 
 def add_country_stats doc
-  h2 = doc.css('h2').find{ |h2| h2.content == 'Tips' }
-
   country_stats = File.read('README.md')
                       .scan(/[🇦-🇿]{2}/).tally
                       .to_a.sort_by{ |item| item[1] }.reverse
 
   max_value = country_stats.map{ |country| country[1] }.max
 
-  str = country_stats.map do |flag, value|
-     "#{flag} #{'█' * value} #{value}"
+  str = country_stats.map do |flag, count|
+     "#{flag} #{'█' * count} #{count}"
   end.join("\n")
 
-  span_node = doc.create_element('span')
-  span_node << <<~HTML
+  details = doc.create_element('span')
+  details << <<~HTML
     <details>
-      <summary>Films vu par pays</summary>
+      <summary>Statistiques: films vu par pays</summary>
       (n'inclut pas les films américains et français, vus en grand nombre)
       <pre style="font-size: 20px;line-height: 32px;">#{str}</pre>
     </details>
   HTML
 
-  h2.add_next_sibling(span_node)
+  h2 = doc.css('h2').find{ |h2| h2.content == 'Mon top 15 films préférés' }
+  h2.add_previous_sibling(details)
+end
+
+def add_year_stats doc
+  h3s = doc.css('h3').select{ |h3| h3.content.match(/(\d\d\d\d) .*/) }
+
+  stats = h3s.map do |h3|
+    year = h3.content.match(/(\d\d\d\d) .*/)[1]
+    a = h3.next_element
+    element = a.parent.next_element
+    count = 0
+
+    loop do
+      break if !element || element.name == 'h3' || element.attr('class') == 'markdown-heading'
+
+      if element.name == 'ul'
+        element.children.each do |li|
+          next unless li.name == 'li'
+          
+          if li.content.start_with?('bof: ')
+            count += li.content.split(', ').size
+          else
+            count += 1
+          end
+        end
+      end
+
+      element = element.next_element
+    end
+
+    [year, count]
+  end
+
+  str = stats.map do |year, count|
+     "#{year}: #{'█' * count} #{count}"
+  end.join("\n")
+
+  total = stats.map{ |data| data[1] }.sum
+
+  details = doc.create_element('span')
+  details << <<~HTML
+    <details>
+      <summary>Statistiques: films vu par année</summary>
+      <pre style="font-size: 10px;line-height: 16px;">#{str}\n\ntotal: #{total}</pre>
+    </details>
+  HTML
+
+  h2 = doc.css('h2').find{ |h2| h2.content == 'Mon top 15 films préférés' }
+  h2.add_previous_sibling(details)
 end
 
 
