@@ -63,6 +63,11 @@
 * https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php (Bertrand Tavernier)
 
 
+### 1976
+
+* https://www.rottentomatoes.com/m/chess_of_the_wind 🇮🇷
+
+
 ### 1977
 
 * https://www.rottentomatoes.com/m/stroszek ++
@@ -277,6 +282,7 @@
 
 * https://www.rottentomatoes.com/m/synecdoche_new_york ++
 * https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
+* https://www.lemonde.fr/culture/article/2024/03/27/la-flamme-verte-une-somptueuse-traversee-du-temps-facon-mille-et-une-nuits_6224436_3246.html 🇮🇷
 
 
 ### 2009
@@ -410,7 +416,6 @@
 * tous TTT:
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
-    * https://www.telerama.fr/cinema/les-colons-premier-film-chilien-style-et-radicalement-ambitieux_cri-7030334.php https://www.rottentomatoes.com/m/the_settlers_2023 ++
 * https://www.rottentomatoes.com/m/polite_society
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
 * https://www.rottentomatoes.com/m/the_monk_and_the_gun
@@ -431,9 +436,11 @@
 * https://www.telerama.fr/cinema/le-vourdalak_cri-7029206.php
 * https://www.rottentomatoes.com/m/rustin_2023
 * https://www.rottentomatoes.com/m/problemista
-* https://www.rottentomatoes.com/m/femme_2023
+* https://www.rottentomatoes.com/m/femme_2023 #noir
 * https://www.rottentomatoes.com/m/limbo_2023
 * https://www.rottentomatoes.com/m/inside_the_yellow_cocoon_shell
+* https://www.rottentomatoes.com/m/slow
+* https://www.rottentomatoes.com/m/uproar
 
 
 ### 2024
@@ -455,6 +462,7 @@
 * https://www.rottentomatoes.com/m/love_lies_bleeding_2024
 * https://www.rottentomatoes.com/m/ordinary_angels
 * https://www.rottentomatoes.com/m/monkey_man
+* https://www.rottentomatoes.com/m/la_chimera
 
 
 
@@ -465,7 +473,6 @@
 * https://www.rottentomatoes.com/m/dont_breathe_2016
 * https://www.rottentomatoes.com/m/smile_2022
 * https://www.rottentomatoes.com/m/late_night_with_the_devil
-* https://www.rottentomatoes.com/m/five_nights_at_freddys
 * https://www.rottentomatoes.com/m/in_flames 🇵🇰
 * https://www.rottentomatoes.com/m/new_life_2023
 * https://www.rottentomatoes.com/m/barbarian_2022
