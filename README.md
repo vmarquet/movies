@@ -532,6 +532,7 @@ Français:
 * Escape from New York (John Carpenter)
 * An American Werewolf in London (John Landis) #fantastique
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
+* My dinner with Andre (Louis Malle)
 * bof: Chariots of Fire, Prince of the City (Sidney Lumet), Le Hasard (Przypadek) (Krzysztof Kieślowski) 🇵🇱
 
 [Césars 7](https://fr.wikipedia.org/wiki/7e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -991,7 +992,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
-* bof: Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes, ~~Love Actually~~
+* bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes, ~~Love Actually~~
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1452,7 +1453,7 @@ Français:
 * First Man (Damien Chazelle) #biopic
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, Green Book, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows, Ready Player One
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, Green Book, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows, Ready Player One
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1607,13 +1608,14 @@ Français:
 * American Fiction (Jeffrey Wright) #satire
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * The Promised Land (Mads Mikkelsen) 🇩🇰
+* Io Capitano
 * Le Moine et le fusil 🇧🇹
-* Les Colons 🇨🇱
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * Poor Things (Yórgos Lánthimos) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
 * Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
 * All of us Strangers 🇬🇧
+* Les Colons 🇨🇱
 * La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
 * Sick of Myself 🇳🇴 #satire
 * Air (Matt Damon)

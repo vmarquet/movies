@@ -88,11 +88,6 @@
 * https://www.rottentomatoes.com/m/fame
 
 
-### 1981
-
-* https://www.rottentomatoes.com/m/my_dinner_with_andre ++
-
-
 ### 1983
 
 * https://www.rottentomatoes.com/m/national_lampoons_vacation
@@ -242,7 +237,6 @@
 
 ### 2003
 
-* https://www.rottentomatoes.com/m/spring_summer_fall_winterand_spring ++
 * https://www.rottentomatoes.com/m/the_return
 * https://www.rottentomatoes.com/m/facing_windows ?
 
@@ -354,7 +348,6 @@
 ### 2018
 
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
-* https://www.rottentomatoes.com/m/night_comes_on ☀️
 * https://www.rottentomatoes.com/m/tully_2018
 * https://www.rottentomatoes.com/m/prospect_2018
 * Pupille (Jeanne Herry)
@@ -427,7 +420,6 @@
 * https://www.rottentomatoes.com/m/the_persian_version
 * https://www.rottentomatoes.com/m/wonka
 * https://www.rottentomatoes.com/m/the_color_purple
-* https://www.rottentomatoes.com/m/io_capitano
 * https://www.rottentomatoes.com/m/we_grown_now
 * https://www.rottentomatoes.com/m/may_december
 * https://www.rottentomatoes.com/m/nyad #biopic
@@ -445,6 +437,7 @@
 
 ### 2024
 
+* https://www.telerama.fr/cinema/le-mal-n-existe-pas-de-ryusuke-hamaguchi-western-ecolo-d-une-beaute-saisissante_cri-7032077.php
 * https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php TT
 * https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
 * https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
@@ -452,7 +445,6 @@
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
 * https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
 * https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php TTTT
-* https://www.telerama.fr/cinema/moi-capitaine-de-matteo-garrone-l-odyssee-touchante-de-deux-candidats-a-l-exil_cri-7030445.php
 * https://www.rottentomatoes.com/m/totem_2023
 * https://www.rottentomatoes.com/m/hundreds_of_beavers
 * https://www.rottentomatoes.com/m/concrete_utopia
@@ -463,6 +455,7 @@
 * https://www.rottentomatoes.com/m/ordinary_angels
 * https://www.rottentomatoes.com/m/monkey_man
 * https://www.rottentomatoes.com/m/la_chimera
+* https://www.rottentomatoes.com/m/civil_war_2024
 
 
 
