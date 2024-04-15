@@ -850,7 +850,7 @@ Français:
 * The Truman Show (Jim Carrey) #film-à-énigme
 * Contact (Jodie Foster) 💙
 * The Fifth Element (Luc Besson) #sf
-* La Vie est Belle (Roberto Benigni) #ww2
+* La Vie est Belle (Roberto Benigni) 🇮🇹 #ww2
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem) 🇪🇸
 * Cure (Kiyoshi Kurosawa) 🇯🇵 🎥
 * The Game (David Fincher, Michael Douglas, Sean Penn) #film-à-énigme
@@ -991,7 +991,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale
-* bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes, ~~Love Actually~~
+* bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes, ~~Love Actually 🇬🇧~~
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1011,7 +1011,7 @@ Français:
 * Eternal Sunshine of the Spotless Mind (Michel Gondry, Jim Carrey) 🎥 ❤️
 * 2046 (Wong Kar-wai) 🇭🇰 ❤️
 * Sideways (Paul Giamatti)
-* Shaun of the Dead #comédie
+* Shaun of the Dead 🇬🇧 #comédie
 * Kill Bill (Tarentino)
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar) 🇪🇸
@@ -1052,7 +1052,7 @@ Français:
 * Broken Flowers (Jim Jarmusch)
 * The 40 year old virgin (Steve Carell) #comédie
 * The Constant Gardener (Ralph Fiennes)
-* Le Tigre et la Neige (Roberto Benigni)
+* Le Tigre et la Neige (Roberto Benigni) 🇮🇹
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Million Dollar Baby (Clint Eastwood) 🏆
 * Capote (Philip Seymour Hoffman) #biopic
@@ -1084,7 +1084,7 @@ Français:
 * The Queen (Stephen Frears) 🇬🇧 🎥
 * Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
 * Le Dernier Roi d'Ecosse (Forest Whitaker)
-* This is England
+* This is England 🇬🇧
 * Thank You for Smoking (Jason Reitman)
 * The Devil Wears Prada
 * Fanaa 🇮🇳 #bollywood
@@ -1114,7 +1114,7 @@ Français:
 * 4 mois, 3 semaines, 2 jours 🇷🇴 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men (frères Coen) ❤️ 🏆
 * The Man from Earth : tout repose sur le scénario, très original
-* Le Limier (Kenneth Branagh, Jude Law, Michael Caine) #film-à-énigme : je préfère ce remake, l'original est longuet
+* Le Limier (Kenneth Branagh, Jude Law, Michael Caine) 🇬🇧 #film-à-énigme : je préfère ce remake, l'original est longuet
 * Boulevard de la Mort (Death Proof) (Tarentino)
 * Zodiac (David Fincher) #thriller
 * Gone Baby Gone (Ben Affleck)
@@ -1137,7 +1137,6 @@ Français:
 ### 2008
 
 * Two Lovers (Joaquin Phoenix) 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php)
-* Zetwal ❤️ #docu
 * Tulpan 🇰🇿 ❤️
 * Bons baisers de Bruges (Martin McDonagh, Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 * The Reader (Stephen Daldry, Kate Winslet, Ralph Fiennes)
@@ -1147,7 +1146,7 @@ Français:
 * Burn After Reading (frères Coen)
 * The Wrestler (Darren Aronofsky)
 * The Curious Case of Benjamin Button (David Fincher)
-* Hunger (Steve McQueen)
+* Hunger (Steve McQueen) 🇮🇪🇬🇧
 * The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera) #coming-of-age #romcomdrama
 * Valse avec Bachir 🇮🇱
@@ -1158,6 +1157,7 @@ Français:
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
+* Zetwal ❤️ #docu
 * Entre les murs 🌿 #film-scolaire
 * Le Crime est notre affaire (Catherine Frot, André Dussollier, Claude Rich)
     * suite de Mon Petit Doigt m'a Dit (2004)
@@ -1171,7 +1171,7 @@ Français:
 
 ### 2009
 
-* Bright Star (Jane Campion) 🎥 ❤️
+* Bright Star (Jane Campion) 🇬🇧 🎥 ❤️
 * Inglorious Basterds (Tarentino) 🎥 ❤️
 * Fantastic Mr. Fox (Wes Anderson)
 * Dans ses yeux (El secreto de sus ojos) 🇦🇷 ✨ #thriller
@@ -1181,8 +1181,8 @@ Français:
 * Le Ruban blanc (Michael Haneke) 🇩🇪 🌿
 * Tetro (FF Coppola) 🎥
 * Fish Tank 🇬🇧
-* An Education (Carey Mulligan)
-* London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
+* An Education (Carey Mulligan) 🇬🇧
+* London River (Rachid Bouchareb) [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
 * bof: Invictus (Clint Eastwood) 🇿🇦🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
@@ -1213,7 +1213,7 @@ Français:
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
 * The Social Network (David Fincher)
-* Kaboom (Greg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php) #comédie
+* Kaboom (Gregg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php) #comédie
 * Buried
 * Up in the Air (Jason Reitman, George Clooney)
 * bof: Winter's Bone (Jennifer Lawrence) ☀️, Somewhere (Sofia Coppola)
