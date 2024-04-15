@@ -373,6 +373,7 @@
 
 ### 2021
 
+* https://www.rottentomatoes.com/m/the_worst_person_in_the_world
 * https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
 * https://www.rottentomatoes.com/m/coda_2021
@@ -432,6 +433,7 @@
 * https://www.rottentomatoes.com/m/inside_the_yellow_cocoon_shell
 * https://www.rottentomatoes.com/m/slow
 * https://www.rottentomatoes.com/m/uproar
+* https://www.telerama.fr/cinema/un-metier-serieux-thomas-lilti-doit-il-revoir-sa-copie_cri-7028405.php #film-scolaire
 
 
 ### 2024
@@ -454,6 +456,7 @@
 * https://www.rottentomatoes.com/m/monkey_man
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/civil_war_2024
+* https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
 
 
 
