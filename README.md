@@ -187,7 +187,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1922
 
-* Nosferatu (Murnau) [🍅](https://www.rottentomatoes.com/m/nosferatu) #vampires
+* Nosferatu (Murnau) #vampires
 
 ### 1927
 
@@ -212,30 +212,30 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1941
 
-* Citizen Kane (Orson Welles) 🎥 [🍅](https://www.rottentomatoes.com/m/citizen_kane)
+* Citizen Kane (Orson Welles) 🎥
 
 ### 1942
 
-* Casablanca (Michael Curtiz) [🍅](https://www.rottentomatoes.com/m/1003707-casablanca)
+* Casablanca (Michael Curtiz)
 
 ### 1946
 
-* La Vie est Belle (Capra) [🍅](https://www.rottentomatoes.com/m/1010792-its_a_wonderful_life)
+* La Vie est Belle (Capra)
 
 ### 1948
 
-* The Lady from Shanghai (Orson Welles) [🍅](https://www.rottentomatoes.com/m/lady_from_shanghai)
+* The Lady from Shanghai (Orson Welles)
 * Macbeth (Orson Welles)
 * La Corde (Alfred Hitchcock)
 
 ### 1949
 
-* The Third Man (Orson Welles) 🎥 [🍅](https://www.rottentomatoes.com/m/the_third_man) : esthétique superbe mais intrigue triviale
+* The Third Man (Orson Welles) 🎥 : esthétique superbe mais intrigue triviale
 
 ### 1951
 
-* Rashomon (Akira Kurosawa) 🇯🇵 [🍅](https://www.rottentomatoes.com/m/rashomon)
-* A Streetcar Named Desire (Marlon Brando) [🍅](https://www.rottentomatoes.com/m/1020333-streetcar_named_desire) : bof (dans mes souvenirs, vu il y a longtemps)
+* Rashomon (Akira Kurosawa) 🇯🇵
+* A Streetcar Named Desire (Marlon Brando) : bof (dans mes souvenirs, vu il y a longtemps)
 
 ### 1953
 
@@ -243,7 +243,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1954
 
-* Les 7 Samourais (Akira Kurosawa) 🇯🇵 [🍅](https://www.rottentomatoes.com/m/1018639-seven_samurai)
+* Les 7 Samourais (Akira Kurosawa) 🇯🇵
 
 ### 1956
 
@@ -253,7 +253,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1957
 
 * The Seventh Seal (Ingmar Bergman) #fantastique
-* 12 Hommes en Colère (Sidney Lumet) [🍅](https://www.rottentomatoes.com/m/1000013-12_angry_men) #film-de-procès
+* 12 Hommes en Colère (Sidney Lumet) #film-de-procès
 
 
 ### 1958
@@ -264,7 +264,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1959
 
-* Some Like It Hot (Billy Wilder, Marylin Monroe) [🍅](https://www.rottentomatoes.com/m/some_like_it_hot) #comédie
+* Some Like It Hot (Billy Wilder, Marylin Monroe) #comédie
 
 [Cannes (12e)](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1959#Palmar%C3%A8s)
 
@@ -293,7 +293,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1962
 
 * Le Procès (Orson Welles) 🎥 ❤️ #film-de-procès
-* Lawrence d'Arabie (David Lean, avec Peter O'Toole) [🍅](https://www.rottentomatoes.com/m/lawrence_of_arabia) #aventure
+* Lawrence d'Arabie (David Lean, avec Peter O'Toole) #aventure
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
 * bof: Lolita (Stanley Kubrick)
 
@@ -318,7 +318,7 @@ Français:
 
 ### 1964
 
-* Pour une poignée de dollars (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/fistful_of_dollars) #western-spaghetti
+* Pour une poignée de dollars (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
     * note: voir les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio_leone), [Sergio Corbucci](https://www.rottentomatoes.com/celebrity/sergio_corbucci), [Sergio Sollima](https://www.rottentomatoes.com/celebrity/sergio_sollima)
 * Docteur Folamour (Stanley Kubrick)
 * L'Homme de Rio (Philippe de Broca, Belmondo) #aventure
@@ -332,7 +332,7 @@ Français:
 
 * Pierrot le Fou (Jean-Luc Godard, Belmondo) 🎥🎥 ❤️
 * Alphaville (Jean-Luc Godard) ❤️ #sf
-* Et pour quelques Dollars de plus (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/for_a_few_dollars_more) #western-spaghetti
+* Et pour quelques Dollars de plus (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * Yoyo (Pierre Etaix) ◯
 * Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin est originale
@@ -340,32 +340,30 @@ Français:
 
 ### 1966
 
-* Le Bon, la Brute et le Truand (Sergio Leone, Clint Eastwood) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/good_the_bad_and_the_ugly) #western-spaghetti
+* Le Bon, la Brute et le Truand (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
 * bof: Persona (Ingmar Bergman), Blow-Up, Le Roi de Coeur (Philippe de Broca)
 
 
 ### 1967
 
-* Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 💙
-  [🍅](https://www.rottentomatoes.com/m/graduate)
-  [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
-* Le Bal des Vampires (Roman Polanski) ❤️ 🎥 [🍅](https://www.rottentomatoes.com/m/the_fearless_vampire_killers) #vampires #parodique
+* Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 💙 [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
+* Le Bal des Vampires (Roman Polanski) ❤️ 🎥 #vampires #parodique
 * Le Samouraï (Jean-Pierre Melville) 🎥🎥 #policier
 * La Chinoise (Jean-Luc Godard)
 
 
 ### 1968
 
-* Roméo et Juliette (Zeffirelli) 🇬🇧🇮🇹 ❤️ [🍅](https://www.rottentomatoes.com/m/romeo_and_juliet_1968)
+* Roméo et Juliette (Zeffirelli) 🇬🇧🇮🇹 ❤️
 * Le Grand Silence (Sergio Corbucci, Ennio Morricone, Klaus Kinski) #western-spaghetti
-* L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 [🍅](https://www.rottentomatoes.com/m/thomas_crown_affair) #policier
+* L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 #policier
 * The Swimmer (Burt Lancaster) 🎥 : critique sociale mais sans humour, pas inintéressant mais parfois pesant, daté
 
 
 ### 1969
 
-* Easy Rider (Dennis Hopper, Peter Fonda) [📰](https://www.telerama.fr/cinema/films/easy-rider,4721.php)
+* Easy Rider (Dennis Hopper, Peter Fonda) [📰](https://www.telerama.fr/cinema/films/easy-rider,4721.php) #road-movie
 * bof: They Shoot Horses Don't They?
 
 Français:
@@ -376,7 +374,7 @@ Français:
 
 ### 1970
 
-* Deep End 🇬🇧 🎥🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/10008466-deep_end)
+* Deep End 🇬🇧 🎥🎥 ❤️
 * MASH (Robert Altman) #film-de-guerre
 * Little Big Man (Arthur Penn, Dustin Hoffman) #western : longuet
 
@@ -402,9 +400,9 @@ Français:
 
 ### 1972
 
-* Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god) [💡](https://www.youtube.com/watch?v=8mpgg_IsWhs)
+* Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [💡](https://www.youtube.com/watch?v=8mpgg_IsWhs)
 * Le Parrain (FF Coppola) 🎥 ❤️
-* Délivrance ❤️ [🍅](https://www.rottentomatoes.com/m/deliverance) #thriller
+* Délivrance ❤️ #thriller
 
 Français:
 
@@ -416,7 +414,7 @@ Français:
 ### 1973
 
 * Badlands (Terrence Malick, Martin Sheen) ❤️
-* L'Homme des Hautes Plaines (Clint Eastwood) 🎥 [🍅](https://www.rottentomatoes.com/m/high_plains_drifter) #western-spaghetti
+* L'Homme des Hautes Plaines (Clint Eastwood) 🎥 #western-spaghetti
 * Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
 * Amarcord (Federico Fellini) 🇮🇹 [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * bof: Serpico (Sydney Lumet, Al Pacino), ~~The Exorcist~~
@@ -440,8 +438,8 @@ Français:
 ### 1975
 
 * Monty Python : Sacré Graal ! (Terry Gilliam, Terry Jones) 🇬🇧 💙 #comédie
-* Dog Day Afternoon (Sidney Lumet, Al Pacino, John Cazale) [🍅](https://www.rottentomatoes.com/m/dog_day_afternoon)
-* Les Trois Jours du Condor (Sydney Pollack, Robert Redford) [🍅](https://www.rottentomatoes.com/m/three_days_of_the_condor) #thriller
+* Dog Day Afternoon (Sidney Lumet, Al Pacino, John Cazale)
+* Les Trois Jours du Condor (Sydney Pollack, Robert Redford) #thriller
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
 * Section spéciale (Costa-Gavras)
@@ -456,10 +454,10 @@ Français:
 
 ### 1976
 
-* Taxi Driver (Martin Scorsese, Robert de Niro) 💙 🌿 [🍅](https://www.rottentomatoes.com/m/taxi_driver)
+* Taxi Driver (Martin Scorsese, Robert de Niro) 💙 🌿
 * Le Locataire (Roman Polanski) ❤️ #thriller
 * L'Empire des sens (Nagisa Ōshima) 🇯🇵 🎥 #érotique
-* Marathon Man (Dustin Hoffman, Michael Caine) [🍅](https://www.rottentomatoes.com/m/marathon_man) #thriller
+* Marathon Man (Dustin Hoffman, Michael Caine) #thriller
 
 [Césars 2](https://fr.wikipedia.org/wiki/2e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -471,9 +469,9 @@ Français:
 
 ### 1977
 
-* The Duellists (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/duellists)
-* Sorcerer [🍅](https://www.rottentomatoes.com/m/1019441-sorcerer) : première moitiée longuette mais épique ensuite
-* The Gauntlet (Clint Eastwood) [🍅](https://www.rottentomatoes.com/m/gauntlet) : policier sans prétention mais quelques scènes mémorables
+* The Duellists (Ridley Scott)
+* Sorcerer : première moitiée longuette mais épique ensuite
+* The Gauntlet (Clint Eastwood) : policier sans prétention mais quelques scènes mémorables
 * bof: Opening Night, House 🇯🇵
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -483,8 +481,8 @@ Français:
 
 ### 1978
 
-* Days of Heaven (Terrence Malick) ❤️ [🍅](https://www.rottentomatoes.com/m/days_of_heaven)
-* The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) [🍅](https://www.rottentomatoes.com/m/deer_hunter) 🏆
+* Days of Heaven (Terrence Malick) ❤️
+* The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) 🏆
 * Midnight Express
 * Nosferatu (Werner Herzog)
 * bof: Grease (John Travolta)
@@ -499,7 +497,7 @@ Français:
 [Oscars 52](https://fr.wikipedia.org/wiki/52e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * All That Jazz (Bob Fosse) 🎥 4🏆 🌿 ❤️
-* Apocalypse Now (FF Coppola) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/apocalypse_now)
+* Apocalypse Now (FF Coppola) 🎥 💙
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 * bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers), Mad Max
@@ -514,7 +512,7 @@ Français:
 
 [Oscars 53](https://fr.wikipedia.org/wiki/53e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Elephant Man (David Lynch, Anthony Hopkins) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/1006527-elephant_man)
+* Elephant Man (David Lynch, Anthony Hopkins) 🎥 💙
 * The Blues Brothers (John Landis) 💙
 * La Porte du Paradis (Michael Cimino) : mémorable mais longuet
 * Raging Bull (Martin Scorsese)
@@ -528,7 +526,7 @@ Français:
 
 [Oscars 54](https://fr.wikipedia.org/wiki/54e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Mephisto 🇩🇪 🎥 ❤️ 🏆 (meilleur film étranger) 🌿 [🍅](https://www.rottentomatoes.com/m/mephisto)
+* Mephisto 🇩🇪 🎥 ❤️ 🏆 (meilleur film étranger) 🌿
 * Escape from New York (John Carpenter)
 * An American Werewolf in London (John Landis) #fantastique
 * Blow Out (Brian De Palma, John Travolta) : one of all-time favorite movies of Tarentino
@@ -551,8 +549,8 @@ Français:
 * Gandhi (Richard Attenborough) 🏆 #biopic
 * Body Heat #thriller-érotique
 * The Thing (John Carpenter)
-* The Draughtsman's Contract 🇬🇧 [🍅](https://www.rottentomatoes.com/m/draughtsmans_contract)
-* Tootsie (Sydney Pollack, Dustin Hoffman) [🍅](https://www.rottentomatoes.com/m/tootsie) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
+* The Draughtsman's Contract 🇬🇧
+* Tootsie (Sydney Pollack, Dustin Hoffman) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
 * First Blood (Sylvester Stallone)
 * bof: Conan le barbare
 
@@ -582,11 +580,11 @@ Français:
 [Oscars 57](https://fr.wikipedia.org/wiki/57e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Amadeus (Milos Forman) 8🏆
-* La Compagnie des Loups [🍅](https://www.rottentomatoes.com/m/company_of_wolves) #fantastique
-* The Hit (Stephen Frears, Tim Roth)
+* La Compagnie des Loups #fantastique
+* The Hit (Stephen Frears, Tim Roth) #road-movie
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
-* The Killing Fields [🍅](https://www.rottentomatoes.com/m/killing_fields)
+* The Killing Fields #history
 * Terminator (James Cameron) 💙 #sf
 * bof: Blood Simple (frères Coen), Paris Texas (Wim Wenders)
 
@@ -600,7 +598,7 @@ Français:
 [Oscars 58](https://fr.wikipedia.org/wiki/58e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * White Nights (Soleil de nuit) (Mikhail Baryshnikov) 🇷🇺
-* Witness (Peter Weier, Harrison Ford) [🍅](https://www.rottentomatoes.com/m/1023854-witness) #thriller
+* Witness (Peter Weier, Harrison Ford) #thriller
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie #coming-of-age
 * Tampopo 🇯🇵
@@ -635,8 +633,8 @@ Français:
 
 [Oscars 60](https://fr.wikipedia.org/wiki/60e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Full Metal Jacket (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/full_metal_jacket) #film-de-guerre
-* Les Ailes du Désir (Wim Wenders) 🇩🇪 [🍅](https://www.rottentomatoes.com/m/wings_of_desire)
+* Full Metal Jacket (Stanley Kubrick) 💙 #film-de-guerre
+* Les Ailes du Désir (Wim Wenders) 🇩🇪
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
 * Cobra Verde (Werner Herzog, Klaus Kinski)
 * Les Incorruptibles (Brian de Palma) #policier
@@ -652,11 +650,11 @@ Français:
 
 [Oscars 61](https://fr.wikipedia.org/wiki/61e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥 [🍅](https://www.rottentomatoes.com/m/1005199-dangerous_liaisons)
+* Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥
 * Femmes au bord de la crise de nerfs (Pedro Almodóvar) 🇪🇸
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Mississippi Burning (Gene Hackman, William Dafoe)
-* Gorillas in the mist (Sigourney Weaver) [🍅](https://www.rottentomatoes.com/m/gorillas_in_the_mist) : longuet
+* Gorillas in the mist (Sigourney Weaver) : longuet
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
 
@@ -674,7 +672,7 @@ Français:
 
 [Oscars 62](https://fr.wikipedia.org/wiki/62e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Sex, Lies and Videotape (Steven Soderbergh) [🍅](https://www.rottentomatoes.com/m/sex_lies_and_videotape)
+* Sex, Lies and Videotape (Steven Soderbergh)
 * Mystery Train (Jim Jarmusch)
 * Le Cercle des poètes disparus (Peter Weir)
 * Sea of Love (Al Pacino) #thriller-érotique
@@ -693,7 +691,7 @@ Français:
 
 * Edward aux mains d'argent (Tim Burton, Johnny Depp) ❤️ #fantastique
 * Les Affranchis (Goodfellas) (Martin Scorsese, Robert de Niro, Ray Liotta, Joe Pesci)
-* King of New York (Abel Ferrara, Christopher Walken) 🎥 [🍅](https://www.rottentomatoes.com/m/king_of_new_york) #policier : le meilleur rôle de Christopher Walken
+* King of New York (Abel Ferrara, Christopher Walken) 🎥 #policier : mon rôle préféré de Christopher Walken
 * Sailor et Lula (Wild at Heart) (David Lynch, Nicolas Cage, Laura Dern)
 * Miller's Crossing (frères Coen)
 * bof: Total Recall, Pretty Woman
@@ -708,8 +706,8 @@ Français:
 
 [Oscars 64](https://fr.wikipedia.org/wiki/64e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Danse avec les Loups (Kevin Costner) 🎥 7🏆 [🍅](https://www.rottentomatoes.com/m/dances_with_wolves) #western
-* Thelma & Louise (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/thelma_and_louise)
+* Danse avec les Loups (Kevin Costner) 🎥 7🏆 #western
+* Thelma & Louise (Ridley Scott) #road-movie
 * Barton Fink (frères Coen)
 * Dead Again (Kenneth Brannagh)
 * bof: What about Bob
@@ -725,7 +723,7 @@ Français:
 
 [Oscars 65](https://fr.wikipedia.org/wiki/65e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Impitoyable (Clint Eastwood) 4🏆 [🍅](https://www.rottentomatoes.com/m/1041911-unforgiven) #western
+* Impitoyable (Clint Eastwood) 4🏆 #western
 * Singles (Cameron Crowe) #comédie
 * Reservoir Dogs (Tarentino)
 * Basic Instinct (Paul Verhoeven) #thriller
@@ -745,14 +743,14 @@ Français:
 [Oscars 66](https://fr.wikipedia.org/wiki/66e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The Piano (Jane Campion) 🌿
-* Arizona Dream (Emir Kusturica, Johnny Depp) 💙 [🍅](https://www.rottentomatoes.com/m/arizona_dream) #fantastique : très bonne musique
+* Arizona Dream (Emir Kusturica, Johnny Depp) 💙 #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
 * La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
 * Beaucoup de Bruit pour rien (Kenneth Brannagh)
 * Etat Second (Peter Weir)
-* In the Name of the Father (Daniel Day-Lewis) [🍅](https://www.rottentomatoes.com/m/in_the_name_of_the_father)
+* In the Name of the Father (Daniel Day-Lewis)
 * Un Jour sans Fin (Bill Murray) #film-à-énigme
-* Belle Époque 🇪🇸 [🍅](https://fr.wikipedia.org/wiki/Belle_%C3%89poque_(film)) 🏆 (meilleur film étranger, 9 goyas)
+* Belle Époque 🇪🇸 🏆 (meilleur film étranger, 9 goyas)
 * bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman), Manhattan Murder Mystery (Woody Allen)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -765,12 +763,12 @@ Français:
 
 [Oscars 67](https://fr.wikipedia.org/wiki/67e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s) — [RottenTomatoes 🍅](https://editorial.rottentomatoes.com/guide/best-1994-movies/)
 
-* Chungking Express (Wong Kar-wai) 🇭🇰 ❤️ [🍅](https://www.rottentomatoes.com/m/chungking_express) <span title="❝ Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. ❞">💡</span>[💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
+* Chungking Express (Wong Kar-wai) 🇭🇰 ❤️ <span title="❝ Le cinéma de Wong Kar-wai a été caractérisé au tournant des années 2000 par sa capacité à créer avec virtuosité des images fortes exprimant des sensations, des émotions, des états d'âmes. ❞">💡</span>[💡](https://www.cinematheque.qc.ca/fr/cinema/chungking-express/)
     * > ❝ Il n'y a que 3 raisons pour qu'une femme ait des lunettes noires la nuit. Soit elle est aveugle... soit elle frime... soit elle a le coeur brisé et ne veut pas qu'on la voie pleurer. ❞
 * Pulp Fiction (Tarentino) [🌿](https://www.youtube.com/watch?v=1nZmRsyAX44)
-* Clerks, les employés modèles 💙 [🍅](https://www.rottentomatoes.com/m/clerks) #comédie
+* Clerks, les employés modèles 💙 #comédie
 * Soleil trompeur (Nikita Mikhalkov) 🇷🇺 🏆 🌿
-* Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) [🍅](https://www.rottentomatoes.com/m/interview_with_the_vampire) #vampires
+* Entretien avec un Vampire (Brad Pitt, Tom Cruise, Christian Slater) #vampires
 * Quiz Show (Robert Redford, John Turturro) #film-à-énigme : witty dialogue-driven movie
     *   <details>
         <summary>répliques:</summary>
@@ -829,14 +827,14 @@ Français:
 * Trainspotting 🇬🇧
 * Breaking the Waves (Lars von Trier)
 * From Dusk till Dawn (Robert Rodriguez, Harvey Keitel)
-* Primal Fear [🍅](https://www.rottentomatoes.com/m/1070992-primal_fear) #thriller
+* Primal Fear #thriller
     * > ❝ I haven't seen this many lawyers and politicians gathered in one place since confession this morning. ❞
     * > ❝ – Your job is just to sit there and look innocent.  
       > &emsp; – Well, I am innocent.  
       > &emsp; – That's it, that's exactly how I want you to look! ❞ 
     * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
 * Fargo (frères Coen, Frances McDormand, Steve Buscemi)
-* Lone Star [🍅](https://www.rottentomatoes.com/m/1074022-lone_star) #neowestern
+* Lone Star #neowestern
 * bof: Jerry Maguire (Cameron Crowe)
 
 [Césars 22](https://fr.wikipedia.org/wiki/22e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -856,12 +854,12 @@ Français:
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem) 🇪🇸
 * Cure (Kiyoshi Kurosawa) 🇯🇵 🎥
 * The Game (David Fincher, Michael Douglas, Sean Penn) #film-à-énigme
-* Donnie Brasco (Al Pacino, Johnny Depp, Michael Madsen) [🍅](https://www.rottentomatoes.com/m/donnie_brasco)
-* L.A. Confidential (Kevin Spacey) [🍅](https://www.rottentomatoes.com/m/la_confidential)
-* Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet) #aventure
+* Donnie Brasco (Al Pacino, Johnny Depp, Michael Madsen)
+* L.A. Confidential (Kevin Spacey)
+* Seven Years in Tibet (Jean-Jacques Annaud, Brad Pitt) #aventure
 * Minuit dans le Jardin du Bien et du Mal (Clint Eastwood) #film-de-procès : esthétique bof mais scénario+
 * Perdita Durango (Javier Bardem) [📰](https://www.telerama.fr/cinema/films/perdita-durango,45065.php)
-* Copland (James Mangold, Ray Liotta, Harvey Keitel) [🍅](https://www.rottentomatoes.com/m/cop_land) #policier
+* Copland (James Mangold, Ray Liotta, Harvey Keitel) #policier
 * Good Will Hunting (Gus van Sant)
 * Doodlebug (Christopher Nolan) [▶️](https://www.youtube.com/watch?v=kahb97XojzI) #short
 * bof: Hana-bi (Takeshi Kitano) 🇯🇵, Boogie Nights (Paul Thomas Anderson), Children of Heaven 🇮🇷, ~~In the Company of Men~~
@@ -873,7 +871,7 @@ Français:
 
 [Oscars 71](https://fr.wikipedia.org/wiki/71e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* The Big Lebowski (frères Coen) 💙 [🍅](https://www.rottentomatoes.com/m/big_lebowski) 🎳
+* The Big Lebowski (frères Coen) 💙 🎳
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham) 🇬🇧
 * Kirikou et la Sorcière #famille
@@ -893,7 +891,7 @@ Français:
 
 * Ghost Dog: The Way of the Samurai (Jim Jarmusch) ❤️ 🍦 [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
-* eXistenZ (David Cronemberg, Jude Law, Jennifer Jason Leigh, Willem Dafoe) [🍅](https://www.rottentomatoes.com/m/existenz) #film-à-énigme
+* eXistenZ (David Cronemberg, Jude Law, Jennifer Jason Leigh, Willem Dafoe) #film-à-énigme
 * Audition 🇯🇵
 * Dans la peau de John Malkovich (Spike Jonze, John Malkovich) #film-à-énigme
 * Office Space 💙 #comédie-de-bureau
@@ -915,7 +913,7 @@ Français:
 
 [Oscars 73](https://fr.wikipedia.org/wiki/73e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
-* Tigre et Dragon (Ang Lee) 🇨🇳 🎥 ❤️ 4🏆 [🍅](https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon)
+* Tigre et Dragon (Ang Lee) 🇨🇳 🎥 ❤️ 4🏆
 * Amores Perros (Alejandro Gonzalez Iñárritu) 🇲🇽 ❤️
 * Memento (Christopher Nolan) #film-à-énigme
 * In the Mood for Love (Wong Kar-wai) 🇭🇰 [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
@@ -939,7 +937,7 @@ Français:
 
 [Oscars 74](https://fr.wikipedia.org/wiki/74e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
-* Mulholland Drive (David Lynch) [🍅](https://www.rottentomatoes.com/m/mulholland_dr)
+* Mulholland Drive (David Lynch)
 * Lord of the Rings (Peter Jackson) 17🏆 #fantastique
 * Rush Hour 2 #comédie
 * Ocean's Eleven (Steven Soderbergh)
@@ -964,7 +962,7 @@ Français:
 * L'Homme sans passé (Kaurismäki) 🇫🇮
 * La Cité de Dieu 🇧🇷
 * Frida 🇲🇽
-* Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
+* Insomnia (Christopher Nolan, Al Pacino) #thriller
 * Infernal Affairs 🇭🇰 #thriller
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
@@ -992,7 +990,7 @@ Français:
 * Le Monde de Nemo (Pixar)
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
-* Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale [🍅](https://www.rottentomatoes.com/m/dogville)
+* Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale
 * bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes, ~~Love Actually~~
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1008,18 +1006,18 @@ Français:
 
 [Oscars 77](https://fr.wikipedia.org/wiki/77e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
-* Maria, pleine de grâce 🇨🇴 ❤️ [🍅](https://www.rottentomatoes.com/m/maria_full_of_grace)
-* Lost in Translation (Sofia Coppola) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/lost_in_translation)
+* Maria, pleine de grâce 🇨🇴 ❤️
+* Lost in Translation (Sofia Coppola) 🎥 ❤️
 * Eternal Sunshine of the Spotless Mind (Michel Gondry, Jim Carrey) 🎥 ❤️
 * 2046 (Wong Kar-wai) 🇭🇰 ❤️
-* Sideways (Paul Giamatti) [🍅](https://www.rottentomatoes.com/m/sideways)
+* Sideways (Paul Giamatti)
 * Shaun of the Dead #comédie
 * Kill Bill (Tarentino)
 * 21 Grammes (Alejandro Gonzalez Iñárritu, avec Sean Penn, Naomi Watts, Benicio del Toro) [📰](https://www.telerama.fr/cinema/films/21-grammes,151627.php)
 * La Mauvaise Éducation (Pedro Almodóvar) 🇪🇸
-* Mystic River (Clint Eastwood, Sean Penn) [🍅](https://www.rottentomatoes.com/m/mystic_river) #thriller
+* Mystic River (Clint Eastwood, Sean Penn) #thriller
 * The Machinist (Christian Bale)
-* OldBoy (Park Chan-wook) 🇰🇷 [🍅](https://www.rottentomatoes.com/m/oldboy)
+* OldBoy (Park Chan-wook) 🇰🇷
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal) 🇦🇷🇨🇱🇵🇪
 * Crazy Kung-Fu (Stephen Chow) 🇭🇰
@@ -1028,7 +1026,7 @@ Français:
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
-* Crash [🍅](https://www.rottentomatoes.com/m/1144992-crash) 🏆
+* Crash 🏆
 * bof: Napoleon Dynamite #coming-of-age #teen-movie, Hotel Rwanda
 
 [Césars 30](https://fr.wikipedia.org/wiki/30e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1045,12 +1043,12 @@ Français:
 
 * The New World (Terrence Malick, Christian Bale, Colin Farrell) 🎥 ❤️
 * Les Noces funèbres (Tim Burton) ❤️
-* Trois Enterrements (Tommy Lee Jones) 🌿 [🍅](https://www.rottentomatoes.com/m/three_burials_of_melquiades_estrada) #neowestern
+* Trois Enterrements (Tommy Lee Jones) 🌿 #neowestern
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) 🇪🇸 [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * La Science des Rêves (Michel Gondry)
-* Kiss Kiss Bang Bang [🍅](https://www.rottentomatoes.com/m/kiss_kiss_bang_bang) #comédie
-* Sin City (Franck Miller, Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/sin_city) #policier
+* Kiss Kiss Bang Bang #comédie
+* Sin City (Franck Miller, Robert Rodriguez) #policier
 * Broken Flowers (Jim Jarmusch)
 * The 40 year old virgin (Steve Carell) #comédie
 * The Constant Gardener (Ralph Fiennes)
@@ -1073,19 +1071,19 @@ Français:
 
 [Oscars 79](https://fr.wikipedia.org/wiki/79e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Volver (Pedro Almodóvar) 🇪🇸 🎥 ❤️❤️ [🍅](https://www.rottentomatoes.com/m/volver)
+* Volver (Pedro Almodóvar) 🇪🇸 🎥 ❤️❤️
 * La Vie des autres 🇩🇪 ❤️ 🏆 (meilleur film étranger)
-* Little Miss Sunshine (Paul Dano) ❤️ ☀️
+* Little Miss Sunshine (Paul Dano) ❤️ ☀️ #road-movie
 * Casino Royale ❤️
-* The Fall [🍅](https://www.rottentomatoes.com/m/the-fall-2008) #fantastique
+* The Fall #fantastique
 * Le Labyrinthe de Pan (Guillermo del Toro) 🇪🇸
 * The Black Dahlia (Brian de Palma)
 * Brokeback Mountain (Ang Lee) 🏆
 * Babel (Alejandro González Iñárritu)
 * Le Prestige (Christopher Nolan) #film-à-énigme
-* The Queen (Stephen Frears) 🇬🇧 🎥 [🍅](https://www.rottentomatoes.com/m/queen)
+* The Queen (Stephen Frears) 🇬🇧 🎥
 * Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
-* Le Dernier Roi d'Ecosse (Forest Whitaker) [🍅](https://www.rottentomatoes.com/m/last_king_of_scotland)
+* Le Dernier Roi d'Ecosse (Forest Whitaker)
 * This is England
 * Thank You for Smoking (Jason Reitman)
 * The Devil Wears Prada
@@ -1109,18 +1107,18 @@ Français:
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_2007#S%C3%A9lection_officielle)
 
 * The Darjeeling Limited (Wes Anderson) ❤️
-* Juno (Jason Reitman) [🍅](https://www.rottentomatoes.com/m/juno) 🏆 #coming-of-age
-* There Will Be Blood (Paul Thomas Anderson, Daniel Day Lewis, Paul Dano) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/there_will_be_blood) #western
+* Juno (Jason Reitman) 🏆 #coming-of-age
+* There Will Be Blood (Paul Thomas Anderson, Daniel Day Lewis, Paul Dano) 🎥 ❤️ #western
 * Sweeney Todd (Tim Burton) ❤️
-* Into The Wild (Sean Penn) ❤️ [🍅](https://www.rottentomatoes.com/m/into_the_wild) #aventure #road-movie
+* Into The Wild (Sean Penn) ❤️ #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours 🇷🇴 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men (frères Coen) ❤️ 🏆
-* The Man from Earth [🍅](https://www.rottentomatoes.com/m/man_from_earth) : tout repose sur le scénario, très original
+* The Man from Earth : tout repose sur le scénario, très original
 * Le Limier (Kenneth Branagh, Jude Law, Michael Caine) #film-à-énigme : je préfère ce remake, l'original est longuet
 * Boulevard de la Mort (Death Proof) (Tarentino)
 * Zodiac (David Fincher) #thriller
 * Gone Baby Gone (Ben Affleck)
-* Time crimes 🇪🇸 [🍅](https://www.rottentomatoes.com/m/time_crimes) #sf
+* Time crimes 🇪🇸 #sf
 * Two Days in Paris (Julie Delpy)
 * My Blueberry Nights (Wong Kar-Wai)
 * The Assassination of Jesse James by the Coward Robert Ford #western
@@ -1138,9 +1136,7 @@ Français:
 
 ### 2008
 
-* Two Lovers (Joaquin Phoenix) 🎥 ❤️
-  [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php) 
-  [🍅](https://www.rottentomatoes.com/m/two_lovers)
+* Two Lovers (Joaquin Phoenix) 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php)
 * Zetwal ❤️ #docu
 * Tulpan 🇰🇿 ❤️
 * Bons baisers de Bruges (Martin McDonagh, Colin Farrell, Ralph Fiennes, Brendan Gleeson)
@@ -1155,9 +1151,9 @@ Français:
 * The Dark Knight (Christopher Nolan)
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera) #coming-of-age #romcomdrama
 * Valse avec Bachir 🇮🇱
-* The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
+* The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php)
 * Walkyrie (Tom Cruise) #ww2
-* Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
+* Disgrace (John Malkovich) : mémorable mais traine en longueur
 * bof: Gomorra 🇮🇹, Vicky Cristina Barcelona (Woody Allen), Synecdoche New York
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1176,14 +1172,14 @@ Français:
 ### 2009
 
 * Bright Star (Jane Campion) 🎥 ❤️
-* Inglorious Basterds (Tarentino) 🎥 ❤️ [🍅](https://www.rottentomatoes.com/m/inglourious_basterds)
+* Inglorious Basterds (Tarentino) 🎥 ❤️
 * Fantastic Mr. Fox (Wes Anderson)
 * Dans ses yeux (El secreto de sus ojos) 🇦🇷 ✨ #thriller
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Whatever Works (Woody Allen)
-* Zombieland [🍅](https://www.rottentomatoes.com/m/zombieland) #comédie
+* Zombieland #comédie
 * Le Ruban blanc (Michael Haneke) 🇩🇪 🌿
-* Tetro (FF Coppola) 🎥 [🍅](https://www.rottentomatoes.com/m/tetro)
+* Tetro (FF Coppola) 🎥
 * Fish Tank 🇬🇧
 * An Education (Carey Mulligan)
 * London River [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
@@ -1211,7 +1207,7 @@ Français:
 * Uncle Boonmee Who Can Recall His Past Lives (Apichatpong Weerasethakul) 🇹🇭 🌿
 * The King's Speech (Le Discours d'un roi) 🇬🇧
 * 127 Hours (Danny Boyle, James Franco)
-* Machete (Robert Rodriguez) [🍅](https://www.rottentomatoes.com/m/machete)
+* Machete (Robert Rodriguez)
 * Tucker and Dale vs Evil
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
@@ -1240,7 +1236,7 @@ Français:
 * Midnight in Paris (Woody Allen) 🎥
 * Drive (Nicolas Winding Refn, Ryan Gosling) ❤️
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
-* Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥 [🍅](https://www.rottentomatoes.com/m/shame_2011)
+* Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥
 * The Tree of Life (Terrence Malick)
 * Margin Call (Kevin Spacey)
 * Starbuck 🇨🇦 #comédie
@@ -1311,7 +1307,7 @@ Français:
 * Side Effects (Steven Soderbergh)
 * The Grandmaster (Wong Kar-wai) 🇭🇰
 * The Internship (Vince Vaughn, Owen Wilson) #comédie-de-bureau
-* New World 🇰🇷 [🍅](https://www.rottentomatoes.com/m/new_world) #thriller
+* New World 🇰🇷 #thriller
 * Dallas Buyers Club (Matthew McConaughey)
 * Ida 🇵🇱
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
@@ -1344,7 +1340,7 @@ Français:
 * The Imitation Game (Benedict Cumberbatch) #biopic
 * Creep
 * Still Alice
-* Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/force_majeure_2014)
+* Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪
 * bof: Nos étoiles contraires #coming-of-age, Sils Maria, Edge of Tomorrow, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1393,7 +1389,7 @@ Français:
 * Arrival (Denis Villeneuve, Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
 * Zootopia (Disney) #famille
-* Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
+* Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️
 * La La Land (Damien Chazelle)
 * I Daniel Blake (Ken Loach) 🇬🇧 🌿
 * Better Watch Out 🍿 #film-de-noel
@@ -1401,10 +1397,10 @@ Français:
 * Toni Erdmann 🇩🇪
 * Hacksaw Ridge (Tu ne tueras point) #film-de-guerre
 * Una (Rooney Mara)
-* The Red Turtle [🍅](https://www.rottentomatoes.com/m/the_red_turtle) #famille
+* The Red Turtle #famille
 * The Lost City of Z
 * The Nice Guys
-* The Wailing 🇰🇷 [🍅](https://www.rottentomatoes.com/m/the_wailing)
+* The Wailing 🇰🇷
 * bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn)
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1416,8 +1412,8 @@ Français:
 
 ### 2017
 
-* My Days of Mercy [🍅](https://www.rottentomatoes.com/m/my_days_of_mercy) ❤️
-* The Square (Ruben Östlund) 🇸🇪 [🍅](https://www.rottentomatoes.com/m/the_square_2017) 🌿
+* My Days of Mercy ❤️
+* The Square (Ruben Östlund) 🇸🇪 🌿
 * Vuelven (Tigers Are Not Afraid) 🇲🇽
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
@@ -1425,7 +1421,7 @@ Français:
 * You Were Never Really Here (Joaquin Phoenix)
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West (Aubrey Plaza)
-* I, Tonya (Margot Robbie) [🍅](https://www.rottentomatoes.com/m/i_tonya)
+* I, Tonya (Margot Robbie)
 * Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis)
 * Blade Runner 2049 (Denis Villeneuve) #sf
@@ -1442,7 +1438,7 @@ Français:
 ### 2018
 
 * Three Billboards (Martin McDonagh, Frances McDormand) ❤️
-* Come as you are ❤️ [🍅](https://www.rottentomatoes.com/m/come_as_you_are_2020) ☀️
+* Come as you are ❤️ ☀️
 * Dunkirk (Christopher Nolan) #film-de-guerre
 * La Saveur des Ramens 🇯🇵🇸🇬
 * The Favourite (Yórgos Lánthimos, Emma Stone)
@@ -1478,8 +1474,8 @@ Français:
 * Jojo Rabbit (Taika Waititi) ❤️
 * Marriage Story (Scarlett Johansson, Adam Driver)
 * Booksmart #comédie #coming-of-age
-* Ad Astra (James Gray, Brad Pitt) [🍅](https://www.rottentomatoes.com/m/ad_astra) #sf
-* A Hidden Life (Terrence Malick) 🎥 [🍅](https://www.rottentomatoes.com/m/a_hidden_life_2019) : mémorable mais longuet
+* Ad Astra (James Gray, Brad Pitt) #sf
+* A Hidden Life (Terrence Malick) 🎥 : mémorable mais longuet
 * The Two Popes
 * Le Roi (Timothée Chalamet)
 * Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
@@ -1513,7 +1509,7 @@ Français:
 * Riders of Justice (Retfærdighedens ryttere) (Mads Mikkelsen) 🇩🇰 #thriller
 * Palm Springs (Andy Samberg) #romcom
 * Possessor (Brandon Cronenberg) ☀️
-* Waiting for the Barbarians (Johnny Depp, Robert Pattinson) [🍅](https://www.rottentomatoes.com/m/waiting_for_the_barbarians_2020)
+* Waiting for the Barbarians (Johnny Depp, Robert Pattinson)
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
@@ -1530,10 +1526,10 @@ Français:
 
 * King Richard (Will Smith) ❤️ 🎾 : biopic Venus Williams
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
-* The Last Duel (Ridley Scott) [🍅](https://www.rottentomatoes.com/m/the_last_duel_2021)
+* The Last Duel (Ridley Scott)
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie #satire
 * Annette (Leos Carax, Adam Driver)
-* Jai Bhim 🇮🇳 [🍅](https://www.rottentomatoes.com/m/jai_bhim)
+* Jai Bhim 🇮🇳
 * Judas and the Black Messiah
 * Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
@@ -1565,20 +1561,20 @@ Français:
 * Godland 🇩🇰🇮🇸 [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
 * The Whale (Darren Aronofsky, Brendan Fraser)
 * Triangle of Sadness (Ruben Östlund) 🌿 [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
-* As Bestas 🇪🇸 [🍅](https://www.rottentomatoes.com/m/the_beasts) : "un thriller à l’hyperréalisme terrifiant" (télérama)
+* As Bestas 🇪🇸 : "un thriller à l’hyperréalisme terrifiant" (télérama)
 * Small, Slow But Steady (La Beauté du Geste) 🇯🇵
 * La Femme de Tchaikovski 🇷🇺 [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
-* A l'Ouest rien de nouveau [🍅](https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022) #film-de-guerre
-* War Pony [🍅](https://www.rottentomatoes.com/m/war_pony)
+* A l'Ouest rien de nouveau 🇩🇪 #film-de-guerre
+* War Pony
 * Fire Island 🏳️‍🌈 #romcom
 * Decision to Leave (Park Chan-wook) 🇰🇷
-* Fresh 🎥 [🍅](https://www.rottentomatoes.com/m/fresh_2022) #horror
+* Fresh 🎥 #horror
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
     * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, ~~Chevalier~~
-    * Burning Days 🇹🇷 [🍅](https://www.rottentomatoes.com/m/burning_days) : esthétiquement super mais scénario poussif
+    * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1599,14 +1595,14 @@ Français:
 
 [Rotten Tomatoes – Top Movies of 2023](https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/)
 
-* The Holdovers (Paul Giamatti) ❤️❤️ [🍅](https://www.rottentomatoes.com/m/the_holdovers)
+* The Holdovers (Paul Giamatti) ❤️❤️
     * > ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
-* Past Lives ❤️ [🍅](https://www.rottentomatoes.com/m/past_lives)
+* Past Lives ❤️
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * The Iron Claw ❤️
 * Perfect Days (Wim Wenders) 🇯🇵 ❤️
-* Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling) [🍅](https://www.rottentomatoes.com/m/barbie)
+* Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling)
 * American Fiction (Jeffrey Wright) #satire
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * The Promised Land (Mads Mikkelsen) 🇩🇰
@@ -1615,24 +1611,24 @@ Français:
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * Poor Things (Yórgos Lánthimos) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
-* Reality [🍅](https://www.rottentomatoes.com/m/reality_2023)
+* Reality
 * All of us Strangers 🇬🇧
 * Les Colons 🇨🇱
-* La Sociedad de la Nieve 🇺🇾 [🍅](https://www.rottentomatoes.com/m/society_of_the_snow)
+* La Sociedad de la Nieve 🇺🇾
 * Sick of Myself 🇳🇴 #satire
 * Air (Matt Damon)
-* Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) [🍅](https://www.rottentomatoes.com/m/killers_of_the_flower_moon) : intrigue façon policier, très convenu
+* Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) : intrigue façon policier, très convenu
 * Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
-* Oppenheimer (Christopher Nolan) [🍅](https://www.rottentomatoes.com/m/oppenheimer_2023) : trop long
+* Oppenheimer (Christopher Nolan) : trop long
 * Dumb Money (Paul Dano)
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * One Life 🇬🇧 #history
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
-* A Haunting in Venice (Kenneth Branagh) [🍅](https://www.rottentomatoes.com/m/a_haunting_in_venice) : intrigue pauvre mais style visuel oppressant très réussi
+* A Haunting in Venice (Kenneth Branagh) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
-* Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
+* Sharper : intrigue basique mais très esthétique
 * bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo, The Fabelmans
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1661,28 +1657,28 @@ Français:
 
 ### Science-Fiction
 
-* Brazil (Terry Gilliam) 💙 [🍅](https://www.rottentomatoes.com/m/1003033-brazil)
-* Blade Runner (Ridley Scott, avec Harrison Ford) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/blade_runner)
-* Bienvenue à Gattaca (Ethan Hawke, Jude Law) 💙❤️ [🍅](https://www.rottentomatoes.com/m/gattaca)
-* La Planète des Singes (1968, Charlton Heston) [🍅](https://www.rottentomatoes.com/m/1016397-planet_of_the_apes)
+* Brazil (Terry Gilliam) 💙
+* Blade Runner (Ridley Scott, avec Harrison Ford) 🎥 💙
+* Bienvenue à Gattaca (Ethan Hawke, Jude Law) 💙❤️
+* La Planète des Singes (1968, Charlton Heston)
 * Solaris (1972, Andreï Tarkovski) 🇷🇺 🌿
-* District 9 (2009) [🍅](https://www.rottentomatoes.com/m/district_9)
-* Soleil Vert (1973, avec Charlton Heston) ❤️ [🍅](https://www.rottentomatoes.com/m/soylent_green)
-* Moon (2009) 🎥 [🍅](https://www.rottentomatoes.com/m/10009075-moon)
-* Alien (1979, Ridley Scott) 💙 [🍅](https://www.rottentomatoes.com/m/alien) [❓](https://twitter.com/ATRightMovies/status/1661664750273527810)
+* District 9 (2009)
+* Soleil Vert (1973, avec Charlton Heston) ❤️
+* Moon (2009) 🎥
+* Alien (1979, Ridley Scott) 💙 [❓](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * Alien IV (JP Jeunet) [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
 * Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen)
 * Minority Report (2002, Spielberg)
 * Artificial Intelligence: A.I. (2001, Spielberg)
-* 2001 A Space Odyssey (Stanley Kubrick) 💙 [🍅](https://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey)
+* 2001 A Space Odyssey (Stanley Kubrick) 💙
 * Le Monde sur le Fil (1973, Rainer Werner Fassbinder) 🇩🇪
 * Cube (1997)
 * Dark City (1998)
-* THX 1138 (1971, Georges Lucas) [🍅](https://www.rottentomatoes.com/m/thx_1138)
+* THX 1138 (1971, Georges Lucas)
 * La Guerre des mondes (2005, Spielberg)
 * Antiviral
 * I, Robot (2003, Will Smith)
-* The Island (2005) [🍅](https://www.rottentomatoes.com/m/island) : voir juste la première heure, après c'est nul
+* The Island (2005) : voir juste la première heure, après c'est nul
 * pas vu: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
 
 |     |     |     |
@@ -1694,12 +1690,12 @@ Français:
 
 ### Epouvante / Horreur
 
-* Rosemary's Baby (1968, Roman Polanski) 🎥 💙 [🍅](https://www.rottentomatoes.com/m/rosemarys_baby) [💡](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
+* Rosemary's Baby (1968, Roman Polanski) 🎥 💙 [💡](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
 * Suspiria (1977) : pour le cadrage et l'esthétique
-* Shining (1980, Stanley Kubrick) [🍅](https://www.rottentomatoes.com/m/shining)
-* Le Silence des Agneaux (1991, avec Anthony Hopkins) 💙 [🍅](https://www.rottentomatoes.com/m/silence_of_the_lambs)
+* Shining (1980, Stanley Kubrick)
+* Le Silence des Agneaux (1991, avec Anthony Hopkins) 💙
 * Scream (1996, Wes Craven)
-* Ringu (1998) 🇯🇵 [🍅](https://www.rottentomatoes.com/m/ringu)
+* Ringu (1998) 🇯🇵
 * The Blair Witch Project (1999) 💙
 * The Others (2001, Alejandro Amenabar)
 * Kairo (2001) 🇯🇵
