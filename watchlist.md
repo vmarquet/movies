@@ -252,7 +252,6 @@
 ### 2005
 
 * L'Enfant (frères Dardenne) 🌿
-* https://www.rottentomatoes.com/m/sympathy_for_lady_vengeance (Park Chan-wook) 🇰🇷
 
 
 ### 2006
@@ -274,7 +273,6 @@
 
 ### 2008
 
-* https://www.rottentomatoes.com/m/synecdoche_new_york ++
 * https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
 * https://www.lemonde.fr/culture/article/2024/03/27/la-flamme-verte-une-somptueuse-traversee-du-temps-facon-mille-et-une-nuits_6224436_3246.html 🇮🇷
 
@@ -370,6 +368,7 @@
 * https://www.rottentomatoes.com/m/the_macaluso_sisters
 * https://www.rottentomatoes.com/m/the_way_back_2020
 * https://www.rottentomatoes.com/m/son_of_monarchs
+* https://www.rottentomatoes.com/m/words_on_bathroom_walls
 
 
 ### 2021
@@ -379,6 +378,7 @@
 * https://www.rottentomatoes.com/m/coda_2021
 * https://www.rottentomatoes.com/m/blue_bayou_2021
 * https://www.rottentomatoes.com/m/luca_2021
+* https://www.rottentomatoes.com/m/mondo_hollywoodland
 
 
 ### 2022
@@ -411,7 +411,6 @@
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
 * https://www.rottentomatoes.com/m/polite_society
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
-* https://www.rottentomatoes.com/m/the_monk_and_the_gun
 * https://www.rottentomatoes.com/m/godzilla_minus_one
 * https://www.rottentomatoes.com/m/anselm (docu)
 * https://www.rottentomatoes.com/m/molli_and_max_in_the_future
@@ -437,7 +436,7 @@
 
 ### 2024
 
-* https://www.telerama.fr/cinema/le-mal-n-existe-pas-de-ryusuke-hamaguchi-western-ecolo-d-une-beaute-saisissante_cri-7032077.php
+* https://www.telerama.fr/cinema/le-mal-n-existe-pas-de-ryusuke-hamaguchi-western-ecolo-d-une-beaute-saisissante_cri-7032077.php 🇯🇵
 * https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php TT
 * https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
 * https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
@@ -445,7 +444,6 @@
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
 * https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
 * https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php TTTT
-* https://www.rottentomatoes.com/m/totem_2023
 * https://www.rottentomatoes.com/m/hundreds_of_beavers
 * https://www.rottentomatoes.com/m/concrete_utopia
 * https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)

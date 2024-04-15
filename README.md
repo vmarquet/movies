@@ -965,6 +965,7 @@ Français:
 * La Cité de Dieu 🇧🇷
 * Frida 🇲🇽
 * Insomnia (Christopher Nolan, Al Pacino) [🍅](https://www.rottentomatoes.com/m/1114154-insomnia) #thriller
+* Infernal Affairs 🇭🇰 #thriller
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
 * Panic Room (David Fincher) #thriller
@@ -1059,7 +1060,7 @@ Français:
 * Capote (Philip Seymour Hoffman) #biopic
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2) #sf
-* bof: Walk the Line (Joaquin Phoenix) #biopic, Mémoires d'une geisha
+* bof: Walk the Line (Joaquin Phoenix) #biopic, Mémoires d'une geisha, Sympathy for Lady Vengeance (Park Chan-wook) 🇰🇷
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1157,7 +1158,7 @@ Français:
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php) [🍅](https://www.rottentomatoes.com/m/the_wave_2008_2)
 * Walkyrie (Tom Cruise) #ww2
 * Disgrace (John Malkovich) [🍅](https://www.rottentomatoes.com/m/disgrace/) : mémorable mais traine en longueur
-* bof: Gomorra 🇮🇹, Vicky Cristina Barcelona (Woody Allen)
+* bof: Gomorra 🇮🇹, Vicky Cristina Barcelona (Woody Allen), Synecdoche New York
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1361,6 +1362,7 @@ Français:
 
 ### 2015
 
+* Inside Out (Pixar) ❤️
 * Les Huit Salopards (Tarentino) ❤️
 * Mustang 🇹🇷 ❤️
 * The Assassin 🇨🇳 🎥 ❤️ #arts-martiaux
@@ -1390,7 +1392,7 @@ Français:
 * Mademoiselle (Park Chan-wook) 🇰🇷 🌿
 * Arrival (Denis Villeneuve, Amy Adams) #sf
 * Captain Fantastic (Viggo Mortensen) ☀️
-* Zootopia (Disney)
+* Zootopia (Disney) #famille
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️ [🍅](https://www.rottentomatoes.com/m/swiss_army_man)
 * La La Land (Damien Chazelle)
 * I Daniel Blake (Ken Loach) 🇬🇧 🌿
@@ -1555,7 +1557,7 @@ Français:
 * Le otto montagne 🇮🇹 ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
-* Puss in Boots: The Last Wish (Chat potté 2) ❤️
+* Puss in Boots: The Last Wish (Chat potté 2) ❤️ #famille
 * She Said (affaire Weinstein)
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
@@ -1631,9 +1633,9 @@ Français:
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper [🍅](https://www.rottentomatoes.com/m/sharper) : intrigue basique mais très esthétique
-* bof: The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo, The Fabelmans
+* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo, The Fabelmans
 
-Français:
+[Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Anatomie d'une chute (Justine Triet) 🌿 6✨ #film-de-procès
