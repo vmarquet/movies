@@ -1374,7 +1374,7 @@ Français:
 * Anomalisa
 * Carol (Todd Haynes, Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
-* Il est de retour 🇩🇪 #comédie-satirique
+* Il est de retour 🇩🇪 #satire
 * Mad Max: Fury Road
 * bof: ~~The Martian~~, ~~A Bigger Splash~~
 
@@ -1421,7 +1421,7 @@ Français:
 * Vuelven (Tigers Are Not Afraid) 🇲🇽
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
-* The Death of Stalin (Steve Buscemi) ❤️ #comédie-satirique
+* The Death of Stalin (Steve Buscemi) ❤️ #satire
 * You Were Never Really Here (Joaquin Phoenix)
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West (Aubrey Plaza)
