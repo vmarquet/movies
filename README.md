@@ -1437,14 +1437,14 @@ Français:
 
 ### 2018
 
-* Three Billboards (Martin McDonagh, Frances McDormand) ❤️
 * Come as you are ❤️ ☀️
+* Three Billboards (Martin McDonagh, Frances McDormand) ❤️
 * Dunkirk (Christopher Nolan) #film-de-guerre
 * La Saveur des Ramens 🇯🇵🇸🇬
 * The Favourite (Yórgos Lánthimos, Emma Stone)
+* Isle of Dogs (Wes Anderson)
 * La Ballade de Buster Scruggs (frères Coen) #western
 * Bohemian Rhapsody (Rami Malek) 4🏆 #biopic
-* Isle of Dogs (Wes Anderson)
 * Bird Box (Sandra Bullock)
 * Capernaum (Capharnaüm) 🇱🇧 🏆
 * Heureux comme Lazzaro 🇮🇹
