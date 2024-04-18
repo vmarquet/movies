@@ -1469,11 +1469,11 @@ Français:
 
 * Scheme Birds (documentaire) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❤️
 * The Lighthouse (Robert Eggers, Willem Dafoe, Robert Pattinson) 🎥 ❤️
-* 1917 (Sam Mendes) 🎥 #film-de-guerre
 * Joker (Joaquin Phoenix) ❤️
 * Jojo Rabbit (Taika Waititi) ❤️
+* Booksmart ❤️ #comédie #coming-of-age
+* 1917 (Sam Mendes) 🎥 #film-de-guerre
 * Marriage Story (Scarlett Johansson, Adam Driver)
-* Booksmart #comédie #coming-of-age
 * Ad Astra (James Gray, Brad Pitt) #sf
 * A Hidden Life (Terrence Malick) 🎥 : mémorable mais longuet
 * The Two Popes
@@ -1536,7 +1536,7 @@ Français:
 * Dune (Denis Villeneuve) #sf
 * Werewolves Within 🍿 (comédie/horreur) #film-de-noel
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car 🇯🇵, Onoda 🇯🇵, Vortex (Gaspar Noé)
+* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Onoda 🇯🇵, Vortex (Gaspar Noé)
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1609,6 +1609,7 @@ Français:
 * Io Capitano
 * Le Moine et le fusil 🇧🇹
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
+* Le mal n'existe pas (Ryūsuke Hamaguchi) 🇯🇵 [📰](https://www.telerama.fr/cinema/le-mal-n-existe-pas-de-ryusuke-hamaguchi-western-ecolo-d-une-beaute-saisissante_cri-7032077.php)
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * Poor Things (Yórgos Lánthimos) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
 * Reality

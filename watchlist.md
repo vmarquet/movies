@@ -359,6 +359,7 @@
 * https://www.rottentomatoes.com/m/monos
 * https://www.rottentomatoes.com/m/togo_2019
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
+* https://www.rottentomatoes.com/m/babyteeth
 
 
 ### 2020
@@ -369,10 +370,12 @@
 * https://www.rottentomatoes.com/m/the_way_back_2020
 * https://www.rottentomatoes.com/m/son_of_monarchs
 * https://www.rottentomatoes.com/m/words_on_bathroom_walls
+* https://www.rottentomatoes.com/m/psych_2_lassie_come_home
 
 
 ### 2021
 
+* https://www.telerama.fr/cinema/films/contes-du-hasard-et-autres-fantaisies-1-194349890.php (Ryūsuke Hamaguchi) 🇯🇵
 * https://www.rottentomatoes.com/m/the_worst_person_in_the_world
 * https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
@@ -384,6 +387,7 @@
 
 ### 2022
 
+* https://www.rottentomatoes.com/m/north_of_normal
 * https://www.rottentomatoes.com/m/sanctuary_2022
 * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
 * https://editorial.rottentomatoes.com/guide/best-movies-2022/
@@ -403,6 +407,8 @@
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
+* https://www.rottentomatoes.com/m/robot_dreams
+* https://www.rottentomatoes.com/m/challengers_2023
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies
 * https://www.rottentomatoes.com/m/monster_2023 (Koreeda) 🇯🇵
@@ -434,11 +440,13 @@
 * https://www.rottentomatoes.com/m/slow
 * https://www.rottentomatoes.com/m/uproar
 * https://www.telerama.fr/cinema/un-metier-serieux-thomas-lilti-doit-il-revoir-sa-copie_cri-7028405.php #film-scolaire
+* https://www.rottentomatoes.com/m/limbo_2023
+* https://www.rottentomatoes.com/m/la_chimera
+* https://www.rottentomatoes.com/m/laroy_texas
 
 
 ### 2024
 
-* https://www.telerama.fr/cinema/le-mal-n-existe-pas-de-ryusuke-hamaguchi-western-ecolo-d-une-beaute-saisissante_cri-7032077.php 🇯🇵
 * https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php TT
 * https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
 * https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
