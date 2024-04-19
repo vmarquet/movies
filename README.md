@@ -191,12 +191,12 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1927
 
-* Metropolis (Fritz Lang)
+* Metropolis (Fritz Lang) 🇩🇪
 * les films de Laurel et Hardy: Do Detective Think?, The Second Hundred Years, Putting Pants on Philip, ...
 
 ### 1928
 
-* The Passion of Joan of Arc
+* La Passion de Jeanne d'Arc
 
 ### 1929
 
@@ -204,7 +204,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1931
 
-* M le maudit (Fritz Lang) 🎥 ❤️
+* M le maudit (Fritz Lang) 🇩🇪 🎥 ❤️
 
 ### 1940
 
@@ -386,7 +386,7 @@ Français:
 
 ### 1971
 
-* Orange Mécanique (Stanley Kubrick)
+* Orange Mécanique (Stanley Kubrick) 🇬🇧
 * Duel (Steven Spielberg)
 * Harold and Maude : pas fan de l'esthétique et du storytelling mais le fin mot de l'intrigue est intéressant [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 * bof: The Last Picture Show, The French Connection
@@ -441,7 +441,7 @@ Français:
 * Dog Day Afternoon (Sidney Lumet, Al Pacino, John Cazale)
 * Les Trois Jours du Condor (Sydney Pollack, Robert Redford) #thriller
 * One Flew Over the Cuckoo's Nest (Milos Forman, Jack Nicholson)
-* L'Homme qui voulut être roi (The Man Who Would Be King) (Connery, Caine, Plummer) #aventure
+* L'Homme qui voulut être roi (The Man Who Would Be King) (Sean Connery, Michael Caine) 🇬🇧 #aventure
 * Section spéciale (Costa-Gavras)
 * Jaws (Steven Spielberg)
 * Dersou Ouzala (Akira Kurosawa) 🇷🇺🇯🇵
@@ -546,7 +546,7 @@ Français:
 
 * Das Boot 🇩🇪 ❤️ (6 nominations 🏆)
 * Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
-* Gandhi (Richard Attenborough) 🏆 #biopic
+* Gandhi (Richard Attenborough) 🇬🇧🇮🇳 🏆 #biopic
 * Body Heat #thriller-érotique
 * The Thing (John Carpenter)
 * The Draughtsman's Contract 🇬🇧
@@ -580,7 +580,7 @@ Français:
 [Oscars 57](https://fr.wikipedia.org/wiki/57e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Amadeus (Milos Forman) 8🏆
-* La Compagnie des Loups #fantastique
+* La Compagnie des Loups 🇬🇧 #fantastique
 * The Hit (Stephen Frears, Tim Roth) #road-movie
 * Le Pays où rêvent les fourmis vertes (Werner Herzog)
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
@@ -735,7 +735,7 @@ Français:
 * Les nuits fauves ❤️ 🎗️ 4✨ [📰](https://www.telerama.fr/cinema/films/les-nuits-fauves%2C25496.php)
     * > ❝ Vous avez de la chance d'être si facilement malheureux, alors qu'on peut le faire d'une manière tellement plus sophistiquée ❞
 * Un Coeur en Hiver (Claude Sautet) [📰](https://www.telerama.fr/cinema/films/un-coeur-en-hiver,26843.php) : premier tiers top, puis sonne un peu faux
-* bof: L.627 (Bertrand Tavernier)
+* bof: L.627 (Bertrand Tavernier), C'est arrivé près de chez vous (Benoît Poelvoorde) 🇧🇪
 
 
 ### 1993
@@ -746,9 +746,9 @@ Français:
 * Arizona Dream (Emir Kusturica, Johnny Depp) 💙 #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
 * La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
-* Beaucoup de Bruit pour rien (Kenneth Brannagh)
+* Beaucoup de Bruit pour rien (Kenneth Brannagh) 🇬🇧
 * Etat Second (Peter Weir)
-* In the Name of the Father (Daniel Day-Lewis)
+* In the Name of the Father (Daniel Day-Lewis) 🇮🇪🇬🇧
 * Un Jour sans Fin (Bill Murray) #film-à-énigme
 * Belle Époque 🇪🇸 🏆 (meilleur film étranger, 9 goyas)
 * bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman), Manhattan Murder Mystery (Woody Allen)
@@ -1091,7 +1091,7 @@ Français:
 * Blood Diamond
 * Borat
 * Apocalypto (Mel Gibson) : longuet
-* bof: Stranger than fiction (Will Ferrell), Marie Antoinette (Sofia Coppola)
+* bof: Stranger than fiction (Will Ferrell), Marie Antoinette (Sofia Coppola), Dikkenek 🇧🇪
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1152,7 +1152,7 @@ Français:
 * Valse avec Bachir 🇮🇱
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php)
 * Walkyrie (Tom Cruise) #ww2
-* Disgrace (John Malkovich) : mémorable mais traine en longueur
+* Disgrace (John Malkovich) 🇿🇦 : mémorable mais traine en longueur
 * bof: Gomorra 🇮🇹, Vicky Cristina Barcelona (Woody Allen), Synecdoche New York
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1423,7 +1423,7 @@ Français:
 * Ingrid Goes West (Aubrey Plaza)
 * I, Tonya (Margot Robbie)
 * Darkest Hour 🇬🇧 #ww2
-* Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis)
+* Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis) 🇬🇧
 * Blade Runner 2049 (Denis Villeneuve) #sf
 * bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja, ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
 
@@ -1505,7 +1505,7 @@ Français:
 * La plataforma 🇪🇸 ❤️ #sf
 * Drunk (Mads Mikkelsen) 🇩🇰 🍷 🏆
 * L'Homme Invisible (Elisabeth Moss) #thriller
-* The Father (Anthony Hopkins)
+* The Father (Anthony Hopkins) 🇬🇧
 * Riders of Justice (Retfærdighedens ryttere) (Mads Mikkelsen) 🇩🇰 #thriller
 * Palm Springs (Andy Samberg) #romcom
 * Possessor (Brandon Cronenberg) ☀️
@@ -1606,7 +1606,7 @@ Français:
 * American Fiction (Jeffrey Wright) #satire
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * The Promised Land (Mads Mikkelsen) 🇩🇰
-* Io Capitano
+* Io Capitano 🇸🇳🇮🇹
 * Le Moine et le fusil 🇧🇹
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * Le mal n'existe pas (Ryūsuke Hamaguchi) 🇯🇵 [📰](https://www.telerama.fr/cinema/le-mal-n-existe-pas-de-ryusuke-hamaguchi-western-ecolo-d-une-beaute-saisissante_cri-7032077.php)
@@ -1721,6 +1721,7 @@ Français:
 * Scream (2022)
 * Talk to Me (2023) ❤️
 * You'll Never Find Me (2023) ❤️
+* Late Night with the Devil (2023)
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 

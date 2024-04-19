@@ -346,14 +346,23 @@ def target_blank
 end
 
 def add_country_stats doc
-  country_stats = File.read('README.md')
+  number_per_country = File.read('README.md')
                       .scan(/[🇦-🇿]{2}/).tally
                       .to_a.sort_by{ |item| item[1] }.reverse
 
-  max_value = country_stats.map{ |country| country[1] }.max
+  coutries_per_number = {}
+  number_per_country.each do |flag, count|
+    coutries_per_number[count] ||= []
+    coutries_per_number[count] << flag
+  end
+  coutries_per_number = coutries_per_number.to_a.sort_by{ |item| item[0] }.reverse
 
-  str = country_stats.map do |flag, count|
+  str_one_line_per_country = number_per_country.map do |flag, count|
      "#{flag} #{'█' * count} #{count}"
+  end.join("\n")
+
+  str_countries_grouped = coutries_per_number.map do |count, flags|
+     "#{'█' * count} #{count} #{flags.join ' '}"
   end.join("\n")
 
   details = doc.create_element('span')
@@ -361,7 +370,7 @@ def add_country_stats doc
     <details>
       <summary>Statistiques: films vu par pays</summary>
       (n'inclut pas les films américains et français, vus en grand nombre)
-      <pre style="font-size: 20px;line-height: 32px;">#{str}</pre>
+      <pre style="font-size: 20px;line-height: 32px;">#{str_countries_grouped}</pre>
     </details>
   HTML
 

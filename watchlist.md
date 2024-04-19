@@ -111,6 +111,7 @@
 * https://www.rottentomatoes.com/m/real_genius
 * https://www.rottentomatoes.com/m/1002213-better_off_dead
 * https://www.rottentomatoes.com/m/trip_to_bountiful
+* https://www.rottentomatoes.com/m/clue
 
 
 ### 1986
@@ -371,6 +372,7 @@
 * https://www.rottentomatoes.com/m/son_of_monarchs
 * https://www.rottentomatoes.com/m/words_on_bathroom_walls
 * https://www.rottentomatoes.com/m/psych_2_lassie_come_home
+* https://www.rottentomatoes.com/m/bacurau 🇧🇷
 
 
 ### 2021
@@ -443,6 +445,7 @@
 * https://www.rottentomatoes.com/m/limbo_2023
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/laroy_texas
+* https://www.rottentomatoes.com/m/the_buriti_flower 🇧🇷
 
 
 ### 2024
@@ -465,6 +468,7 @@
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/civil_war_2024
 * https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
+* https://vodkaster.telerama.fr/films/premiere-affaire/1440215
 
 
 
@@ -474,7 +478,6 @@
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/dont_breathe_2016
 * https://www.rottentomatoes.com/m/smile_2022
-* https://www.rottentomatoes.com/m/late_night_with_the_devil
 * https://www.rottentomatoes.com/m/in_flames 🇵🇰
 * https://www.rottentomatoes.com/m/new_life_2023
 * https://www.rottentomatoes.com/m/barbarian_2022
