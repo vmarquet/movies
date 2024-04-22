@@ -964,6 +964,7 @@ Français:
 * Frida 🇲🇽
 * Insomnia (Christopher Nolan, Al Pacino) #thriller
 * Infernal Affairs 🇭🇰 #thriller
+* Hero (Zhang Yimou) 🇨🇳
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
 * Panic Room (David Fincher) #thriller
@@ -1021,6 +1022,7 @@ Français:
 * Aviator (Martin Scorsese)
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal) 🇦🇷🇨🇱🇵🇪
 * Crazy Kung-Fu (Stephen Chow) 🇭🇰
+* Le Secret des Poignards Volants (Zhang Yimou) 🇨🇳
 * La Chute 🇩🇪 #ww2
 * Troie (Brad Pitt)
 * The Passion of the Christ (Mel Gibson) (vu ?)
@@ -1083,6 +1085,7 @@ Français:
 * Le Prestige (Christopher Nolan) #film-à-énigme
 * The Queen (Stephen Frears) 🇬🇧 🎥
 * Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
+* La Cité Interdite (Zhang Yimou) 🇨🇳
 * Le Dernier Roi d'Ecosse (Forest Whitaker)
 * This is England 🇬🇧
 * Thank You for Smoking (Jason Reitman)
@@ -1882,14 +1885,6 @@ Japonais:
 * à découvrir: [Mizoguchi](https://www.telerama.fr/recherche/films?q=Mizoguchi)
 * [Akira Kurosawa](https://www.rottentomatoes.com/celebrity/akirakurosawa)
 * [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
-
-
-### [Zhang Yimou](https://www.rottentomatoes.com/celebrity/zhang_yimou) (arts-martiaux chinois)
-
-* Hero
-* La Cité Interdite
-* Le Secret des Poignards Volants
-* pas vu: https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php
 
 
 
