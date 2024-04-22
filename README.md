@@ -944,7 +944,7 @@ Français:
 * Monsters, Inc. (Pixar)
 * The Man Who Wasn't There (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
-* bof: Y tu mamá también (Alfonso Cuarón) 🇲🇽, ~~Vanilla Sky (Cameron Crowe)~~
+* bof: Y tu mamá también (Alfonso Cuarón) 🇲🇽, ~~Donnie Darko~~, ~~Vanilla Sky (Cameron Crowe)~~
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1128,7 +1128,7 @@ Français:
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
 * Le Scaphandre et le Papillon 🏆
-* Persépolis
+* Persépolis 🇮🇷
 * La Graine et le Mulet
 * 99 Francs
 * Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
@@ -1313,6 +1313,7 @@ Français:
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
+* Le Passé (Asghar Farhadi) 🇮🇷
 * bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Jobs~~, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1333,7 +1334,6 @@ Français:
 * Reality (Quentin Dupieux, Alain Chabat)
 * Inherent Vice (Paul Thomas Anderson, Joaquin Phoenix)
 * Leviathan 🇷🇺
-* A Girl Walks Home Alone at Night 🇮🇷
 * Dear White People ☀️
 * Coming Home (Zhang Yimou) 🇨🇳
 * Noah (Darren Aronofsky, Russell Crowe)
@@ -1372,6 +1372,7 @@ Français:
 * Manifesto (Cate Blanchett)
 * Il est de retour 🇩🇪 #satire
 * Mad Max: Fury Road
+* Taxi Téhéran 🇮🇷
 * bof: ~~The Martian~~, ~~A Bigger Splash~~
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1462,7 +1463,7 @@ Français:
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 * Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention
-* bof: Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
+* bof: Au poste ! (Quentin Dupieux), Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
 
 
 ### 2019
@@ -1492,7 +1493,7 @@ Français:
 * Le Nom de la Terre
 * La Vie Scolaire #film-scolaire
 * La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
-* bof: Les Misérables, Liberté (Albert Serra) 🎥 🌿
+* bof: Le Daim (Quentin Dupieux), Les Misérables, Liberté (Albert Serra) 🎥 🌿
 
 [Cannes 2019 - toutes les notes télérama](https://www.telerama.fr/festival-de-cannes/2019/cannes-2019-voici-le-programme-des-films-en-competition,n6238497.php)
 
@@ -1587,7 +1588,7 @@ Français:
 * Nos Frangins (Rachid Bouchared) #cinema-qui-denonce
 * L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php) : la fin vend le film, sinon c'est un peu vide
 * bof:
-    * Novembre, En Corps (Klapisch), Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires
+    * Novembre, En Corps (Klapisch), Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires, ~~Fumer fait tousser (Quentin Dupieux)~~
     * Athena (Romain Gavras) : quelques plans iconiques pour un scénario très vide
 
 
@@ -1613,6 +1614,7 @@ Français:
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * Poor Things (Yórgos Lánthimos) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
 * Reality
+* LaRoy, Texas
 * All of us Strangers 🇬🇧
 * Les Colons 🇨🇱
 * La Sociedad de la Nieve 🇺🇾
@@ -1630,6 +1632,7 @@ Français:
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper : intrigue basique mais très esthétique
+* Wonka (Timothée Chalamet)
 * bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo, The Fabelmans
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1640,7 +1643,7 @@ Français:
 * Les Trois Mousquetaires #aventure
 * Je verrai toujours vos visages (Jeanne Herry)
 * La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
-* bof: La Passion de Dodin Bouffant, Chien de la Casse, Retour à Séoul, Le Règne animal (Romain Duris), Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
+* bof: La Passion de Dodin Bouffant, Chien de la Casse, Yannick (Quentin Dupieux), Retour à Séoul, Le Règne animal (Romain Duris) 5✨, Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
 
 
 ### 2024
@@ -1710,6 +1713,7 @@ Français:
 * The Conjuring (2013)
 * The Babadook (2014)
 * It Follows (2014)
+* A Girl Walks Home Alone at Night (2014) 🇮🇷
 * The Witch (2015, Robert Eggers) ❤️
 * Better Watch Out (2016)
 * A Quiet Place (2018) (John Krasinski)

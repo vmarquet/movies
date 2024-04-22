@@ -16,6 +16,8 @@
 * https://www.rottentomatoes.com/m/on_the_waterfront
 * https://www.rottentomatoes.com/m/roman_holiday
 * https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
+* https://www.telerama.fr/cinema/films/les-contes-de-la-lune-vague-apres-la-pluie,10374.php (Kenji Mizoguchi) 🇯🇵
+* https://www.telerama.fr/cinema/films/l-intendant-sansho,15718.php (Kenji Mizoguchi) 🇯🇵
 * Orfeu Negro (Marcel Camus) 🌿 🏆
 
 
@@ -238,6 +240,7 @@
 
 ### 2003
 
+* https://www.rottentomatoes.com/m/1127787-big_fish
 * https://www.rottentomatoes.com/m/the_return
 * https://www.rottentomatoes.com/m/facing_windows ?
 
@@ -342,6 +345,7 @@
 * I Don't Feel at Home in This World Anymore ☀️
 * https://www.rottentomatoes.com/m/columbus_2017
 * https://www.rottentomatoes.com/m/november_2018
+* https://www.rottentomatoes.com/m/the_florida_project
 
 
 ### 2018
@@ -397,8 +401,9 @@
 * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
 * https://www.rottentomatoes.com/m/out_of_darkness_2022
 * https://www.rottentomatoes.com/m/elvis
-* https://www.rottentomatoes.com/m/the_blue_caftan
+* https://www.rottentomatoes.com/m/the_blue_caftan 🇲🇦
 * https://www.rottentomatoes.com/m/prey_2022
+* https://www.rottentomatoes.com/m/joyland_2022 🇵🇰
 * Broker (Koreeda) 🇰🇷
 * Aftersun
 
@@ -407,6 +412,7 @@
 
 * https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
+* https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
 * https://www.rottentomatoes.com/m/robot_dreams
@@ -446,6 +452,8 @@
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/laroy_texas
 * https://www.rottentomatoes.com/m/the_buriti_flower 🇧🇷
+* https://www.rottentomatoes.com/m/daaaaaali
+* https://www.rottentomatoes.com/m/beau_is_afraid
 
 
 ### 2024
@@ -469,6 +477,8 @@
 * https://www.rottentomatoes.com/m/civil_war_2024
 * https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
 * https://vodkaster.telerama.fr/films/premiere-affaire/1440215
+* https://www.rottentomatoes.com/m/irenas_vow
+* https://www.rottentomatoes.com/m/the_fall_guy_2024
 
 
 
