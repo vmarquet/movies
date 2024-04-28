@@ -362,7 +362,7 @@ def add_country_stats doc
   end.join("\n")
 
   str_countries_grouped = coutries_per_number.map do |count, flags|
-     "#{'█' * count} #{count} #{flags.join ' '}"
+     "#{'█' * count} #{count} #{flags.sort.join ' '}"
   end.join("\n")
 
   details = doc.create_element('span')

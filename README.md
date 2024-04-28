@@ -1044,7 +1044,7 @@ Français:
 
 [Oscars 78](https://fr.wikipedia.org/wiki/78e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
-* Pride & Prejudice 🎥 ❤️
+* Pride & Prejudice 🇬🇧 🎥 ❤️
 * The New World (Terrence Malick, Christian Bale, Colin Farrell) 🎥 ❤️
 * Les Noces funèbres (Tim Burton) ❤️
 * Trois Enterrements (Tommy Lee Jones) 🌿 #neowestern
@@ -1066,7 +1066,7 @@ Français:
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Va, vis et deviens
+* Va, vis et deviens 🇮🇱
 * Le Petit Lieutenant (Xavier Beauvois) [📰](https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php) : film policier touchant, réaliste et bien documenté
 * La Marche de l'empereur
 
