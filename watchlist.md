@@ -261,6 +261,7 @@
 ### 2005
 
 * L'Enfant (frères Dardenne) 🌿
+* https://www.rottentomatoes.com/m/sweet_land
 
 
 ### 2006
@@ -484,6 +485,8 @@
 * https://www.rottentomatoes.com/m/the_fall_guy_2024
 * https://www.rottentomatoes.com/m/musica
 * https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
+* https://www.rottentomatoes.com/m/arthur_the_king
+* Comme un lundi 🇯🇵
 
 
 

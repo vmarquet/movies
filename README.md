@@ -1464,16 +1464,16 @@ Français:
 * Les Frères Sisters (Jacques Audiard) ❤️ 4✨ #western
 * L'Empereur de Paris (Vincent Cassel) ❤️
 * Shéhérazade
+* Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention
 * En liberté ! (Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html) #comédie
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
-* Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention
 * bof: Au poste ! (Quentin Dupieux), Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
 
 
 ### 2019
 
-* Scheme Birds (documentaire) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❤️
+* Scheme Birds (documentaire) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❤️ #coming-of-age
 * The Lighthouse (Robert Eggers, Willem Dafoe, Robert Pattinson) 🎥 ❤️
 * Joker (Joaquin Phoenix) ❤️
 * Jojo Rabbit (Taika Waititi) ❤️
@@ -1484,7 +1484,7 @@ Français:
 * A Hidden Life (Terrence Malick) 🎥 : mémorable mais longuet
 * The Two Popes
 * Le Roi (Timothée Chalamet)
-* Undercover (White Boy Rick) (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
+* White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
 * bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, The Farewell
 
@@ -1673,12 +1673,12 @@ Français:
 * Bienvenue à Gattaca (Ethan Hawke, Jude Law) 💙❤️
 * La Planète des Singes (1968, Charlton Heston)
 * Solaris (1972, Andreï Tarkovski) 🇷🇺 🌿
-* District 9 (2009)
+* District 9 (2009) 🇿🇦
 * Soleil Vert (1973, avec Charlton Heston) ❤️
 * Moon (2009) 🎥
 * Alien (1979, Ridley Scott) 💙 [❓](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * Alien IV (JP Jeunet) [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
-* Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen)
+* Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen) 🇬🇧
 * Minority Report (2002, Spielberg)
 * Artificial Intelligence: A.I. (2001, Spielberg)
 * 2001 A Space Odyssey (Stanley Kubrick) 💙
@@ -1727,11 +1727,11 @@ Français:
 * Bird Box (2018)
 * Us (2019) : ok sans plus
 * Impetigore (2019) 🇮🇩 ❤️
-* His House (2020) : 1ère heure bien, fin décevante
+* His House (2020) 🇬🇧 : 1ère heure bien, fin décevante
 * The Night House (2021)
 * Scream (2022)
-* Talk to Me (2023) ❤️
-* You'll Never Find Me (2023) ❤️
+* Talk to Me (2023) 🇦🇺 ❤️
+* You'll Never Find Me (2023) 🇦🇺 ❤️
 * Late Night with the Devil (2023) ❤️
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
