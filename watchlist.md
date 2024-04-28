@@ -150,7 +150,7 @@
 
 ### 1991
 
-* https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php (Zhang Yimou)
+* https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php (Zhang Yimou) 🇨🇳
 
 
 ### 1992
@@ -475,15 +475,15 @@
 * https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
 * https://www.rottentomatoes.com/m/american_symphony (docu)
 * https://www.rottentomatoes.com/m/spaceman_2024
-* https://www.rottentomatoes.com/m/love_lies_bleeding_2024
 * https://www.rottentomatoes.com/m/ordinary_angels
-* https://www.rottentomatoes.com/m/monkey_man
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/civil_war_2024
 * https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
 * https://vodkaster.telerama.fr/films/premiere-affaire/1440215
 * https://www.rottentomatoes.com/m/irenas_vow
 * https://www.rottentomatoes.com/m/the_fall_guy_2024
+* https://www.rottentomatoes.com/m/musica
+* https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
 
 
 
@@ -497,6 +497,7 @@
 * https://www.rottentomatoes.com/m/new_life_2023
 * https://www.rottentomatoes.com/m/barbarian_2022
 * https://www.rottentomatoes.com/m/last_straw
+* https://www.rottentomatoes.com/m/infested_2023
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/

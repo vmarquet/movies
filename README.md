@@ -620,7 +620,7 @@ Français:
 * Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
 * 'Round Midnight (Bertrand Tavernier) #jazz : belle musique mais pas vraiment d'histoire
-* The Fly (David Cronenberg) #nanar #so-bad-its-good
+* The Fly (David Cronenberg) #nanar #so-bad-its-good 🪰
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -965,6 +965,7 @@ Français:
 * Insomnia (Christopher Nolan, Al Pacino) #thriller
 * Infernal Affairs 🇭🇰 #thriller
 * Hero (Zhang Yimou) 🇨🇳
+* The Count of Monte Cristo 🎥
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
 * Panic Room (David Fincher) #thriller
@@ -1043,6 +1044,7 @@ Français:
 
 [Oscars 78](https://fr.wikipedia.org/wiki/78e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
 
+* Pride & Prejudice 🎥 ❤️
 * The New World (Terrence Malick, Christian Bale, Colin Farrell) 🎥 ❤️
 * Les Noces funèbres (Tim Burton) ❤️
 * Trois Enterrements (Tommy Lee Jones) 🌿 #neowestern
@@ -1653,6 +1655,8 @@ Français:
 
 [Rotten Tomatoes – Top Movies of 2024](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
 
+* bof: Love Lies Bleeding, ~~Monkey Man~~
+
 
 
 [⬆️ retour sommaire](#sommaire)
@@ -1728,7 +1732,7 @@ Français:
 * Scream (2022)
 * Talk to Me (2023) ❤️
 * You'll Never Find Me (2023) ❤️
-* Late Night with the Devil (2023)
+* Late Night with the Devil (2023) ❤️
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
