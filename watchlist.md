@@ -371,6 +371,7 @@
 * https://www.rottentomatoes.com/m/togo_2019
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 * https://www.rottentomatoes.com/m/babyteeth
+* https://www.rottentomatoes.com/m/driveways
 
 
 ### 2020
@@ -432,7 +433,6 @@
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
 * https://www.rottentomatoes.com/m/polite_society
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
-* https://www.rottentomatoes.com/m/godzilla_minus_one
 * https://www.rottentomatoes.com/m/anselm (docu)
 * https://www.rottentomatoes.com/m/molli_and_max_in_the_future
 * https://www.rottentomatoes.com/m/double_blind
@@ -460,6 +460,7 @@
 * https://www.rottentomatoes.com/m/the_buriti_flower 🇧🇷
 * https://www.rottentomatoes.com/m/daaaaaali
 * https://www.rottentomatoes.com/m/beau_is_afraid
+* https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php
 
 
 ### 2024
@@ -486,6 +487,7 @@
 * https://www.rottentomatoes.com/m/musica
 * https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
 * https://www.rottentomatoes.com/m/arthur_the_king
+* https://www.rottentomatoes.com/m/i_saw_the_tv_glow
 * Comme un lundi 🇯🇵
 
 
@@ -500,7 +502,6 @@
 * https://www.rottentomatoes.com/m/new_life_2023
 * https://www.rottentomatoes.com/m/barbarian_2022
 * https://www.rottentomatoes.com/m/last_straw
-* https://www.rottentomatoes.com/m/infested_2023
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
