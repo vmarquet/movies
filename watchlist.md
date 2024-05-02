@@ -1,418 +1,29 @@
-### 1930s
-
-* https://www.rottentomatoes.com/m/duck_soup
-
-
-### 1940s
-
-* https://www.rottentomatoes.com/m/bicycle_thieves 🇮🇹
-* https://www.rottentomatoes.com/m/1020312-stray_dog (Akira Kurosawa)
-* https://www.rottentomatoes.com/m/double_indemnity (Billy Wilder) #noir
-
-
-### 1950s
-
-* https://www.rottentomatoes.com/m/ikiru 🇯🇵 ++
-* https://www.rottentomatoes.com/m/on_the_waterfront
-* https://www.rottentomatoes.com/m/roman_holiday
-* https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
-* https://www.telerama.fr/cinema/films/les-contes-de-la-lune-vague-apres-la-pluie,10374.php (Kenji Mizoguchi) 🇯🇵
-* https://www.telerama.fr/cinema/films/l-intendant-sansho,15718.php (Kenji Mizoguchi) 🇯🇵
-* Orfeu Negro (Marcel Camus) 🌿 🏆
-
-
-### 1960s
-
-* https://www.rottentomatoes.com/m/sound_of_music
-* https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
-* https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
-* https://www.rottentomatoes.com/m/1013162-man_for_all_seasons
-
-
-### 1970
-
-* Peau d'âne
-
-
-### 1971
-
-* https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php (Jean-Paul Rappeneau)
-
-
-### 1972
-
-* https://www.rottentomatoes.com/m/the_new_land
-* Cabaret (Bob Fosse) 8🏆
-
-
-### 1973
-
-* L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
-* https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
-* https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
-* https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
-
-
-### 1974
-
-* Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
-* https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php (Bertrand Tavernier)
-
-
-### 1975
-
-* https://www.rottentomatoes.com/m/the-passenger-professione-reporter
-* https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php (Bertrand Tavernier)
-
-
-### 1976
-
-* https://www.rottentomatoes.com/m/chess_of_the_wind 🇮🇷
-
-
-### 1977
-
-* https://www.rottentomatoes.com/m/stroszek ++
-* Eraserhead (David Lynch)
-* Annie Hall (Woody Allen)
-* Saturday Night Fever (John Travolta)
-* https://www.rottentomatoes.com/m/1017818-rolling_thunder
-
-
-### 1978
-
-* https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
-* https://www.rottentomatoes.com/m/watership_down
-
-
-### 1980
-
-* https://www.rottentomatoes.com/m/fame
-
-
-### 1983
-
-* https://www.rottentomatoes.com/m/national_lampoons_vacation
-* https://www.rottentomatoes.com/m/verdict
-
-
-### 1984
-
-* https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
-* https://www.rottentomatoes.com/m/birdy
-* https://www.rottentomatoes.com/m/repo_man
-* https://www.rottentomatoes.com/m/natural
-* https://www.rottentomatoes.com/m/places_in_the_heart
-
-
-### 1985
-
-* Papa est en voyage d'affaires (Emir Kusturica) 🌿
-* https://www.rottentomatoes.com/m/come_and_see ++
-* https://www.rottentomatoes.com/m/my_beautiful_laundrette
-* https://www.rottentomatoes.com/m/real_genius
-* https://www.rottentomatoes.com/m/1002213-better_off_dead
-* https://www.rottentomatoes.com/m/trip_to_bountiful
-* https://www.rottentomatoes.com/m/clue
-
-
-### 1986
-
-* https://www.rottentomatoes.com/m/1014027-mission
-* https://www.rottentomatoes.com/m/labyrinth
-* https://www.rottentomatoes.com/m/hoosiers
-
-
-### 1987
-
-* https://www.telerama.fr/cinema/films/tandem,9962.php (Patrice Leconte)
-* https://www.rottentomatoes.com/m/raising_arizona (frères Coen)
-* https://www.rottentomatoes.com/m/princess_bride #famille #aventure
-* Un zoo la nuit https://www.cinematheque.qc.ca/fr/cinema/un-zoo-la-nuit/
-
-
-### 1988
-
-* https://www.rottentomatoes.com/m/midnight_run
-
-
-### 1989
-
-* https://fr.wikipedia.org/wiki/Le_Temps_des_Gitans
-* https://en.wikipedia.org/wiki/Dekalog
-* https://vodkaster.telerama.fr/films/la-captive-du-desert/7842
-
-
-### 1990
-
-* https://www.rottentomatoes.com/m/1032970-awakenings ++
-
-
-### 1991
-
-* https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php (Zhang Yimou) 🇨🇳
-
-
-### 1992
-
-* https://www.rottentomatoes.com/m/1040798-husbands_and_wives (Woody Allen)
-* https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical
-* https://www.rottentomatoes.com/m/bad_lieutenant
-* Indochine
-
-
-### 1993
-
-* https://www.rottentomatoes.com/m/1046151-fearless ++
-* https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
-* https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
-* https://www.telerama.fr/cinema/films/no-smoking,29537.php
-* https://www.rottentomatoes.com/m/bronx_tale
-* https://www.rottentomatoes.com/m/philadelphia https://www.telerama.fr/cinema/films/philadelphia,30475.php 🎗️
-* https://www.rottentomatoes.com/m/carlitos_way
-
-
-### 1994
-
-* https://www.rottentomatoes.com/m/madness_of_king_george
-* Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
-* https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
-* https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
-* https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
-* https://www.rottentomatoes.com/m/crow
-* https://www.rottentomatoes.com/m/the-golden-ball-le-ballon-dor
-* Emilie Muller [▶️](https://www.youtube.com/watch?v=Om8e9494G-Q) #short
-
-
-### 1995
-
-* https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
-
-
-### 1996
-
-* Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
-* https://www.rottentomatoes.com/m/ponette
-
-
-### 1997
-
-* Western https://www.telerama.fr/cinema/films/western,35682.php
-
-
-### 1998
-
-* Saving Private Ryan (Steven Spielberg) #film-de-guerre
-* https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
-* https://www.rottentomatoes.com/m/gods_and_monsters
-* https://www.telerama.fr/cinema/films/place-vendome,45583.php
-* https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh)
-
-
-### 1999
-
-* The Insider https://www.rottentomatoes.com/m/insider
-* https://www.rottentomatoes.com/m/boys_dont_cry
-* https://www.rottentomatoes.com/m/magnolia (Paul Thomas Anderson)
-* https://www.rottentomatoes.com/m/1093579-man_on_the_moon
-* https://www.rottentomatoes.com/m/notting_hill #romcom
-* https://www.rottentomatoes.com/m/1091577-ideal_husband
-
-
-### 2000
-
-* https://www.rottentomatoes.com/m/1095420-high_fidelity
-* https://www.rottentomatoes.com/m/sexy_beast
-
-
-### 2001
-
-* A Beautiful Mind 🏆
-* https://www.rottentomatoes.com/m/waking_life
-* https://www.rottentomatoes.com/m/son_of_the_bride
-* https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
-* https://www.rottentomatoes.com/m/sex_and_lucia
-
-
-### 2002
-
-* Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
-* The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
-* https://www.telerama.fr/cinema/films/le-sourire-de-ma-mere-1-3082998.php
-* https://www.rottentomatoes.com/m/secretary
-* https://www.rottentomatoes.com/m/bend_it_like_beckham
-
-
-### 2003
-
-* https://www.rottentomatoes.com/m/1127787-big_fish
-* https://www.rottentomatoes.com/m/the_return
-* https://www.rottentomatoes.com/m/facing_windows ?
-
-
-### 2004
-
-* https://www.rottentomatoes.com/m/i_heart_huckabees
-* https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
-* https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
-* https://www.rottentomatoes.com/m/on_the_outs
-
-
-### 2005
-
-* L'Enfant (frères Dardenne) 🌿
-* https://www.rottentomatoes.com/m/sweet_land
-
-
-### 2006
-
-* https://www.rottentomatoes.com/m/half_nelson
-* https://www.rottentomatoes.com/m/the_fountain
-* https://www.rottentomatoes.com/m/snow_cake
-
-
-### 2007
-
-* https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
-* https://www.rottentomatoes.com/m/hairspray #musical
-* Superbad #comédie
-* https://www.rottentomatoes.com/m/1189416-shelter ?
-* https://www.rottentomatoes.com/m/once
-* https://www.rottentomatoes.com/m/stardust
-
-
-### 2008
-
-* https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
-* https://www.lemonde.fr/culture/article/2024/03/27/la-flamme-verte-une-somptueuse-traversee-du-temps-facon-mille-et-une-nuits_6224436_3246.html 🇮🇷
-
-
-### 2009
-
-* https://www.telerama.fr/cinema/films/vincere,391336.php
-* https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
-* Welcome
-
-
-### 2010
-
-* L'Illusionniste
-* https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷
-
-
-### 2011
-
-* https://www.rottentomatoes.com/m/the_turin_horse ++
-* https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
-* https://www.telerama.fr/cinema/films/elena,428535.php
-* https://www.rottentomatoes.com/m/detachment
-* Le Havre (Aki Kaurismäki)
-
-
-### 2012
-
-* https://www.rottentomatoes.com/m/its_such_a_beautiful_day ++
-* Les Adieux à la reine
-
-
-### 2013
-
-* https://www.rottentomatoes.com/m/upstream_color ++
-* https://www.rottentomatoes.com/m/the_spectacular_now
-* https://www.rottentomatoes.com/m/gloria_2012
-
-
-### 2014
-
-* https://www.rottentomatoes.com/m/the_normal_heart 🎗️
-* https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
-* Selma
-* https://www.telerama.fr/cinema/films/good-kill,498797.php
-* https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
-
-
-### 2015
-
-* https://www.rottentomatoes.com/m/macbeth_2015
-* Le Fils de Saul 🇭🇺 🌿
-* Me and Earl and the Dying Girl ☀️ #coming-of-age
-* https://www.rottentomatoes.com/m/long_way_north #famille
-* https://www.rottentomatoes.com/m/victoria_2015
-
-
-### 2016
-
-* The Birth of a Nation ☀️
-* https://www.rottentomatoes.com/m/the_edge_of_seventeen
-
-
-### 2017
-
-* I Don't Feel at Home in This World Anymore ☀️
-* https://www.rottentomatoes.com/m/columbus_2017
-* https://www.rottentomatoes.com/m/november_2018
-* https://www.rottentomatoes.com/m/the_florida_project
-
-
-### 2018
-
-* https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
-* https://www.rottentomatoes.com/m/tully_2018
-* https://www.rottentomatoes.com/m/prospect_2018
-* Pupille (Jeanne Herry)
-
-
-### 2019
-
-* https://www.rottentomatoes.com/m/ash_is_purest_white
-* https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
-* https://www.rottentomatoes.com/m/judy_2019
-* https://www.rottentomatoes.com/m/monos
-* https://www.rottentomatoes.com/m/togo_2019
-* La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
-* https://www.rottentomatoes.com/m/babyteeth
-* https://www.rottentomatoes.com/m/driveways
-
-
-### 2020
-
-* True Mothers 🇯🇵
-* The Half of It #coming-of-age
-* https://www.rottentomatoes.com/m/the_macaluso_sisters
-* https://www.rottentomatoes.com/m/the_way_back_2020
-* https://www.rottentomatoes.com/m/son_of_monarchs
-* https://www.rottentomatoes.com/m/words_on_bathroom_walls
-* https://www.rottentomatoes.com/m/psych_2_lassie_come_home
-* https://www.rottentomatoes.com/m/bacurau 🇧🇷
-
-
-### 2021
-
-* https://www.telerama.fr/cinema/films/contes-du-hasard-et-autres-fantaisies-1-194349890.php (Ryūsuke Hamaguchi) 🇯🇵
-* https://www.rottentomatoes.com/m/the_worst_person_in_the_world
-* https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
-* https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
-* https://www.rottentomatoes.com/m/coda_2021
-* https://www.rottentomatoes.com/m/blue_bayou_2021
-* https://www.rottentomatoes.com/m/luca_2021
-* https://www.rottentomatoes.com/m/mondo_hollywoodland
-
-
-### 2022
-
-* https://www.rottentomatoes.com/m/north_of_normal
-* https://www.rottentomatoes.com/m/sanctuary_2022
-* Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
-* https://editorial.rottentomatoes.com/guide/best-movies-2022/
-    * no bears, happening, girl picture, till
-* https://www.telerama.fr/cinema/films/vivre-1-230294726.php
-* https://www.rottentomatoes.com/m/out_of_darkness_2022
-* https://www.rottentomatoes.com/m/elvis
-* https://www.rottentomatoes.com/m/the_blue_caftan 🇲🇦
-* https://www.rottentomatoes.com/m/prey_2022
-* https://www.rottentomatoes.com/m/joyland_2022 🇵🇰
-* Broker (Koreeda) 🇰🇷
-* Aftersun
+### 2024
+
+* https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php 🇫🇮 TT
+* https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
+* https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
+* https://www.rottentomatoes.com/m/if_only_i_could_hibernate ?
+* https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
+* https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
+* https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php TTTT
+* https://www.rottentomatoes.com/m/hundreds_of_beavers
+* https://www.rottentomatoes.com/m/concrete_utopia
+* https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
+* https://www.rottentomatoes.com/m/american_symphony (docu)
+* https://www.rottentomatoes.com/m/spaceman_2024
+* https://www.rottentomatoes.com/m/ordinary_angels
+* https://www.rottentomatoes.com/m/la_chimera
+* https://www.rottentomatoes.com/m/civil_war_2024
+* https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
+* https://vodkaster.telerama.fr/films/premiere-affaire/1440215
+* https://www.rottentomatoes.com/m/irenas_vow
+* https://www.rottentomatoes.com/m/the_fall_guy_2024
+* https://www.rottentomatoes.com/m/musica
+* https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
+* https://www.rottentomatoes.com/m/arthur_the_king
+* https://www.rottentomatoes.com/m/i_saw_the_tv_glow
+* Comme un lundi 🇯🇵
 
 
 ### 2023
@@ -463,32 +74,421 @@
 * https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php
 
 
-### 2024
+### 2022
 
-* https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php TT
-* https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
-* https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
-* https://www.rottentomatoes.com/m/if_only_i_could_hibernate ?
-* https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
-* https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
-* https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php TTTT
-* https://www.rottentomatoes.com/m/hundreds_of_beavers
-* https://www.rottentomatoes.com/m/concrete_utopia
-* https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
-* https://www.rottentomatoes.com/m/american_symphony (docu)
-* https://www.rottentomatoes.com/m/spaceman_2024
-* https://www.rottentomatoes.com/m/ordinary_angels
-* https://www.rottentomatoes.com/m/la_chimera
-* https://www.rottentomatoes.com/m/civil_war_2024
-* https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
-* https://vodkaster.telerama.fr/films/premiere-affaire/1440215
-* https://www.rottentomatoes.com/m/irenas_vow
-* https://www.rottentomatoes.com/m/the_fall_guy_2024
-* https://www.rottentomatoes.com/m/musica
-* https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
-* https://www.rottentomatoes.com/m/arthur_the_king
-* https://www.rottentomatoes.com/m/i_saw_the_tv_glow
-* Comme un lundi 🇯🇵
+* https://www.rottentomatoes.com/m/north_of_normal
+* https://www.rottentomatoes.com/m/sanctuary_2022
+* Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
+* https://editorial.rottentomatoes.com/guide/best-movies-2022/
+    * no bears, happening, girl picture, till
+* https://www.telerama.fr/cinema/films/vivre-1-230294726.php
+* https://www.rottentomatoes.com/m/out_of_darkness_2022
+* https://www.rottentomatoes.com/m/elvis
+* https://www.rottentomatoes.com/m/the_blue_caftan 🇲🇦
+* https://www.rottentomatoes.com/m/prey_2022
+* https://www.rottentomatoes.com/m/joyland_2022 🇵🇰
+* Broker (Koreeda) 🇰🇷
+* Aftersun
+
+
+### 2021
+
+* https://www.telerama.fr/cinema/films/contes-du-hasard-et-autres-fantaisies-1-194349890.php (Ryūsuke Hamaguchi) 🇯🇵
+* https://www.rottentomatoes.com/m/the_worst_person_in_the_world
+* https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
+* https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
+* https://www.rottentomatoes.com/m/coda_2021
+* https://www.rottentomatoes.com/m/blue_bayou_2021
+* https://www.rottentomatoes.com/m/luca_2021
+* https://www.rottentomatoes.com/m/mondo_hollywoodland
+
+
+### 2020
+
+* True Mothers 🇯🇵
+* The Half of It #coming-of-age
+* https://www.rottentomatoes.com/m/the_macaluso_sisters
+* https://www.rottentomatoes.com/m/the_way_back_2020
+* https://www.rottentomatoes.com/m/son_of_monarchs
+* https://www.rottentomatoes.com/m/words_on_bathroom_walls
+* https://www.rottentomatoes.com/m/psych_2_lassie_come_home
+* https://www.rottentomatoes.com/m/bacurau 🇧🇷
+
+
+### 2019
+
+* https://www.rottentomatoes.com/m/ash_is_purest_white
+* https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
+* https://www.rottentomatoes.com/m/judy_2019
+* https://www.rottentomatoes.com/m/monos
+* https://www.rottentomatoes.com/m/togo_2019
+* La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
+* https://www.rottentomatoes.com/m/babyteeth
+* https://www.rottentomatoes.com/m/driveways
+
+
+### 2018
+
+* https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
+* https://www.rottentomatoes.com/m/tully_2018
+* https://www.rottentomatoes.com/m/prospect_2018
+* Pupille (Jeanne Herry)
+
+
+### 2017
+
+* I Don't Feel at Home in This World Anymore ☀️
+* https://www.rottentomatoes.com/m/columbus_2017
+* https://www.rottentomatoes.com/m/november_2018
+* https://www.rottentomatoes.com/m/the_florida_project
+
+
+### 2016
+
+* The Birth of a Nation ☀️
+* https://www.rottentomatoes.com/m/the_edge_of_seventeen
+
+
+### 2015
+
+* https://www.rottentomatoes.com/m/macbeth_2015
+* Le Fils de Saul 🇭🇺 🌿
+* Me and Earl and the Dying Girl ☀️ #coming-of-age
+* https://www.rottentomatoes.com/m/long_way_north #famille
+* https://www.rottentomatoes.com/m/victoria_2015
+
+
+### 2014
+
+* https://www.rottentomatoes.com/m/the_normal_heart 🎗️
+* https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
+* Selma
+* https://www.telerama.fr/cinema/films/good-kill,498797.php
+* https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
+
+
+### 2013
+
+* https://www.rottentomatoes.com/m/upstream_color ++
+* https://www.rottentomatoes.com/m/the_spectacular_now
+* https://www.rottentomatoes.com/m/gloria_2012
+
+
+### 2012
+
+* https://www.rottentomatoes.com/m/its_such_a_beautiful_day ++
+* Les Adieux à la reine
+
+
+### 2011
+
+* https://www.rottentomatoes.com/m/the_turin_horse ++
+* https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
+* https://www.telerama.fr/cinema/films/elena,428535.php
+* https://www.rottentomatoes.com/m/detachment
+* Le Havre (Aki Kaurismäki)
+
+
+### 2010
+
+* L'Illusionniste
+* https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷
+
+
+### 2009
+
+* https://www.telerama.fr/cinema/films/vincere,391336.php
+* https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
+* Welcome
+
+
+### 2008
+
+* https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
+* https://www.lemonde.fr/culture/article/2024/03/27/la-flamme-verte-une-somptueuse-traversee-du-temps-facon-mille-et-une-nuits_6224436_3246.html 🇮🇷
+
+
+### 2007
+
+* https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
+* https://www.rottentomatoes.com/m/hairspray #musical
+* Superbad #comédie
+* https://www.rottentomatoes.com/m/1189416-shelter ?
+* https://www.rottentomatoes.com/m/once
+* https://www.rottentomatoes.com/m/stardust
+
+
+### 2006
+
+* https://www.rottentomatoes.com/m/half_nelson
+* https://www.rottentomatoes.com/m/the_fountain
+* https://www.rottentomatoes.com/m/snow_cake
+
+
+### 2005
+
+* L'Enfant (frères Dardenne) 🌿
+* https://www.rottentomatoes.com/m/sweet_land
+
+
+### 2004
+
+* https://www.rottentomatoes.com/m/i_heart_huckabees
+* https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
+* https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
+* https://www.rottentomatoes.com/m/on_the_outs
+
+
+### 2003
+
+* https://www.rottentomatoes.com/m/1127787-big_fish
+* https://www.rottentomatoes.com/m/the_return
+* https://www.rottentomatoes.com/m/facing_windows ?
+
+
+### 2002
+
+* Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
+* The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
+* https://www.telerama.fr/cinema/films/le-sourire-de-ma-mere-1-3082998.php
+* https://www.rottentomatoes.com/m/secretary
+* https://www.rottentomatoes.com/m/bend_it_like_beckham
+
+
+### 2001
+
+* A Beautiful Mind 🏆
+* https://www.rottentomatoes.com/m/waking_life
+* https://www.rottentomatoes.com/m/son_of_the_bride
+* https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
+* https://www.rottentomatoes.com/m/sex_and_lucia
+
+
+### 2000
+
+* https://www.rottentomatoes.com/m/1095420-high_fidelity
+* https://www.rottentomatoes.com/m/sexy_beast
+
+
+### 1999
+
+* The Insider https://www.rottentomatoes.com/m/insider
+* https://www.rottentomatoes.com/m/boys_dont_cry
+* https://www.rottentomatoes.com/m/magnolia (Paul Thomas Anderson)
+* https://www.rottentomatoes.com/m/1093579-man_on_the_moon
+* https://www.rottentomatoes.com/m/notting_hill #romcom
+* https://www.rottentomatoes.com/m/1091577-ideal_husband
+
+
+### 1998
+
+* Saving Private Ryan (Steven Spielberg) #film-de-guerre
+* https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
+* https://www.rottentomatoes.com/m/gods_and_monsters
+* https://www.telerama.fr/cinema/films/place-vendome,45583.php
+* https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh)
+
+
+### 1997
+
+* Western https://www.telerama.fr/cinema/films/western,35682.php
+
+
+### 1996
+
+* Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
+* https://www.rottentomatoes.com/m/ponette
+
+
+### 1995
+
+* https://www.telerama.fr/cinema/films/nelly-et-monsieur-arnaud,37350.php
+
+
+### 1994
+
+* https://www.rottentomatoes.com/m/madness_of_king_george
+* Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
+* https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
+* https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
+* https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
+* https://www.rottentomatoes.com/m/crow
+* https://www.rottentomatoes.com/m/the-golden-ball-le-ballon-dor
+* Emilie Muller [▶️](https://www.youtube.com/watch?v=Om8e9494G-Q) #short
+
+
+### 1993
+
+* https://www.rottentomatoes.com/m/1046151-fearless ++
+* https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
+* https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
+* https://www.telerama.fr/cinema/films/no-smoking,29537.php
+* https://www.rottentomatoes.com/m/bronx_tale
+* https://www.rottentomatoes.com/m/philadelphia https://www.telerama.fr/cinema/films/philadelphia,30475.php 🎗️
+* https://www.rottentomatoes.com/m/carlitos_way
+
+
+### 1992
+
+* https://www.rottentomatoes.com/m/1040798-husbands_and_wives (Woody Allen)
+* https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical
+* https://www.rottentomatoes.com/m/bad_lieutenant
+* Indochine
+
+
+### 1991
+
+* https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php (Zhang Yimou) 🇨🇳
+
+
+### 1990
+
+* https://www.rottentomatoes.com/m/1032970-awakenings ++
+
+
+### 1989
+
+* https://fr.wikipedia.org/wiki/Le_Temps_des_Gitans
+* https://en.wikipedia.org/wiki/Dekalog
+* https://vodkaster.telerama.fr/films/la-captive-du-desert/7842
+
+
+### 1988
+
+* https://www.rottentomatoes.com/m/midnight_run
+
+
+### 1987
+
+* https://www.telerama.fr/cinema/films/tandem,9962.php (Patrice Leconte)
+* https://www.rottentomatoes.com/m/raising_arizona (frères Coen)
+* https://www.rottentomatoes.com/m/princess_bride #famille #aventure
+* Un zoo la nuit https://www.cinematheque.qc.ca/fr/cinema/un-zoo-la-nuit/
+
+
+### 1986
+
+* https://www.rottentomatoes.com/m/1014027-mission
+* https://www.rottentomatoes.com/m/labyrinth
+* https://www.rottentomatoes.com/m/hoosiers
+
+
+### 1985
+
+* Papa est en voyage d'affaires (Emir Kusturica) 🌿
+* https://www.rottentomatoes.com/m/come_and_see ++
+* https://www.rottentomatoes.com/m/my_beautiful_laundrette
+* https://www.rottentomatoes.com/m/real_genius
+* https://www.rottentomatoes.com/m/1002213-better_off_dead
+* https://www.rottentomatoes.com/m/trip_to_bountiful
+* https://www.rottentomatoes.com/m/clue
+
+
+### 1984
+
+* https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
+* https://www.rottentomatoes.com/m/birdy
+* https://www.rottentomatoes.com/m/repo_man
+* https://www.rottentomatoes.com/m/natural
+* https://www.rottentomatoes.com/m/places_in_the_heart
+
+
+### 1983
+
+* https://www.rottentomatoes.com/m/national_lampoons_vacation
+* https://www.rottentomatoes.com/m/verdict
+
+
+### 1980
+
+* https://www.rottentomatoes.com/m/fame
+
+
+### 1978
+
+* https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
+* https://www.rottentomatoes.com/m/watership_down
+
+
+### 1977
+
+* https://www.rottentomatoes.com/m/stroszek ++
+* Eraserhead (David Lynch)
+* Annie Hall (Woody Allen)
+* Saturday Night Fever (John Travolta)
+* https://www.rottentomatoes.com/m/1017818-rolling_thunder
+
+
+### 1976
+
+* https://www.rottentomatoes.com/m/chess_of_the_wind 🇮🇷
+
+
+### 1975
+
+* https://www.rottentomatoes.com/m/the-passenger-professione-reporter
+* https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php (Bertrand Tavernier)
+
+
+### 1974
+
+* Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
+* https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php (Bertrand Tavernier)
+
+
+### 1973
+
+* L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
+* https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
+* https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
+* https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
+
+
+### 1972
+
+* https://www.rottentomatoes.com/m/the_new_land
+* Cabaret (Bob Fosse) 8🏆
+
+
+### 1971
+
+* https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php (Jean-Paul Rappeneau)
+
+
+### 1970
+
+* Peau d'âne
+
+
+### 1960s
+
+* https://www.rottentomatoes.com/m/sound_of_music
+* https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
+* https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
+* https://www.rottentomatoes.com/m/1013162-man_for_all_seasons
+
+
+### 1950s
+
+* https://www.rottentomatoes.com/m/ikiru 🇯🇵 ++
+* https://www.rottentomatoes.com/m/on_the_waterfront
+* https://www.rottentomatoes.com/m/roman_holiday
+* https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
+* https://www.telerama.fr/cinema/films/les-contes-de-la-lune-vague-apres-la-pluie,10374.php (Kenji Mizoguchi) 🇯🇵
+* https://www.telerama.fr/cinema/films/l-intendant-sansho,15718.php (Kenji Mizoguchi) 🇯🇵
+* Orfeu Negro (Marcel Camus) 🌿 🏆
+
+
+### 1940s
+
+* https://www.rottentomatoes.com/m/bicycle_thieves 🇮🇹
+* https://www.rottentomatoes.com/m/1020312-stray_dog (Akira Kurosawa)
+* https://www.rottentomatoes.com/m/double_indemnity (Billy Wilder) #noir
+
+
+### 1930s
+
+* https://www.rottentomatoes.com/m/duck_soup
 
 
 
