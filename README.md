@@ -187,7 +187,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1922
 
-* Nosferatu (Murnau) #vampires
+* Nosferatu (Murnau) 🇩🇪 #vampires
 
 ### 1927
 
@@ -252,7 +252,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 1957
 
-* The Seventh Seal (Ingmar Bergman) #fantastique
+* The Seventh Seal (Ingmar Bergman) 🇸🇪 #fantastique
 * 12 Hommes en Colère (Sidney Lumet) #film-de-procès
 
 
@@ -293,7 +293,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1962
 
 * Le Procès (Orson Welles) 🎥 ❤️ #film-de-procès
-* Lawrence d'Arabie (David Lean, avec Peter O'Toole) #aventure
+* Lawrence d'Arabie (David Lean, avec Peter O'Toole) 🇬🇧 #aventure
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
 * bof: Lolita (Stanley Kubrick)
 
@@ -342,7 +342,7 @@ Français:
 
 * Le Bon, la Brute et le Truand (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
-* bof: Persona (Ingmar Bergman), Blow-Up, Le Roi de Coeur (Philippe de Broca)
+* bof: Persona (Ingmar Bergman) 🇸🇪, Blow-Up 🇬🇧, Le Roi de Coeur (Philippe de Broca)
 
 
 ### 1967
@@ -797,7 +797,7 @@ Français:
 [Oscars 68](https://fr.wikipedia.org/wiki/68e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The Bridges of Madison County (Clint Eastwood, Meryl Streep) ❤️
-* Underground (Emir Kusturica) ✨ 🌿 ❤️ [📰](https://www.telerama.fr/cinema/films/underground,37761.php)
+* Underground (Emir Kusturica) 🇷🇸 ✨ 🌿 ❤️ [📰](https://www.telerama.fr/cinema/films/underground,37761.php)
 * Usual Suspects (Kevin Spacey) #thriller
 * Seven (David Fincher) #thriller
 * Cold Fever 🇮🇸

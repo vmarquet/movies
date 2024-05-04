@@ -375,7 +375,7 @@
 
 ### 1985
 
-* Papa est en voyage d'affaires (Emir Kusturica) 🌿
+* Papa est en voyage d'affaires (Emir Kusturica) 🇷🇸 🌿
 * https://www.rottentomatoes.com/m/come_and_see ++
 * https://www.rottentomatoes.com/m/my_beautiful_laundrette
 * https://www.rottentomatoes.com/m/real_genius
@@ -502,6 +502,7 @@
 * https://www.rottentomatoes.com/m/new_life_2023
 * https://www.rottentomatoes.com/m/barbarian_2022
 * https://www.rottentomatoes.com/m/last_straw
+* https://www.rottentomatoes.com/m/exhuma
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
