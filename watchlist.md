@@ -24,6 +24,7 @@
 * https://www.rottentomatoes.com/m/arthur_the_king
 * https://www.rottentomatoes.com/m/i_saw_the_tv_glow
 * Comme un lundi 🇯🇵
+* https://www.rottentomatoes.com/m/turtles_all_the_way_down
 
 
 ### 2023
@@ -32,7 +33,6 @@
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
-* Il reste encore demain (Italie) https://www.lemonde.fr/m-le-mag/article/2023/12/29/il-reste-encore-demain-le-film-a-succes-qui-lance-la-fronde-contre-le-patriarcat-en-italie_6208191_4500055.html
 * https://www.rottentomatoes.com/m/robot_dreams
 * https://www.rottentomatoes.com/m/challengers_2023
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
@@ -101,6 +101,7 @@
 * https://www.rottentomatoes.com/m/blue_bayou_2021
 * https://www.rottentomatoes.com/m/luca_2021
 * https://www.rottentomatoes.com/m/mondo_hollywoodland
+* https://www.rottentomatoes.com/m/the_paper_tigers
 
 
 ### 2020
@@ -187,6 +188,7 @@
 * https://www.telerama.fr/cinema/films/elena,428535.php
 * https://www.rottentomatoes.com/m/detachment
 * Le Havre (Aki Kaurismäki)
+* https://www.rottentomatoes.com/m/oslo_august_31st 🇳🇴
 
 
 ### 2010
@@ -334,6 +336,7 @@
 * https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical
 * https://www.rottentomatoes.com/m/bad_lieutenant
 * Indochine
+* https://www.rottentomatoes.com/m/mississippi_masala
 
 
 ### 1991

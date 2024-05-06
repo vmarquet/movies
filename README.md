@@ -1542,7 +1542,7 @@ Français:
 * Dune (Denis Villeneuve) #sf
 * Werewolves Within 🍿 (comédie/horreur) #film-de-noel
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Onoda 🇯🇵, Vortex (Gaspar Noé)
+* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Onoda 🇯🇵
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1551,7 +1551,7 @@ Français:
 * Albatros (Xavier Beauvois)
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
-* bof: Titane, L'évènement, Boite noire, Benedetta
+* bof: Titane, Vortex (Gaspar Noé), L'évènement, Boite noire, Benedetta
 
 
 ### 2022
@@ -1638,7 +1638,7 @@ Français:
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
-* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo, The Fabelmans
+* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn 🇬🇧, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
