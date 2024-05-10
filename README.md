@@ -265,12 +265,12 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 1959
 
 * Some Like It Hot (Billy Wilder, Marylin Monroe) #comédie
+* ~~Le Tigre du Bengale (Fritz Lang)~~ : à éviter, très mal vieilli, intrigue cliché
 
 [Cannes (12e)](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1959#Palmar%C3%A8s)
 
 * Les Quatre Cents Coups (François Truffaut) : le seul Truffaut que j'aime
 * Hiroshima mon amour (Alain Resnais) : bof, pas fan de la narration
-* ~~Le Tigre du Bengale (Fritz Lang)~~ : à éviter, très mal vieilli, intrigue cliché
 
 
 ### 1960
@@ -278,6 +278,9 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * La Dolce Vita (Federico Fellini, Marcello Mastroianni) 🇮🇹 🌿
 * Psychose (Alfred Hitchcock) 💙 #horreur
 * L'Île nue 🇯🇵
+
+Français:
+
 * La Vérité (HG Clouzot) 🏆 #film-de-procès
 * Plein Soleil (Alain Delon) 🎥 #thriller : très beau mais dialogues assez insipides et histoire invraisemblable
 * bof: A Bout de Souffle (Jean-Luc Godard)
@@ -307,13 +310,16 @@ Français:
 
 ### 1963
 
+* Le Guépard (Luchino Visconti) 🇮🇹 🌿 : longuet
+* 8½ (Federico Fellini) 🇮🇹 : pas fan, trop décousu
+
+Français:
+
 * Les Tontons Flingueurs (Georges Lautner, Audiard, avec Lino Ventura) ❤️ [📰](https://www.telerama.fr/cinema/films/les-tontons-flingueurs,14855.php) #comédie
     * même genre:
         * Les Barbouzes (1964, Georges Lautner)
         * Ne nous fâchons pas (1966, Georges Lautner)
 * Le Mépris (Jean-Luc Godard) 🎥🎥 [📰](https://www.telerama.fr/cinema/films/le-mepris,4799.php)
-* Le Guépard (Luchino Visconti) 🇮🇹 🌿 : longuet
-* 8½ (Federico Fellini) 🇮🇹 : pas fan, trop décousu
 
 
 ### 1964
@@ -321,21 +327,24 @@ Français:
 * Pour une poignée de dollars (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
     * note: voir les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio_leone), [Sergio Corbucci](https://www.rottentomatoes.com/celebrity/sergio_corbucci), [Sergio Sollima](https://www.rottentomatoes.com/celebrity/sergio_sollima)
 * Docteur Folamour (Stanley Kubrick)
-* L'Homme de Rio (Philippe de Broca, Belmondo) #aventure
 
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1964)
 
 * Les Parapluies de Cherbourg (Jacques Demy) 🌿 : pas fan, beau mais intrigue bof
+* L'Homme de Rio (Philippe de Broca, Belmondo) #aventure
 
 
 ### 1965
 
+* Et pour quelques Dollars de plus (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
+* Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin est originale
+
+Français:
+
 * Pierrot le Fou (Jean-Luc Godard, Belmondo) 🎥🎥 ❤️
 * Alphaville (Jean-Luc Godard) ❤️ #sf
-* Et pour quelques Dollars de plus (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
 * Les Tribulations d'un Chinois en Chine (Philippe de Broca, Belmondo) #aventure
 * Yoyo (Pierre Etaix) ◯
-* Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin est originale
 
 
 ### 1966
@@ -349,6 +358,9 @@ Français:
 
 * Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 💙 [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 #vampires #parodique
+
+Français:
+
 * Le Samouraï (Jean-Pierre Melville) 🎥🎥 #policier
 * La Chinoise (Jean-Luc Godard)
 
