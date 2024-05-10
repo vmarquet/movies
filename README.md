@@ -337,7 +337,7 @@ Français:
 ### 1965
 
 * Et pour quelques Dollars de plus (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
-* Répulsion (Roman Polanski) [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin est originale
+* Répulsion (Roman Polanski) 🇬🇧 [📰](https://www.telerama.fr/cinema/films/repulsion,8025.php) : mal vieilli, première moitié soporiphique, seule la fin est originale
 
 Français:
 
@@ -363,6 +363,7 @@ Français:
 
 * Le Samouraï (Jean-Pierre Melville) 🎥🎥 #policier
 * La Chinoise (Jean-Luc Godard)
+* bof: Playtime (Jacques Tati)
 
 
 ### 1968
@@ -584,7 +585,8 @@ Français:
 * Flashdance 🎥 [📰](https://www.lemonde.fr/m-le-mag/article/2023/08/18/flashdance-un-film-culte-qui-a-failli-ne-jamais-voir-le-jour_6185760_4500055.html)
 * La Ballade de Narayama 🇯🇵 🌿
 * Videodrome (David Cronenberg)
-* Merry Christmas, Mr. Lawrence (Furyo)
+* Merry Christmas, Mr. Lawrence (Furyo) (Nagisa Ōshima) 🇬🇧🇯🇵
+* bof: Scarface (Brian de Palma)
 
 [Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -599,9 +601,9 @@ Français:
 * Amadeus (Milos Forman) 8🏆
 * La Compagnie des Loups 🇬🇧 #fantastique
 * The Hit (Stephen Frears, Tim Roth) #road-movie
-* Le Pays où rêvent les fourmis vertes (Werner Herzog)
+* Le Pays où rêvent les fourmis vertes (Werner Herzog) 🇦🇺
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
-* The Killing Fields #history
+* The Killing Fields (Roland Joffé) 🇬🇧🇰🇭 #history
 * Terminator (James Cameron) 💙 #sf
 * bof: Blood Simple (frères Coen), Paris Texas (Wim Wenders)
 
@@ -886,6 +888,8 @@ Français:
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
+* bof: Didier (Alain Chabat)
+
 
 ### 1998
 
@@ -1013,7 +1017,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale
-* bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes (Jim Jarmusch), ~~Love Actually 🇬🇧~~
+* bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes (Jim Jarmusch), Zatōichi (Takeshi Kitano) 🇯🇵, ~~Love Actually 🇬🇧~~
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1122,7 +1126,7 @@ Français:
 
 * Indigènes (Rachid Bouchared)
 * OSS 117
-* Quatre étoiles (comédie, Carré/Garcia)
+* Quatre étoiles (Isabelle Carré, José Garcia) #comédie
 * Ne le dis à personne (Guillaume Canet)
 
 
@@ -1210,7 +1214,7 @@ Français:
 * London River (Rachid Bouchareb) [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Invictus (Clint Eastwood) 🇿🇦🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, The Limits of Control (Jim Jarmusch), ~~Enter the Void (Gaspar Noé)~~
+* bof: Invictus (Clint Eastwood) 🇿🇦🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, Avatar, The Limits of Control (Jim Jarmusch), ~~Enter the Void (Gaspar Noé)~~
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 

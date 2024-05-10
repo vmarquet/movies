@@ -74,6 +74,7 @@
 * https://www.rottentomatoes.com/m/beau_is_afraid
 * https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php
 * https://www.rottentomatoes.com/m/rotting_in_the_sun
+* https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
 
 
 ### 2022
@@ -176,6 +177,7 @@
 * https://www.rottentomatoes.com/m/upstream_color ++
 * https://www.rottentomatoes.com/m/the_spectacular_now
 * https://www.rottentomatoes.com/m/gloria_2012
+* https://yts.mx/movies/ilo-ilo-2013 🇨🇳
 
 
 ### 2012
@@ -268,6 +270,7 @@
 * https://www.rottentomatoes.com/m/son_of_the_bride
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
 * https://www.rottentomatoes.com/m/sex_and_lucia
+* https://www.rottentomatoes.com/m/shadow_of_the_vampire
 
 
 ### 2000
@@ -375,7 +378,7 @@
 
 ### 1986
 
-* https://www.rottentomatoes.com/m/1014027-mission
+* https://www.rottentomatoes.com/m/1014027-mission (Roland Joffé) 🌿
 * https://www.rottentomatoes.com/m/labyrinth
 * https://www.rottentomatoes.com/m/hoosiers
 
@@ -383,7 +386,7 @@
 ### 1985
 
 * Papa est en voyage d'affaires (Emir Kusturica) 🇷🇸 🌿
-* https://www.rottentomatoes.com/m/come_and_see ++
+* https://www.rottentomatoes.com/m/come_and_see 🇷🇺 ++
 * https://www.rottentomatoes.com/m/my_beautiful_laundrette
 * https://www.rottentomatoes.com/m/real_genius
 * https://www.rottentomatoes.com/m/1002213-better_off_dead
@@ -398,6 +401,7 @@
 * https://www.rottentomatoes.com/m/repo_man
 * https://www.rottentomatoes.com/m/natural
 * https://www.rottentomatoes.com/m/places_in_the_heart
+* https://www.rottentomatoes.com/m/tale_of_tales_1984 🇷🇺
 
 
 ### 1983
@@ -436,6 +440,7 @@
 
 * https://www.rottentomatoes.com/m/the-passenger-professione-reporter
 * https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php (Bertrand Tavernier)
+* Le Hérisson dans le brouillard 🇷🇺
 
 
 ### 1974
