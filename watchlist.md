@@ -6,7 +6,6 @@
 * https://www.rottentomatoes.com/m/if_only_i_could_hibernate ?
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
 * https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
-* https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php TTTT
 * https://www.rottentomatoes.com/m/hundreds_of_beavers
 * https://www.rottentomatoes.com/m/concrete_utopia
 * https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
@@ -25,6 +24,8 @@
 * https://www.rottentomatoes.com/m/i_saw_the_tv_glow
 * Comme un lundi 🇯🇵
 * https://www.rottentomatoes.com/m/turtles_all_the_way_down
+* Rapture (Rimdogittanga) (Dominic Sangma) 🇮🇳
+* https://www.rottentomatoes.com/m/the_idea_of_you
 
 
 ### 2023
@@ -38,6 +39,7 @@
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies
 * https://www.rottentomatoes.com/m/monster_2023 (Koreeda) 🇯🇵
+* https://www.rottentomatoes.com/m/of_an_age
 * https://www.rottentomatoes.com/m/the_peasants
 * tous TTT:
     * quand les vagues se retirent
@@ -67,11 +69,11 @@
 * https://www.telerama.fr/cinema/un-metier-serieux-thomas-lilti-doit-il-revoir-sa-copie_cri-7028405.php #film-scolaire
 * https://www.rottentomatoes.com/m/limbo_2023
 * https://www.rottentomatoes.com/m/la_chimera
-* https://www.rottentomatoes.com/m/laroy_texas
 * https://www.rottentomatoes.com/m/the_buriti_flower 🇧🇷
 * https://www.rottentomatoes.com/m/daaaaaali
 * https://www.rottentomatoes.com/m/beau_is_afraid
 * https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php
+* https://www.rottentomatoes.com/m/rotting_in_the_sun
 
 
 ### 2022
@@ -102,6 +104,7 @@
 * https://www.rottentomatoes.com/m/luca_2021
 * https://www.rottentomatoes.com/m/mondo_hollywoodland
 * https://www.rottentomatoes.com/m/the_paper_tigers
+* https://www.rottentomatoes.com/m/shiva_baby
 
 
 ### 2020
@@ -113,7 +116,6 @@
 * https://www.rottentomatoes.com/m/son_of_monarchs
 * https://www.rottentomatoes.com/m/words_on_bathroom_walls
 * https://www.rottentomatoes.com/m/psych_2_lassie_come_home
-* https://www.rottentomatoes.com/m/bacurau 🇧🇷
 
 
 ### 2019
@@ -148,6 +150,7 @@
 
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen
+* https://www.rottentomatoes.com/m/hell_or_high_water
 
 
 ### 2015
@@ -179,6 +182,7 @@
 
 * https://www.rottentomatoes.com/m/its_such_a_beautiful_day ++
 * Les Adieux à la reine
+* Frances Ha
 
 
 ### 2011
@@ -411,6 +415,7 @@
 
 * https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
 * https://www.rottentomatoes.com/m/watership_down
+* https://www.rottentomatoes.com/m/1010679-invasion_of_the_body_snatchers
 
 
 ### 1977
@@ -469,6 +474,7 @@
 * https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
 * https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
 * https://www.rottentomatoes.com/m/1013162-man_for_all_seasons
+* Goto, l'île d'amour
 
 
 ### 1950s
@@ -491,6 +497,7 @@
 
 ### 1930s
 
+* Le Quai des brumes (Marcel Carné)
 * https://www.rottentomatoes.com/m/duck_soup
 
 

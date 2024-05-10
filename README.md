@@ -268,7 +268,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 [Cannes (12e)](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1959#Palmar%C3%A8s)
 
-* Les Quatre Cents Coups (Truffaut) : le seul Truffaut que j'aime
+* Les Quatre Cents Coups (François Truffaut) : le seul Truffaut que j'aime
 * Hiroshima mon amour (Alain Resnais) : bof, pas fan de la narration
 * ~~Le Tigre du Bengale (Fritz Lang)~~ : à éviter, très mal vieilli, intrigue cliché
 
@@ -302,7 +302,7 @@ Français:
 * Le Soupirant (Pierre Etaix) 🎥 ❤️ ◯
 * Un Singe en Hiver  (Jean-Paul Belmondo, Jean Gabin) [📰](https://www.telerama.fr/cinema/films/un-singe-en-hiver,42689.php) : dialogues excellents (Audiard), musique très sympa
 * La Jetée #sf
-* Cléo de 5 à 7 (Agnès Varda) : pas fan
+* bof: Cléo de 5 à 7 (Agnès Varda), ~~Jules et Jim (François Truffaut)~~
 
 
 ### 1963
@@ -342,7 +342,7 @@ Français:
 
 * Le Bon, la Brute et le Truand (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
-* bof: Persona (Ingmar Bergman) 🇸🇪, Blow-Up 🇬🇧, Le Roi de Coeur (Philippe de Broca)
+* bof: Persona (Ingmar Bergman) 🇸🇪, Blow-Up 🇬🇧, Le Roi de Coeur (Philippe de Broca), Fahrenheit 451 (Français Truffaut)
 
 
 ### 1967
@@ -418,6 +418,10 @@ Français:
 * Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
 * Amarcord (Federico Fellini) 🇮🇹 [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * bof: Serpico (Sydney Lumet, Al Pacino), ~~The Exorcist~~
+
+Français:
+
+* bof: ~~La Nuit américaine (François Truffaut)~~
 
 
 ### 1974
@@ -520,6 +524,7 @@ Français:
 [Césars 6](https://fr.wikipedia.org/wiki/6e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Mon Oncle d'Amérique (Alain Resnais, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
+* bof: ~~Le Dernier Métro (François Truffaut)~~
 
 
 ### 1981
@@ -552,7 +557,7 @@ Français:
 * The Draughtsman's Contract 🇬🇧
 * Tootsie (Sydney Pollack, Dustin Hoffman) [💡](https://web.archive.org/web/20130712001521/https://www.rue89.com/rue89-culture/zapnet/2013/07/10/dustin-hoffman-crois-suis-femme-interessante-244106)
 * First Blood (Sylvester Stallone)
-* bof: Conan le barbare
+* bof: Permanent Vacation (Jim Jarmusch), Conan le barbare
 
 [Césars 8](https://fr.wikipedia.org/wiki/8e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -621,12 +626,14 @@ Français:
 * Ferris Bueller's Day Off #teen-movie
 * 'Round Midnight (Bertrand Tavernier) #jazz : belle musique mais pas vraiment d'histoire
 * The Fly (David Cronenberg) #nanar #so-bad-its-good 🪰
+* Down by Law (Jim Jarmusch)
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * 37°2 le matin ❤️
 * Tenue de Soirée (Bertrand Blier, Depardieu) #comédie
 * Mauvais Sang (Leos Carax) [📰](https://www.telerama.fr/cinema/films/mauvais-sang,9406.php)
+* Manon des sources (Claude Berri)
 
 
 ### 1987
@@ -729,6 +736,7 @@ Français:
 * Basic Instinct (Paul Verhoeven) #thriller
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
+* bof: Night on Earth (Jim Jarmusch)
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -877,7 +885,7 @@ Français:
 * Kirikou et la Sorcière #famille
 * Los amantes del círculo polar 🇪🇸 : inégal
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
-* bof: Pi (Darren Aronofsky), ~~American History X~~
+* bof: Pi (Darren Aronofsky), Las Vegas Parano (Terry Gilliam), ~~American History X~~
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -993,7 +1001,7 @@ Français:
 * Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale
-* bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes, ~~Love Actually 🇬🇧~~
+* bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes (Jim Jarmusch), ~~Love Actually 🇬🇧~~
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1190,14 +1198,14 @@ Français:
 * London River (Rachid Bouchareb) [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Invictus (Clint Eastwood) 🇿🇦🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, ~~Enter the Void (Gaspar Noé)~~
+* bof: Invictus (Clint Eastwood) 🇿🇦🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, The Limits of Control (Jim Jarmusch), ~~Enter the Void (Gaspar Noé)~~
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
 * Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * A l'origine (François Cluzet)
-* bof: Le Concert (Radu Mihaileanu) #comédie, Les herbes folles (Alain Resnais) [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
+* bof: Micmacs à tire-larigot (JP Jeunet), Le Concert (Radu Mihaileanu) #comédie, Les herbes folles (Alain Resnais) [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
 
 
 ### 2010
@@ -1287,7 +1295,7 @@ Français:
 * Lincoln (Steven Spielberg, Daniel Day-Lewis) #biopic
 * No (Gael García Bernal) 🇨🇱
 * Magic Mike (Steven Soderbergh, Channing Tatum, Matthew McConaughey)
-* bof: 21 jump street, The Master (Paul Thomas Anderson), ~~Ruby Sparks~~, ~~Argo~~
+* bof: 21 jump street, The Master (Paul Thomas Anderson), Cloud Atlas #sf, ~~Ruby Sparks~~, ~~Argo~~
 
 [Césars 38](https://fr.wikipedia.org/wiki/38e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1313,7 +1321,7 @@ Français:
 * The Grandmaster (Wong Kar-wai) 🇭🇰
 * The Internship (Vince Vaughn, Owen Wilson) #comédie-de-bureau
 * New World 🇰🇷 #thriller
-* Dallas Buyers Club (Matthew McConaughey)
+* Dallas Buyers Club (Matthew McConaughey) 🎗️
 * Ida 🇵🇱
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
@@ -1431,7 +1439,7 @@ Français:
 * Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis) 🇬🇧
 * Blade Runner 2049 (Denis Villeneuve) #sf
-* bof: Split (James McAvoy), Lady Bird #coming-of-age, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja, ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
+* bof: Split (James McAvoy), Lady Bird (Greta Gerwig) #coming-of-age, The Meyerowitz Stories, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja, ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1519,7 +1527,7 @@ Français:
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
-    * Sound of Metal, Soul (Pixar), Minari, News of the World (Tom Hanks) #western, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild, Vivarium, ~~Tenet~~
+    * Sound of Metal, Soul (Pixar), Minari, Bacurau 🇧🇷, News of the World (Tom Hanks) #western, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild, Vivarium, ~~Tenet~~
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1642,6 +1650,7 @@ Français:
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
+* Mars Express #sf [📰](https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php)
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Anatomie d'une chute (Justine Triet) 🌿 6✨ #film-de-procès
 * Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)

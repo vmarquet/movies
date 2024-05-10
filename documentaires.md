@@ -4,11 +4,12 @@ Documentaires
     * Chronos (1985)
     * Samsara (2011)
 * Zétwal (2008) 🇫🇷 ❤️
-* Le Sel de la Terre (2014) 🎥 ❤️
+* Le Sel de la Terre (2014) 📷 ❤️
 * Lo and Behold, Reveries of the Connected World (2016, Werner Herzog) 🌐
 * Scheme Birds (à se bruler les ailes) (2019) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❤️
 * La Sagesse de la Pieuvre (2020) ❤️
 * Péril sur la ville (2020) 🇫🇷 ([film complet](https://www.youtube.com/watch?v=kNKGmD9-1uI))
+* All The Beauty And The Bloodshed (2022) 🇺🇸 📷 💊
 * The Contestant (2023) 🇯🇵 ❤️
 
 
@@ -16,7 +17,6 @@ Documentaires
 
 * Hoop Dreams (1994) 🇺🇸 🏀
 * Jiro dreams of sushi (2011) 🇯🇵
-* All The Beauty And The Bloodshed (2022) 🇺🇸 💊
 
 
 ### mockumentaires
