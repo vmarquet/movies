@@ -23,9 +23,9 @@
 * https://www.rottentomatoes.com/m/arthur_the_king
 * https://www.rottentomatoes.com/m/i_saw_the_tv_glow
 * Comme un lundi 🇯🇵
-* https://www.rottentomatoes.com/m/turtles_all_the_way_down
 * Rapture (Rimdogittanga) (Dominic Sangma) 🇮🇳
 * https://www.rottentomatoes.com/m/the_idea_of_you
+* https://www.rottentomatoes.com/m/the_last_stop_in_yuma_county
 
 
 ### 2023
@@ -37,8 +37,7 @@
 * https://www.rottentomatoes.com/m/robot_dreams
 * https://www.rottentomatoes.com/m/challengers_2023
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
-* https://www.rottentomatoes.com/m/lost_ladies
-* https://www.rottentomatoes.com/m/monster_2023 (Koreeda) 🇯🇵
+* https://www.rottentomatoes.com/m/lost_ladies 🇮🇳
 * https://www.rottentomatoes.com/m/of_an_age
 * https://www.rottentomatoes.com/m/the_peasants
 * tous TTT:
@@ -58,7 +57,7 @@
 * https://www.rottentomatoes.com/m/nyad #biopic
 * https://www.rottentomatoes.com/m/bottoms
 * https://www.rottentomatoes.com/m/the_starling_girl
-* https://www.telerama.fr/cinema/le-vourdalak_cri-7029206.php
+* https://www.telerama.fr/cinema/le-vourdalak_cri-7029206.php TT
 * https://www.rottentomatoes.com/m/rustin_2023
 * https://www.rottentomatoes.com/m/problemista
 * https://www.rottentomatoes.com/m/femme_2023 #noir
@@ -73,7 +72,7 @@
 * https://www.rottentomatoes.com/m/daaaaaali
 * https://www.rottentomatoes.com/m/beau_is_afraid
 * https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php
-* https://www.rottentomatoes.com/m/rotting_in_the_sun
+* https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽
 * https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
 
 
@@ -174,7 +173,6 @@
 
 ### 2013
 
-* https://www.rottentomatoes.com/m/upstream_color ++
 * https://www.rottentomatoes.com/m/the_spectacular_now
 * https://www.rottentomatoes.com/m/gloria_2012
 * https://yts.mx/movies/ilo-ilo-2013 🇨🇳
@@ -205,6 +203,7 @@
 
 ### 2009
 
+* https://www.rottentomatoes.com/m/1216014-still_walking (Koreeda) 🇯🇵
 * https://www.telerama.fr/cinema/films/vincere,391336.php
 * https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
 * Welcome
@@ -220,7 +219,6 @@
 
 * https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
 * https://www.rottentomatoes.com/m/hairspray #musical
-* Superbad #comédie
 * https://www.rottentomatoes.com/m/1189416-shelter ?
 * https://www.rottentomatoes.com/m/once
 * https://www.rottentomatoes.com/m/stardust
@@ -365,6 +363,7 @@
 
 ### 1988
 
+* https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹
 * https://www.rottentomatoes.com/m/midnight_run
 
 
@@ -511,13 +510,12 @@
 
 * https://www.rottentomatoes.com/m/one_cut_of_the_dead 🇯🇵
 * https://www.rottentomatoes.com/m/double_blind
-* https://www.rottentomatoes.com/m/dont_breathe_2016
 * https://www.rottentomatoes.com/m/smile_2022
 * https://www.rottentomatoes.com/m/in_flames 🇵🇰
 * https://www.rottentomatoes.com/m/new_life_2023
 * https://www.rottentomatoes.com/m/barbarian_2022
 * https://www.rottentomatoes.com/m/last_straw
-* https://www.rottentomatoes.com/m/exhuma
+* https://www.rottentomatoes.com/m/exhuma 🇰🇷
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/

@@ -1153,6 +1153,7 @@ Français:
 * The Assassination of Jesse James by the Coward Robert Ford #western
 * 3:10 to Yuma #western
 * Paranoid Park (Gus Van Sant)
+* bof: Superbad
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1343,7 +1344,7 @@ Français:
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
 * Le Passé (Asghar Farhadi) 🇮🇷
-* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Jobs~~, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
+* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), Upstream Color 🎥, ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Jobs~~, ~~Hard to Be a God~~ 🇷🇺 #sf, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1421,7 +1422,7 @@ Français:
 * Zootopia (Disney) #famille
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️
 * La La Land (Damien Chazelle)
-* I Daniel Blake (Ken Loach) 🇬🇧 🌿
+* I, Daniel Blake (Ken Loach) 🇬🇧 🌿
 * Better Watch Out 🍿 #film-de-noel
 * Moana (Disney)
 * Toni Erdmann 🇩🇪
@@ -1510,7 +1511,7 @@ Français:
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, The Farewell
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, The Farewell
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1629,6 +1630,7 @@ Français:
     * > ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
 * Past Lives ❤️
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
+* L'Innocence (Monster) (Koreeda) 🇯🇵 ❤️
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * The Iron Claw ❤️
 * Perfect Days (Wim Wenders) 🇯🇵 ❤️
@@ -1680,6 +1682,8 @@ Français:
 
 [Rotten Tomatoes – Top Movies of 2024](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
 
+* Turtles All the Way Down ❤️ #coming-of-age
+    * > ❝ You're just a glorified bacterial colony ❞
 * bof: Love Lies Bleeding, ~~Monkey Man~~
 
 
@@ -1715,7 +1719,6 @@ Français:
 * Antiviral
 * I, Robot (2003, Will Smith)
 * The Island (2005) : voir juste la première heure, après c'est nul
-* pas vu: https://www.telerama.fr/cinema/films/il-est-difficile-d-etre-un-dieu,493827.php
 
 |     |     |     |
 | --- | --- | --- |
@@ -1761,7 +1764,7 @@ Français:
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
-* bof: Vermines (2023)
+* bof: Don't Breathe (2016), Midsommar (2019), Vermines (2023)
 
 
 
