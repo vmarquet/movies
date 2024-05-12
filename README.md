@@ -1014,7 +1014,7 @@ Français:
 * The Station Agent (Peter Dinklage) ☀️🎭
 * Pirates of the Caribbean #fantastique
 * Le Monde de Nemo (Pixar)
-* Memories of Murder 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
+* Memories of Murder (Bong Joon-ho) 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale
 * bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes (Jim Jarmusch), Zatōichi (Takeshi Kitano) 🇯🇵, ~~Love Actually 🇬🇧~~
@@ -1120,7 +1120,7 @@ Français:
 * Blood Diamond
 * Borat
 * Apocalypto (Mel Gibson) : longuet
-* bof: Stranger than fiction (Will Ferrell), Marie Antoinette (Sofia Coppola), Dikkenek 🇧🇪
+* bof: Stranger than fiction (Will Ferrell), Marie Antoinette (Sofia Coppola), Dikkenek 🇧🇪, The Host (Bong Joon-ho) 🇰🇷
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1344,7 +1344,7 @@ Français:
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
 * Le Passé (Asghar Farhadi) 🇮🇷
-* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), Upstream Color 🎥, ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Jobs~~, ~~Hard to Be a God~~ 🇷🇺 #sf, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
+* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), Upstream Color 🎥, Snowpiercer (Bong Joon-ho), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Jobs~~, ~~Hard to Be a God~~ 🇷🇺 #sf, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1409,7 +1409,7 @@ Français:
 
 * Les Cowboys (Thomas Bidegain) [📰](https://www.telerama.fr/cinema/films/les-cowboys%2C498504.php)
 * La Loi du Marché : bien aimé mais pas inoubliable
-* bof: Dheepan (Jacques Audiard) 🌿, ~~Mon Roi~~
+* bof: Dheepan (Jacques Audiard) 🌿, ~~Mon Roi (Maïwenn)~~
 
 
 ### 2016
@@ -1418,7 +1418,7 @@ Français:
 * Love and Friendship ❤️
 * Mademoiselle (Park Chan-wook) 🇰🇷 🌿
 * Arrival (Denis Villeneuve, Amy Adams) #sf
-* Captain Fantastic (Viggo Mortensen) ☀️
+* Captain Fantastic (Viggo Mortensen) ☀️ #coming-of-age
 * Zootopia (Disney) #famille
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️
 * La La Land (Damien Chazelle)
@@ -1456,7 +1456,7 @@ Français:
 * Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis) 🇬🇧
 * Blade Runner 2049 (Denis Villeneuve) #sf
-* bof: Split (James McAvoy), Lady Bird (Greta Gerwig) #coming-of-age, The Meyerowitz Stories, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja, ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
+* bof: Split (James McAvoy), Lady Bird (Greta Gerwig) #coming-of-age, The Meyerowitz Stories, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja (Bong Joon-ho) , ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1482,14 +1482,14 @@ Français:
 * First Man (Damien Chazelle) #biopic
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage, Green Book, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma, Widows, Ready Player One
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg)
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * Les Frères Sisters (Jacques Audiard) ❤️ 4✨ #western
 * L'Empereur de Paris (Vincent Cassel) ❤️
 * Shéhérazade
-* Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention
+* Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention mais assez mémorable
 * En liberté ! (Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html) #comédie
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention

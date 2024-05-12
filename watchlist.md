@@ -120,6 +120,7 @@
 
 ### 2019
 
+* https://www.rottentomatoes.com/m/first_love_2019 (Takashi Miike) 🇯🇵
 * https://www.rottentomatoes.com/m/ash_is_purest_white
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * https://www.rottentomatoes.com/m/judy_2019
@@ -133,6 +134,7 @@
 ### 2018
 
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
+* https://www.telerama.fr/cinema/le-monde-est-a-toi-7027679.php TTT (Romain Gavras)
 * https://www.rottentomatoes.com/m/tully_2018
 * https://www.rottentomatoes.com/m/prospect_2018
 * Pupille (Jeanne Herry)
@@ -193,6 +195,7 @@
 * https://www.rottentomatoes.com/m/detachment
 * Le Havre (Aki Kaurismäki)
 * https://www.rottentomatoes.com/m/oslo_august_31st 🇳🇴
+* https://www.rottentomatoes.com/m/13_assassins_2011 (Takashi Miike) 🇯🇵
 
 
 ### 2010
@@ -204,6 +207,7 @@
 ### 2009
 
 * https://www.rottentomatoes.com/m/1216014-still_walking (Koreeda) 🇯🇵
+* https://www.rottentomatoes.com/m/10010237-tokyo 🇯🇵
 * https://www.telerama.fr/cinema/films/vincere,391336.php
 * https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
 * Welcome
@@ -242,6 +246,7 @@
 * https://www.rottentomatoes.com/m/i_heart_huckabees
 * https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
 * https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
+* https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵
 * https://www.rottentomatoes.com/m/on_the_outs
 
 
