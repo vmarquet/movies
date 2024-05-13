@@ -74,10 +74,12 @@
 * https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php
 * https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽
 * https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
+* https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
 
 
 ### 2022
 
+* https://www.rottentomatoes.com/m/till ✊🏾
 * https://www.rottentomatoes.com/m/north_of_normal
 * https://www.rottentomatoes.com/m/sanctuary_2022
 * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
@@ -111,6 +113,7 @@
 
 * True Mothers 🇯🇵
 * The Half of It #coming-of-age
+* https://www.rottentomatoes.com/m/one_night_in_miami ✊🏾
 * https://www.rottentomatoes.com/m/the_macaluso_sisters
 * https://www.rottentomatoes.com/m/the_way_back_2020
 * https://www.rottentomatoes.com/m/son_of_monarchs
@@ -146,6 +149,8 @@
 * https://www.rottentomatoes.com/m/columbus_2017
 * https://www.rottentomatoes.com/m/november_2018
 * https://www.rottentomatoes.com/m/the_florida_project
+* https://www.rottentomatoes.com/m/hidden_figures ✊🏾
+* https://www.rottentomatoes.com/m/ava https://www.telerama.fr/cinema/ava-de-lea-mysius-un-premier-film-enthousiasmant-et-solaire,159849.php
 
 
 ### 2016
@@ -168,7 +173,7 @@
 
 * https://www.rottentomatoes.com/m/the_normal_heart 🎗️
 * https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
-* Selma
+* Selma ✊🏾
 * https://www.telerama.fr/cinema/films/good-kill,498797.php
 * https://www.rottentomatoes.com/m/love_and_mercy (Paul Dano)
 
@@ -196,6 +201,8 @@
 * Le Havre (Aki Kaurismäki)
 * https://www.rottentomatoes.com/m/oslo_august_31st 🇳🇴
 * https://www.rottentomatoes.com/m/13_assassins_2011 (Takashi Miike) 🇯🇵
+* https://www.rottentomatoes.com/m/the_help ✊🏾
+* https://www.rottentomatoes.com/m/balada_triste_de_trompeta (The Last Circus) 🇪🇸
 
 
 ### 2010
@@ -304,6 +311,7 @@
 ### 1997
 
 * Western https://www.telerama.fr/cinema/films/western,35682.php
+* https://www.rottentomatoes.com/m/amistad (Steven Spielberg)
 
 
 ### 1996

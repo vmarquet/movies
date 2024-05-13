@@ -43,6 +43,7 @@
 * pas vu:
 	* The Wire
 	* The Sopranos
+	* Sharp Objects [🍅](https://www.rottentomatoes.com/tv/sharp_objects) (par Jean-Marc Vallée, portraitiste et auteur de Big Little Lies)
 	* Les Revenants
 	* Master of None
 * sans plus:

@@ -638,8 +638,8 @@ Français:
 * Aliens (James Cameron) #sf
 * Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
 * Ferris Bueller's Day Off #teen-movie
-* 'Round Midnight (Bertrand Tavernier) #jazz : belle musique mais pas vraiment d'histoire
-* The Fly (David Cronenberg) #nanar #so-bad-its-good 🪰
+* 'Round Midnight (Bertrand Tavernier) 🎷 #jazz : belle musique mais pas vraiment d'histoire
+* The Fly (David Cronenberg) 🪰 #nanar #so-bad-its-good
 * Down by Law (Jim Jarmusch)
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -674,7 +674,7 @@ Français:
 * Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥
 * Femmes au bord de la crise de nerfs (Pedro Almodóvar) 🇪🇸
 * The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
-* Mississippi Burning (Gene Hackman, William Dafoe)
+* Mississippi Burning (Gene Hackman, William Dafoe) ✊🏾
 * Gorillas in the mist (Sigourney Weaver) : longuet
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
@@ -697,7 +697,7 @@ Français:
 * Mystery Train (Jim Jarmusch)
 * Le Cercle des poètes disparus (Peter Weir)
 * Sea of Love (Al Pacino) #thriller-érotique
-* Do the right thing (Spike Lee)
+* Do the right thing (Spike Lee) ✊🏾
 * Say Anything (Cameron Crowe) #coming-of-age
     * > ❝ Are you here because you need someone, or because you need me? ❞
 
@@ -735,7 +735,7 @@ Français:
 
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Tous les matins du monde (Alain Corneau, Gérard Depardieu) ❤️ [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
+* Tous les matins du monde (Alain Corneau, Gérard Depardieu) ❤️ 🎼 [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
 * Les Amants du Pont Neuf (Leos Carax, Denis Lavant, Juliette Binoche) ❤️
 * Délicatessen (Jean-Pierre Jeunet)
 
@@ -748,6 +748,7 @@ Français:
 * Singles (Cameron Crowe) #comédie
 * Reservoir Dogs (Tarentino)
 * Basic Instinct (Paul Verhoeven) #thriller
+* Malcolm X (Spike Lee) ✊🏾 #biopic
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
 * bof: Night on Earth (Jim Jarmusch)
@@ -764,7 +765,7 @@ Français:
 
 [Oscars 66](https://fr.wikipedia.org/wiki/66e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* The Piano (Jane Campion) 🌿
+* The Piano (Jane Campion) 🇳🇿 🌿
 * Arizona Dream (Emir Kusturica, Johnny Depp) 💙 #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
 * La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
@@ -1183,7 +1184,7 @@ Français:
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php)
 * Walkyrie (Tom Cruise) #ww2
 * Disgrace (John Malkovich) 🇿🇦 : mémorable mais traine en longueur
-* bof: Gomorra 🇮🇹, Vicky Cristina Barcelona (Woody Allen), Synecdoche New York
+* bof: Gomorra 🇮🇹, Harvey Milk (Gus Van Sant) 🏳️‍🌈 #biopic, Vicky Cristina Barcelona (Woody Allen), Synecdoche New York
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1339,6 +1340,7 @@ Français:
 * The Internship (Vince Vaughn, Owen Wilson) #comédie-de-bureau
 * New World 🇰🇷 #thriller
 * Dallas Buyers Club (Matthew McConaughey) 🎗️
+* Le Majordome (Forest Whitaker) ✊🏾
 * Ida 🇵🇱
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
 * The Lunchbox 🇮🇳
@@ -1356,7 +1358,7 @@ Français:
 
 * Nightcrawler (Jake Gyllenhaal) ❤️
 * Ex Machina ❤️
-* Whiplash (Damien Chazelle) ❤️
+* Whiplash (Damien Chazelle) ❤️ 🥁
 * Vampires en toute Intimité (What we do in the Shadows) 🇳🇿 ❤️ #comédie
 * Birdman
 * Gone Girl (Fincher)
@@ -1364,11 +1366,11 @@ Français:
 * Reality (Quentin Dupieux, Alain Chabat)
 * Inherent Vice (Paul Thomas Anderson, Joaquin Phoenix)
 * Leviathan 🇷🇺
-* Dear White People ☀️
+* Dear White People ☀️ ✊🏾 #satire
+    * > ❝ Dear white people, the minimum requirement of black friends needed to not seem racist has just been raised to two. Sorry, but your weed man, Tyrone, does not count. ❞
 * Coming Home (Zhang Yimou) 🇨🇳
 * Noah (Darren Aronofsky, Russell Crowe)
-* The Imitation Game (Benedict Cumberbatch) #biopic
-* Creep
+* The Imitation Game (Benedict Cumberbatch) 🇬🇧 #biopic
 * Still Alice
 * Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪
 * bof: Nos étoiles contraires #coming-of-age, Sils Maria, Edge of Tomorrow, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
@@ -1432,7 +1434,7 @@ Français:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷
-* bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn)
+* bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn), Hunt for the Wilderpeople 🇳🇿
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1452,7 +1454,7 @@ Français:
 * You Were Never Really Here (Joaquin Phoenix)
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West (Aubrey Plaza)
-* I, Tonya (Margot Robbie)
+* I, Tonya (Margot Robbie) ⛸️
 * Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis) 🇬🇧
 * Blade Runner 2049 (Denis Villeneuve) #sf
@@ -1482,7 +1484,7 @@ Français:
 * First Man (Damien Chazelle) #biopic
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg)
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg)
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1511,7 +1513,7 @@ Français:
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, The Farewell
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, The Farewell
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1561,7 +1563,7 @@ Français:
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie #satire
 * Annette (Leos Carax, Adam Driver)
 * Jai Bhim 🇮🇳
-* Judas and the Black Messiah
+* Judas and the Black Messiah ✊🏾
 * Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
 * Dune (Denis Villeneuve) #sf
@@ -1686,6 +1688,10 @@ Français:
     * > ❝ You're just a glorified bacterial colony ❞
 * bof: Love Lies Bleeding, ~~Monkey Man~~
 
+Français:
+
+* Première Affaire ❤️
+
 
 
 [⬆️ retour sommaire](#sommaire)
@@ -1749,6 +1755,7 @@ Français:
 * The Babadook (2014)
 * It Follows (2014)
 * A Girl Walks Home Alone at Night (2014) 🇮🇷
+* Creep (2014)
 * The Witch (2015, Robert Eggers) ❤️
 * Better Watch Out (2016)
 * A Quiet Place (2018) (John Krasinski)
