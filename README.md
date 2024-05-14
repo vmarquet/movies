@@ -466,7 +466,7 @@ Français:
 * L'Homme qui voulut être roi (The Man Who Would Be King) (Sean Connery, Michael Caine) 🇬🇧 #aventure
 * Section spéciale (Costa-Gavras)
 * Jaws (Steven Spielberg)
-* Dersou Ouzala (Akira Kurosawa) 🇷🇺🇯🇵
+* Dersou Ouzala (Akira Kurosawa) 🇷🇺🇯🇵 🎥 #aventure
 * bof: The Rocky Horror Picture Show
 
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)

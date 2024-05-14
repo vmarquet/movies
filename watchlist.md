@@ -25,6 +25,9 @@
 * Comme un lundi 🇯🇵
 * Rapture (Rimdogittanga) (Dominic Sangma) 🇮🇳
 * https://www.rottentomatoes.com/m/the_idea_of_you
+* https://www.telerama.fr/cinema/borgo-de-stephane-demoustier-un-vertigineux-polar-psychologique-en-milieu-carceral_cri-7032178.php TTT #polar
+* https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
+* https://www.telerama.fr/cinema/films/suzume-1-249621710.php TTT 🇯🇵
 
 
 ### 2023
@@ -33,6 +36,7 @@
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
+* https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
 * https://www.rottentomatoes.com/m/robot_dreams
 * https://www.rottentomatoes.com/m/challengers_2023
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
@@ -49,7 +53,6 @@
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/fitting_in_2023
 * https://www.rottentomatoes.com/m/the_persian_version
-* https://www.rottentomatoes.com/m/wonka
 * https://www.rottentomatoes.com/m/the_color_purple
 * https://www.rottentomatoes.com/m/we_grown_now
 * https://www.rottentomatoes.com/m/may_december
