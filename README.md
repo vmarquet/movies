@@ -237,9 +237,14 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Rashomon (Akira Kurosawa) 🇯🇵
 * A Streetcar Named Desire (Marlon Brando) : bof (dans mes souvenirs, vu il y a longtemps)
 
+### 1952
+
+* Ikiru (Akira Kurosawa) 🇯🇵 : longuet
+
 ### 1953
 
 * Le Salaire de la peur (HG Clouzot) : début longuet
+* Les Contes de la lune vague après la pluie (Kenji Mizoguchi) 🇯🇵 : bof, intrigue et dialogues banals
 
 ### 1954
 
@@ -1658,6 +1663,7 @@ Français:
 * Oppenheimer (Christopher Nolan) : trop long
 * Dumb Money (Paul Dano)
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
+* The Last Stop in Yuma County
 * One Life 🇬🇧 #history
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
@@ -1670,14 +1676,14 @@ Français:
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
+* La Bête dans la jungle ❤️ [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
+* Anatomie d'une chute (Justine Triet) 🌿 6✨ #film-de-procès
 * Mars Express #sf [📰](https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php)
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
-* Anatomie d'une chute (Justine Triet) 🌿 6✨ #film-de-procès
 * Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)
 * Les Trois Mousquetaires #aventure
 * Je verrai toujours vos visages (Jeanne Herry)
-* La Bête dans la jungle [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
-* bof: La Passion de Dodin Bouffant, Chien de la Casse, Yannick (Quentin Dupieux), Retour à Séoul, Le Règne animal (Romain Duris) 5✨, Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
+* bof: La Passion de Dodin Bouffant, Chien de la Casse, Le Vourdalak, Yannick (Quentin Dupieux), Retour à Séoul, Le Règne animal (Romain Duris) 5✨, Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
 
 
 ### 2024
@@ -1923,9 +1929,7 @@ Français:
 
 Japonais:
 
-* à découvrir: [Mizoguchi](https://www.telerama.fr/recherche/films?q=Mizoguchi)
-* [Akira Kurosawa](https://www.rottentomatoes.com/celebrity/akirakurosawa)
-* [Takeshi Kitano](https://www.rottentomatoes.com/celebrity/takeshi_kitano)
+* [Koreeda](https://www.rottentomatoes.com/celebrity/hirokazu-koreeda)
 
 
 

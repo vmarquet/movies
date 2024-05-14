@@ -25,7 +25,6 @@
 * Comme un lundi 🇯🇵
 * Rapture (Rimdogittanga) (Dominic Sangma) 🇮🇳
 * https://www.rottentomatoes.com/m/the_idea_of_you
-* https://www.rottentomatoes.com/m/the_last_stop_in_yuma_county
 
 
 ### 2023
@@ -57,7 +56,6 @@
 * https://www.rottentomatoes.com/m/nyad #biopic
 * https://www.rottentomatoes.com/m/bottoms
 * https://www.rottentomatoes.com/m/the_starling_girl
-* https://www.telerama.fr/cinema/le-vourdalak_cri-7029206.php TT
 * https://www.rottentomatoes.com/m/rustin_2023
 * https://www.rottentomatoes.com/m/problemista
 * https://www.rottentomatoes.com/m/femme_2023 #noir
@@ -155,6 +153,7 @@
 
 ### 2016
 
+* https://www.telerama.fr/cinema/films/sami-une-jeunesse-en-laponie-1-129251385.php TTT 🇸🇪 #récit-initiatique
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen
 * https://www.rottentomatoes.com/m/hell_or_high_water
@@ -218,6 +217,7 @@
 * https://www.telerama.fr/cinema/films/vincere,391336.php
 * https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
 * Welcome
+* Max et les Maximonstres
 
 
 ### 2008
@@ -429,6 +429,7 @@
 
 ### 1978
 
+* https://www.telerama.fr/cinema/films/la-chambre-verte,6883.php (François Truffaut)
 * https://www.rottentomatoes.com/m/the_marriage_of_maria_braun #ww2
 * https://www.rottentomatoes.com/m/watership_down
 * https://www.rottentomatoes.com/m/1010679-invasion_of_the_body_snatchers
@@ -496,11 +497,9 @@
 
 ### 1950s
 
-* https://www.rottentomatoes.com/m/ikiru 🇯🇵 ++
 * https://www.rottentomatoes.com/m/on_the_waterfront
 * https://www.rottentomatoes.com/m/roman_holiday
 * https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
-* https://www.telerama.fr/cinema/films/les-contes-de-la-lune-vague-apres-la-pluie,10374.php (Kenji Mizoguchi) 🇯🇵
 * https://www.telerama.fr/cinema/films/l-intendant-sansho,15718.php (Kenji Mizoguchi) 🇯🇵
 * Orfeu Negro (Marcel Camus) 🌿 🏆
 
