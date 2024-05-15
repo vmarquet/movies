@@ -6,7 +6,6 @@
 * https://www.rottentomatoes.com/m/if_only_i_could_hibernate ?
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
 * https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
-* https://www.rottentomatoes.com/m/hundreds_of_beavers
 * https://www.rottentomatoes.com/m/concrete_utopia
 * https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
 * https://www.rottentomatoes.com/m/american_symphony (docu)
@@ -28,6 +27,7 @@
 * https://www.telerama.fr/cinema/borgo-de-stephane-demoustier-un-vertigineux-polar-psychologique-en-milieu-carceral_cri-7032178.php TTT #polar
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 * https://www.telerama.fr/cinema/films/suzume-1-249621710.php TTT 🇯🇵
+* https://www.telerama.fr/cinema/la-morsure-de-romain-de-saint-blanquat-un-conte-de-fees-gothique-ensorcelant_cri-7032649.php TT
 
 
 ### 2023
@@ -76,6 +76,7 @@
 * https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽
 * https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
+* https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023
 
 
 ### 2022
@@ -209,6 +210,7 @@
 
 ### 2010
 
+* https://www.telerama.fr/cinema/films/venus-noire,422600.php (Abdellatif Kechiche) TTT
 * L'Illusionniste
 * https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷
 

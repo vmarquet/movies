@@ -756,7 +756,7 @@ Français:
 * Malcolm X (Spike Lee) ✊🏾 #biopic
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
-* bof: Night on Earth (Jim Jarmusch)
+* bof: Night on Earth (Jim Jarmusch), The Player
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1165,7 +1165,7 @@ Français:
 
 * Le Scaphandre et le Papillon 🏆
 * Persépolis 🇮🇷
-* La Graine et le Mulet
+* La Graine et le Mulet (Abdellatif Kechiche)
 * 99 Francs
 * Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
 
@@ -1274,7 +1274,7 @@ Français:
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥
 * The Tree of Life (Terrence Malick)
-* Margin Call (Kevin Spacey)
+* Margin Call (Kevin Spacey) 💵
 * Starbuck 🇨🇦 #comédie
 * Rango (Gore Verbinski) #western
 * Tinker Tailor Soldier Spy (La Taupe) 🇬🇧 #thriller
@@ -1351,12 +1351,12 @@ Français:
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
 * Le Passé (Asghar Farhadi) 🇮🇷
-* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), Upstream Color 🎥, Snowpiercer (Bong Joon-ho), ~~The Wolf of Wall Street (Martin Scorsese)~~, ~~Jobs~~, ~~Hard to Be a God~~ 🇷🇺 #sf, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
+* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), Upstream Color 🎥, Snowpiercer (Bong Joon-ho), ~~The Wolf of Wall Street (Martin Scorsese)~~ 💵, ~~Jobs~~, ~~Hard to Be a God~~ 🇷🇺 #sf, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * L'Écume des jours (Michel Gondry)
-* bof: Quai d'Orsay (Bertrand Tavernier), La vie d'Adèle 🌿, L'inconnu du lac, Jimmy P., La Vénus à la fourrure
+* bof: Quai d'Orsay (Bertrand Tavernier), La vie d'Adèle (Abdellatif Kechiche) 🌿, L'inconnu du lac, Jimmy P., La Vénus à la fourrure
 
 
 ### 2014
@@ -1401,7 +1401,7 @@ Français:
 * The Assassin 🇨🇳 🎥 ❤️ #arts-martiaux
 * The Revenant (Alejandro González Iñárritu) 🎥
 * The Lobster (Yórgos Lánthimos, Colin Farrell)
-* The Big Short
+* The Big Short 💵
 * Bone Tomahawk #western
 * Cemetery of Splendour (Apichatpong Weerasethakul) 🇹🇭 🌿
 * Anomalisa
@@ -1594,6 +1594,7 @@ Français:
 * Puss in Boots: The Last Wish (Chat potté 2) ❤️ #famille
 * She Said (affaire Weinstein)
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
+* Hundreds of Beavers
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
 * Hustle (Adam Sandler) 🏀
 * Godland 🇩🇰🇮🇸 [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
@@ -1661,7 +1662,7 @@ Français:
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) : intrigue façon policier, très convenu
 * Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
 * Oppenheimer (Christopher Nolan) : trop long
-* Dumb Money (Paul Dano)
+* Dumb Money (Paul Dano) 💵
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * The Last Stop in Yuma County
 * One Life 🇬🇧 #history
