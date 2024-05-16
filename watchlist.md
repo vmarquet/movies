@@ -26,7 +26,7 @@
 * https://www.rottentomatoes.com/m/the_idea_of_you
 * https://www.telerama.fr/cinema/borgo-de-stephane-demoustier-un-vertigineux-polar-psychologique-en-milieu-carceral_cri-7032178.php TTT #polar
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
-* https://www.telerama.fr/cinema/films/suzume-1-249621710.php TTT 🇯🇵
+* https://www.telerama.fr/cinema/films/suzume-1-249621710.php TTT #anime 🇯🇵
 * https://www.telerama.fr/cinema/la-morsure-de-romain-de-saint-blanquat-un-conte-de-fees-gothique-ensorcelant_cri-7032649.php TT
 
 
@@ -77,10 +77,12 @@
 * https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
 * https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023
+* https://www.rottentomatoes.com/m/hit_man_2023 96% #neonoir
 
 
 ### 2022
 
+* https://www.telerama.fr/cinema/films/enquete-sur-un-scandale-d-etat-1-193253187.php TTT
 * https://www.rottentomatoes.com/m/till ✊🏾
 * https://www.rottentomatoes.com/m/north_of_normal
 * https://www.rottentomatoes.com/m/sanctuary_2022
@@ -107,7 +109,7 @@
 * https://www.rottentomatoes.com/m/blue_bayou_2021
 * https://www.rottentomatoes.com/m/luca_2021
 * https://www.rottentomatoes.com/m/mondo_hollywoodland
-* https://www.rottentomatoes.com/m/the_paper_tigers
+* https://www.rottentomatoes.com/m/the_paper_tigers ++
 * https://www.rottentomatoes.com/m/shiva_baby
 
 
@@ -116,7 +118,7 @@
 * True Mothers 🇯🇵
 * The Half of It #coming-of-age
 * https://www.rottentomatoes.com/m/one_night_in_miami ✊🏾
-* https://www.rottentomatoes.com/m/the_macaluso_sisters
+* https://www.rottentomatoes.com/m/the_macaluso_sisters 🇮🇹
 * https://www.rottentomatoes.com/m/the_way_back_2020
 * https://www.rottentomatoes.com/m/son_of_monarchs
 * https://www.rottentomatoes.com/m/words_on_bathroom_walls
@@ -126,6 +128,7 @@
 ### 2019
 
 * https://www.rottentomatoes.com/m/first_love_2019 (Takashi Miike) 🇯🇵
+* https://www.rottentomatoes.com/m/invisible_life 🇧🇷
 * https://www.rottentomatoes.com/m/ash_is_purest_white
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
 * https://www.rottentomatoes.com/m/judy_2019
@@ -153,6 +156,8 @@
 * https://www.rottentomatoes.com/m/the_florida_project
 * https://www.rottentomatoes.com/m/hidden_figures ✊🏾
 * https://www.rottentomatoes.com/m/ava https://www.telerama.fr/cinema/ava-de-lea-mysius-un-premier-film-enthousiasmant-et-solaire,159849.php
+* https://www.rottentomatoes.com/m/a_silent_voice #anime 🇯🇵
+* https://www.rottentomatoes.com/m/your_name #anime 🇯🇵
 
 
 ### 2016
@@ -185,7 +190,7 @@
 
 * https://www.rottentomatoes.com/m/the_spectacular_now
 * https://www.rottentomatoes.com/m/gloria_2012
-* https://yts.mx/movies/ilo-ilo-2013 🇨🇳
+* https://www.rottentomatoes.com/m/ilo_ilo 🇸🇬
 
 
 ### 2012
@@ -258,7 +263,7 @@
 * https://www.rottentomatoes.com/m/i_heart_huckabees
 * https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
 * https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
-* https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵
+* https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵🇹🇭
 * https://www.rottentomatoes.com/m/on_the_outs
 
 
@@ -560,7 +565,6 @@
 * https://www.rottentomatoes.com/m/the_death_of_mr_lazarescu
 * https://www.rottentomatoes.com/m/3_iron
 * https://www.rottentomatoes.com/m/broken_wings_2002
-* https://www.rottentomatoes.com/m/last_life_in_the_universe
 * https://www.rottentomatoes.com/m/brigsby_bear_2017
 * https://www.rottentomatoes.com/m/el_cuerpo 🇪🇸 #suspense
 * https://www.rottentomatoes.com/m/el_robo_del_siglo 🇦🇷 #suspense
