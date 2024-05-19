@@ -1,5 +1,11 @@
+* https://editorial.rottentomatoes.com/hub-subpage/leaderboard-3/
+
+
 ### 2024
 
+* https://editorial.rottentomatoes.com/article/2024-cannes-preview/
+* https://editorial.rottentomatoes.com/guide/cannes-2024-movie-scorecard/
+* https://www.telerama.fr/cinema/cannes-2024-tous-les-films-en-competition-notes-par-la-redaction-de-telerama-7020448.php
 * https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php 🇫🇮 TT
 * https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
 * https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
@@ -38,7 +44,6 @@
 * https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
 * https://www.rottentomatoes.com/m/robot_dreams
-* https://www.rottentomatoes.com/m/challengers_2023
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies 🇮🇳
 * https://www.rottentomatoes.com/m/of_an_age
@@ -101,15 +106,15 @@
 
 ### 2021
 
-* https://www.telerama.fr/cinema/films/contes-du-hasard-et-autres-fantaisies-1-194349890.php (Ryūsuke Hamaguchi) 🇯🇵
+* https://www.rottentomatoes.com/m/coda_2021 🏆 ☀️
+* https://www.rottentomatoes.com/m/the_harder_they_fall #western
 * https://www.rottentomatoes.com/m/the_worst_person_in_the_world
 * https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
+* https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
-* https://www.rottentomatoes.com/m/coda_2021
 * https://www.rottentomatoes.com/m/blue_bayou_2021
 * https://www.rottentomatoes.com/m/luca_2021
 * https://www.rottentomatoes.com/m/mondo_hollywoodland
-* https://www.rottentomatoes.com/m/the_paper_tigers ++
 * https://www.rottentomatoes.com/m/shiva_baby
 
 
@@ -123,14 +128,15 @@
 * https://www.rottentomatoes.com/m/son_of_monarchs
 * https://www.rottentomatoes.com/m/words_on_bathroom_walls
 * https://www.rottentomatoes.com/m/psych_2_lassie_come_home
+* https://www.rottentomatoes.com/m/wolfwalkers
 
 
 ### 2019
 
 * https://www.rottentomatoes.com/m/first_love_2019 (Takashi Miike) 🇯🇵
 * https://www.rottentomatoes.com/m/invisible_life 🇧🇷
-* https://www.rottentomatoes.com/m/ash_is_purest_white
-* https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php
+* https://www.rottentomatoes.com/m/ash_is_purest_white 🇨🇳
+* https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
 * https://www.rottentomatoes.com/m/judy_2019
 * https://www.rottentomatoes.com/m/monos
 * https://www.rottentomatoes.com/m/togo_2019
@@ -203,7 +209,7 @@
 ### 2011
 
 * https://www.rottentomatoes.com/m/the_turin_horse ++
-* https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php
+* https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php 🇫🇷🇮🇷
 * https://www.telerama.fr/cinema/films/elena,428535.php
 * https://www.rottentomatoes.com/m/detachment
 * Le Havre (Aki Kaurismäki)

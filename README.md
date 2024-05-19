@@ -519,7 +519,7 @@ Français:
 [Oscars 52](https://fr.wikipedia.org/wiki/52e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * All That Jazz (Bob Fosse) 🎥 4🏆 🌿 ❤️
-* Apocalypse Now (FF Coppola) 🎥 💙
+* Apocalypse Now (FF Coppola) 🎥 🌿 💙
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 * bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers), Mad Max
@@ -1221,7 +1221,7 @@ Français:
 * London River (Rachid Bouchareb) [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Invictus (Clint Eastwood) 🇿🇦🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, Avatar, The Limits of Control (Jim Jarmusch), ~~Enter the Void (Gaspar Noé)~~
+* bof: Invictus (Clint Eastwood) 🇿🇦 🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, Avatar, The Limits of Control (Jim Jarmusch), ~~Enter the Void (Gaspar Noé)~~
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1264,6 +1264,7 @@ Français:
 * La Rafle #ww2
 * Mammuth (Délépine et Kervern, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * La Princesse de Montpensier (vu ?)
+* bof: Les Petits Mouchoirs (Guillaume Canet)
 
 
 ### 2011
@@ -1551,7 +1552,7 @@ Français:
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
-    * Sound of Metal, Soul (Pixar), Minari, Bacurau 🇧🇷, News of the World (Tom Hanks) #western, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild, Vivarium, ~~Tenet~~
+    * Sound of Metal, Soul (Pixar), Minari, Bacurau 🇧🇷, News of the World (Tom Hanks) #western, The Paper Tigers #kungfu, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild, Vivarium, ~~Tenet~~
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1574,7 +1575,7 @@ Français:
 * Dune (Denis Villeneuve) #sf
 * Werewolves Within 🍿 (comédie/horreur) #film-de-noel
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Onoda 🇯🇵
+* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, The Power of the Dog, Onoda 🇯🇵, Last Night in Soho 🇬🇧
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1693,6 +1694,7 @@ Français:
 
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
+* Challengers
 * bof: Love Lies Bleeding, ~~Monkey Man~~
 
 Français:
@@ -1759,7 +1761,7 @@ Français:
 * The Mist (2007) : la fin vend le film, sinon c'est assez médiocre
 * Morse (2008) 🇸🇪 🎥 [📰](https://www.telerama.fr/cinema/films/morse,365114.php) : très beau mais le scénario est un peu mou
 * The Conjuring (2013)
-* The Babadook (2014)
+* The Babadook (2014) 🇦🇺
 * It Follows (2014)
 * A Girl Walks Home Alone at Night (2014) 🇮🇷
 * Creep (2014)
@@ -1778,7 +1780,7 @@ Français:
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
-* bof: Don't Breathe (2016), Midsommar (2019), Vermines (2023)
+* bof: Don't Breathe (2016), Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Vermines (2023)
 
 
 
