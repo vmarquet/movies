@@ -332,6 +332,7 @@
 
 ### 1996
 
+* https://www.rottentomatoes.com/m/secrets_and_lies (Mile Leigh)
 * Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
 * https://www.rottentomatoes.com/m/ponette
 
@@ -436,6 +437,11 @@
 
 * https://www.rottentomatoes.com/m/national_lampoons_vacation
 * https://www.rottentomatoes.com/m/verdict
+
+
+### 1982
+
+* https://www.rottentomatoes.com/m/1014007-missing
 
 
 ### 1980
@@ -544,6 +550,7 @@
 * https://www.rottentomatoes.com/m/barbarian_2022
 * https://www.rottentomatoes.com/m/last_straw
 * https://www.rottentomatoes.com/m/exhuma 🇰🇷
+* https://www.rottentomatoes.com/m/disturbia
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/

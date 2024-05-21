@@ -683,6 +683,7 @@ Français:
 * Gorillas in the mist (Sigourney Weaver) : longuet
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
+    * > ❝ I came here to chew bubblegum and kick ass... and I'm all out of bubblegum. ❞
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1239,7 +1240,7 @@ Français:
 * Black Swan (Darren Aronofsky)
 * Shutter Island (Martin Scorsese) #film-à-énigme
 * True Grit (frères Coen) #western
-* Four Lions 🇬🇧 ❤️
+* Four Lions 🇬🇧 ❤️ #satire
 * Uncle Boonmee Who Can Recall His Past Lives (Apichatpong Weerasethakul) 🇹🇭 🌿
 * The King's Speech (Le Discours d'un roi) 🇬🇧
 * 127 Hours (Danny Boyle, James Franco)
