@@ -12,6 +12,7 @@
 * Rick and Morty (2013) [🍅](https://www.rottentomatoes.com/tv/rick_and_morty) +++
 * Brooklyn 99 (2013) ++
 * Silicon Valley (2014) ++
+* Bojack Horseman (2014) ++
 * Parks and Recreation (2015) ++
 * Superstore (2015) ++
 * What We Do in the Shadows (2019) [🍅](https://www.rottentomatoes.com/tv/what_we_do_in_the_shadows) +++
