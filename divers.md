@@ -48,6 +48,7 @@ Littérature
 * Les fleurs du mal (Beaudelaire)
 * Les 3 mousquetaires
 * Chroniques Martiennes, Farenheit 451 (Ray Bradbury)
+* Le désert des Tartares
 
 [Les 100 meilleurs livres du 20e siècle](https://fr.m.wikipedia.org/wiki/Les_cent_livres_du_siècle)
 
