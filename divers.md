@@ -41,6 +41,7 @@ Littérature
 * La Promesse de l'Aube
 * L'étranger (Albert Camus)
 * L'écume des jours
+* La mort est mon métier
 
 [Les 100 meilleurs livres du 20e siècle](https://fr.m.wikipedia.org/wiki/Les_cent_livres_du_siècle)
 
