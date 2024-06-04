@@ -44,6 +44,8 @@ Littérature
 * La mort est mon métier
 * La machine infernale (Jean Cocteau)
 * La métamorphose (Franz Kafka)
+* Le Tableau du Maitre flamand
+* Les fleurs du mal (Beaudelaire)
 
 [Les 100 meilleurs livres du 20e siècle](https://fr.m.wikipedia.org/wiki/Les_cent_livres_du_siècle)
 
