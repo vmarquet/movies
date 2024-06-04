@@ -49,6 +49,8 @@ Littérature
 * Les 3 mousquetaires
 * Chroniques Martiennes, Farenheit 451 (Ray Bradbury)
 * Le désert des Tartares
+* La gloire de mon père
+* Le roman de la momie (Théophile Gautier)
 
 [Les 100 meilleurs livres du 20e siècle](https://fr.m.wikipedia.org/wiki/Les_cent_livres_du_siècle)
 
