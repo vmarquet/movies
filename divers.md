@@ -36,6 +36,10 @@ Littérature
 * Mariage de Figaro
 * Jules Vernes (Tribulations d'un Chinois en Chine, ...)
 * Molière (Fourberies de Scapin, ...)
+* Stupeur et Tremblement
+* Voyage au bout de la nuit
+* La Promesse de l'Aube
+* L'étranger (Albert Camus)
 
 
 BD
