@@ -20,6 +20,7 @@
 * https://www.rottentomatoes.com/m/ordinary_angels
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/civil_war_2024
+* Horizon (Kevin Costner) #western
 * https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
 * https://vodkaster.telerama.fr/films/premiere-affaire/1440215
 * https://www.rottentomatoes.com/m/irenas_vow
