@@ -922,7 +922,7 @@ Français:
 
 * Ghost Dog: The Way of the Samurai (Jim Jarmusch) ❤️ 🍦 [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
-* eXistenZ (David Cronemberg, Jude Law, Jennifer Jason Leigh, Willem Dafoe) #film-à-énigme
+* eXistenZ (David Cronenberg, Jude Law, Jennifer Jason Leigh, Willem Dafoe) #film-à-énigme
 * Audition 🇯🇵
 * Dans la peau de John Malkovich (Spike Jonze, John Malkovich) #film-à-énigme
 * Office Space 💙 #comédie-de-bureau
@@ -1161,7 +1161,7 @@ Français:
 * The Assassination of Jesse James by the Coward Robert Ford #western
 * 3:10 to Yuma #western
 * Paranoid Park (Gus Van Sant)
-* bof: Superbad
+* bof: Superbad, Eastern Promises (David Cronenberg)
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1290,7 +1290,7 @@ Français:
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
 * Moneyball
-* bof: La piel que habito (Pedro Almodóvar), Take This Waltz, Killer Joe, ~~Source Code~~
+* bof: La piel que habito (Pedro Almodóvar), Take This Waltz, Killer Joe, A Dangerous Method (David Cronenberg), ~~Source Code~~
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1310,7 +1310,7 @@ Français:
 * Mud ❤️
 * Laurence Anyways (Xavier Dolan) ❤️
 * A Royal Affair (Mads Mikkelsen) 🇩🇰 ❤️
-* Cosmopolis (David Cronemberg, Robert Pattinson) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
+* Cosmopolis (David Cronenberg, Robert Pattinson) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
 * The Place Beyond the Pines
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
 * Antiviral (Brandon Cronenberg)
@@ -1382,7 +1382,7 @@ Français:
 * The Imitation Game (Benedict Cumberbatch) 🇬🇧 #biopic
 * Still Alice
 * Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪
-* bof: Nos étoiles contraires #coming-of-age, Sils Maria, Edge of Tomorrow, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
+* bof: Nos étoiles contraires #coming-of-age, Sils Maria, Maps to the Stars (David Cronenberg), Edge of Tomorrow, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1702,8 +1702,7 @@ Français:
 
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
-* Challengers
-* bof: Love Lies Bleeding, ~~Monkey Man~~
+* bof: Challengers, Love Lies Bleeding, ~~Monkey Man~~
 
 Français:
 

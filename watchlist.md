@@ -111,6 +111,7 @@
 * https://www.rottentomatoes.com/m/coda_2021 🏆 ☀️
 * https://www.rottentomatoes.com/m/the_harder_they_fall #western
 * https://www.rottentomatoes.com/m/the_worst_person_in_the_world
+* https://www.telerama.fr/cinema/films/stillwater,n6692229.php TTT
 * https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
 * https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
@@ -452,6 +453,11 @@
 
 * https://www.rottentomatoes.com/m/fame
 * The big red one
+
+
+### 1979
+
+* https://www.telerama.fr/cinema/films/chromosome-3,8115.php (David Cronenberg) TTT
 
 
 ### 1978
