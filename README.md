@@ -1017,11 +1017,12 @@ Français:
 
 * Master and Commander: The Far Side of the World (Peter Weier, Russell Crowe) 🏆
 * Good Bye, Lenin! (Wolfgang Becker) 🇩🇪
-* Le Maître du jeu (Runaway Jury)
-* The Station Agent (Peter Dinklage) ☀️🎭
 * Pirates of the Caribbean #fantastique
 * Le Monde de Nemo (Pixar)
 * Memories of Murder (Bong Joon-ho) 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
+* Open Range (Kevin Costner) #western
+* Le Maître du jeu (Runaway Jury)
+* The Station Agent (Peter Dinklage) ☀️🎭
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale
 * bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes (Jim Jarmusch), Zatōichi (Takeshi Kitano) 🇯🇵, ~~Love Actually 🇬🇧~~
@@ -1168,7 +1169,7 @@ Français:
 * Persépolis 🇮🇷
 * La Graine et le Mulet (Abdellatif Kechiche)
 * 99 Francs
-* Louise-Michel (Délépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
+* Louise-Michel (Delépine et Kervern) [📰](https://www.telerama.fr/cinema/films/louise-michel,359692.php) ☀️
 
 
 ### 2008
@@ -1229,6 +1230,7 @@ Français:
 * La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
 * Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
 * A l'origine (François Cluzet)
+* Les Beaux Gosses (Riad Sattouf, Vincent Lacoste)
 * bof: Micmacs à tire-larigot (JP Jeunet), Le Concert (Radu Mihaileanu) #comédie, Les herbes folles (Alain Resnais) [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
 
 
@@ -1263,7 +1265,7 @@ Français:
 * L'Arnacoeur (Romain Duris) #romcom
 * Tournée (Mathieu Amalric) 🎥
 * La Rafle #ww2
-* Mammuth (Délépine et Kervern, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
+* Mammuth (Delépine et Kervern, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * La Princesse de Montpensier (vu ?)
 * bof: Les Petits Mouchoirs (Guillaume Canet)
 
@@ -1391,8 +1393,10 @@ Français:
 * Hippocrate
 * Qu'est-ce qu'on a fait au Bon Dieu ? (Christian Clavier) #comédie
 * Babysitting (Christian Clavier) ❤️ #comédie
-* Near Death Experience (Délépine et Kervern, Michel Houellebecq)
+* Near Death Experience (Delépine et Kervern, Michel Houellebecq)
+* Jacky au royaume des filles (Riad Sattouf, Vincent Lacoste)
 * Adieu au langage (Jean-Luc Godard)
+* bof: ~~La Famille Bélier~~
 
 
 ### 2015
@@ -1446,6 +1450,8 @@ Français:
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * La Mort de Louis XIV (Albert Serra, Jean-Pierre Léaud) 🌿 ❤️
+* Saint Amour (Delépine et Kervern) ❤️
+    * > _en achetant une bouteille à la station service:_ ❝ C'est du Chinon, c'est pour compléter la route des vins ❞
 * Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * Dans les forêts de Sibérie (musique par Ibrahim Maalouf) #aventure
 
@@ -1502,7 +1508,7 @@ Français:
 * En liberté ! (Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html) #comédie
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
-* bof: Au poste ! (Quentin Dupieux), Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
+* bof: Au poste ! (Quentin Dupieux), L'Ordre des médecins (Jérémie Renier), Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
 
 
 ### 2019
@@ -1559,7 +1565,7 @@ Français:
 
 * Teddy [📰](https://www.telerama.fr/cinema/films/teddy,n6689626.php)
 * Mandibules (Quentin Dupieux) 🤘
-* bof: Antoinette dans les Cévennes, Adieu les cons, Les Choses qu'on dit, les Choses qu'on fait, ADN
+* bof: Un triomphe (Kad Merad), Antoinette dans les Cévennes, Adieu les cons, Les Choses qu'on dit, les Choses qu'on fait, ADN
 
 
 ### 2021
@@ -1614,7 +1620,7 @@ Français:
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, ~~Chevalier~~
+    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, Emily, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1681,6 +1687,7 @@ Français:
 
 * La Bête dans la jungle ❤️ [📰](https://www.telerama.fr/cinema/la-bete-dans-la-jungle-attention-film-culte-en-devenir_cri-7027824.php)
 * Anatomie d'une chute (Justine Triet) 🌿 6✨ #film-de-procès
+* Soudain Seuls (Thomas Bidegain)
 * Mars Express #sf [📰](https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php)
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)

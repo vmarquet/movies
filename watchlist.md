@@ -8,6 +8,7 @@
 * https://www.telerama.fr/cinema/cannes-2024-tous-les-films-en-competition-notes-par-la-redaction-de-telerama-7020448.php
 * https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php 🇫🇮 TT
 * https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
+* My Sunshine 🇯🇵
 * https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
 * https://www.rottentomatoes.com/m/if_only_i_could_hibernate ?
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
@@ -83,6 +84,7 @@
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
 * https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023
 * https://www.rottentomatoes.com/m/hit_man_2023 96% #neonoir
+* Dissidente
 
 
 ### 2022
@@ -185,6 +187,7 @@
 
 ### 2014
 
+* Loin des hommes
 * https://www.rottentomatoes.com/m/the_normal_heart 🎗️
 * https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
 * Selma ✊🏾
@@ -317,8 +320,9 @@
 
 ### 1998
 
-* Saving Private Ryan (Steven Spielberg) #film-de-guerre
 * https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
+* Smoke Signals
+* Saving Private Ryan (Steven Spielberg) #film-de-guerre
 * https://www.rottentomatoes.com/m/gods_and_monsters
 * https://www.telerama.fr/cinema/films/place-vendome,45583.php
 * https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh)
@@ -447,6 +451,7 @@
 ### 1980
 
 * https://www.rottentomatoes.com/m/fame
+* The big red one
 
 
 ### 1978
@@ -487,6 +492,7 @@
 ### 1973
 
 * L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
+* La Planète sauvage
 * https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
 * https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
