@@ -83,11 +83,12 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 </details>
 
 <details>
-<summary>Various wikipedia articles</summary>
+<summary>Various articles</summary>
 
 * https://en.wikipedia.org/wiki/MacGuffin
 * https://en.wikipedia.org/wiki/Chekhov%27s_gun
 * https://en.wikipedia.org/wiki/Mexican_standoff
+* https://www.sebmagic.com/2024/04/le-plan-signature-au-cinema-les-gimmicks-des-realisateurs.html
 </details>
 
 <details>
@@ -684,6 +685,7 @@ Français:
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
     * > ❝ I came here to chew bubblegum and kick ass... and I'm all out of bubblegum. ❞
+* bof: Frantic (Roman Polanski, Harrison Ford)
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -776,10 +778,11 @@ Français:
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
 * La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
 * Beaucoup de Bruit pour rien (Kenneth Brannagh) 🇬🇧
-* Etat Second (Peter Weir)
 * In the Name of the Father (Daniel Day-Lewis) 🇮🇪🇬🇧
 * Un Jour sans Fin (Bill Murray) #film-à-énigme
 * Belle Époque 🇪🇸 🏆 (meilleur film étranger, 9 goyas)
+* Etat Second (Peter Weir)
+* The Fugitive (Harrison Ford)
 * bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman), Manhattan Murder Mystery (Woody Allen)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1454,6 +1457,7 @@ Français:
     * > _en achetant une bouteille à la station service:_ ❝ C'est du Chinon, c'est pour compléter la route des vins ❞
 * Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * Dans les forêts de Sibérie (musique par Ibrahim Maalouf) #aventure
+* bof: La Fille de Brest
 
 
 ### 2017
@@ -1508,7 +1512,7 @@ Français:
 * En liberté ! (Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html) #comédie
 * Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
-* bof: Au poste ! (Quentin Dupieux), L'Ordre des médecins (Jérémie Renier), Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php)
+* bof: Au poste ! (Quentin Dupieux), L'Ordre des médecins (Jérémie Renier), Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php), L'heure de la Sortie
 
 
 ### 2019
@@ -1572,6 +1576,7 @@ Français:
 
 * King Richard (Will Smith) ❤️ 🎾 : biopic Venus Williams
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
+* CODA 🏆 ☀️ #coming-of-age
 * The Last Duel (Ridley Scott)
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie #satire
 * Annette (Leos Carax, Adam Driver)
@@ -1602,7 +1607,7 @@ Français:
 * Puss in Boots: The Last Wish (Chat potté 2) ❤️ #famille
 * She Said (affaire Weinstein)
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
-* Hundreds of Beavers
+* Hundreds of Beavers 🍿
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
 * Hustle (Adam Sandler) 🏀
 * Godland 🇩🇰🇮🇸 [📰](https://www.telerama.fr/cinema/films/godland-1-215068907.php)
@@ -1668,6 +1673,7 @@ Français:
 * Sick of Myself 🇳🇴 #satire
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) : intrigue façon policier, très convenu
+* Hit Man
 * Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
 * Oppenheimer (Christopher Nolan) : trop long
 * Dumb Money (Paul Dano) 💵
@@ -1702,7 +1708,11 @@ Français:
 
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
-* bof: Challengers, Love Lies Bleeding, ~~Monkey Man~~
+* The Fall Guy (Ryan Gosling) 🍿
+    * > _Stuntman taking a punch to the face:_  
+      > ❝ - You remember old Dressy, right?  
+      > &emsp; \- I never forget a fist. ❞
+* bof: Challengers, Love Lies Bleeding, Mad Max: Furiosa, ~~Monkey Man~~
 
 Français:
 
@@ -1744,7 +1754,13 @@ Français:
 
 |     |     |     |
 | --- | --- | --- |
-| ![](images/affiches/brazil.jpg) | ![](images/affiches/bladerunner.jpg) | ![](images/affiches/gattaca.jpg) |
+| ![](images/affiches/gattaca.jpg) | ![](images/affiches/bladerunner.jpg) | ![](images/affiches/brazil.jpg) |
+
+
+<details>
+<summary>bonus: sci-fi movies timeline</summary>
+<img src="images/divers/futuristic_movie_timeline.jpg" height="800px" />
+</details>
 
 
 

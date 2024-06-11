@@ -22,9 +22,7 @@
 * https://www.rottentomatoes.com/m/civil_war_2024
 * Horizon (Kevin Costner) #western
 * https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
-* https://vodkaster.telerama.fr/films/premiere-affaire/1440215
 * https://www.rottentomatoes.com/m/irenas_vow
-* https://www.rottentomatoes.com/m/the_fall_guy_2024
 * https://www.rottentomatoes.com/m/musica
 * https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
 * https://www.rottentomatoes.com/m/arthur_the_king
@@ -36,6 +34,9 @@
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 * https://www.telerama.fr/cinema/films/suzume-1-249621710.php TTT #anime 🇯🇵
 * https://www.telerama.fr/cinema/la-morsure-de-romain-de-saint-blanquat-un-conte-de-fees-gothique-ensorcelant_cri-7032649.php TT
+* https://www.rottentomatoes.com/m/young_woman_and_the_sea
+* https://www.rottentomatoes.com/m/tuesday_2023
+* https://www.rottentomatoes.com/m/conclave
 
 
 ### 2023
@@ -84,7 +85,6 @@
 * https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
 * https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023
-* https://www.rottentomatoes.com/m/hit_man_2023 96% #neonoir
 * Dissidente
 
 
@@ -109,7 +109,6 @@
 
 ### 2021
 
-* https://www.rottentomatoes.com/m/coda_2021 🏆 ☀️
 * https://www.rottentomatoes.com/m/the_harder_they_fall #western
 * https://www.rottentomatoes.com/m/the_worst_person_in_the_world
 * https://www.telerama.fr/cinema/films/stillwater,n6692229.php TTT
@@ -130,7 +129,7 @@
 * https://www.rottentomatoes.com/m/the_macaluso_sisters 🇮🇹
 * https://www.rottentomatoes.com/m/the_way_back_2020
 * https://www.rottentomatoes.com/m/son_of_monarchs
-* https://www.rottentomatoes.com/m/words_on_bathroom_walls
+* https://www.rottentomatoes.com/m/words_on_bathroom_walls #coming-of-age
 * https://www.rottentomatoes.com/m/psych_2_lassie_come_home
 * https://www.rottentomatoes.com/m/wolfwalkers
 
