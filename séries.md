@@ -42,6 +42,7 @@
 * Dérapages (Eric Cantona)
 * Big Little Lies (2017) ❤️❤️ [🍅](https://www.rottentomatoes.com/tv/big_little_lies)
 * The Dropout (Theranos) (2022) [🍅](https://www.rottentomatoes.com/tv/the_dropout/s01)
+* Presumed Innocent (Jake Gyllenhaal) (2014)
 * pas vu:
 	* The Wire
 	* The Sopranos
@@ -79,7 +80,7 @@
 * Le Bureau des Légendes (2015)
 * The Handmaid's Tale (2017) [🍅](https://www.rottentomatoes.com/tv/the_handmaids_tale/s01)
 * The Terror (2018) [🍅](https://www.rottentomatoes.com/tv/the_terror/s01)
-* à voir: Sherlock (Benedict Cumberbatch)
+* pas vu: Sherlock (Benedict Cumberbatch)
 
 
 ### Divers / à thème

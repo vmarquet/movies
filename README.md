@@ -1087,12 +1087,12 @@ Français:
 * Mar adentro (Alejandro Amenábar, Javier Bardem) 🇪🇸 [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * La Science des Rêves (Michel Gondry)
 * Kiss Kiss Bang Bang #comédie
+* Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Sin City (Franck Miller, Robert Rodriguez) #policier
 * Broken Flowers (Jim Jarmusch)
 * The 40 year old virgin (Steve Carell) #comédie
 * The Constant Gardener (Ralph Fiennes)
 * Le Tigre et la Neige (Roberto Benigni) 🇮🇹
-* Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Million Dollar Baby (Clint Eastwood) 🏆
 * Capote (Philip Seymour Hoffman) #biopic
 * V for Vendetta
@@ -1222,6 +1222,7 @@ Français:
 * Le Ruban blanc (Michael Haneke) 🇩🇪 🌿
 * Tetro (FF Coppola) 🎥
 * Fish Tank 🇬🇧
+* Tokyo! (Michel Gondry, Leos Carax, Bong Joon-ho) 🇯🇵
 * An Education (Carey Mulligan) 🇬🇧
 * London River (Rachid Bouchareb) [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
@@ -1281,6 +1282,7 @@ Français:
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥
 * The Tree of Life (Terrence Malick)
+* Incendies (Denis Villeneuve)
 * Margin Call (Kevin Spacey) 💵
 * Starbuck 🇨🇦 #comédie
 * Rango (Gore Verbinski) #western
@@ -1419,6 +1421,7 @@ Français:
 * Il est de retour 🇩🇪 #satire
 * Mad Max: Fury Road
 * Taxi Téhéran 🇮🇷
+* Spotlight (Mark Ruffalo) #journalism
 * bof: ~~The Martian~~, ~~A Bigger Splash~~
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1475,6 +1478,7 @@ Français:
 * Darkest Hour 🇬🇧 #ww2
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis) 🇬🇧
 * Blade Runner 2049 (Denis Villeneuve) #sf
+* Pentagon Papers (Steven Spielberg, Meryl Streep) #journalism
 * bof: Split (James McAvoy), Lady Bird (Greta Gerwig) #coming-of-age, The Meyerowitz Stories, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja (Bong Joon-ho) , ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1605,7 +1609,7 @@ Français:
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * Puss in Boots: The Last Wish (Chat potté 2) ❤️ #famille
-* She Said (affaire Weinstein)
+* She Said (affaire Weinstein) #journalism
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
 * Hundreds of Beavers 🍿
 * Official Competition (Penélope Cruz, Antonio Banderas) 🇪🇸
@@ -1663,11 +1667,13 @@ Français:
 * Le Moine et le fusil 🇧🇹
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * Le mal n'existe pas (Ryūsuke Hamaguchi) 🇯🇵 [📰](https://www.telerama.fr/cinema/le-mal-n-existe-pas-de-ryusuke-hamaguchi-western-ecolo-d-une-beaute-saisissante_cri-7032077.php)
+* Polite Society 🇬🇧 #coming-of-age
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
 * Poor Things (Yórgos Lánthimos) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
 * Reality
 * LaRoy, Texas
 * All of us Strangers 🇬🇧
+* I saw the TV glow
 * Les Colons 🇨🇱
 * La Sociedad de la Nieve 🇺🇾
 * Sick of Myself 🇳🇴 #satire
@@ -1698,8 +1704,9 @@ Français:
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)
 * Les Trois Mousquetaires #aventure
+* Daaaaaalí ! (Quentin Dupieux)
 * Je verrai toujours vos visages (Jeanne Herry)
-* bof: La Passion de Dodin Bouffant, Chien de la Casse, Le Vourdalak, Yannick (Quentin Dupieux), Retour à Séoul, Le Règne animal (Romain Duris) 5✨, Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
+* bof: La Bête (Léa Seydoux), La Passion de Dodin Bouffant, Chien de la Casse, Le Vourdalak, Yannick (Quentin Dupieux), Retour à Séoul, Le Règne animal (Romain Duris) 5✨, Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
 
 
 ### 2024

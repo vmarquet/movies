@@ -6,6 +6,7 @@
 * https://editorial.rottentomatoes.com/article/2024-cannes-preview/
 * https://editorial.rottentomatoes.com/guide/cannes-2024-movie-scorecard/
 * https://www.telerama.fr/cinema/cannes-2024-tous-les-films-en-competition-notes-par-la-redaction-de-telerama-7020448.php
+* https://editorial.rottentomatoes.com/guide/best-new-movies/
 * https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php 🇫🇮 TT
 * https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
 * My Sunshine 🇯🇵
@@ -20,13 +21,11 @@
 * https://www.rottentomatoes.com/m/ordinary_angels
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/civil_war_2024
-* Horizon (Kevin Costner) #western
 * https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
 * https://www.rottentomatoes.com/m/irenas_vow
 * https://www.rottentomatoes.com/m/musica
 * https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
 * https://www.rottentomatoes.com/m/arthur_the_king
-* https://www.rottentomatoes.com/m/i_saw_the_tv_glow
 * Comme un lundi 🇯🇵
 * Rapture (Rimdogittanga) (Dominic Sangma) 🇮🇳
 * https://www.rottentomatoes.com/m/the_idea_of_you
@@ -37,6 +36,9 @@
 * https://www.rottentomatoes.com/m/young_woman_and_the_sea
 * https://www.rottentomatoes.com/m/tuesday_2023
 * https://www.rottentomatoes.com/m/conclave
+* https://www.telerama.fr/cinema/memory-peter-sarsgaard-et-jessica-chastain-duo-eblouissant-dans-ce-melo-de-michel-franco_cri-7032906.php TTT
+* https://www.rottentomatoes.com/m/thelma_2024
+* https://www.rottentomatoes.com/m/ghostlight_2024
 
 
 ### 2023
@@ -54,7 +56,6 @@
 * tous TTT:
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
-* https://www.rottentomatoes.com/m/polite_society
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
 * https://www.rottentomatoes.com/m/anselm (docu)
 * https://www.rottentomatoes.com/m/molli_and_max_in_the_future
@@ -78,7 +79,6 @@
 * https://www.rottentomatoes.com/m/limbo_2023
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/the_buriti_flower 🇧🇷
-* https://www.rottentomatoes.com/m/daaaaaali
 * https://www.rottentomatoes.com/m/beau_is_afraid
 * https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php
 * https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽
@@ -233,7 +233,6 @@
 ### 2009
 
 * https://www.rottentomatoes.com/m/1216014-still_walking (Koreeda) 🇯🇵
-* https://www.rottentomatoes.com/m/10010237-tokyo 🇯🇵
 * https://www.telerama.fr/cinema/films/vincere,391336.php
 * https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
 * Welcome
@@ -305,6 +304,7 @@
 
 ### 2000
 
+* https://editorial.rottentomatoes.com/guide/essential-2000s-movies/
 * https://www.rottentomatoes.com/m/1095420-high_fidelity
 * https://www.rottentomatoes.com/m/sexy_beast
 
@@ -400,6 +400,7 @@
 
 * https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹
 * https://www.rottentomatoes.com/m/midnight_run
+* https://www.rottentomatoes.com/m/the_beast_1988
 
 
 ### 1987
