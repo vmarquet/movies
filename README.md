@@ -647,6 +647,7 @@ Français:
 * 'Round Midnight (Bertrand Tavernier) 🎷 #jazz : belle musique mais pas vraiment d'histoire
 * The Fly (David Cronenberg) 🪰 #nanar #so-bad-its-good
 * Down by Law (Jim Jarmusch)
+* bof: Blue Velvet (David Lynch)
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -926,7 +927,7 @@ Français:
 * Ghost Dog: The Way of the Samurai (Jim Jarmusch) ❤️ 🍦 [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
 * eXistenZ (David Cronenberg, Jude Law, Jennifer Jason Leigh, Willem Dafoe) #film-à-énigme
-* Audition 🇯🇵
+* Audition (Takashi Miike) 🇯🇵
 * Dans la peau de John Malkovich (Spike Jonze, John Malkovich) #film-à-énigme
 * Office Space 💙 #comédie-de-bureau
 * Sleepy Hollow (Tim Burton)
@@ -1215,6 +1216,7 @@ Français:
 * Bright Star (Jane Campion) 🇬🇧 🎥 ❤️
 * Inglorious Basterds (Tarentino) 🎥 ❤️
 * Fantastic Mr. Fox (Wes Anderson)
+* Still Walking (Koreeda) 🇯🇵
 * Dans ses yeux (El secreto de sus ojos) 🇦🇷 ✨ #thriller
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
 * Whatever Works (Woody Allen)
@@ -1534,7 +1536,7 @@ Français:
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, The Farewell
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Farewell
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1546,7 +1548,7 @@ Français:
 * Le Nom de la Terre
 * La Vie Scolaire #film-scolaire
 * La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
-* bof: Le Daim (Quentin Dupieux), Les Misérables, Liberté (Albert Serra) 🎥 🌿
+* bof: Le Daim (Quentin Dupieux), Les Misérables, Liberté (Albert Serra) 🎥 🌿, Celle que vous croyez
 
 [Cannes 2019 - toutes les notes télérama](https://www.telerama.fr/festival-de-cannes/2019/cannes-2019-voici-le-programme-des-films-en-competition,n6238497.php)
 
@@ -1715,6 +1717,7 @@ Français:
 
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
+* Civil War
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
       > ❝ - You remember old Dressy, right?  

@@ -105,6 +105,7 @@
 * https://www.rottentomatoes.com/m/joyland_2022 🇵🇰
 * Broker (Koreeda) 🇰🇷
 * Aftersun
+* Shut In
 
 
 ### 2021
@@ -119,6 +120,8 @@
 * https://www.rottentomatoes.com/m/luca_2021
 * https://www.rottentomatoes.com/m/mondo_hollywoodland
 * https://www.rottentomatoes.com/m/shiva_baby
+* Old Henry
+* Ballad of a white cow 🇮🇷
 
 
 ### 2020
@@ -136,9 +139,9 @@
 
 ### 2019
 
-* https://www.rottentomatoes.com/m/first_love_2019 (Takashi Miike) 🇯🇵
 * https://www.rottentomatoes.com/m/invisible_life 🇧🇷
-* https://www.rottentomatoes.com/m/ash_is_purest_white 🇨🇳
+* https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
+* https://www.rottentomatoes.com/m/ash_is_purest_white (Les Éternels) 🇨🇳
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
 * https://www.rottentomatoes.com/m/judy_2019
 * https://www.rottentomatoes.com/m/monos
@@ -146,10 +149,15 @@
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 * https://www.rottentomatoes.com/m/babyteeth
 * https://www.rottentomatoes.com/m/driveways
+* First Cow
+* Mr Jones (L'ombre de Staline) #history
 
 
 ### 2018
 
+* Woman at War 🇮🇸
+* Rafiki 🇰🇪
+* https://www.telerama.fr/cinema/films/long-days-journey-into-night,n5603289.php TTT 🇨🇳
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * https://www.telerama.fr/cinema/le-monde-est-a-toi-7027679.php TTT (Romain Gavras)
 * https://www.rottentomatoes.com/m/tully_2018
@@ -232,7 +240,7 @@
 
 ### 2009
 
-* https://www.rottentomatoes.com/m/1216014-still_walking (Koreeda) 🇯🇵
+* https://vodkaster.telerama.fr/films/ulzhan/48115 🇰🇿
 * https://www.telerama.fr/cinema/films/vincere,391336.php
 * https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
 * Welcome
@@ -454,6 +462,7 @@
 
 * https://www.rottentomatoes.com/m/fame
 * The big red one
+* Inferno (Dario Argento)
 
 
 ### 1979
