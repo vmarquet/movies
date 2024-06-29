@@ -86,6 +86,7 @@
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
 * https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023
 * Dissidente
+* Gasoline Rainbow
 
 
 ### 2022
@@ -143,6 +144,8 @@
 * https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
 * https://www.rottentomatoes.com/m/ash_is_purest_white (Les Éternels) 🇨🇳
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
+* https://www.telerama.fr/cinema/films/les-racines-du-monde,n6692233.php TT Les racines du monde 🇲🇳
+* https://www.telerama.fr/cinema/films/les-voleurs-de-chevaux,n6750890.php TTT Les voleurs de chevaux 🇰🇿
 * https://www.rottentomatoes.com/m/judy_2019
 * https://www.rottentomatoes.com/m/monos
 * https://www.rottentomatoes.com/m/togo_2019
@@ -251,6 +254,7 @@
 
 * https://www.telerama.fr/cinema/films/la-belle-personne,354922.php
 * https://www.lemonde.fr/culture/article/2024/03/27/la-flamme-verte-une-somptueuse-traversee-du-temps-facon-mille-et-une-nuits_6224436_3246.html 🇮🇷
+* https://www.telerama.fr/cinema/films/le-bon-la-brute-le-cingle,366168.php TTT 🇰🇷
 
 
 ### 2007
