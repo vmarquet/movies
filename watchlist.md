@@ -37,8 +37,15 @@
 * https://www.rottentomatoes.com/m/tuesday_2023
 * https://www.rottentomatoes.com/m/conclave
 * https://www.telerama.fr/cinema/memory-peter-sarsgaard-et-jessica-chastain-duo-eblouissant-dans-ce-melo-de-michel-franco_cri-7032906.php TTT
+* https://www.rottentomatoes.com/m/the_dead_dont_hurt #western
 * https://www.rottentomatoes.com/m/thelma_2024
 * https://www.rottentomatoes.com/m/ghostlight_2024
+* https://www.rottentomatoes.com/m/maxxxine
+* https://www.telerama.fr/cinema/les-sorties-cinema-de-la-semaine-les-fantomes-el-profesor-horizon-une-saga-americaine-7021125.php
+* la récréation de juillet
+* only the river flows 🇰🇷
+* Santosh 🇮🇳
+* Sons (Gustav Möller) 🇩🇰
 
 
 ### 2023
@@ -133,7 +140,6 @@
 * https://www.rottentomatoes.com/m/the_macaluso_sisters 🇮🇹
 * https://www.rottentomatoes.com/m/the_way_back_2020
 * https://www.rottentomatoes.com/m/son_of_monarchs
-* https://www.rottentomatoes.com/m/words_on_bathroom_walls #coming-of-age
 * https://www.rottentomatoes.com/m/psych_2_lassie_come_home
 * https://www.rottentomatoes.com/m/wolfwalkers
 
@@ -154,11 +160,11 @@
 * https://www.rottentomatoes.com/m/driveways
 * First Cow
 * Mr Jones (L'ombre de Staline) #history
+* https://www.rottentomatoes.com/m/rocketman_2019
 
 
 ### 2018
 
-* Woman at War 🇮🇸
 * Rafiki 🇰🇪
 * https://www.telerama.fr/cinema/films/long-days-journey-into-night,n5603289.php TTT 🇨🇳
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
@@ -577,6 +583,7 @@
 * https://www.rottentomatoes.com/m/last_straw
 * https://www.rottentomatoes.com/m/exhuma 🇰🇷
 * https://www.rottentomatoes.com/m/disturbia
+* https://www.rottentomatoes.com/m/longlegs
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
