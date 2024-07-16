@@ -1622,6 +1622,7 @@ Français:
 * Triangle of Sadness (Ruben Östlund) 🌿 [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
 * As Bestas 🇪🇸 : "un thriller à l’hyperréalisme terrifiant" (télérama)
 * Small, Slow But Steady (La Beauté du Geste) 🇯🇵
+* Living 🇬🇧
 * La Femme de Tchaikovski 🇷🇺 [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
 * A l'Ouest rien de nouveau 🇩🇪 #film-de-guerre

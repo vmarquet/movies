@@ -11,17 +11,21 @@ Youtube
     * best of: L'Odyssée, Le Cid, Madame Bovary, La Métamorphose
 * [France Inter - Thomas Bidegain](https://www.youtube.com/results?search_query=thomas+bidegain)
 * [Strip Tease](https://www.youtube.com/c/StripTeaseTVFR)
+* [Tracks - Mushariders](https://www.youtube.com/watch?v=2BbkVWeRMb0)
 * [À la recherche du Vortex](https://www.youtube.com/watch?v=_Vv1bj7Zz4k)
 * [Pitch Meetings](https://www.youtube.com/@PitchMeetings)
+* [Marina Rollman](https://www.youtube.com/watch?v=uPL3tNlObE4)
+* [Jérôme Commandeur - LOL saison 4](https://www.youtube.com/watch?v=sfNdJpZR81Y&pp=ygUVbG9sIGplcm9tZSBjb21tYW5kZXVy)
 
 
 Humoristes
 ----------
 * Stéphane Guillon (le spectacle "En avant la Musique")
-* Fabrice Eboué
-* Gaspard Proust
+* Fabrice Eboué (le spectacle "Faites entrer Fabrice Éboué", [sketch à Montreux](https://www.youtube.com/watch?v=tMnKtPMt8As&pp=ygUYZmFicmljZSBlYm91w6kgIG1vbnRyZXV4))
+* Gaspard Proust (le spectacle "Gaspard Proust Tapine")
 * Ali Wong
 * Christina P
+* Roman Frayssinet (le spectacle "Ô dedans", la [chronique chez Clique](https://www.youtube.com/watch?v=7tIcndlgm7o&list=PLAo5WPr3qmhQe29Y3ZvQZHJmBFX7UhmrL))
 
 
 BD
