@@ -849,6 +849,7 @@ Français:
 * N'oublie pas que tu vas mourir (Xavier Beauvois) 🎗️
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
 * Le bonheur est dans le pré (vu ?)
+* Les trois frères (les inconnus)
 * bof: La Cérémonie (Claude Chabrol)
 
 
@@ -1229,7 +1230,7 @@ Français:
 * London River (Rachid Bouchareb) [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
-* bof: Invictus (Clint Eastwood) 🇿🇦 🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, Avatar, The Limits of Control (Jim Jarmusch), ~~Enter the Void (Gaspar Noé)~~
+* bof: Invictus (Clint Eastwood) 🇿🇦 🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth (Yórgos Lánthimos) 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, Avatar, The Limits of Control (Jim Jarmusch), ~~Enter the Void (Gaspar Noé)~~
 
 [Césars 35](https://fr.wikipedia.org/wiki/35e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1507,7 +1508,7 @@ Français:
 * First Man (Damien Chazelle) #biopic
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg)
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, The Guilty 🇩🇰, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg)
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1720,14 +1721,17 @@ Français:
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
 * Civil War
+* Santosh 🇮🇳
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
+* Kinds of Kindness (Yórgos Lánthimos)
 * bof: Challengers, Love Lies Bleeding, Mad Max: Furiosa, ~~Monkey Man~~
 
 Français:
 
+* La Récréation de juillet ❤️
 * Première Affaire ❤️
 * Le Comte de Monte-Cristo (Pierre Niney)
 * Les Fantômes
@@ -1817,7 +1821,7 @@ Français:
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
-* bof: Don't Breathe (2016), Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Pearl (2022), Vermines (2023)
+* bof: Don't Breathe (2016), Tumbbad (2018) 🇮🇳, Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Pearl (2022), Vermines (2023)
 
 
 

@@ -1,4 +1,5 @@
 * https://editorial.rottentomatoes.com/hub-subpage/leaderboard-3/
+* https://editorial.rottentomatoes.com/guide/best-1980s-cult-movies/
 
 
 ### 2024
@@ -41,12 +42,11 @@
 * https://www.rottentomatoes.com/m/ghostlight_2024
 * https://www.rottentomatoes.com/m/maxxxine
 * https://www.telerama.fr/cinema/les-sorties-cinema-de-la-semaine-les-fantomes-el-profesor-horizon-une-saga-americaine-7021125.php
-* la récréation de juillet
 * only the river flows 🇰🇷
-* Santosh 🇮🇳
 * Sons (Gustav Möller) 🇩🇰
 * Matria
 * https://www.rottentomatoes.com/m/touch_2024
+* https://www.rottentomatoes.com/m/the_goat_life
 
 
 ### 2023
@@ -586,7 +586,6 @@
 * https://www.rottentomatoes.com/m/exhuma 🇰🇷
 * https://www.rottentomatoes.com/m/disturbia
 * https://www.rottentomatoes.com/m/longlegs
-* https://www.rottentomatoes.com/m/tumbbad 🇮🇳
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
