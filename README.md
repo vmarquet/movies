@@ -214,6 +214,7 @@ Français:
     * > ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
 * Past Lives ❤️
     * > ❝ It's like planting two trees in one pot. Our roots need to find their place. ❞
+* Molli and Max in the Future ❤️ #romcom #sf
 * L'Innocence (Monster) (Koreeda) 🇯🇵 ❤️
 * Tár (Cate Blanchett) ❤️ [📰](https://www.telerama.fr/cinema/films/tar-1-229287177.php) (6 nominations 🏆)
 * The Iron Claw ❤️

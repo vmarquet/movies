@@ -47,6 +47,9 @@
 * Matria
 * https://www.rottentomatoes.com/m/touch_2024
 * https://www.rottentomatoes.com/m/the_goat_life
+* https://www.rottentomatoes.com/m/the_good_half
+* https://www.rottentomatoes.com/m/didi_2024
+* https://www.rottentomatoes.com/m/oddity
 
 
 ### 2023
@@ -66,7 +69,6 @@
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
 * https://www.rottentomatoes.com/m/anselm (docu)
-* https://www.rottentomatoes.com/m/molli_and_max_in_the_future
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/fitting_in_2023
 * https://www.rottentomatoes.com/m/the_persian_version
