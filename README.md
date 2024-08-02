@@ -196,7 +196,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
 * Kinds of Kindness (Yórgos Lánthimos)
-* bof: Challengers, Love Lies Bleeding, Mad Max: Furiosa, ~~Monkey Man~~
+* Thelma
+* bof: Ghostlight, Love Lies Bleeding, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
 
 Français:
 
@@ -248,6 +249,7 @@ Français:
 * One Life 🇬🇧 #history
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
+* Femme
 * A Haunting in Venice (Kenneth Branagh) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
@@ -338,7 +340,7 @@ Français:
 * Albatros (Xavier Beauvois)
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
-* bof: Titane, Vortex (Gaspar Noé), L'évènement, Boite noire, Benedetta
+* bof: Titane, Vortex (Gaspar Noé), Les Jeunes Amants, L'évènement, Boite noire, Benedetta
 
 
 ### 2020
@@ -481,7 +483,6 @@ Français:
 
 * La Mort de Louis XIV (Albert Serra, Jean-Pierre Léaud) 🌿 ❤️
 * Saint Amour (Delépine et Kervern) ❤️
-    * > _en achetant une bouteille à la station service:_ ❝ C'est du Chinon, c'est pour compléter la route des vins ❞
 * Réparer les Vivants [📰](https://www.telerama.fr/cinema/films/reparer-les-vivants,510399.php)
 * Dans les forêts de Sibérie (musique par Ibrahim Maalouf) #aventure
 * bof: La Fille de Brest
@@ -657,7 +658,7 @@ Français:
 * The King's Speech (Le Discours d'un roi) 🇬🇧
 * 127 Hours (Danny Boyle, James Franco)
 * Machete (Robert Rodriguez)
-* Tucker and Dale vs Evil
+* Tucker and Dale vs Evil 🍿
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
@@ -1120,7 +1121,7 @@ Français:
         </details>
 * Four Weddings and a Funeral (Mike Newell) 🇬🇧 #romcom
 * The Last Seduction #thriller-érotique : l'intrigue commence vraiment à la moitié du film
-* bof: Forrest Gump, Heavenly Creatures, The Shawshank Redemption, Ed Wood
+* bof: Forrest Gump, Heavenly Creatures (Peter Jackson) 🇳🇿, The Shawshank Redemption, Ed Wood
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1564,8 +1565,12 @@ Français:
 ### 1966
 
 * Le Bon, la Brute et le Truand (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
+* bof: Persona (Ingmar Bergman) 🇸🇪, Blow-Up 🇬🇧, Fahrenheit 451 (Français Truffaut) 🇬🇧
+
+Français:
+
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
-* bof: Persona (Ingmar Bergman) 🇸🇪, Blow-Up 🇬🇧, Le Roi de Coeur (Philippe de Broca), Fahrenheit 451 (Français Truffaut)
+* bof: Le Roi de Coeur (Philippe de Broca)
 
 
 ### 1965
@@ -1645,7 +1650,7 @@ Français:
 ### 1959
 
 * Some Like It Hot (Billy Wilder, Marylin Monroe) #comédie
-* ~~Le Tigre du Bengale (Fritz Lang)~~ : à éviter, très mal vieilli, intrigue cliché
+* ~~Le Tigre du Bengale (Fritz Lang)~~ 🇩🇪 : à éviter, très mal vieilli, intrigue cliché
 
 [Cannes (12e)](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1959#Palmar%C3%A8s)
 

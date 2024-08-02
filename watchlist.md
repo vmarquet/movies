@@ -38,9 +38,6 @@
 * https://www.rottentomatoes.com/m/conclave
 * https://www.telerama.fr/cinema/memory-peter-sarsgaard-et-jessica-chastain-duo-eblouissant-dans-ce-melo-de-michel-franco_cri-7032906.php TTT
 * https://www.rottentomatoes.com/m/the_dead_dont_hurt #western
-* https://www.rottentomatoes.com/m/thelma_2024
-* https://www.rottentomatoes.com/m/ghostlight_2024
-* https://www.rottentomatoes.com/m/maxxxine
 * https://www.telerama.fr/cinema/les-sorties-cinema-de-la-semaine-les-fantomes-el-profesor-horizon-une-saga-americaine-7021125.php
 * only the river flows 🇰🇷
 * Sons (Gustav Möller) 🇩🇰
@@ -80,7 +77,6 @@
 * https://www.rottentomatoes.com/m/the_starling_girl
 * https://www.rottentomatoes.com/m/rustin_2023
 * https://www.rottentomatoes.com/m/problemista
-* https://www.rottentomatoes.com/m/femme_2023 #noir
 * https://www.rottentomatoes.com/m/limbo_2023
 * https://www.rottentomatoes.com/m/inside_the_yellow_cocoon_shell
 * https://www.rottentomatoes.com/m/slow
@@ -124,7 +120,6 @@
 * https://www.rottentomatoes.com/m/the_harder_they_fall #western
 * https://www.rottentomatoes.com/m/the_worst_person_in_the_world
 * https://www.telerama.fr/cinema/films/stillwater,n6692229.php TTT
-* https://www.telerama.fr/cinema/films/les-jeunes-amants-1-193624542.php TTT
 * https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
 * https://www.rottentomatoes.com/m/blue_bayou_2021
@@ -334,11 +329,12 @@
 ### 1999
 
 * The Insider https://www.rottentomatoes.com/m/insider
-* https://www.rottentomatoes.com/m/boys_dont_cry
+* https://www.rottentomatoes.com/m/boys_dont_cry +++
 * https://www.rottentomatoes.com/m/magnolia (Paul Thomas Anderson)
 * https://www.rottentomatoes.com/m/1093579-man_on_the_moon
 * https://www.rottentomatoes.com/m/notting_hill #romcom
 * https://www.rottentomatoes.com/m/1091577-ideal_husband
+* https://www.rottentomatoes.com/m/election
 
 
 ### 1998
@@ -504,6 +500,7 @@
 ### 1976
 
 * https://www.rottentomatoes.com/m/chess_of_the_wind 🇮🇷
+* https://www.rottentomatoes.com/m/all_the_presidents_men
 
 
 ### 1975
@@ -526,6 +523,8 @@
 * https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
 * https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
+* https://www.rottentomatoes.com/m/last_detail
+* https://www.rottentomatoes.com/m/paper_moon
 
 
 ### 1972
@@ -537,10 +536,12 @@
 ### 1971
 
 * https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php (Jean-Paul Rappeneau)
+* https://www.rottentomatoes.com/m/klute
 
 
 ### 1970
 
+* https://www.rottentomatoes.com/m/landlord
 * Peau d'âne
 
 
@@ -560,6 +561,7 @@
 * https://www.rottentomatoes.com/m/1009583-hidden_fortress 🇯🇵
 * https://www.telerama.fr/cinema/films/l-intendant-sansho,15718.php (Kenji Mizoguchi) 🇯🇵
 * Orfeu Negro (Marcel Camus) 🌿 🏆
+* https://www.rottentomatoes.com/m/10002519-breaking_point
 
 
 ### 1940s
