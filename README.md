@@ -1,10 +1,30 @@
-# Mes films préférés
+# Liste de films vus
 
-## Nota Bene
+<details>
+<summary>Mon top 15 films préférés</summary>
 
-Cette liste regroupe tous les films qui m'ont particulièrement plu, pour une raison ou pour une autre.
+* Portrait de la Jeune Fille en Feu
+* Ghost Dog
+* Blade Runner
+* Gattaca
+* Hateful Eight (Tarentino)
+* Fight Club
+* Le Lauréat
+* Eternal Sunshine of the Spotless Mind
+* Le Nom de la Rose
+* Tigre et Dragon
+* Apocalypse Now
+* Lion
+* Nightcrawler
+* Aguirre, la Colère de Dieu
+* Inglorious Basterds
+* Le Sel de la Terre (docu)
+* Zétwal (docu)
+* Baraka (docu)
+* Scheme Birds (docu)
 
-Pour chaque catégorie, les films sont classés par ordre de préférence (les meilleurs en premier), sauf quelques listes où ils sont classés par année de sortie.
+</details>
+
 
 <details>
 <summary>Légende</summary>
@@ -29,25 +49,8 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 </details>
 
 
-## Sommaire
-
-* [Par année de sortie](#par-année-de-sortie)
-    * [2020](#2020)
-    * [2010](#2010)
-    * [2000](#2000)
-    * [1990](#1990)
-    * [1980](#1980)
-    * [1970](#1970)
-    * [1960](#1960)
-* [Films par genre/thème](#films-par-genrethème)
-    * [Science-Fiction](#science-fiction)
-    * [Epouvante/Horreur](#epouvante--horreur)
-* [Liste de comédies françaises](#comédies-françaises)
-* [Liste de drames romantiques intenses](#liste-de-drames-romantiques-intenses)
-* [Par réalisateur](#par-réalisateur)
-
-
-## Tips
+<details>
+<summary>Astuces</summary>
 
 <details>
 <summary>Où voir des films</summary>
@@ -64,14 +67,14 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 </details>
 
 <details>
-<summary>Favorite film analysis videos</summary>
+<summary>Vidéos analyse</summary>
 
 * [Quentin Tarantino and the Poetry Between the Lines](https://www.youtube.com/watch?v=-sLV-UzASMg)
 * [How Tarantino Writes A Scene](https://www.youtube.com/watch?v=XATONsyKml0)
 </details>
 
 <details>
-<summary>Youtube channels</summary>
+<summary>Chaînes Youtube</summary>
 
 * [Now You See It](https://www.youtube.com/c/NowYouSeeIt/videos)
 * [Every Frame a Painting](https://www.youtube.com/c/everyframeapainting/videos)
@@ -83,7 +86,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 </details>
 
 <details>
-<summary>Various articles</summary>
+<summary>Articles divers</summary>
 
 * https://en.wikipedia.org/wiki/MacGuffin
 * https://en.wikipedia.org/wiki/Chekhov%27s_gun
@@ -92,29 +95,29 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 </details>
 
 <details>
-<summary>Various movie websites</summary>
+<summary>Sites web divers</summary>
 
 * https://www.theyshootpictures.com/
+* [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
+* [framed.wtf](https://framed.wtf/): wordle pour les films
 </details>
 
 <details>
-<summary>Various movie lists</summary>
+<summary>Listes de films diverses</summary>
 
 * [Writers guild of America: 101 Greatest Screenplays of the 21st Century](https://www.wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/list)
 * [Prix Edgar-Allan-Poe](https://fr.wikipedia.org/wiki/Prix_Edgar-Allan-Poe#Meilleur_film_(Best_Motion_Picture)) (récompense les auteurs des meilleures œuvres policières)
-* [Palmarès Sundance](https://www.allocine.fr/festivals/festival-124/edition-18356433/palmares/)
-* [Palmarès Deauville](https://fr.wikipedia.org/wiki/Prix_du_jury_du_Festival_de_Deauville)
 * [Rotten Tomatoes – Best Romantic Comedies of All Time](https://editorial.rottentomatoes.com/guide/best-romantic-comedies-of-all-time/)
 </details>
 
 <details>
-<summary>Friends</summary>
+<summary>Amis</summary>
 
 * https://mustapp.com/@lucasrr
 </details>
 
 <details>
-<summary>Bonus: guess the movie</summary>
+<summary>Bonus: deviner le film</summary>
 
 * 🕵🏼🕵🏿 👩🏼➡️📦
 * 👴👨👦👶
@@ -137,7 +140,7 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 </details>
 
 <details>
-<summary>Bonus: humor</summary>
+<summary>Bonus: humour</summary>
 
 * https://imoquest.tumblr.com/post/53547498057/eternal-torture
 * https://www.smbc-comics.com/?id=3164
@@ -145,33 +148,40 @@ Pour chaque catégorie, les films sont classés par ordre de préférence (les m
 * https://loadingartist.com/comic/down-memory-lame/
 </details>
 
-Bonus:
-
-- [iwdrm](https://iwdrm.tumblr.com/): des scènes cultes en gif
-- [framed.wtf](https://framed.wtf/): wordle pour les films
+</details><!-- fin Astuces -->
 
 
-## Mon top 15 films préférés
+<details>
+<summary>Palmarès</summary>
 
-* Portrait de la Jeune Fille en Feu
-* Ghost Dog
-* Blade Runner
-* Gattaca
-* Hateful Eight (Tarentino)
-* Fight Club
-* Le Lauréat
-* Eternal Sunshine of the Spotless Mind
-* Le Nom de la Rose
-* Tigre et Dragon
-* Apocalypse Now
-* Lion
-* Nightcrawler
-* Aguirre, la Colère de Dieu
-* Inglorious Basterds
-* Le Sel de la Terre (docu)
-* Zétwal (docu)
-* Baraka (docu)
-* Scheme Birds (docu)
+_Quelques liens pour découvrir des films via divers festivals._
+
+🌿 Cannes: [Palme d'Or](https://fr.wikipedia.org/wiki/Palme_d%27or#Palmar%C3%A8s) – [Grand Prix](https://fr.wikipedia.org/wiki/Grand_prix_du_Festival_de_Cannes#Palmar%C3%A8s) – [Prix du Jury](https://fr.wikipedia.org/wiki/Prix_du_jury_du_Festival_de_Cannes#Palmar%C3%A8s) – [Un Certain Regard](https://fr.wikipedia.org/wiki/Prix_Un_certain_regard#Palmar%C3%A8s)
+
+🏆 Oscars: [Meilleur Film](https://fr.wikipedia.org/wiki/Oscar_du_meilleur_film#Ann%C3%A9es_2020) – [Meilleur Film Étranger](https://fr.wikipedia.org/wiki/Oscar_du_meilleur_film_international#Ann%C3%A9es_2020)
+
+✨ Césars: [Meilleur Film](https://fr.wikipedia.org/wiki/C%C3%A9sar_du_meilleur_film#Ann%C3%A9es_2020) – [Meilleur Film Étranger](https://fr.wikipedia.org/wiki/C%C3%A9sar_du_meilleur_film_%C3%A9tranger#Ann%C3%A9es_2020)
+
+☀️ Sundance: [Prix du Jury 🇺🇸](https://fr.wikipedia.org/wiki/Grand_prix_du_jury_du_Festival_de_Sundance#Fiction_am%C3%A9ricaine_(US_Dramatic)) – [Prix du Jury 🌍](https://fr.wikipedia.org/wiki/Grand_prix_du_jury_du_Festival_de_Sundance#Fiction_internationale_(World_Cinema_Dramatic)) – [Prix du Public 🇺🇸](https://fr.wikipedia.org/wiki/Prix_du_public_du_Festival_de_Sundance#US_Dramatic) – [Prix du Public 🌍](https://fr.wikipedia.org/wiki/Prix_du_public_du_Festival_de_Sundance#World_Cinema_Dramatic)
+
+[Palmarès Deauville](https://fr.wikipedia.org/wiki/Prix_du_jury_du_Festival_de_Deauville)
+
+</details>
+
+
+## Sommaire
+
+* [Par année de sortie](#par-année-de-sortie)
+    * [2020](#2020)
+    * [2010](#2010)
+    * [2000](#2000)
+    * [1990](#1990)
+    * [1980](#1980)
+    * [1970](#1970)
+    * [1960](#1960)
+* [Films par genre/thème](#films-par-genrethème)
+    * [Science-Fiction](#science-fiction)
+    * [Epouvante/Horreur](#epouvante--horreur)
 
 
 ## Par année de sortie
@@ -185,7 +195,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2024
 
-[Rotten Tomatoes – Top Movies of 2024](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
+[Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – [Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
 
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
@@ -209,7 +219,7 @@ Français:
 
 ### 2023
 
-[Rotten Tomatoes – Top Movies of 2023](https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/)
+[Cannes](https://www.festival-cannes.com/retrospective/2023/palmares/) – [Oscars 96](https://fr.wikipedia.org/wiki/96e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s) – [Rotten Tomatoes](https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/)
 
 * The Holdovers (Paul Giamatti) ❤️❤️
     * > ❝ Beautifully bittersweet... The Holdovers is a thought-provoking dramedy for viewers seeking a dialogue-driven movie with a throwback feel. ❞ 🍅
@@ -272,6 +282,8 @@ Français:
 
 
 ### 2022
+
+[Cannes](https://www.festival-cannes.com/retrospective/2022/palmares/)
 
 * Le otto montagne 🇮🇹 ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
@@ -1943,7 +1955,7 @@ Mes préférés:
 
 
 
-## Par réalisateur
+## Réalisateurs
 
 Mes réalisateurs et films préférés _(par ordre plus ou moins chronologique d'activité)_.
 
