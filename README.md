@@ -172,13 +172,7 @@ _Quelques liens pour découvrir des films via divers festivals._
 ## Sommaire
 
 * [Par année de sortie](#par-année-de-sortie)
-    * [2020](#2020)
-    * [2010](#2010)
-    * [2000](#2000)
-    * [1990](#1990)
-    * [1980](#1980)
-    * [1970](#1970)
-    * [1960](#1960)
+    * [2020](#2020), [2010](#2010), [2000](#2000), [1990](#1990), [1980](#1980), [1970](#1970), [1960](#1960)
 * [Films par genre/thème](#films-par-genrethème)
     * [Science-Fiction](#science-fiction)
     * [Epouvante/Horreur](#epouvante--horreur)
