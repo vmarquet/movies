@@ -443,10 +443,10 @@ Français:
 
 * My Days of Mercy ❤️
 * The Square (Ruben Östlund) 🇸🇪 🌿
-* Vuelven (Tigers Are Not Afraid) 🇲🇽
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
 * The Death of Stalin (Steve Buscemi) ❤️ #satire
+* Vuelven (Tigers Are Not Afraid) 🇲🇽
 * You Were Never Really Here (Joaquin Phoenix)
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West (Aubrey Plaza)
@@ -639,7 +639,7 @@ Français:
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
 * Moneyball
-* bof: La piel que habito (Pedro Almodóvar), Take This Waltz, Killer Joe, A Dangerous Method (David Cronenberg), ~~Source Code~~
+* bof: La piel que habito (Pedro Almodóvar) 🇪🇸, Take This Waltz, Killer Joe, A Dangerous Method (David Cronenberg), ~~Source Code~~
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1777,7 +1777,7 @@ Français:
 * District 9 (2009) 🇿🇦
 * Soleil Vert (1973, avec Charlton Heston) ❤️
 * Moon (2009) 🎥
-* Alien (1979, Ridley Scott) 💙 [❓](https://twitter.com/ATRightMovies/status/1661664750273527810)
+* Alien (1979, Ridley Scott) 💙 [💡](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * Alien IV (JP Jeunet) [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
 * Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen) 🇬🇧
 * Minority Report (2002, Spielberg)
