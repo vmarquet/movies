@@ -111,6 +111,17 @@
 </details>
 
 <details>
+<summary>Chronologie des films de SF</summary>
+
+<img src="images/divers/futuristic_movie_timeline.jpg" height="800px" />
+
+|     |     |     |
+| --- | --- | --- |
+| ![](images/affiches/gattaca.jpg) | ![](images/affiches/bladerunner.jpg) | ![](images/affiches/brazil.jpg) |
+
+</details>
+
+<details>
 <summary>Amis</summary>
 
 * https://mustapp.com/@lucasrr
@@ -174,7 +185,6 @@ _Quelques liens pour découvrir des films via divers festivals._
 * [Par année de sortie](#par-année-de-sortie)
     * [2020](#2020), [2010](#2010), [2000](#2000), [1990](#1990), [1980](#1980), [1970](#1970), [1960](#1960)
 * [Films par genre/thème](#films-par-genrethème)
-    * [Science-Fiction](#science-fiction)
     * [Epouvante/Horreur](#epouvante--horreur)
 
 
@@ -599,7 +609,7 @@ Français:
 * Cosmopolis (David Cronenberg, Robert Pattinson) [📰](https://www.telerama.fr/cinema/films/cosmopolis,434015.php)
 * The Place Beyond the Pines
 * Life of Pi (L'Odyssée de Pi) (Ang Lee)
-* Antiviral (Brandon Cronenberg)
+* Antiviral (Brandon Cronenberg) #sf
 * Ted 🧸 #romcom
 * Moonrise Kingdom (Wes Anderson)
 * Killing Them Softly (neo-noir, Brad Pitt) 🌿
@@ -695,8 +705,10 @@ Français:
 * Inglorious Basterds (Tarentino) 🎥 ❤️
 * Fantastic Mr. Fox (Wes Anderson)
 * Still Walking (Koreeda) 🇯🇵
+* Moon (Sam Rockwell) 🎥 #sf
 * Dans ses yeux (El secreto de sus ojos) 🇦🇷 ✨ #thriller
 * In the Electric Mist (Bertrand Tavernier, Tommy Lee Jones)
+* District 9 (Neill Blomkamp) 🇿🇦 #sf
 * Whatever Works (Woody Allen)
 * Zombieland #comédie
 * Le Ruban blanc (Michael Haneke) 🇩🇪 🌿
@@ -800,6 +812,7 @@ Français:
 * The Black Dahlia (Brian de Palma)
 * Brokeback Mountain (Ang Lee) 🏆
 * Babel (Alejandro González Iñárritu)
+* Children of Men (Alfonso Cuarón, Clive Owen) 🇬🇧 #sf
 * Le Prestige (Christopher Nolan) #film-à-énigme
 * The Queen (Stephen Frears) 🇬🇧 🎥
 * Les Infiltrés (The Departed) (Martin Scorsese, Matt Damon, Leonardo DiCaprio) 🏆
@@ -836,6 +849,7 @@ Français:
 * Kiss Kiss Bang Bang #comédie
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Sin City (Franck Miller, Robert Rodriguez) #policier
+* La Guerre des mondes (Steven Spielberg) #sf
 * Broken Flowers (Jim Jarmusch)
 * The 40 year old virgin (Steve Carell) #comédie
 * The Constant Gardener (Ralph Fiennes)
@@ -844,6 +858,7 @@ Français:
 * Capote (Philip Seymour Hoffman) #biopic
 * V for Vendetta
 * The Hitchhiker's Guide to the Galaxy (H2G2) #sf
+* The Island (2005) #sf : voir juste la première heure, après c'est nul
 * bof: Walk the Line (Joaquin Phoenix) #biopic, Mémoires d'une geisha, Sympathy for Lady Vengeance (Park Chan-wook) 🇰🇷
 
 [Césars 31](https://fr.wikipedia.org/wiki/31e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -897,6 +912,7 @@ Français:
 * Good Bye, Lenin! (Wolfgang Becker) 🇩🇪
 * Pirates of the Caribbean #fantastique
 * Le Monde de Nemo (Pixar)
+* I, Robot (Will Smith) #sf
 * Memories of Murder (Bong Joon-ho) 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Open Range (Kevin Costner) #western
 * Le Maître du jeu (Runaway Jury)
@@ -922,6 +938,7 @@ Français:
 * L'Homme sans passé (Kaurismäki) 🇫🇮
 * La Cité de Dieu 🇧🇷
 * Frida 🇲🇽
+* Minority Report (Steven Spielberg) #sf
 * Insomnia (Christopher Nolan, Al Pacino) #thriller
 * Infernal Affairs 🇭🇰 #thriller
 * Hero (Zhang Yimou) 🇨🇳
@@ -946,6 +963,7 @@ Français:
 
 * Mulholland Drive (David Lynch)
 * Lord of the Rings (Peter Jackson) 17🏆 #fantastique
+* Artificial Intelligence: A.I. (Steven Spielberg) #sf
 * Rush Hour 2 #comédie
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
@@ -1017,6 +1035,7 @@ Français:
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham) 🇬🇧
 * Kirikou et la Sorcière #famille
+* Dark City #sf
 * Los amantes del círculo polar 🇪🇸 : inégal
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
 * bof: Pi (Darren Aronofsky), Las Vegas Parano (Terry Gilliam), ~~American History X~~
@@ -1031,13 +1050,16 @@ Français:
 
 [Oscars 70](https://fr.wikipedia.org/wiki/70e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Gattaca (Ethan Hawke, Jude Law) ❤️ #sf
 * Titanic (James Cameron) 💙 11🏆
 * The Truman Show (Jim Carrey) #film-à-énigme
+* Alien IV (JP Jeunet) [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php) #sf
 * Contact (Jodie Foster) 💙
 * The Fifth Element (Luc Besson) #sf
 * La Vie est Belle (Roberto Benigni) 🇮🇹 #ww2
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem) 🇪🇸
 * Cure (Kiyoshi Kurosawa) 🇯🇵 🎥
+* Cube #sf
 * The Game (David Fincher, Michael Douglas, Sean Penn) #film-à-énigme
 * Donnie Brasco (Al Pacino, Johnny Depp, Michael Madsen)
 * L.A. Confidential (Kevin Spacey)
@@ -1298,6 +1320,7 @@ Français:
 
 [Oscars 58](https://fr.wikipedia.org/wiki/58e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Brazil (Terry Gilliam) ❤️ #sf
 * White Nights (Soleil de nuit) (Mikhail Baryshnikov) 🇷🇺
 * Witness (Peter Weier, Harrison Ford) #thriller
 * Flesh and Blood (Paul Verhoeven)
@@ -1350,6 +1373,7 @@ Français:
 
 [Oscars 56](https://fr.wikipedia.org/wiki/55e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* Blade Runner (Ridley Scott, Harrison Ford) 🎥 ❤️ #sf
 * Das Boot 🇩🇪 ❤️ (6 nominations 🏆)
 * Fitzcarraldo (Werner Herzog, Klaus Kinski) 🎥
 * Gandhi (Richard Attenborough) 🇬🇧🇮🇳 🏆 #biopic
@@ -1404,7 +1428,8 @@ Français:
 [Oscars 52](https://fr.wikipedia.org/wiki/52e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * All That Jazz (Bob Fosse) 🎥 4🏆 🌿 ❤️
-* Apocalypse Now (FF Coppola) 🎥 🌿 💙
+* Alien (Ridley Scott) ❤️ [💡](https://twitter.com/ATRightMovies/status/1661664750273527810) #sf
+* Apocalypse Now (FF Coppola) 🎥 🌿 ❤️
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 * bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers), Mad Max
@@ -1490,6 +1515,8 @@ Français:
 ### 1973
 
 * Badlands (Terrence Malick, Martin Sheen) ❤️
+* Le Monde sur le Fil (Rainer Werner Fassbinder) 🇩🇪 #sf
+* Soleil Vert (Charlton Heston) #sf
 * L'Homme des Hautes Plaines (Clint Eastwood) 🎥 #western-spaghetti
 * Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
 * Amarcord (Federico Fellini) 🇮🇹 [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
@@ -1505,6 +1532,7 @@ Français:
 * Aguirre, la Colère de Dieu (Werner Herzog, Klaus Kinski) 🎥 ❤️ [💡](https://www.youtube.com/watch?v=8mpgg_IsWhs)
 * Le Parrain (FF Coppola) 🎥 ❤️
 * Délivrance ❤️ #thriller
+* Solaris (Andreï Tarkovski) 🇷🇺 🌿 #sf
 
 Français:
 
@@ -1517,6 +1545,7 @@ Français:
 
 * Orange Mécanique (Stanley Kubrick) 🇬🇧
 * Duel (Steven Spielberg)
+* THX 1138 (Georges Lucas) #sf
 * Harold and Maude : pas fan de l'esthétique et du storytelling mais le fin mot de l'intrigue est intéressant [📰](https://en.wikipedia.org/wiki/Harold_and_Maude#Plot)
 * bof: The Last Picture Show, The French Connection
 
@@ -1553,6 +1582,8 @@ Français:
 ### 1968
 
 * Roméo et Juliette (Zeffirelli) 🇬🇧🇮🇹 ❤️
+* 2001 A Space Odyssey (Stanley Kubrick) 💙 #sf
+* La Planète des Singes (Charlton Heston) 💙 #sf
 * Le Grand Silence (Sergio Corbucci, Ennio Morricone, Klaus Kinski) #western-spaghetti
 * L'Affaire Thomas Crown (Steve McQueen, Faye Dunaway) 🎥 #policier
 * The Swimmer (Burt Lancaster) 🎥 : critique sociale mais sans humour, pas inintéressant mais parfois pesant, daté
@@ -1560,7 +1591,7 @@ Français:
 
 ### 1967
 
-* Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 💙 [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
+* Le Lauréat (Mike Nichols, Dustin Hoffman) 🎥🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/le-laureat,28082.php) #coming-of-age
 * Le Bal des Vampires (Roman Polanski) ❤️ 🎥 #vampires #parodique
 
 Français:
@@ -1765,45 +1796,6 @@ Français:
 
 
 ## Films par genre/thème
-
-
-### Science-Fiction
-
-* Brazil (Terry Gilliam) 💙
-* Blade Runner (Ridley Scott, avec Harrison Ford) 🎥 💙
-* Bienvenue à Gattaca (Ethan Hawke, Jude Law) 💙❤️
-* La Planète des Singes (1968, Charlton Heston)
-* Solaris (1972, Andreï Tarkovski) 🇷🇺 🌿
-* District 9 (2009) 🇿🇦
-* Soleil Vert (1973, avec Charlton Heston) ❤️
-* Moon (2009) 🎥
-* Alien (1979, Ridley Scott) 💙 [💡](https://twitter.com/ATRightMovies/status/1661664750273527810)
-* Alien IV (JP Jeunet) [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php)
-* Les Fils de l'homme (Children of Men) (2006, Alfonso Cuarón, Clive Owen) 🇬🇧
-* Minority Report (2002, Spielberg)
-* Artificial Intelligence: A.I. (2001, Spielberg)
-* 2001 A Space Odyssey (Stanley Kubrick) 💙
-* Le Monde sur le Fil (1973, Rainer Werner Fassbinder) 🇩🇪
-* Cube (1997)
-* Dark City (1998)
-* THX 1138 (1971, Georges Lucas)
-* La Guerre des mondes (2005, Spielberg)
-* Antiviral
-* I, Robot (2003, Will Smith)
-* The Island (2005) : voir juste la première heure, après c'est nul
-
-|     |     |     |
-| --- | --- | --- |
-| ![](images/affiches/gattaca.jpg) | ![](images/affiches/bladerunner.jpg) | ![](images/affiches/brazil.jpg) |
-
-
-<details>
-<summary>bonus: sci-fi movies timeline</summary>
-<img src="images/divers/futuristic_movie_timeline.jpg" height="800px" />
-</details>
-
-
-
 
 ### Epouvante / Horreur
 
