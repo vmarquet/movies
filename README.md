@@ -242,6 +242,7 @@ Français:
 * Les Colons 🇨🇱
 * La Sociedad de la Nieve 🇺🇾
 * Sick of Myself 🇳🇴 #satire
+* Les Meutes 🇲🇦 🌿 [📰](https://www.telerama.fr/cinema/les-meutes-un-choc-rejouissant-dans-les-bas-fonds-de-casablanca-7027372.php)
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) : intrigue façon policier, très convenu
 * Hit Man
@@ -253,7 +254,7 @@ Français:
 * One Life 🇬🇧 #history
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
-* Femme
+* Femme 🇬🇧
 * A Haunting in Venice (Kenneth Branagh) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
@@ -386,6 +387,7 @@ Français:
 * Marriage Story (Scarlett Johansson, Adam Driver)
 * Ad Astra (James Gray, Brad Pitt) #sf
 * A Hidden Life (Terrence Malick) 🎥 : mémorable mais longuet
+* La Vie invisible d'Eurídice Gusmão 🇧🇷 🌿
 * The Two Popes
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)

@@ -47,6 +47,7 @@
 * https://www.rottentomatoes.com/m/the_good_half
 * https://www.rottentomatoes.com/m/didi_2024
 * https://www.rottentomatoes.com/m/oddity
+* https://www.rottentomatoes.com/m/anora 🌿
 
 
 ### 2023
@@ -93,6 +94,10 @@
 * https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023
 * Dissidente
 * Gasoline Rainbow
+* cinéma étranger:
+    * https://www.telerama.fr/cinema/augure-quand-la-fete-de-famille-vire-au-proces-en-sorcellerie_cri-7030007.php TT
+    * https://www.telerama.fr/cinema/si-seulement-je-pouvais-hiberner-le-combat-de-sa-realisatrice-pour-l-education-et-l-ecologie-en-mongolie-7018852.php TTT
+    * https://www.telerama.fr/cinema/goodbye-julia-une-ode-a-la-liberte-d-une-intense-beaute_cri-7029542.php TTT
 
 
 ### 2022
@@ -144,7 +149,6 @@
 
 ### 2019
 
-* https://www.rottentomatoes.com/m/invisible_life 🇧🇷
 * https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
 * https://www.rottentomatoes.com/m/ash_is_purest_white (Les Éternels) 🇨🇳
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
