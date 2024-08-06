@@ -374,7 +374,7 @@ def add_country_stats doc
     </details>
   HTML
 
-  h2 = doc.css('h2').find{ |h2| h2.content == 'Mon top 15 films préférés' }
+  h2 = doc.css('h2').find{ |h2| h2.content == 'Sommaire' }
   h2.add_previous_sibling(details)
 end
 
@@ -422,7 +422,7 @@ def add_year_stats doc
     </details>
   HTML
 
-  h2 = doc.css('h2').find{ |h2| h2.content == 'Mon top 15 films préférés' }
+  h2 = doc.css('h2').find{ |h2| h2.content == 'Sommaire' }
   h2.add_previous_sibling(details)
 end
 
