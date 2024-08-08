@@ -329,11 +329,13 @@ Français:
 * Nos Frangins (Rachid Bouchared) #cinema-qui-denonce
 * L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php) : la fin vend le film, sinon c'est un peu vide
 * bof:
-    * Novembre, En Corps (Klapisch), Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires, ~~Fumer fait tousser (Quentin Dupieux)~~
+    * Novembre, En Corps (Klapisch), Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires 🌿, ~~Fumer fait tousser (Quentin Dupieux)~~
     * Athena (Romain Gavras) : quelques plans iconiques pour un scénario très vide
 
 
 ### 2021
+
+[Cannes](https://www.festival-cannes.com/retrospective/2021/palmares/)
 
 * King Richard (Will Smith) ❤️ 🎾 : biopic Venus Williams
 * Le Sommet des Dieux [📰](https://www.telerama.fr/cinema/films/le-sommet-des-dieux,n6937423.php)
@@ -343,12 +345,13 @@ Français:
 * Annette (Leos Carax, Adam Driver)
 * Jai Bhim 🇮🇳
 * Judas and the Black Messiah ✊🏾
-* Stowaway (Le Passager nº 4) #sf
-* Oxygène (Mélanie Laurent)
 * Dune (Denis Villeneuve) #sf
 * Werewolves Within 🍿 (comédie/horreur) #film-de-noel
+* Compartiment n°6 🇫🇮🇷🇺 🌿
+* Stowaway (Le Passager nº 4) #sf
+* Oxygène (Mélanie Laurent)
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, The Power of the Dog, Onoda 🇯🇵, Last Night in Soho 🇬🇧
+* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, The Power of the Dog, Onoda 🇯🇵, Les Poings desserrés (Razzhimaya Kulaki) 🇷🇺 🌿, Last Night in Soho 🇬🇧
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -357,7 +360,7 @@ Français:
 * Albatros (Xavier Beauvois)
 * Les Olympiades (Jacques Audiard)
 * Petite Maman (Céline Sciamma) [📰](https://www.telerama.fr/cinema/films/petite-maman,n6879604.php)
-* bof: Titane, Vortex (Gaspar Noé), Les Jeunes Amants, L'évènement, Boite noire, Benedetta
+* bof: Titane 🌿, Vortex (Gaspar Noé), Les Jeunes Amants, L'évènement, Boite noire, Benedetta
 
 
 ### 2020
@@ -402,7 +405,7 @@ Français:
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Farewell
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Farewell, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1005,7 +1008,7 @@ Français:
 
 ### 1999
 
-[Oscars 72](https://fr.wikipedia.org/wiki/72e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film)
+[Oscars 72](https://fr.wikipedia.org/wiki/72e_c%C3%A9r%C3%A9monie_des_Oscars#Meilleur_film) – [Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/best-1999-movies/)
 
 * Ghost Dog: The Way of the Samurai (Jim Jarmusch) ❤️ 🍦 [📰](https://www.telerama.fr/cinema/films/ghost-dog-la-voie-du-samourai,46863.php)
 * Fight Club (David Fincher, Brad Pitt, Edward Norton) 🎥🎥 ❤️
@@ -1031,7 +1034,7 @@ Français:
 
 [Oscars 71](https://fr.wikipedia.org/wiki/71e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* The Big Lebowski (frères Coen) 💙 🎳
+* The Big Lebowski (frères Coen) ❤️ 🎳
 * Shakespeare in Love
 * Lock, Stock and Two Smoking Barrels (Guy Ritchie, Jason Statham) 🇬🇧
 * Kirikou et la Sorcière #famille
@@ -1211,7 +1214,7 @@ Français:
 * Thelma & Louise (Ridley Scott) #road-movie
 * Barton Fink (frères Coen)
 * Dead Again (Kenneth Brannagh)
-* bof: What about Bob
+* bof: What about Bob (Bill Murray)
 
 [Césars 17](https://fr.wikipedia.org/wiki/17e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1467,7 +1470,7 @@ Français:
 
 ### 1976
 
-* Taxi Driver (Martin Scorsese, Robert de Niro) 💙 🌿
+* Taxi Driver (Martin Scorsese, Robert de Niro) ❤️ 🌿
 * Le Locataire (Roman Polanski) ❤️ #thriller
 * L'Empire des sens (Nagisa Ōshima) 🇯🇵 🎥 #érotique
 * Marathon Man (Dustin Hoffman, Michael Caine) #thriller
@@ -1802,10 +1805,10 @@ Français:
 * Rosemary's Baby (1968, Roman Polanski) 🎥 💙 [💡](http://rustyjames.canalblog.com/archives/2012/01/18/23280749.html)
 * Suspiria (1977) : pour le cadrage et l'esthétique
 * Shining (1980, Stanley Kubrick)
-* Le Silence des Agneaux (1991, avec Anthony Hopkins) 💙
+* Le Silence des Agneaux (1991, Anthony Hopkins) ❤️
 * Scream (1996, Wes Craven)
 * Ringu (1998) 🇯🇵
-* The Blair Witch Project (1999) 💙
+* The Blair Witch Project (1999) ❤️
 * The Others (2001, Alejandro Amenabar)
 * Kairo (2001) 🇯🇵
 * Dragon Rouge (2002) : pas inoubliable mais prequel potable du Silence des Agneaux
