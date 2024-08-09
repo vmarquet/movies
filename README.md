@@ -472,8 +472,9 @@ Français:
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* 120 battements par minute ❤️ 🎗️ #cinema-qui-denonce
+* 120 battements par minute ❤️ 🌿 🎗️ #cinema-qui-denonce
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
+* Ava ❤️ [📰](https://www.telerama.fr/cinema/ava-de-lea-mysius-un-premier-film-enthousiasmant-et-solaire,159849.php)
 * Grave
 * bof: Le Brio (Daniel Auteuil), Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
 

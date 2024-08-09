@@ -24,6 +24,7 @@ Littérature
 * La gloire de mon père (1957)
 * La Promesse de l'Aube (1960)
 * Le Tableau du Maitre flamand (1990)
+* Le Théorème du Perroquet (1998)
 * Stupeur et Tremblement (1999)
 * Balzac et la petite tailleuse chinoise (roman, Dai Sijie, 2000)
 * La grammaire est une chanson douce (roman, Erik Orsenna, 2001)

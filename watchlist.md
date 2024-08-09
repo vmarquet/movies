@@ -48,6 +48,7 @@
 * https://www.rottentomatoes.com/m/didi_2024
 * https://www.rottentomatoes.com/m/oddity
 * https://www.rottentomatoes.com/m/anora 🌿
+* https://www.rottentomatoes.com/m/good_one
 
 
 ### 2023
@@ -184,9 +185,9 @@
 * https://www.rottentomatoes.com/m/november_2018
 * https://www.rottentomatoes.com/m/the_florida_project
 * https://www.rottentomatoes.com/m/hidden_figures ✊🏾
-* https://www.rottentomatoes.com/m/ava https://www.telerama.fr/cinema/ava-de-lea-mysius-un-premier-film-enthousiasmant-et-solaire,159849.php
 * https://www.rottentomatoes.com/m/a_silent_voice #anime 🇯🇵
 * https://www.rottentomatoes.com/m/your_name #anime 🇯🇵
+* https://www.telerama.fr/festival-de-cannes/2017/les-fantomes-d-ismael-aigu-intense-et-plein-d-humour,158238.php
 
 
 ### 2016
