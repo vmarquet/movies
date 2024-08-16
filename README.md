@@ -294,6 +294,7 @@ Français:
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * Puss in Boots: The Last Wish (Chat potté 2) ❤️ #famille
+* Comme un lundi (Mondays) 🇯🇵 ❤️
 * She Said (affaire Weinstein) #journalism
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
 * Hundreds of Beavers 🍿
@@ -315,7 +316,7 @@ Français:
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, Emily, ~~Chevalier~~
+    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, Emily, ~~Where the Crawdads Sing~~, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -556,7 +557,7 @@ Français:
 * The Imitation Game (Benedict Cumberbatch) 🇬🇧 #biopic
 * Still Alice
 * Snow Therapy (Force Majeure) (Ruben Östlund) 🇸🇪
-* bof: Nos étoiles contraires #coming-of-age, Sils Maria, Maps to the Stars (David Cronenberg), Edge of Tomorrow, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
+* bof: Nos étoiles contraires #coming-of-age, Sils Maria, Maps to the Stars (David Cronenberg), Les Rayures du zèbre (Benoît Poelvoorde) 🇧🇪, Edge of Tomorrow, ~~Interstellar~~, ~~Mommy~~, ~~Magic in the Moonlight~~
 
 [Césars 40](https://fr.wikipedia.org/wiki/40e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -570,7 +571,7 @@ Français:
 * Near Death Experience (Delépine et Kervern, Michel Houellebecq)
 * Jacky au royaume des filles (Riad Sattouf, Vincent Lacoste)
 * Adieu au langage (Jean-Luc Godard)
-* bof: ~~La Famille Bélier~~
+* bof: Loin des hommes, ~~La Famille Bélier~~
 
 
 ### 2013
@@ -923,6 +924,7 @@ Français:
 * The Station Agent (Peter Dinklage) ☀️🎭
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale
+* Big Fish (Tim Burton) : bel épilogue mais le reste du film est peu intéressant
 * bof: Spring, Summer, Fall, Winter... and Spring 🇰🇷, Elephant (Gus Van Sant) 🌿, Coffee and Cigarettes (Jim Jarmusch), Zatōichi (Takeshi Kitano) 🇯🇵, ~~Love Actually 🇬🇧~~
 
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -950,6 +952,7 @@ Français:
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
 * Panic Room (David Fincher) #thriller
+* The Hours (Stephen Daldry)
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -991,7 +994,7 @@ Français:
 * Amores Perros (Alejandro Gonzalez Iñárritu) 🇲🇽 ❤️
 * Memento (Christopher Nolan) #film-à-énigme
 * In the Mood for Love (Wong Kar-wai) 🇭🇰 [💡](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
-* Gladiator 💙 5🏆
+* Gladiator (Ridley Scott) 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt) 🇬🇧
 * Dancer in the Dark (Lars von Trier) 🌿

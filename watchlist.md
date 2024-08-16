@@ -1,5 +1,6 @@
 * https://editorial.rottentomatoes.com/hub-subpage/leaderboard-3/
 * https://editorial.rottentomatoes.com/guide/best-1980s-cult-movies/
+* https://www.telerama.fr/cinema/on-a-classe-les-49-cesars-du-meilleur-film-du-moins-convaincant-au-plus-magistral-7019338.php
 
 
 ### 2024
@@ -26,7 +27,6 @@
 * https://www.rottentomatoes.com/m/musica
 * https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
 * https://www.rottentomatoes.com/m/arthur_the_king
-* Comme un lundi 🇯🇵
 * Rapture (Rimdogittanga) (Dominic Sangma) 🇮🇳
 * https://www.rottentomatoes.com/m/the_idea_of_you
 * https://www.telerama.fr/cinema/borgo-de-stephane-demoustier-un-vertigineux-polar-psychologique-en-milieu-carceral_cri-7032178.php TTT #polar
@@ -49,6 +49,8 @@
 * https://www.rottentomatoes.com/m/oddity
 * https://www.rottentomatoes.com/m/anora 🌿
 * https://www.rottentomatoes.com/m/good_one
+* https://www.rottentomatoes.com/m/the_bikeriders
+* https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 
 
 ### 2023
@@ -56,7 +58,6 @@
 * https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
-* https://www.lemonde.fr/culture/article/2023/09/05/a-venise-bertrand-bonello-filme-les-vies-anterieures-de-lea-seydoux-dans-la-bete_6187946_3246.html
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
 * https://www.rottentomatoes.com/m/robot_dreams
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
@@ -209,7 +210,6 @@
 
 ### 2014
 
-* Loin des hommes
 * https://www.rottentomatoes.com/m/the_normal_heart 🎗️
 * https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
 * Selma ✊🏾
@@ -300,7 +300,6 @@
 
 ### 2003
 
-* https://www.rottentomatoes.com/m/1127787-big_fish
 * https://www.rottentomatoes.com/m/the_return
 * https://www.rottentomatoes.com/m/facing_windows ?
 
@@ -308,7 +307,6 @@
 ### 2002
 
 * Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
-* The Hours (Stephen Daldry) https://www.rottentomatoes.com/m/hours
 * https://www.telerama.fr/cinema/films/le-sourire-de-ma-mere-1-3082998.php
 * https://www.rottentomatoes.com/m/secretary
 * https://www.rottentomatoes.com/m/bend_it_like_beckham
@@ -350,6 +348,7 @@
 * https://www.rottentomatoes.com/m/gods_and_monsters
 * https://www.telerama.fr/cinema/films/place-vendome,45583.php
 * https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh)
+* La vie rêvée des Anges https://www.rottentomatoes.com/m/the_dreamlife_of_angels
 
 
 ### 1997
@@ -598,6 +597,7 @@
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
+* https://editorial.rottentomatoes.com/guide/best-space-horror-movies/
 
 
 
