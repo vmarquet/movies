@@ -23,6 +23,7 @@ Littérature
 * Le Viel Homme et la Mer (Hemingway, 1952)
 * La gloire de mon père (1957)
 * La Promesse de l'Aube (1960)
+* Des fleurs pour Algernon (Daniel Keyes, 1966)
 * Le Tableau du Maitre flamand (1990)
 * Le Théorème du Perroquet (1998)
 * Stupeur et Tremblement (1999)
@@ -30,6 +31,13 @@ Littérature
 * La grammaire est une chanson douce (roman, Erik Orsenna, 2001)
 
 [Les 100 meilleurs livres du 20e siècle](https://fr.m.wikipedia.org/wiki/Les_cent_livres_du_siècle)
+
+
+bof:
+
+* En attendant Godot (Samuel Beckett, 1948)
+* Bonjour tristesse (Françoise Sagan, 1954)
+* Désert (JMG Le Clézio, 1980)
 
 
 
