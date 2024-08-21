@@ -280,6 +280,7 @@ Français:
 * Mars Express #sf [📰](https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php)
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
 * Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)
+* Le Théorème de Marguerite [📰](https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php)
 * Les Trois Mousquetaires #aventure
 * Daaaaaalí ! (Quentin Dupieux)
 * Je verrai toujours vos visages (Jeanne Herry)
@@ -329,8 +330,9 @@ Français:
 * L'Innocent [📰](https://www.telerama.fr/cinema/films/l-innocent-1-213222195.php)
 * Nos Frangins (Rachid Bouchared) #cinema-qui-denonce
 * L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php) : la fin vend le film, sinon c'est un peu vide
+* Notre-Dame brûle (JJ Annaud)
 * bof:
-    * Novembre, En Corps (Klapisch), Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires 🌿, ~~Fumer fait tousser (Quentin Dupieux)~~
+    * La Voie royale, Novembre, En Corps (Klapisch), Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires 🌿, ~~Fumer fait tousser (Quentin Dupieux)~~
     * Athena (Romain Gavras) : quelques plans iconiques pour un scénario très vide
 
 
@@ -641,6 +643,7 @@ Français:
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥
 * The Tree of Life (Terrence Malick)
+* The Lincoln Lawyer (Matthew McConaughey) #film-de-procès
 * Incendies (Denis Villeneuve)
 * Margin Call (Kevin Spacey) 💵
 * Starbuck 🇨🇦 #comédie
@@ -654,6 +657,7 @@ Français:
 * Melancholia (Lars von Trier)
 * The Deep Blue Sea (vu ?)
 * Moneyball
+* It's Such a Beautiful Day
 * bof: La piel que habito (Pedro Almodóvar) 🇪🇸, Take This Waltz, Killer Joe, A Dangerous Method (David Cronenberg), ~~Source Code~~
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1839,6 +1843,7 @@ Français:
 * Talk to Me (2023) 🇦🇺 ❤️
 * You'll Never Find Me (2023) 🇦🇺 ❤️
 * Late Night with the Devil (2023) ❤️
+* Oddity (2024) ❤️
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 

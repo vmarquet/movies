@@ -1,5 +1,6 @@
 * https://editorial.rottentomatoes.com/hub-subpage/leaderboard-3/
 * https://editorial.rottentomatoes.com/guide/best-1980s-cult-movies/
+* https://editorial.rottentomatoes.com/guide/best-movies-of-all-time/
 * https://www.telerama.fr/cinema/on-a-classe-les-49-cesars-du-meilleur-film-du-moins-convaincant-au-plus-magistral-7019338.php
 
 
@@ -46,11 +47,12 @@
 * https://www.rottentomatoes.com/m/the_goat_life
 * https://www.rottentomatoes.com/m/the_good_half
 * https://www.rottentomatoes.com/m/didi_2024
-* https://www.rottentomatoes.com/m/oddity
 * https://www.rottentomatoes.com/m/anora 🌿
 * https://www.rottentomatoes.com/m/good_one
 * https://www.rottentomatoes.com/m/the_bikeriders
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
+* https://www.telerama.fr/cinema/le-roman-de-jim-le-nouveau-melo-des-freres-larrieu-d-une-tendresse-foudroyante_cri-7033996.php TTTT
+* https://www.telerama.fr/cinema/les-pistolets-en-plastique-la-farce-macabre-va-t-elle-trop-loin_cri-7033323.php TT comédie
 
 
 ### 2023
@@ -87,9 +89,8 @@
 * https://www.telerama.fr/cinema/un-metier-serieux-thomas-lilti-doit-il-revoir-sa-copie_cri-7028405.php #film-scolaire
 * https://www.rottentomatoes.com/m/limbo_2023
 * https://www.rottentomatoes.com/m/la_chimera
-* https://www.rottentomatoes.com/m/the_buriti_flower 🇧🇷
+* https://www.rottentomatoes.com/m/the_buriti_flower 🇧🇷 (3 sept)
 * https://www.rottentomatoes.com/m/beau_is_afraid
-* https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php
 * https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽
 * https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
@@ -226,7 +227,6 @@
 
 ### 2012
 
-* https://www.rottentomatoes.com/m/its_such_a_beautiful_day ++
 * Les Adieux à la reine
 * Frances Ha
 
@@ -315,6 +315,7 @@
 ### 2001
 
 * A Beautiful Mind 🏆
+* https://www.rottentomatoes.com/m/im_your_man_2021
 * https://www.rottentomatoes.com/m/waking_life
 * https://www.rottentomatoes.com/m/son_of_the_bride
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
