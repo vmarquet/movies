@@ -210,8 +210,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
 * Kinds of Kindness (Yórgos Lánthimos)
-* Thelma
-* bof: Ghostlight, Love Lies Bleeding, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
+* bof: Dìdi, Thelma, Alien: Romulus, Ghostlight, Love Lies Bleeding, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
 
 Français:
 
@@ -349,12 +348,13 @@ Français:
 * Jai Bhim 🇮🇳
 * Judas and the Black Messiah ✊🏾
 * Dune (Denis Villeneuve) #sf
-* Werewolves Within 🍿 (comédie/horreur) #film-de-noel
+* Werewolves Within 🍿 #comédie #horreur #film-de-noel
 * Compartiment n°6 🇫🇮🇷🇺 🌿
+* Shiva Baby 🎥 #comédie
 * Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, The Power of the Dog, Onoda 🇯🇵, Les Poings desserrés (Razzhimaya Kulaki) 🇷🇺 🌿, Last Night in Soho 🇬🇧
+* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, Stillwater, The Power of the Dog, Onoda 🇯🇵, Les Poings desserrés (Razzhimaya Kulaki) 🇷🇺 🌿, Last Night in Soho 🇬🇧
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -734,6 +734,7 @@ Français:
 
 * La Journée de la jupe [📰](https://www.telerama.fr/cinema/films/la-journee-de-la-jupe,374390.php) #film-scolaire
 * Les Derniers Jours du Monde (Mathieu Amalric) [📰](https://television.telerama.fr/tele/films/les-derniers-jours-du-monde,13356921.php) #sf
+* Welcome
 * A l'origine (François Cluzet)
 * Les Beaux Gosses (Riad Sattouf, Vincent Lacoste)
 * bof: Micmacs à tire-larigot (JP Jeunet), Le Concert (Radu Mihaileanu) #comédie, Les herbes folles (Alain Resnais) [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
@@ -1204,7 +1205,7 @@ Français:
 * Malcolm X (Spike Lee) ✊🏾 #biopic
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
-* bof: Night on Earth (Jim Jarmusch), The Player
+* bof: Night on Earth (Jim Jarmusch), The Player, Alien³
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 

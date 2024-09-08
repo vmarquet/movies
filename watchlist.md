@@ -46,7 +46,6 @@
 * https://www.rottentomatoes.com/m/touch_2024
 * https://www.rottentomatoes.com/m/the_goat_life
 * https://www.rottentomatoes.com/m/the_good_half
-* https://www.rottentomatoes.com/m/didi_2024
 * https://www.rottentomatoes.com/m/anora 🌿
 * https://www.rottentomatoes.com/m/good_one
 * https://www.rottentomatoes.com/m/the_bikeriders
@@ -127,13 +126,11 @@
 
 * https://www.rottentomatoes.com/m/the_harder_they_fall #western
 * https://www.rottentomatoes.com/m/the_worst_person_in_the_world
-* https://www.telerama.fr/cinema/films/stillwater,n6692229.php TTT
 * https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷
 * https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
 * https://www.rottentomatoes.com/m/blue_bayou_2021
 * https://www.rottentomatoes.com/m/luca_2021
 * https://www.rottentomatoes.com/m/mondo_hollywoodland
-* https://www.rottentomatoes.com/m/shiva_baby
 * Old Henry
 * Ballad of a white cow 🇮🇷
 
@@ -256,7 +253,6 @@
 * https://vodkaster.telerama.fr/films/ulzhan/48115 🇰🇿
 * https://www.telerama.fr/cinema/films/vincere,391336.php
 * https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
-* Welcome
 * Max et les Maximonstres
 
 
@@ -552,6 +548,7 @@
 
 ### 1960s
 
+* https://www.rottentomatoes.com/m/to_kill_a_mockingbird
 * https://www.rottentomatoes.com/m/sound_of_music
 * https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
 * https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
