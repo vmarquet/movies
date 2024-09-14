@@ -18,8 +18,6 @@
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php
 * https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
 * https://www.rottentomatoes.com/m/concrete_utopia
-* https://www.rottentomatoes.com/m/menus_plaisirs_les_troisgros (docu)
-* https://www.rottentomatoes.com/m/american_symphony (docu)
 * https://www.rottentomatoes.com/m/spaceman_2024
 * https://www.rottentomatoes.com/m/ordinary_angels
 * https://www.rottentomatoes.com/m/la_chimera
@@ -69,7 +67,6 @@
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
-* https://www.rottentomatoes.com/m/anselm (docu)
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/fitting_in_2023
 * https://www.rottentomatoes.com/m/the_persian_version
@@ -88,7 +85,6 @@
 * https://www.telerama.fr/cinema/un-metier-serieux-thomas-lilti-doit-il-revoir-sa-copie_cri-7028405.php #film-scolaire
 * https://www.rottentomatoes.com/m/limbo_2023
 * https://www.rottentomatoes.com/m/la_chimera
-* https://www.rottentomatoes.com/m/the_buriti_flower 🇧🇷 (3 sept)
 * https://www.rottentomatoes.com/m/beau_is_afraid
 * https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽
 * https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
@@ -149,6 +145,7 @@
 
 ### 2019
 
+* Le Chant de la forêt TTT 🇧🇷
 * https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
 * https://www.rottentomatoes.com/m/ash_is_purest_white (Les Éternels) 🇨🇳
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
@@ -592,6 +589,7 @@
 * https://www.rottentomatoes.com/m/exhuma 🇰🇷
 * https://www.rottentomatoes.com/m/disturbia
 * https://www.rottentomatoes.com/m/longlegs
+* https://www.rottentomatoes.com/m/sleep_2023
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/

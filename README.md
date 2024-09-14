@@ -201,16 +201,18 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 [Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – [Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
 
+* Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
-* Civil War
-* Santosh 🇮🇳
+* Civil War 🇺🇸 ❤️
+* Santosh 🇮🇳 ❤️
+* Inside Out 2 (Pixar)
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
 * Kinds of Kindness (Yórgos Lánthimos)
-* bof: Dìdi, Thelma, Alien: Romulus, Ghostlight, Love Lies Bleeding, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
+* bof: Dìdi, La Fleur de buriti (Crowrã) 🇧🇷, Thelma, Alien: Romulus, Ghostlight, Love Lies Bleeding, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
 
 Français:
 
@@ -316,7 +318,7 @@ Français:
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, Emily, ~~Where the Crawdads Sing~~, ~~Chevalier~~
+    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, Emily, ~~Where the Crawdads Sing~~, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -876,6 +878,7 @@ Français:
 * Va, vis et deviens 🇮🇱
 * Le Petit Lieutenant (Xavier Beauvois) [📰](https://www.telerama.fr/cinema/films/le-petit-lieutenant,236483.php) : film policier touchant, réaliste et bien documenté
 * La Marche de l'empereur
+* De battre mon cœur s'est arrêté (Jacques Audiard, Romain Duris) 8✨
 
 
 ### 2004

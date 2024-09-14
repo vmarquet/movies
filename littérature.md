@@ -8,6 +8,7 @@ Littérature
 * Les fleurs du mal (Baudelaire, 1857)
 * Le roman de la momie (Théophile Gautier, 1857)
 * Jules Vernes (Tribulations d'un Chinois en Chine, ...)
+* Quo vadis ? (Henryk Sienkiewicz)
 * Cyrano de Bergerac (Edmond Rostand, 1897) ❤️
 * La métamorphose (Franz Kafka, 1912)
 * Voyage au bout de la nuit (1932) ❤️
