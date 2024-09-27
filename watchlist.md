@@ -2,6 +2,7 @@
 * https://editorial.rottentomatoes.com/guide/best-1980s-cult-movies/
 * https://editorial.rottentomatoes.com/guide/best-movies-of-all-time/
 * https://www.telerama.fr/cinema/on-a-classe-les-49-cesars-du-meilleur-film-du-moins-convaincant-au-plus-magistral-7019338.php
+* https://editorial.rottentomatoes.com/guide/essential-spanish-language-movies-the-best-spanish-movies/ 🇪🇸
 
 
 ### 2024
@@ -49,7 +50,9 @@
 * https://www.rottentomatoes.com/m/the_bikeriders
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 * https://www.telerama.fr/cinema/le-roman-de-jim-le-nouveau-melo-des-freres-larrieu-d-une-tendresse-foudroyante_cri-7033996.php TTTT
-* https://www.telerama.fr/cinema/les-pistolets-en-plastique-la-farce-macabre-va-t-elle-trop-loin_cri-7033323.php TT comédie
+* https://www.telerama.fr/cinema/les-pistolets-en-plastique-la-farce-macabre-va-t-elle-trop-loin_cri-7033323.php TT comédie (6 nov 2024)
+* https://www.rottentomatoes.com/m/the_damned_2024
+* https://www.rottentomatoes.com/m/rebel_ridge
 
 
 ### 2023
@@ -286,7 +289,6 @@
 
 * https://www.rottentomatoes.com/m/i_heart_huckabees
 * https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
-* https://www.rottentomatoes.com/m/nobody_knows (Koreeda) 🇯🇵
 * https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵🇹🇭
 * https://www.rottentomatoes.com/m/on_the_outs
 
@@ -301,7 +303,6 @@
 
 * Balzac et la petite tailleuse chinoise [🍅](https://www.rottentomatoes.com/m/balzac_and_the_little_chinese_seamstress)
 * https://www.telerama.fr/cinema/films/le-sourire-de-ma-mere-1-3082998.php
-* https://www.rottentomatoes.com/m/secretary
 * https://www.rottentomatoes.com/m/bend_it_like_beckham
 
 
@@ -356,6 +357,7 @@
 * https://www.rottentomatoes.com/m/secrets_and_lies (Mile Leigh)
 * Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
 * https://www.rottentomatoes.com/m/ponette
+* https://www.rottentomatoes.com/m/1078942-shall_we_dance 🇯🇵
 
 
 ### 1995

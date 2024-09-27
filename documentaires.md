@@ -45,5 +45,4 @@ Documentaires
 * https://www.telerama.fr/cinema/tehachapi-jr-filme-une-magnifique-histoire-de-fraternite-en-milieu-carceral_cri-7033123.php
 * https://www.telerama.fr/cinema/films/le-bouton-de-nacre,498714.php
 * https://www.rottentomatoes.com/m/anselm
-* https://www.rottentomatoes.com/m/american_symphony
 

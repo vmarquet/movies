@@ -201,6 +201,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 [Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – [Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
 
+* Les Graines du figuier sauvage 🇮🇷 ❤️
 * Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
@@ -239,6 +240,7 @@ Français:
 * American Fiction (Jeffrey Wright) #satire
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * The Promised Land (Mads Mikkelsen) 🇩🇰
+* Les Meutes 🇲🇦 🌿 [📰](https://www.telerama.fr/cinema/les-meutes-un-choc-rejouissant-dans-les-bas-fonds-de-casablanca-7027372.php)
 * Io Capitano 🇸🇳🇮🇹
 * Le Moine et le fusil 🇧🇹
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
@@ -253,7 +255,6 @@ Français:
 * Les Colons 🇨🇱
 * La Sociedad de la Nieve 🇺🇾
 * Sick of Myself 🇳🇴 #satire
-* Les Meutes 🇲🇦 🌿 [📰](https://www.telerama.fr/cinema/les-meutes-un-choc-rejouissant-dans-les-bas-fonds-de-casablanca-7027372.php)
 * Air (Matt Damon)
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) : intrigue façon policier, très convenu
 * Hit Man
@@ -271,7 +272,7 @@ Français:
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
-* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, The Killer (David Fincher), Saltburn 🇬🇧, La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, ~~Il reste encore demain~~ 🇮🇹
+* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -526,6 +527,7 @@ Français:
 * The Big Short 💵
 * Bone Tomahawk #western
 * Cemetery of Splendour (Apichatpong Weerasethakul) 🇹🇭 🌿
+* Kung Fury 🍿 [▶️](https://www.youtube.com/watch?v=bS5P_LAqiVg)
 * Anomalisa
 * Carol (Todd Haynes, Rooney Mara, Cate Blanchett)
 * Manifesto (Cate Blanchett)
@@ -898,8 +900,9 @@ Français:
 * The Machinist (Christian Bale)
 * OldBoy (Park Chan-wook) 🇰🇷
 * Aviator (Martin Scorsese)
+* Nobody Knows (Koreeda) 🇯🇵
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal) 🇦🇷🇨🇱🇵🇪
-* Crazy Kung-Fu (Stephen Chow) 🇭🇰
+* Crazy Kung-Fu (Stephen Chow) 🇭🇰 🍿
 * Le Secret des Poignards Volants (Zhang Yimou) 🇨🇳
 * La Chute 🇩🇪 #ww2
 * Troie (Brad Pitt)
@@ -959,8 +962,7 @@ Français:
 * The Count of Monte Cristo 🎥
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
-* Panic Room (David Fincher) #thriller
-* The Hours (Stephen Daldry)
+* bof: The Hours (Stephen Daldry), Panic Room (David Fincher) #thriller, Secretary
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1225,6 +1227,7 @@ Français:
 * Danse avec les Loups (Kevin Costner) 🎥 7🏆 #western
 * Thelma & Louise (Ridley Scott) #road-movie
 * Barton Fink (frères Coen)
+* Souvenirs goutte à goutte (Isao Takahata, studio Ghibli) 🇯🇵
 * Dead Again (Kenneth Brannagh)
 * bof: What about Bob (Bill Murray)
 
@@ -1275,8 +1278,9 @@ Français:
 
 * Les Liaisons Dangereuses (Stephen Frears, John Malkovich) 🎥
 * Femmes au bord de la crise de nerfs (Pedro Almodóvar) 🇪🇸
-* The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
+* Le Tombeau des Lucioles (Isao Takahata, studio Ghibli) 🇯🇵
 * Mississippi Burning (Gene Hackman, William Dafoe) ✊🏾
+* The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
 * Gorillas in the mist (Sigourney Weaver) : longuet
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
@@ -1881,7 +1885,6 @@ Français:
 * La plupart des Hayao Miyasaki ❤️
     * Princesse Mononoke
     * Nausicaa de la Vallée du Vent
-    * Le Tombeau des Lucioles
     * Le Chateau dans le Ciel
     * Le Chateau Ambulant
     * Le Voyage de Chihiro
