@@ -3,6 +3,8 @@ Documentaires
 * Baraka (1992) 🎥 ❤️
     * Chronos (1985)
     * Samsara (2011)
+* Bowling for Columbine (2002, Michael Moore)
+* Fahrenheit 9/11 (2004, Michael Moore)
 * Zétwal (2008) 🇫🇷 ❤️
 * Le Sel de la Terre (2014) 📷 ❤️
 * Lo and Behold, Reveries of the Connected World (2016, Werner Herzog) 🌐

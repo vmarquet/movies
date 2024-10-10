@@ -213,10 +213,12 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
 * Kinds of Kindness (Yórgos Lánthimos)
+* All We Imagine as Light 🇮🇳
 * bof: Dìdi, La Fleur de buriti (Crowrã) 🇧🇷, Thelma, Alien: Romulus, Ghostlight, Love Lies Bleeding, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
 
 Français:
 
+* L’Histoire de Souleymane ❤️
 * La Récréation de juillet ❤️
 * Première Affaire ❤️
 * Le Comte de Monte-Cristo (Pierre Niney)
@@ -251,11 +253,12 @@ Français:
 * Reality
 * LaRoy, Texas
 * All of us Strangers 🇬🇧
-* I saw the TV glow
 * Les Colons 🇨🇱
 * La Sociedad de la Nieve 🇺🇾
 * Sick of Myself 🇳🇴 #satire
 * Air (Matt Damon)
+* Strange Darling 🎥
+* I saw the TV glow
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) : intrigue façon policier, très convenu
 * Hit Man
 * Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
@@ -319,7 +322,7 @@ Français:
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Bones and All, Emily, ~~Where the Crawdads Sing~~, ~~Chevalier~~
+    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -348,6 +351,7 @@ Français:
 * The Last Duel (Ridley Scott)
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie #satire
 * Annette (Leos Carax, Adam Driver)
+* The Tragedy of Macbeth (frères Coen)
 * Jai Bhim 🇮🇳
 * Judas and the Black Messiah ✊🏾
 * Dune (Denis Villeneuve) #sf
@@ -474,7 +478,7 @@ Français:
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis) 🇬🇧
 * Blade Runner 2049 (Denis Villeneuve) #sf
 * Pentagon Papers (Steven Spielberg, Meryl Streep) #journalism
-* bof: Split (James McAvoy), Lady Bird (Greta Gerwig) #coming-of-age, The Meyerowitz Stories, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja (Bong Joon-ho) , ~~Le Jeune Karl Marx~~, ~~The Shape of Water~~
+* bof: Split (James McAvoy), Lady Bird (Greta Gerwig) #coming-of-age, The Meyerowitz Stories, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja (Bong Joon-ho) , ~~Le Jeune Karl Marx~~, ~~The Shape of Water (Guillermo del Toro)~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -505,7 +509,7 @@ Français:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷
-* bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn), Hunt for the Wilderpeople 🇳🇿
+* bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn), Hunt for the Wilderpeople 🇳🇿, War Dogs
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -909,6 +913,7 @@ Français:
 * The Passion of the Christ (Mel Gibson) (vu ?)
 * Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
+* Hellboy (Guillermo del Toro)
 * Crash 🏆
 * bof: Napoleon Dynamite #coming-of-age #teen-movie, Hotel Rwanda
 
@@ -1191,7 +1196,7 @@ Français:
 * Belle Époque 🇪🇸 🏆 (meilleur film étranger, 9 goyas)
 * Etat Second (Peter Weir)
 * The Fugitive (Harrison Ford)
-* bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman), Manhattan Murder Mystery (Woody Allen)
+* bof: Les Vestiges du jour 🇬🇧, Short Cuts (Robert Altman), Manhattan Murder Mystery (Woody Allen), Cronos (Guillermo del Toro)
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 

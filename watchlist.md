@@ -5,6 +5,11 @@
 * https://editorial.rottentomatoes.com/guide/essential-spanish-language-movies-the-best-spanish-movies/ 🇪🇸
 
 
+### 2025
+
+* Mickey 17 (Robert Pattinson)
+
+
 ### 2024
 
 * https://editorial.rottentomatoes.com/article/2024-cannes-preview/
@@ -39,7 +44,7 @@
 * https://www.telerama.fr/cinema/memory-peter-sarsgaard-et-jessica-chastain-duo-eblouissant-dans-ce-melo-de-michel-franco_cri-7032906.php TTT
 * https://www.rottentomatoes.com/m/the_dead_dont_hurt #western
 * https://www.telerama.fr/cinema/les-sorties-cinema-de-la-semaine-les-fantomes-el-profesor-horizon-une-saga-americaine-7021125.php
-* only the river flows 🇰🇷
+* only the river flows 🇨🇳
 * Sons (Gustav Möller) 🇩🇰
 * Matria
 * https://www.rottentomatoes.com/m/touch_2024
@@ -53,6 +58,12 @@
 * https://www.telerama.fr/cinema/les-pistolets-en-plastique-la-farce-macabre-va-t-elle-trop-loin_cri-7033323.php TT comédie (6 nov 2024)
 * https://www.rottentomatoes.com/m/the_damned_2024
 * https://www.rottentomatoes.com/m/rebel_ridge
+* https://www.rottentomatoes.com/m/the_wild_robot +++
+* chroniques chinoises
+* https://www.telerama.fr/cinema/le-fil-daniel-auteuil-convaincant-en-avocat-obsede-par-la-verite_cri-7034340.php TT (allocine 3.9)
+* https://www.telerama.fr/cinema/tatami-un-thriller-politique-qui-frappe-fort_cri-7034231.php 🇮🇷
+* Monsieur Aznavour https://www.allocine.fr/film/fichefilm_gen_cfilm=313486.html
+* https://www.rottentomatoes.com/m/saturday_night_2024 (Jason Reitman)
 
 
 ### 2023
@@ -86,7 +97,6 @@
 * https://www.rottentomatoes.com/m/slow
 * https://www.rottentomatoes.com/m/uproar
 * https://www.telerama.fr/cinema/un-metier-serieux-thomas-lilti-doit-il-revoir-sa-copie_cri-7028405.php #film-scolaire
-* https://www.rottentomatoes.com/m/limbo_2023
 * https://www.rottentomatoes.com/m/la_chimera
 * https://www.rottentomatoes.com/m/beau_is_afraid
 * https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽
@@ -99,6 +109,7 @@
     * https://www.telerama.fr/cinema/augure-quand-la-fete-de-famille-vire-au-proces-en-sorcellerie_cri-7030007.php TT
     * https://www.telerama.fr/cinema/si-seulement-je-pouvais-hiberner-le-combat-de-sa-realisatrice-pour-l-education-et-l-ecologie-en-mongolie-7018852.php TTT
     * https://www.telerama.fr/cinema/goodbye-julia-une-ode-a-la-liberte-d-une-intense-beaute_cri-7029542.php TTT
+* https://www.telerama.fr/cinema/l-ete-dernier-catherine-breillat-filme-la-transgression-avec-force-et-subtilite_cri-7028401.php TTTT
 
 
 ### 2022
@@ -113,7 +124,6 @@
 * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
 * https://www.rottentomatoes.com/m/out_of_darkness_2022
 * https://www.rottentomatoes.com/m/elvis
-* https://www.rottentomatoes.com/m/the_blue_caftan 🇲🇦
 * https://www.rottentomatoes.com/m/prey_2022
 * https://www.rottentomatoes.com/m/joyland_2022 🇵🇰
 * Broker (Koreeda) 🇰🇷
@@ -126,7 +136,6 @@
 * https://www.rottentomatoes.com/m/the_harder_they_fall #western
 * https://www.rottentomatoes.com/m/the_worst_person_in_the_world
 * https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷
-* https://www.rottentomatoes.com/m/the_tragedy_of_macbeth_2021 (frères Coen)
 * https://www.rottentomatoes.com/m/blue_bayou_2021
 * https://www.rottentomatoes.com/m/luca_2021
 * https://www.rottentomatoes.com/m/mondo_hollywoodland
@@ -315,6 +324,7 @@
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
 * https://www.rottentomatoes.com/m/sex_and_lucia
 * https://www.rottentomatoes.com/m/shadow_of_the_vampire
+* https://www.telerama.fr/cinema/films/le-lait-de-la-tendresse-humaine,56173.php TTT
 
 
 ### 2000
