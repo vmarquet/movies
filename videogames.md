@@ -49,7 +49,9 @@ PS5
 PC
 ---
 * Rainbow 6 Siege
-* Antichamber
+* puzzle games
+    * Baba is you
+    * Exit 8
 
 
 Gamecube
@@ -65,5 +67,9 @@ GameBoy
 * Super Mario Land
 * Wario Land
 
+
+Jeune age
+---------
+* les jeux de l'Oncle Ernest
 
 
