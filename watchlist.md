@@ -51,6 +51,7 @@
 * https://www.rottentomatoes.com/m/the_goat_life
 * https://www.rottentomatoes.com/m/the_good_half
 * https://www.rottentomatoes.com/m/anora 🌿
+* gou zhen (black dog) 🇨🇳 🌿
 * https://www.rottentomatoes.com/m/good_one
 * https://www.rottentomatoes.com/m/the_bikeriders
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
@@ -64,6 +65,8 @@
 * https://www.telerama.fr/cinema/tatami-un-thriller-politique-qui-frappe-fort_cri-7034231.php 🇮🇷
 * Monsieur Aznavour https://www.allocine.fr/film/fichefilm_gen_cfilm=313486.html
 * https://www.rottentomatoes.com/m/saturday_night_2024 (Jason Reitman)
+* Juré n°2 (Clint Eastwood)
+* https://www.rottentomatoes.com/m/the_outrun
 
 
 ### 2023
@@ -157,6 +160,7 @@
 
 ### 2019
 
+* Camille (Boris Lojkine)
 * Le Chant de la forêt TTT 🇧🇷
 * https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
 * https://www.rottentomatoes.com/m/ash_is_purest_white (Les Éternels) 🇨🇳
@@ -171,7 +175,7 @@
 * https://www.rottentomatoes.com/m/driveways
 * First Cow
 * Mr Jones (L'ombre de Staline) #history
-* https://www.rottentomatoes.com/m/rocketman_2019
+* https://www.rottentomatoes.com/m/rocketman_2019 #biopic
 * https://www.rottentomatoes.com/m/alice_2019
 
 
@@ -203,11 +207,11 @@
 * https://www.telerama.fr/cinema/films/sami-une-jeunesse-en-laponie-1-129251385.php TTT 🇸🇪 #récit-initiatique
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen
-* https://www.rottentomatoes.com/m/hell_or_high_water
 
 
 ### 2015
 
+* Hope (Boris Lojkine)
 * https://www.rottentomatoes.com/m/macbeth_2015
 * Le Fils de Saul 🇭🇺 🌿
 * Me and Earl and the Dying Girl ☀️ #coming-of-age
@@ -244,7 +248,6 @@
 * https://www.telerama.fr/cinema/films/elena,428535.php
 * https://www.rottentomatoes.com/m/detachment
 * Le Havre (Aki Kaurismäki)
-* https://www.rottentomatoes.com/m/oslo_august_31st 🇳🇴
 * https://www.rottentomatoes.com/m/13_assassins_2011 (Takashi Miike) 🇯🇵
 * https://www.rottentomatoes.com/m/the_help ✊🏾
 * https://www.rottentomatoes.com/m/balada_triste_de_trompeta (The Last Circus) 🇪🇸
@@ -405,6 +408,7 @@
 * https://www.rottentomatoes.com/m/bad_lieutenant
 * Indochine
 * https://www.rottentomatoes.com/m/mississippi_masala
+* https://www.rottentomatoes.com/m/light_sleeper
 
 
 ### 1991
@@ -449,7 +453,6 @@
 ### 1985
 
 * Papa est en voyage d'affaires (Emir Kusturica) 🇷🇸 🌿
-* https://www.rottentomatoes.com/m/come_and_see 🇷🇺 ++
 * https://www.rottentomatoes.com/m/my_beautiful_laundrette
 * https://www.rottentomatoes.com/m/real_genius
 * https://www.rottentomatoes.com/m/1002213-better_off_dead
@@ -469,7 +472,6 @@
 
 ### 1983
 
-* https://www.rottentomatoes.com/m/national_lampoons_vacation
 * https://www.rottentomatoes.com/m/verdict
 
 
@@ -483,11 +485,6 @@
 * https://www.rottentomatoes.com/m/fame
 * The big red one
 * Inferno (Dario Argento)
-
-
-### 1979
-
-* https://www.telerama.fr/cinema/films/chromosome-3,8115.php (David Cronenberg) TTT
 
 
 ### 1978
@@ -557,6 +554,7 @@
 
 ### 1960s
 
+* https://www.rottentomatoes.com/m/midnight_cowboy +
 * https://www.rottentomatoes.com/m/to_kill_a_mockingbird
 * https://www.rottentomatoes.com/m/sound_of_music
 * https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
@@ -602,10 +600,15 @@
 * https://www.rottentomatoes.com/m/disturbia
 * https://www.rottentomatoes.com/m/longlegs
 * https://www.rottentomatoes.com/m/sleep_2023
+* https://www.rottentomatoes.com/m/speak_no_evil_2024
+* https://www.rottentomatoes.com/m/its_whats_inside
+* https://www.rottentomatoes.com/m/mads
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
 * https://editorial.rottentomatoes.com/guide/best-space-horror-movies/
+* https://editorial.rottentomatoes.com/guide/essential-zombie-movies/
+* https://editorial.rottentomatoes.com/guide/best-horror-movies-2020s/
 
 
 

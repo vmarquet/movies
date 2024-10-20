@@ -201,8 +201,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 [Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – [Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
 
-* Les Graines du figuier sauvage 🇮🇷 ❤️
-* Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️
+* Les Graines du figuier sauvage 🇮🇷 ❤️ 🌿
+* Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️ 🌿
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
 * Civil War 🇺🇸 ❤️
@@ -218,7 +218,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 Français:
 
-* L’Histoire de Souleymane ❤️
+* L’Histoire de Souleymane ❤️ 🌿
 * La Récréation de juillet ❤️
 * Première Affaire ❤️
 * Le Comte de Monte-Cristo (Pierre Niney)
@@ -275,7 +275,7 @@ Français:
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
-* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, ~~Il reste encore demain~~ 🇮🇹
+* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -506,6 +506,7 @@ Français:
 * Hacksaw Ridge (Tu ne tueras point) #film-de-guerre
 * Una (Rooney Mara)
 * The Red Turtle #famille
+* Hell or High Water
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷
@@ -651,6 +652,7 @@ Français:
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥
 * The Tree of Life (Terrence Malick)
+* Oslo, 31 août 🇳🇴
 * The Lincoln Lawyer (Matthew McConaughey) #film-de-procès
 * Incendies (Denis Villeneuve)
 * Margin Call (Kevin Spacey) 💵
@@ -1349,6 +1351,7 @@ Français:
 * Witness (Peter Weier, Harrison Ford) #thriller
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie #coming-of-age
+* Requiem pour un massacre 🇧🇾🇷🇺 #ww2 : belle mise en scène et belle musique mais scénario vieilli qui manque de rythme
 * Tampopo 🇯🇵
 * bof: Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
 
@@ -1385,7 +1388,7 @@ Français:
 * La Ballade de Narayama 🇯🇵 🌿
 * Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo) (Nagisa Ōshima) 🇬🇧🇯🇵
-* bof: Scarface (Brian de Palma)
+* bof: Scarface (Brian de Palma), National Lampoon's Vacation
 
 [Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1456,7 +1459,7 @@ Français:
 * Apocalypse Now (FF Coppola) 🎥 🌿 ❤️
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
-* bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers), Mad Max
+* bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers), Mad Max, The Brood (Chromosome 3) (David Cronenberg)
 
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1769,7 +1772,7 @@ Français:
 
 * The Lady from Shanghai (Orson Welles)
 * Macbeth (Orson Welles)
-* La Corde (Alfred Hitchcock)
+* bof: La Corde (Alfred Hitchcock)
 
 
 ### 1946
@@ -1845,12 +1848,13 @@ Français:
 * A Girl Walks Home Alone at Night (2014) 🇮🇷
 * Creep (2014)
 * The Witch (2015, Robert Eggers) ❤️
-* Better Watch Out (2016)
+* Train to Busan (2016) 🇰🇷
 * A Quiet Place (2018) (John Krasinski)
 * Bird Box (2018)
 * Us (2019) : ok sans plus
 * Impetigore (2019) 🇮🇩 ❤️
 * His House (2020) 🇬🇧 : 1ère heure bien, fin décevante
+* Host (2020)
 * The Night House (2021)
 * Scream (2022)
 * Talk to Me (2023) 🇦🇺 ❤️

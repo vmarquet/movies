@@ -52,6 +52,7 @@ PC
 * puzzle games
     * Baba is you
     * Exit 8
+    * The Stanley Parable
 
 
 Gamecube
