@@ -7,6 +7,7 @@ Documentaires
 * Fahrenheit 9/11 (2004, Michael Moore)
 * Zétwal (2008) 🇫🇷 ❤️
 * Le Sel de la Terre (2014) 📷 ❤️
+* Merci Patron ! (François Ruffin) 🇫🇷
 * Lo and Behold, Reveries of the Connected World (2016, Werner Herzog) 🌐
     * inégal, mais des passages très intéressants, notamment chapitre IX à 1h22:40
 * Scheme Birds (à se bruler les ailes) (2019) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❤️
@@ -47,4 +48,5 @@ Documentaires
 * https://www.telerama.fr/cinema/tehachapi-jr-filme-une-magnifique-histoire-de-fraternite-en-milieu-carceral_cri-7033123.php
 * https://www.telerama.fr/cinema/films/le-bouton-de-nacre,498714.php
 * https://www.rottentomatoes.com/m/anselm
+* Au boulot ! (François Ruffin)
 

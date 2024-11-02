@@ -207,6 +207,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
     * > ❝ You're just a glorified bacterial colony ❞
 * Civil War 🇺🇸 ❤️
 * Santosh 🇮🇳 ❤️
+* Juror #2 (Clint Eastwood)
 * Inside Out 2 (Pixar)
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
@@ -214,7 +215,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
       > &emsp; \- I never forget a fist. ❞
 * Kinds of Kindness (Yórgos Lánthimos)
 * All We Imagine as Light 🇮🇳
-* bof: Dìdi, La Fleur de buriti (Crowrã) 🇧🇷, Thelma, Alien: Romulus, Ghostlight, Love Lies Bleeding, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
+* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
 
 Français:
 
@@ -222,6 +223,7 @@ Français:
 * La Récréation de juillet ❤️
 * Première Affaire ❤️
 * Le Comte de Monte-Cristo (Pierre Niney)
+* Monsieur Aznavour
 * Les Fantômes
 
 
@@ -486,7 +488,7 @@ Français:
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Ava ❤️ [📰](https://www.telerama.fr/cinema/ava-de-lea-mysius-un-premier-film-enthousiasmant-et-solaire,159849.php)
 * Grave
-* bof: Le Brio (Daniel Auteuil), Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
+* bof: Le Brio (Daniel Auteuil), Le Sens de la fête (Olivier Nakache & Éric Toledano, Jean-Pierre Bacri), Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
 
 
 ### 2016
@@ -510,7 +512,7 @@ Français:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷
-* bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn), Hunt for the Wilderpeople 🇳🇿, War Dogs
+* bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn), Hunt for the Wilderpeople 🇳🇿, Sami Blood 🇸🇪, War Dogs
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -703,7 +705,8 @@ Français:
 * Kaboom (Gregg Araki) [📰](https://television.telerama.fr/tele/films/kaboom,19234405.php) #comédie
 * Buried
 * Up in the Air (Jason Reitman, George Clooney)
-* bof: Winter's Bone (Jennifer Lawrence) ☀️, Somewhere (Sofia Coppola)
+* bof: Winter's Bone (Jennifer Lawrence) ☀️, Somewhere (Sofia Coppola), ~~Balada triste~~ 🇪🇸
+
 
 [Césars 36](https://fr.wikipedia.org/wiki/36e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -732,6 +735,7 @@ Français:
 * Zombieland #comédie
 * Le Ruban blanc (Michael Haneke) 🇩🇪 🌿
 * Tetro (FF Coppola) 🎥
+* Sherlock Holmes (Guy Ritchie, Robert Downey Jr)
 * Fish Tank 🇬🇧
 * Tokyo! (Michel Gondry, Leos Carax, Bong Joon-ho) 🇯🇵
 * An Education (Carey Mulligan) 🇬🇧
@@ -783,6 +787,7 @@ Français:
 * 35 Rhums
 * Les Grandes Personnes (JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 * La Fille de Monaco
+* bof: Mesrine (L'Instinct de mort)
 
 
 ### 2007
@@ -1133,6 +1138,7 @@ Français:
 * Seven (David Fincher) #thriller
 * Cold Fever 🇮🇸
 * Heat (Michael Mann, Al Pacino) #policier
+* Casino (Martin Scorsese, Robert de Niro)
 * Dead Man (Jim Jarmusch)
 * 12 Monkeys (Terry Gilliam) #sf
 * Braveheart (Mel Gibson) 🏆
@@ -1175,7 +1181,7 @@ Français:
         </details>
 * Four Weddings and a Funeral (Mike Newell) 🇬🇧 #romcom
 * The Last Seduction #thriller-érotique : l'intrigue commence vraiment à la moitié du film
-* bof: Forrest Gump, Heavenly Creatures (Peter Jackson) 🇳🇿, The Shawshank Redemption, Ed Wood
+* bof: Forrest Gump, Death and the Maiden (Roman Polanski), Heavenly Creatures (Peter Jackson) 🇳🇿, The Shawshank Redemption, Ed Wood
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1194,6 +1200,7 @@ Français:
 * La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
 * Beaucoup de Bruit pour rien (Kenneth Brannagh) 🇬🇧
 * In the Name of the Father (Daniel Day-Lewis) 🇮🇪🇬🇧
+* The Nightmare before Christmas (Tim Burton)
 * Un Jour sans Fin (Bill Murray) #film-à-énigme
 * Belle Époque 🇪🇸 🏆 (meilleur film étranger, 9 goyas)
 * Etat Second (Peter Weir)
@@ -1388,7 +1395,7 @@ Français:
 * La Ballade de Narayama 🇯🇵 🌿
 * Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo) (Nagisa Ōshima) 🇬🇧🇯🇵
-* bof: Scarface (Brian de Palma), National Lampoon's Vacation
+* bof: Risky Business (Tom Cruise), Scarface (Brian de Palma), National Lampoon's Vacation
 
 [Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1593,12 +1600,13 @@ Français:
 
 * Le Cercle rouge (Jean-Pierre Melville) #policier
 * Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
+* bof: Les Choses de la vie (Claude Sautet)
 
 
 ### 1969
 
 * Easy Rider (Dennis Hopper, Peter Fonda) [📰](https://www.telerama.fr/cinema/films/easy-rider,4721.php) #road-movie
-* bof: They Shoot Horses Don't They?
+* bof: Midnight Cowboy, They Shoot Horses Don't They?
 
 Français:
 

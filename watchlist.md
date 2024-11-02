@@ -12,6 +12,7 @@
 
 ### 2024
 
+* https://www.telerama.fr/cinema/mostra-de-venise-2024-que-vaut-leurs-enfants-apres-eux-l-adaptation-du-prix-goncourt-de-nicolas-mathieu-7021937.php TTT
 * https://editorial.rottentomatoes.com/article/2024-cannes-preview/
 * https://editorial.rottentomatoes.com/guide/cannes-2024-movie-scorecard/
 * https://www.telerama.fr/cinema/cannes-2024-tous-les-films-en-competition-notes-par-la-redaction-de-telerama-7020448.php
@@ -44,13 +45,11 @@
 * https://www.telerama.fr/cinema/memory-peter-sarsgaard-et-jessica-chastain-duo-eblouissant-dans-ce-melo-de-michel-franco_cri-7032906.php TTT
 * https://www.rottentomatoes.com/m/the_dead_dont_hurt #western
 * https://www.telerama.fr/cinema/les-sorties-cinema-de-la-semaine-les-fantomes-el-profesor-horizon-une-saga-americaine-7021125.php
-* only the river flows 🇨🇳
 * Sons (Gustav Möller) 🇩🇰
 * Matria
 * https://www.rottentomatoes.com/m/touch_2024
 * https://www.rottentomatoes.com/m/the_goat_life
 * https://www.rottentomatoes.com/m/the_good_half
-* https://www.rottentomatoes.com/m/anora 🌿
 * gou zhen (black dog) 🇨🇳 🌿
 * https://www.rottentomatoes.com/m/good_one
 * https://www.rottentomatoes.com/m/the_bikeriders
@@ -59,14 +58,17 @@
 * https://www.telerama.fr/cinema/les-pistolets-en-plastique-la-farce-macabre-va-t-elle-trop-loin_cri-7033323.php TT comédie (6 nov 2024)
 * https://www.rottentomatoes.com/m/the_damned_2024
 * https://www.rottentomatoes.com/m/rebel_ridge
-* https://www.rottentomatoes.com/m/the_wild_robot +++
+* https://www.rottentomatoes.com/m/the_wild_robot +++ (allocine 4.4)
 * chroniques chinoises
 * https://www.telerama.fr/cinema/le-fil-daniel-auteuil-convaincant-en-avocat-obsede-par-la-verite_cri-7034340.php TT (allocine 3.9)
 * https://www.telerama.fr/cinema/tatami-un-thriller-politique-qui-frappe-fort_cri-7034231.php 🇮🇷
-* Monsieur Aznavour https://www.allocine.fr/film/fichefilm_gen_cfilm=313486.html
 * https://www.rottentomatoes.com/m/saturday_night_2024 (Jason Reitman)
-* Juré n°2 (Clint Eastwood)
 * https://www.rottentomatoes.com/m/the_outrun
+* https://www.rottentomatoes.com/m/my_favourite_cake 🇮🇷
+* https://www.rottentomatoes.com/m/am_i_racist #docu
+* sur un fil (allocine 4.0)
+* l'amour ouf (allocine 4.0)
+* flow (allocine 4.3)
 
 
 ### 2023
@@ -192,6 +194,7 @@
 
 ### 2017
 
+* https://www.telerama.fr/cinema/films/patients,513387.php TTT
 * I Don't Feel at Home in This World Anymore ☀️
 * https://www.rottentomatoes.com/m/columbus_2017
 * https://www.rottentomatoes.com/m/november_2018
@@ -204,7 +207,6 @@
 
 ### 2016
 
-* https://www.telerama.fr/cinema/films/sami-une-jeunesse-en-laponie-1-129251385.php TTT 🇸🇪 #récit-initiatique
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen
 
@@ -222,6 +224,7 @@
 ### 2014
 
 * https://www.rottentomatoes.com/m/the_normal_heart 🎗️
+* https://www.rottentomatoes.com/m/foxcatcher
 * https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
 * Selma ✊🏾
 * https://www.telerama.fr/cinema/films/good-kill,498797.php
@@ -250,7 +253,6 @@
 * Le Havre (Aki Kaurismäki)
 * https://www.rottentomatoes.com/m/13_assassins_2011 (Takashi Miike) 🇯🇵
 * https://www.rottentomatoes.com/m/the_help ✊🏾
-* https://www.rottentomatoes.com/m/balada_triste_de_trompeta (The Last Circus) 🇪🇸
 
 
 ### 2010
@@ -286,6 +288,7 @@
 
 ### 2006
 
+* https://www.rottentomatoes.com/m/pusher (nicolas winding refn)
 * https://www.rottentomatoes.com/m/half_nelson
 * https://www.rottentomatoes.com/m/the_fountain
 * https://www.rottentomatoes.com/m/snow_cake
@@ -381,7 +384,6 @@
 ### 1994
 
 * https://www.rottentomatoes.com/m/madness_of_king_george
-* Death and the Maiden (Roman Polanski) [🍅](https://www.rottentomatoes.com/m/death_and_the_maiden)
 * https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
 * https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
@@ -393,7 +395,6 @@
 ### 1993
 
 * https://www.rottentomatoes.com/m/1046151-fearless ++
-* https://www.rottentomatoes.com/m/nightmare_before_christmas (Tim Burton)
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
 * https://www.rottentomatoes.com/m/bronx_tale
@@ -537,6 +538,7 @@
 ### 1972
 
 * https://www.rottentomatoes.com/m/the_new_land
+* https://www.rottentomatoes.com/m/female_prisoner_701_scorpion_1972 #reco tarentino
 * Cabaret (Bob Fosse) 8🏆
 
 
@@ -554,7 +556,6 @@
 
 ### 1960s
 
-* https://www.rottentomatoes.com/m/midnight_cowboy +
 * https://www.rottentomatoes.com/m/to_kill_a_mockingbird
 * https://www.rottentomatoes.com/m/sound_of_music
 * https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
