@@ -162,7 +162,6 @@
 
 ### 2019
 
-* Camille (Boris Lojkine)
 * Le Chant de la forêt TTT 🇧🇷
 * https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
 * https://www.rottentomatoes.com/m/ash_is_purest_white (Les Éternels) 🇨🇳

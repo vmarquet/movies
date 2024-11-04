@@ -429,7 +429,7 @@ Français:
 * Le Nom de la Terre
 * La Vie Scolaire #film-scolaire
 * La Belle Époque (Nicolas Bedos, Daniel Auteuil, Guillaume Canet)
-* bof: Le Daim (Quentin Dupieux), Les Misérables, Liberté (Albert Serra) 🎥 🌿, Celle que vous croyez
+* bof: Le Daim (Quentin Dupieux), Les Misérables, Camille (Boris Lojkine) 🇨🇫, Liberté (Albert Serra) 🎥 🌿, Celle que vous croyez
 
 [Cannes 2019 - toutes les notes télérama](https://www.telerama.fr/festival-de-cannes/2019/cannes-2019-voici-le-programme-des-films-en-competition,n6238497.php)
 
@@ -610,7 +610,7 @@ Français:
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
 * Le Passé (Asghar Farhadi) 🇮🇷
-* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), Upstream Color 🎥, Snowpiercer (Bong Joon-ho), ~~The Wolf of Wall Street (Martin Scorsese)~~ 💵, ~~Jobs~~, ~~Hard to Be a God~~ 🇷🇺 #sf, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
+* bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), Upstream Color 🎥, Snowpiercer (Bong Joon-ho), The Bling Ring (Sofia Coppola), ~~The Wolf of Wall Street (Martin Scorsese)~~ 💵, ~~Jobs~~, ~~Hard to Be a God~~ 🇷🇺 #sf, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
