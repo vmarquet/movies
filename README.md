@@ -207,6 +207,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
     * > ❝ You're just a glorified bacterial colony ❞
 * Civil War 🇺🇸 ❤️
 * Santosh 🇮🇳 ❤️
+* A Different Man
 * Juror #2 (Clint Eastwood)
 * Inside Out 2 (Pixar)
 * The Fall Guy (Ryan Gosling) 🍿
@@ -353,6 +354,7 @@ Français:
 * The Last Duel (Ridley Scott)
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie #satire
 * Annette (Leos Carax, Adam Driver)
+* Julie en 12 chapitres 🇳🇴 (Joachim Trier)
 * The Tragedy of Macbeth (frères Coen)
 * Jai Bhim 🇮🇳
 * Judas and the Black Messiah ✊🏾
@@ -654,7 +656,7 @@ Français:
 * Millenium, the Girl with the Dragon Tattoo (David Fincher) #thriller
 * Shame (Steve McQueen, avec Michael Fassbender) 🎥🎥
 * The Tree of Life (Terrence Malick)
-* Oslo, 31 août 🇳🇴
+* Oslo, 31 août 🇳🇴 (Joachim Trier)
 * The Lincoln Lawyer (Matthew McConaughey) #film-de-procès
 * Incendies (Denis Villeneuve)
 * Margin Call (Kevin Spacey) 💵

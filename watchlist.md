@@ -65,7 +65,7 @@
 * https://www.rottentomatoes.com/m/saturday_night_2024 (Jason Reitman)
 * https://www.rottentomatoes.com/m/the_outrun
 * https://www.rottentomatoes.com/m/my_favourite_cake 🇮🇷
-* https://www.rottentomatoes.com/m/am_i_racist #docu
+* https://www.rottentomatoes.com/m/the_substance
 * sur un fil (allocine 4.0)
 * l'amour ouf (allocine 4.0)
 * flow (allocine 4.3)
@@ -139,7 +139,6 @@
 ### 2021
 
 * https://www.rottentomatoes.com/m/the_harder_they_fall #western
-* https://www.rottentomatoes.com/m/the_worst_person_in_the_world
 * https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷
 * https://www.rottentomatoes.com/m/blue_bayou_2021
 * https://www.rottentomatoes.com/m/luca_2021
