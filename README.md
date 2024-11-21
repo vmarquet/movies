@@ -226,6 +226,7 @@ Français:
 * Le Comte de Monte-Cristo (Pierre Niney)
 * Monsieur Aznavour
 * Les Fantômes
+* Les Pistolets en plastique
 
 
 ### 2023
@@ -1100,7 +1101,7 @@ Français:
 * Copland (James Mangold, Ray Liotta, Harvey Keitel) #policier
 * Good Will Hunting (Gus van Sant)
 * Doodlebug (Christopher Nolan) [▶️](https://www.youtube.com/watch?v=kahb97XojzI) #short
-* bof: Hana-bi (Takeshi Kitano) 🇯🇵, Boogie Nights (Paul Thomas Anderson), Children of Heaven 🇮🇷, ~~In the Company of Men~~
+* bof: Hana-bi (Takeshi Kitano) 🇯🇵, Boogie Nights (Paul Thomas Anderson), Gridlock'd, Children of Heaven 🇮🇷, ~~In the Company of Men~~
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1122,6 +1123,7 @@ Français:
       > &emsp; – That's it, that's exactly how I want you to look! ❞ 
     * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
 * Fargo (frères Coen, Frances McDormand, Steve Buscemi)
+* Pusher (Nicolas Winding Refn) 🇩🇰
 * Lone Star #neowestern
 * bof: Jerry Maguire (Cameron Crowe)
 
@@ -1541,6 +1543,7 @@ Français:
 * Don't Look Now #thriller : suspense et musiques +
 * Conversation Secrète (FF Coppola) #thriller
 * Chinatown (Roman Polanski)
+* Tous les autres s'appellent Ali (Rainer Werner Fassbinder) 🇩🇪
 
 Français:
 

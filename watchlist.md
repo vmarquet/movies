@@ -55,7 +55,6 @@
 * https://www.rottentomatoes.com/m/the_bikeriders
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 * https://www.telerama.fr/cinema/le-roman-de-jim-le-nouveau-melo-des-freres-larrieu-d-une-tendresse-foudroyante_cri-7033996.php TTTT
-* https://www.telerama.fr/cinema/les-pistolets-en-plastique-la-farce-macabre-va-t-elle-trop-loin_cri-7033323.php TT comédie (6 nov 2024)
 * https://www.rottentomatoes.com/m/the_damned_2024
 * https://www.rottentomatoes.com/m/rebel_ridge
 * https://www.rottentomatoes.com/m/the_wild_robot +++ (allocine 4.4)
@@ -69,6 +68,12 @@
 * sur un fil (allocine 4.0)
 * l'amour ouf (allocine 4.0)
 * flow (allocine 4.3)
+* https://www.rottentomatoes.com/m/small_things_like_these (Cillian Murphy)
+* https://www.rottentomatoes.com/m/nosferatu_2024 (Robert Eggers)
+* https://www.telerama.fr/cinema/highway-65-un-polar-captivant-qui-se-heurte-a-la-loi-du-silence_cri-7033812.php 🇮🇱
+* Le Royaume (Corse) (allocine 4.1)
+* En tongs au pied de l'Himalaya
+* La vallée des fous (Xavier Beauvois)
 
 
 ### 2023
@@ -77,7 +82,7 @@
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
-* https://www.rottentomatoes.com/m/robot_dreams
+* https://www.rottentomatoes.com/m/robot_dreams (allocine 4.0)
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies 🇮🇳
 * https://www.rottentomatoes.com/m/of_an_age
@@ -167,9 +172,8 @@
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
 * https://www.telerama.fr/cinema/films/les-racines-du-monde,n6692233.php TT Les racines du monde 🇲🇳
 * https://www.telerama.fr/cinema/films/les-voleurs-de-chevaux,n6750890.php TTT Les voleurs de chevaux 🇰🇿
-* https://www.rottentomatoes.com/m/judy_2019
 * https://www.rottentomatoes.com/m/monos
-* https://www.rottentomatoes.com/m/togo_2019
+* https://www.rottentomatoes.com/m/togo_2019 (Disney, Willem Dafoe)
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 * https://www.rottentomatoes.com/m/babyteeth
 * https://www.rottentomatoes.com/m/driveways
@@ -286,7 +290,6 @@
 
 ### 2006
 
-* https://www.rottentomatoes.com/m/pusher (nicolas winding refn)
 * https://www.rottentomatoes.com/m/half_nelson
 * https://www.rottentomatoes.com/m/the_fountain
 * https://www.rottentomatoes.com/m/snow_cake
