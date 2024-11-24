@@ -70,7 +70,6 @@
 * flow (allocine 4.3)
 * https://www.rottentomatoes.com/m/small_things_like_these (Cillian Murphy)
 * https://www.rottentomatoes.com/m/nosferatu_2024 (Robert Eggers)
-* https://www.telerama.fr/cinema/highway-65-un-polar-captivant-qui-se-heurte-a-la-loi-du-silence_cri-7033812.php 🇮🇱
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya
 * La vallée des fous (Xavier Beauvois)

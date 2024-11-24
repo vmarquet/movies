@@ -209,6 +209,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Santosh 🇮🇳 ❤️
 * A Different Man
 * Juror #2 (Clint Eastwood)
+* Highway 65 🇮🇱 #thriller
 * Inside Out 2 (Pixar)
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
@@ -279,7 +280,7 @@ Français:
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
-* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, ~~Il reste encore demain~~ 🇮🇹
+* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -321,6 +322,7 @@ Français:
 * A l'Ouest rien de nouveau 🇩🇪 #film-de-guerre
 * War Pony
 * Fire Island 🏳️‍🌈 #romcom
+* Les nuits de Mashhad 🇮🇷 #thriller
 * Decision to Leave (Park Chan-wook) 🇰🇷
 * Fresh 🎥 #horror
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
