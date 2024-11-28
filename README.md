@@ -406,7 +406,7 @@ Français:
 
 * Teddy [📰](https://www.telerama.fr/cinema/films/teddy,n6689626.php)
 * Mandibules (Quentin Dupieux) 🤘
-* bof: Un triomphe (Kad Merad), Antoinette dans les Cévennes, Adieu les cons, Les Choses qu'on dit, les Choses qu'on fait, ADN
+* bof: Un triomphe (Kad Merad), Antoinette dans les Cévennes, Adieu les cons, Les Choses qu'on dit, les Choses qu'on fait (Emmanuel Mouret), ADN
 
 
 ### 2019
@@ -467,7 +467,7 @@ Français:
 * Shéhérazade
 * Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention mais assez mémorable
 * En liberté ! (Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html) #comédie
-* Mademoiselle de Joncquières : comédie dramatique romantique, sympa mais pas inoubliable
+* Mademoiselle de Joncquières (Emmanuel Mouret) : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
 * bof: Au poste ! (Quentin Dupieux), L'Ordre des médecins (Jérémie Renier), Un peuple et son Roi [📰](https://www.telerama.fr/cinema/films/un-peuple-et-son-roi-1-119520436.php), L'heure de la Sortie
 
@@ -761,6 +761,7 @@ Français:
 * Welcome
 * A l'origine (François Cluzet)
 * Les Beaux Gosses (Riad Sattouf, Vincent Lacoste)
+* Fais Moi Plaisir (Emmanuel Mouret) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php) #comédie
 * bof: Micmacs à tire-larigot (JP Jeunet), Le Concert (Radu Mihaileanu) #comédie, Les herbes folles (Alain Resnais) [📰](https://www.telerama.fr/cinema/films/les-herbes-folles,391302.php), Un Prophète (Jacques Audiard)
 
 
@@ -864,8 +865,8 @@ Français:
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
+* OSS 117 : Le Caire, nid d'espions (Michel Hazanavicius) #comédie #culte
 * Indigènes (Rachid Bouchared)
-* OSS 117
 * Quatre étoiles (Isabelle Carré, José Garcia) #comédie
 * Ne le dis à personne (Guillaume Canet)
 
@@ -938,6 +939,7 @@ Français:
 
 * Les Choristes
 * Deux Frères
+* L'Enquête corse (Alain Berberian, Christian Clavier, Jean Reno) #comédie
 * Violence des échanges en milieu tempéré
 * RRRrrrr!!!
 
@@ -963,6 +965,7 @@ Français:
 [Césars 29](https://fr.wikipedia.org/wiki/29e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Stupeur et Tremblements (Alain Corneau)
+* Rire et Châtiment (José Garcia) #comédie [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
 * Les Triplettes de Belleville
 * Le mystère de la chambre jaune (Bruno Podalydès)
 * Les Invasions Barbares [📰](https://www.telerama.fr/cinema/films/les-invasions-barbares,138876.php) : sympa sans plus
@@ -989,7 +992,7 @@ Français:
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
 * Le Pianiste (Roman Polanski) ❤️ #ww2
-* Astérix et Obélix : Mission Cléopâtre ❤️
+* Astérix et Obélix : Mission Cléopâtre (Alain Chabat, les Nuls) ❤️ #comédie #culte
 * L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
 * Monsieur Batignole (Gérard Jugnot)
@@ -1014,7 +1017,7 @@ Français:
 
 * Le Fabuleux Destin d'Amélie Poulain (Jean-Pierre Jeunet) ❤️ [📰](https://www.telerama.fr/cinema/films/le-fabuleux-destin-d-am-lie-poulain,54074.php)
 * Le Pacte des loups
-* Tanguy
+* Tanguy (Étienne Chatiliez) #comédie
 * Le Peuple migrateur (docu)
 
 
@@ -1081,8 +1084,8 @@ Français:
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Le Diner de Cons
-* Taxi
+* Le Diner de Cons (Francis Veber, Jacques Villeret) #comédie #culte 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
+* Taxi #comédie
 
 
 ### 1997
@@ -1112,6 +1115,7 @@ Français:
 
 [Césars 23](https://fr.wikipedia.org/wiki/23e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
+* La Vérité si je mens ! (José Garcia, Bruno Solo) #comédie
 * bof: Didier (Alain Chabat)
 
 
@@ -1163,8 +1167,8 @@ Français:
 * La Cité des enfants perdus (Jean-Pierre Jeunet)
 * N'oublie pas que tu vas mourir (Xavier Beauvois) 🎗️
 * Le Hussard sur le toit (JP Rappeneau) (vu ?)
-* Le bonheur est dans le pré (vu ?)
-* Les trois frères (les inconnus)
+* Le bonheur est dans le pré (Étienne Chatiliez) #comédie (vu ?)
+* Les trois frères (les Inconnus) #comédie
 * bof: La Cérémonie (Claude Chabrol)
 
 
@@ -1196,8 +1200,9 @@ Français:
 
 [Césars 20](https://fr.wikipedia.org/wiki/20e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* La Cité de la peur (Alain Chabat) ❤️
+* La Cité de la peur (Alain Chabat, les Nuls) ❤️ #comédie #culte
 * Le Péril jeune (Cédric Klapisch)
+* Un Indien dans la ville (Thierry Lhermitte) #comédie #aventure
 * Léon (Luc Besson)
 
 
@@ -1220,8 +1225,8 @@ Français:
 
 [Césars 19](https://fr.wikipedia.org/wiki/19e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Les Visiteurs
-* La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau)
+* Les Visiteurs (Jean-Marie Poiré, Christian Clavier, Jean Reno) #comédie
+* La fille de d'Artagnan (Bertrand Tavernier, Sophie Marceau) #aventure
 
 
 ### 1992
@@ -1261,6 +1266,7 @@ Français:
 * Tous les matins du monde (Alain Corneau, Gérard Depardieu) ❤️ 🎼 [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
 * Les Amants du Pont Neuf (Leos Carax, Denis Lavant, Juliette Binoche) ❤️
 * Délicatessen (Jean-Pierre Jeunet)
+* L'Opération Corned-Beef (Jean-Marie Poiré, Christian Clavier, Jean Reno) #comédie
 
 
 ### 1990
@@ -1316,8 +1322,8 @@ Français:
 
 * Le Grand Bleu (Luc Besson)
 * L'Ours (JJ Annaud)
-* La vie est un long fleuve tranquille
-* Itinéraire d’un enfant gâté (Claude Lelouch, Jean-Paul Belmondo) [📰](https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php)
+* La vie est un long fleuve tranquille (Étienne Chatiliez) #comédie
+* Itinéraire d’un enfant gâté (Claude Lelouch, Jean-Paul Belmondo) #aventure [📰](https://www.telerama.fr/cinema/films/itineraire-d-un-enfant-gate,14698.php)
     * > ❝ Le bonheur c'est quand les emmerdes se reposent ❞
 * Camille Claudel (Isabelle Adjani)
 
@@ -1410,7 +1416,8 @@ Français:
 
 [Césars 9](https://fr.wikipedia.org/wiki/9e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* Tchao Pantin (Coluche) ❤️
+* Tchao Pantin (Claude Berri, Coluche) ❤️
+* Papy fait de la résistance (Jean-Marie Poiré, troupe du Splendid) #comédie
 * bof: A nos amours (Maurice Pialat, Sandrine Bonnaire)
 
 
@@ -1432,7 +1439,9 @@ Français:
 [Césars 8](https://fr.wikipedia.org/wiki/8e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Danton (Andrzej Wajda, Depardieu) ❤️
-* Le père Noël est une ordure
+* Le père Noël est une ordure (Jean-Marie Poiré, troupe du Splendid) 💙 #film-de-noel
+* 2h moins le quart avant Jésus-Christ (Coluche) #comédie
+
 
 
 ### 1981
@@ -1482,6 +1491,7 @@ Français:
 [Césars 5](https://fr.wikipedia.org/wiki/5e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Buffet Froid (Bertrand Blier, Depardieu) ❤️ #comédie
+* Les Bronzés font du ski (Patrice Leconte, troupe du Splendid) 💙 #comédie
 * Série noire (Alain Corneau, Patrick Dewaere) [📰](https://www.telerama.fr/cinema/films/serie-noire,13515.php)
 
 
@@ -1496,6 +1506,7 @@ Français:
 [Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Molière (Ariane Mnouchkine)
+* Les Bronzés (Patrice Leconte, troupe du Splendid) 💙 #comédie
 
 
 ### 1977
@@ -1570,6 +1581,7 @@ Français:
 
 Français:
 
+* Rabbi Jacob (Gérard Oury, de Funès) #comédie
 * bof: ~~La Nuit américaine (François Truffaut)~~
 
 
@@ -1584,7 +1596,7 @@ Français:
 
 * César et Rosalie (Claude Sautet) ❤️
 * L'aventure c'est l'aventure (Claude Lelouch, Lino Ventura, Jacques Brel) #aventure
-* Le Grand Blond avec une chaussure noire (Yves Robert, Pierre Richard, Jean Rochefort) #comédie #famille
+* Le Grand Blond avec une chaussure noire (Yves Robert, Francis Veber, Pierre Richard, Jean Rochefort) #comédie #famille
 
 
 ### 1971
@@ -1656,6 +1668,7 @@ Français:
 Français:
 
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
+* La Grande Vadrouille (Gérard Oury, Bourvil, de Funès) #comédie #potache
 * bof: Le Roi de Coeur (Philippe de Broca)
 
 
@@ -1775,6 +1788,7 @@ Français:
 ### 1952
 
 * Ikiru (Akira Kurosawa) 🇯🇵 : longuet
+* Fanfan la Tulipe #comédie #potache
 
 
 ### 1951
@@ -1924,55 +1938,6 @@ Français:
 
 [⬆️ retour sommaire](#sommaire)
 
-
-
-## Comédies françaises
-
-* Le père Noël est une ordure (1982, Christian Clavier, Thierry Lhermitte) 💙 #film-de-noel
-* Le bonheur est dans le pré (1995)
-* Le Diner de Cons (1997, avec Jacques Villeret) 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
-* La Vérité si je mens ! (1997, José Garcia, Bruno Solo)
-* Rire et Châtiment (2003, José Garcia) [📰](https://television.telerama.fr/tele/films/rire-et-chatiment,1701812.php)
-* L'Enquête corse (2004, Alain Berberian, Christian Clavier, Jean Reno)
-* Fais Moi Plaisir (2009) [📰](https://www.telerama.fr/cinema/films/fais-moi-plaisir,382359.php)
-
-Mes préférés:
-
-* La Cité de la Peur
-* Le Diner de Cons
-* Astérix et Obélix Mission Cléopatre
-* OSS 177 Le Caire Nid d'Espions
-
-
-#### Classiques potaches
-
-* Fanfan la Tulipe (1952)
-* La Grande Vadrouille (1966, Gérard Oury, Bourvil, de Funès)
-* Rabbi Jacob (1973, Louis de Funes)
-* Les bronzés (1978)
-* Papy fait de la résistance (1983)
-* L'Opération Corned-Beef (1991, Jean-Marie Poiré, Christian Clavier, Jean Reno)
-* Les Visiteurs (1993, Christian Clavier, Jean Reno)
-* Un Indien dans la ville (1994, Thierry Lhermitte)
-
-##### Autres
-
-> Avec Fernandel, Louis de Funès et Jean Gabin, Bourvil fait partie des acteurs français ayant attiré le plus grand nombre de spectateurs dans les salles de cinéma entre 1945 et 1970 : environ 205 millions.
-
-* Années 60: voir Gérard Oury, Louis de Funès, [Bourvil](https://fr.wikipedia.org/wiki/Bourvil#Filmographie_s%C3%A9lective), Belmondo
-* Années 70: voir Francis Veber, Pierre Richard
-* Années 80: voir [troupe du Splendid](https://fr.wikipedia.org/wiki/Le_Splendid_%28troupe%29#Films_du_Splendid), Christian Clavier
-* Années 90: voir [les Nuls](https://fr.wikipedia.org/wiki/Les_Nuls#Au_cin%C3%A9ma), [les Inconnus](https://fr.wikipedia.org/wiki/Les_Inconnus#Filmographie)
-
-
-### Films à sketches
-
-* Astérix et Obélix Mission Cléopâtre
-* 2h moins le quart avant Jésus-Christ (Coluche)
-
-
-
-[⬆️ retour sommaire](#sommaire)
 
 
 
