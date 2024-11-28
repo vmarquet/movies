@@ -103,3 +103,17 @@
 * Cowboy Bebop (1998)
 
 
+### ok sans plus
+
+* A man on the inside [🍅](https://www.rottentomatoes.com/tv/a_man_on_the_inside/s01)
+
+
+### Pas vu
+
+* https://www.rottentomatoes.com/tv/somebody_somewhere/s01
+* https://www.rottentomatoes.com/tv/interior_chinatown/s01
+* https://www.rottentomatoes.com/tv/say_nothing/s01
+
+
+
+

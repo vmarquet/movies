@@ -12,6 +12,7 @@
 
 ### 2024
 
+* https://www.rottentomatoes.com/m/exhibiting_forgiveness 93%
 * https://www.telerama.fr/cinema/mostra-de-venise-2024-que-vaut-leurs-enfants-apres-eux-l-adaptation-du-prix-goncourt-de-nicolas-mathieu-7021937.php TTT
 * https://editorial.rottentomatoes.com/article/2024-cannes-preview/
 * https://editorial.rottentomatoes.com/guide/cannes-2024-movie-scorecard/
@@ -35,13 +36,11 @@
 * https://www.rottentomatoes.com/m/arthur_the_king
 * Rapture (Rimdogittanga) (Dominic Sangma) 🇮🇳
 * https://www.rottentomatoes.com/m/the_idea_of_you
-* https://www.telerama.fr/cinema/borgo-de-stephane-demoustier-un-vertigineux-polar-psychologique-en-milieu-carceral_cri-7032178.php TTT #polar
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 * https://www.telerama.fr/cinema/films/suzume-1-249621710.php TTT #anime 🇯🇵
 * https://www.telerama.fr/cinema/la-morsure-de-romain-de-saint-blanquat-un-conte-de-fees-gothique-ensorcelant_cri-7032649.php TT
 * https://www.rottentomatoes.com/m/young_woman_and_the_sea
 * https://www.rottentomatoes.com/m/tuesday_2023
-* https://www.rottentomatoes.com/m/conclave
 * https://www.telerama.fr/cinema/memory-peter-sarsgaard-et-jessica-chastain-duo-eblouissant-dans-ce-melo-de-michel-franco_cri-7032906.php TTT
 * https://www.rottentomatoes.com/m/the_dead_dont_hurt #western
 * https://www.telerama.fr/cinema/les-sorties-cinema-de-la-semaine-les-fantomes-el-profesor-horizon-une-saga-americaine-7021125.php
@@ -57,22 +56,25 @@
 * https://www.telerama.fr/cinema/le-roman-de-jim-le-nouveau-melo-des-freres-larrieu-d-une-tendresse-foudroyante_cri-7033996.php TTTT
 * https://www.rottentomatoes.com/m/the_damned_2024
 * https://www.rottentomatoes.com/m/rebel_ridge
-* https://www.rottentomatoes.com/m/the_wild_robot +++ (allocine 4.4)
 * chroniques chinoises
 * https://www.telerama.fr/cinema/le-fil-daniel-auteuil-convaincant-en-avocat-obsede-par-la-verite_cri-7034340.php TT (allocine 3.9)
 * https://www.telerama.fr/cinema/tatami-un-thriller-politique-qui-frappe-fort_cri-7034231.php 🇮🇷
 * https://www.rottentomatoes.com/m/saturday_night_2024 (Jason Reitman)
-* https://www.rottentomatoes.com/m/the_outrun
+* https://www.rottentomatoes.com/m/the_outrun #aventure #nature
 * https://www.rottentomatoes.com/m/my_favourite_cake 🇮🇷
-* https://www.rottentomatoes.com/m/the_substance
-* sur un fil (allocine 4.0)
-* l'amour ouf (allocine 4.0)
+* sur un fil (allocine 4.0) reda kateb
+* l'amour ouf (allocine 4.2)
 * flow (allocine 4.3)
 * https://www.rottentomatoes.com/m/small_things_like_these (Cillian Murphy)
 * https://www.rottentomatoes.com/m/nosferatu_2024 (Robert Eggers)
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya
 * La vallée des fous (Xavier Beauvois)
+* L'affaire Nevenka 🇪🇸 (allociné 4.1)
+* La plus précieuse des marchandes (Hazanavicius) 4.2
+* Le Panache (3.9)
+* Louise Violet (4.0)
+* En Fanfare (4.2)
 
 
 ### 2023
@@ -208,6 +210,7 @@
 
 ### 2016
 
+* https://www.telerama.fr/cinema/films/harmonium,509277.php https://www.rottentomatoes.com/m/harmonium TTT 🇯🇵
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen
 
@@ -324,7 +327,7 @@
 ### 2001
 
 * A Beautiful Mind 🏆
-* https://www.rottentomatoes.com/m/im_your_man_2021
+* https://www.rottentomatoes.com/m/im_your_man_2021 #romcom +++
 * https://www.rottentomatoes.com/m/waking_life
 * https://www.rottentomatoes.com/m/son_of_the_bride
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
@@ -488,6 +491,11 @@
 * Inferno (Dario Argento)
 
 
+### 1979
+
+* https://www.rottentomatoes.com/m/china_syndrome
+
+
 ### 1978
 
 * https://www.telerama.fr/cinema/films/la-chambre-verte,6883.php (François Truffaut)
@@ -604,6 +612,7 @@
 * https://www.rottentomatoes.com/m/speak_no_evil_2024
 * https://www.rottentomatoes.com/m/its_whats_inside
 * https://www.rottentomatoes.com/m/mads
+* https://www.rottentomatoes.com/m/heretic_2024
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/

@@ -208,16 +208,18 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Civil War 🇺🇸 ❤️
 * Santosh 🇮🇳 ❤️
 * A Different Man
+* Conclave
 * Juror #2 (Clint Eastwood)
 * Highway 65 🇮🇱 #thriller
 * Inside Out 2 (Pixar)
+* The Wild Robot (DreamWorks) #famille
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
 * Kinds of Kindness (Yórgos Lánthimos)
 * All We Imagine as Light 🇮🇳
-* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, ~~Monkey Man~~
+* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), ~~Monkey Man~~
 
 Français:
 
@@ -294,6 +296,7 @@ Français:
 * Les Trois Mousquetaires #aventure
 * Daaaaaalí ! (Quentin Dupieux)
 * Je verrai toujours vos visages (Jeanne Herry)
+* Borgo (Hafsia Herzi)
 * bof: La Bête (Léa Seydoux), La Passion de Dodin Bouffant, Chien de la Casse, Le Vourdalak, Yannick (Quentin Dupieux), Retour à Séoul, Le Règne animal (Romain Duris) 5✨, Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
 
 
@@ -304,7 +307,7 @@ Français:
 * Le otto montagne 🇮🇹 ❤️ [📰](https://www.telerama.fr/cinema/films/les-huit-montagnes-1-195581152.php)
 * The Batman (Robert Pattinson) ❤️ : super ambiance de film noir, ce n'est PAS un film de super-héros
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
-* Puss in Boots: The Last Wish (Chat potté 2) ❤️ #famille
+* Puss in Boots: The Last Wish (Chat potté 2) (DreamWorks) ❤️ #famille
 * Comme un lundi (Mondays) 🇯🇵 ❤️
 * She Said (affaire Weinstein) #journalism
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
@@ -649,6 +652,7 @@ Français:
 * Amour (Michael Haneke) 🌿
 * De Rouille et d'Os (Jacques Audiard) 9✨
 * Le grand soir (Delépine et Kervern, Benoît Poelvoorde)
+* Le Prénom #comédie
 
 
 ### 2011
@@ -746,6 +750,7 @@ Français:
 * An Education (Carey Mulligan) 🇬🇧
 * London River (Rachid Bouchareb) [📰](https://www.telerama.fr/cinema/films/london-river,389614.php) (vu ?)
 * The Hangover (Very Bad Trip) #comédie
+* Watchmen : Les Gardiens (Zack Snyder)
 * Public Enemies (Michael Mann, Johnny Depp) : ok sans plus
 * bof: Invictus (Clint Eastwood) 🇿🇦 🏉, A Serious Man (frères Coen), Mr. Nobody, Valhalla Rising (Nicolas Winding Refn), Dogtooth (Yórgos Lánthimos) 🇬🇷, The Boat That Rocked (Good Morning England) 🇬🇧, Avatar, The Limits of Control (Jim Jarmusch), ~~Enter the Void (Gaspar Noé)~~
 
