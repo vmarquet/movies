@@ -67,6 +67,8 @@
 * flow (allocine 4.3)
 * https://www.rottentomatoes.com/m/small_things_like_these (Cillian Murphy)
 * https://www.rottentomatoes.com/m/nosferatu_2024 (Robert Eggers)
+* https://www.rottentomatoes.com/m/joy_2024
+* https://www.rottentomatoes.com/m/my_old_ass #coming-of-age
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya
 * La vallée des fous (Xavier Beauvois)
@@ -74,7 +76,7 @@
 * La plus précieuse des marchandes (Hazanavicius) 4.2
 * Le Panache (3.9)
 * Louise Violet (4.0)
-* En Fanfare (4.2)
+* En Fanfare (4.3) TTT
 
 
 ### 2023
@@ -83,7 +85,6 @@
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
-* https://www.rottentomatoes.com/m/robot_dreams (allocine 4.0)
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/lost_ladies 🇮🇳
 * https://www.rottentomatoes.com/m/of_an_age
@@ -327,7 +328,6 @@
 ### 2001
 
 * A Beautiful Mind 🏆
-* https://www.rottentomatoes.com/m/im_your_man_2021 #romcom +++
 * https://www.rottentomatoes.com/m/waking_life
 * https://www.rottentomatoes.com/m/son_of_the_bride
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
@@ -346,7 +346,6 @@
 ### 1999
 
 * The Insider https://www.rottentomatoes.com/m/insider
-* https://www.rottentomatoes.com/m/boys_dont_cry +++
 * https://www.rottentomatoes.com/m/magnolia (Paul Thomas Anderson)
 * https://www.rottentomatoes.com/m/1093579-man_on_the_moon
 * https://www.rottentomatoes.com/m/notting_hill #romcom

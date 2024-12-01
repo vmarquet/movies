@@ -282,6 +282,7 @@ Français:
       > &emsp; – Scary stories make life less scary. ❞ 
 * Sharper : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
+* Robot Dreams
 * bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -371,7 +372,7 @@ Français:
 * Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, Stillwater, The Power of the Dog, Onoda 🇯🇵, Les Poings desserrés (Razzhimaya Kulaki) 🇷🇺 🌿, Last Night in Soho 🇬🇧
+* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, Stillwater, The Power of the Dog, Onoda 🇯🇵, I'm Your Man 🇩🇪, Les Poings desserrés (Razzhimaya Kulaki) 🇷🇺 🌿, Last Night in Soho 🇬🇧
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -792,9 +793,9 @@ Français:
 * Entre les murs 🌿 #film-scolaire
 * Le Crime est notre affaire (Catherine Frot, André Dussollier, Claude Rich)
     * suite de Mon Petit Doigt m'a Dit (2004)
-* Bienvenue chez les Ch'tis (Kad Merad, Dany Boon)
+* Bienvenue chez les Ch'tis (Kad Merad, Dany Boon) #comédie
 * Le Premier Jour du reste de ta vie (vu ?)
-* Musée haut, musée bas
+* Musée haut, musée bas #comédie
 * 35 Rhums
 * Les Grandes Personnes (JP Darroussin) [📰](https://www.telerama.fr/cinema/films/les-grandes-personnes,347066.php)
 * La Fille de Monaco
@@ -1060,7 +1061,7 @@ Français:
 * The Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * The Mummy (Brendan Fraser) #famille
-* bof: Eyes Wide Shut (Kubrick), Sixième Sens (Bruce Willis), The Virgin Suicides (Sofia Coppola), Mafia Blues, ~~The Green Mile~~
+* bof: Eyes Wide Shut (Kubrick), Sixième Sens (Bruce Willis), The Virgin Suicides (Sofia Coppola), Boys Don't Cry, Mafia Blues, ~~The Green Mile~~
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
