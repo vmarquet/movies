@@ -16,6 +16,7 @@ Documentaires
 * All The Beauty And The Bloodshed (2022) 🇺🇸 📷 💊
 * Menus-Plaisirs - Les Troisgros 🇫🇷 🍴
 * The Contestant (2023) 🇯🇵 ❤️
+* Philippines : les petits forçats de l’or (2024) 🇵🇭 (Prix Albert Londres de l’audiovisuel)
 
 
 #### bien sans plus

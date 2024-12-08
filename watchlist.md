@@ -62,13 +62,12 @@
 * https://www.rottentomatoes.com/m/saturday_night_2024 (Jason Reitman)
 * https://www.rottentomatoes.com/m/the_outrun #aventure #nature
 * https://www.rottentomatoes.com/m/my_favourite_cake 🇮🇷
+* https://www.rottentomatoes.com/m/nickel_boys
 * sur un fil (allocine 4.0) reda kateb
 * l'amour ouf (allocine 4.2)
 * flow (allocine 4.3)
 * https://www.rottentomatoes.com/m/small_things_like_these (Cillian Murphy)
 * https://www.rottentomatoes.com/m/nosferatu_2024 (Robert Eggers)
-* https://www.rottentomatoes.com/m/joy_2024
-* https://www.rottentomatoes.com/m/my_old_ass #coming-of-age
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya
 * La vallée des fous (Xavier Beauvois)
@@ -92,16 +91,14 @@
 * tous TTT:
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
-* https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php
+* https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php 83% 3.8
 * https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/fitting_in_2023
 * https://www.rottentomatoes.com/m/the_persian_version
 * https://www.rottentomatoes.com/m/the_color_purple
 * https://www.rottentomatoes.com/m/we_grown_now
-* https://www.rottentomatoes.com/m/may_december
 * https://www.rottentomatoes.com/m/nyad #biopic
-* https://www.rottentomatoes.com/m/bottoms
-* https://www.rottentomatoes.com/m/the_starling_girl
+* https://www.rottentomatoes.com/m/the_starling_girl 97%
 * https://www.rottentomatoes.com/m/rustin_2023
 * https://www.rottentomatoes.com/m/problemista
 * https://www.rottentomatoes.com/m/limbo_2023
@@ -120,15 +117,14 @@
 * cinéma étranger:
     * https://www.telerama.fr/cinema/augure-quand-la-fete-de-famille-vire-au-proces-en-sorcellerie_cri-7030007.php TT
     * https://www.telerama.fr/cinema/si-seulement-je-pouvais-hiberner-le-combat-de-sa-realisatrice-pour-l-education-et-l-ecologie-en-mongolie-7018852.php TTT
-    * https://www.telerama.fr/cinema/goodbye-julia-une-ode-a-la-liberte-d-une-intense-beaute_cri-7029542.php TTT
-* https://www.telerama.fr/cinema/l-ete-dernier-catherine-breillat-filme-la-transgression-avec-force-et-subtilite_cri-7028401.php TTTT
+    * https://www.telerama.fr/cinema/goodbye-julia-une-ode-a-la-liberte-d-une-intense-beaute_cri-7029542.php TTT (4.0)
 
 
 ### 2022
 
 * https://www.telerama.fr/cinema/films/enquete-sur-un-scandale-d-etat-1-193253187.php TTT
 * https://www.rottentomatoes.com/m/till ✊🏾
-* https://www.rottentomatoes.com/m/north_of_normal
+* https://www.rottentomatoes.com/m/north_of_normal 80% 1h30
 * https://www.rottentomatoes.com/m/sanctuary_2022
 * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
 * https://editorial.rottentomatoes.com/guide/best-movies-2022/
@@ -157,7 +153,6 @@
 ### 2020
 
 * True Mothers 🇯🇵
-* The Half of It #coming-of-age
 * https://www.rottentomatoes.com/m/one_night_in_miami ✊🏾
 * https://www.rottentomatoes.com/m/the_macaluso_sisters 🇮🇹
 * https://www.rottentomatoes.com/m/the_way_back_2020

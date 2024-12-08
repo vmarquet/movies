@@ -205,20 +205,22 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️ 🌿
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
+* My Old Ass 🇨🇦 ❤️ #coming-of-age
 * Civil War 🇺🇸 ❤️
 * Santosh 🇮🇳 ❤️
-* A Different Man
-* Conclave
+* A Different Man ❤️
+* Conclave ❤️
 * Juror #2 (Clint Eastwood)
 * Highway 65 🇮🇱 #thriller
+* Kinds of Kindness (Yórgos Lánthimos)
 * Inside Out 2 (Pixar)
 * The Wild Robot (DreamWorks) #famille
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
-* Kinds of Kindness (Yórgos Lánthimos)
 * All We Imagine as Light 🇮🇳
+* Joy 🇬🇧
 * bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), ~~Monkey Man~~
 
 Français:
@@ -283,7 +285,7 @@ Français:
 * Sharper : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
 * Robot Dreams
-* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
+* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, May December (Todd Haynes) 🎥, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -298,7 +300,7 @@ Français:
 * Daaaaaalí ! (Quentin Dupieux)
 * Je verrai toujours vos visages (Jeanne Herry)
 * Borgo (Hafsia Herzi)
-* bof: La Bête (Léa Seydoux), La Passion de Dodin Bouffant, Chien de la Casse, Le Vourdalak, Yannick (Quentin Dupieux), Retour à Séoul, Le Règne animal (Romain Duris) 5✨, Vampire humaniste cherche suicidaire consentant (Québec), Mon Crime (François Ozon), Une année difficile
+* bof: La Bête (Léa Seydoux), La Passion de Dodin Bouffant, Chien de la Casse, Le Vourdalak, Yannick (Quentin Dupieux), Retour à Séoul, Le Règne animal (Romain Duris) 5✨, Vampire humaniste cherche suicidaire consentant (Québec), L’Été dernier, Mon Crime (François Ozon), Une année difficile
 
 
 ### 2022
@@ -401,7 +403,7 @@ Français:
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
     * Promising Young Woman : divertissement sympa sans plus
-    * Sound of Metal, Soul (Pixar), Minari, Bacurau 🇧🇷, News of the World (Tom Hanks) #western, The Paper Tigers #kungfu, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild, Vivarium, ~~Tenet~~
+    * Sound of Metal, Soul (Pixar), Minari, Bacurau 🇧🇷, The Half of It #coming-of-age, News of the World (Tom Hanks) #western, The Paper Tigers #kungfu, The Nest [📰](https://www.telerama.fr/cinema/films/the-nest,n6703873.php), Mank, Pig, The Call of the Wild, Vivarium, ~~Tenet~~
 
 [Césars 46](https://fr.wikipedia.org/wiki/46e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
