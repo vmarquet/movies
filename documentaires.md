@@ -17,6 +17,7 @@ Documentaires
 * Menus-Plaisirs - Les Troisgros 🇫🇷 🍴
 * The Contestant (2023) 🇯🇵 ❤️
 * Philippines : les petits forçats de l’or (2024) 🇵🇭 (Prix Albert Londres de l’audiovisuel)
+* Buy Now - The Shopping Conspiracy (2024, Netflix)
 
 
 #### bien sans plus
@@ -51,4 +52,5 @@ Documentaires
 * https://www.rottentomatoes.com/m/anselm
 * Au boulot ! (François Ruffin)
 * https://www.rottentomatoes.com/m/sugarcane
+* https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php TTT 🇷🇺
 

@@ -267,12 +267,13 @@ Français:
 * Sick of Myself 🇳🇴 #satire
 * Air (Matt Damon)
 * Strange Darling 🎥
+* Dumb Money (Paul Dano) 💵
+* The Starling Girl
 * I saw the TV glow
 * Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) : intrigue façon policier, très convenu
 * Hit Man
 * Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
 * Oppenheimer (Christopher Nolan) : trop long
-* Dumb Money (Paul Dano) 💵
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * The Last Stop in Yuma County
 * One Life 🇬🇧 #history
@@ -1898,6 +1899,7 @@ Français:
 * You'll Never Find Me (2023) 🇦🇺 ❤️
 * Late Night with the Devil (2023) ❤️
 * Oddity (2024) ❤️
+* Heretic (2024) ❤️
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
