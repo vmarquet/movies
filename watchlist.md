@@ -9,6 +9,7 @@
 ### 2025
 
 * Mickey 17 (Robert Pattinson)
+* Quiet Life
 
 
 ### 2024
@@ -71,16 +72,27 @@
 * https://www.rottentomatoes.com/m/we_live_in_time 80%
 * https://www.rottentomatoes.com/m/daddio_2023 88% #huis-clos (Sean Penn)
 * https://www.rottentomatoes.com/m/thangalaan 🇮🇳
+* https://www.rottentomatoes.com/m/the_best_christmas_pageant_ever_2024 97%
+* https://www.rottentomatoes.com/m/babygirl_2024
+* https://www.rottentomatoes.com/m/queer 61%
+* https://www.rottentomatoes.com/m/a_real_pain 95-81%
+* https://www.rottentomatoes.com/m/sing_sing 97%
+* https://www.telerama.fr/cinema/noel-a-miller-s-point-delicate-comedie-de-saison_cri-7035849.php TTT 80-40% 2.4
+* https://www.rottentomatoes.com/m/the_room_next_door 88% (Pedro Almodóvar)
+* https://www.rottentomatoes.com/m/when_the_light_breaks 96%c islande
+* https://www.telerama.fr/cinema/leurs-enfants-apres-eux-paul-kircher-formidable-dans-cette-adaptation-reussie-du-roman-de-nicolas-mathieu_cri-7035728.php TTT 3.6
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya
 * La vallée des fous (Xavier Beauvois)
 * L'affaire Nevenka 🇪🇸 (allociné 4.1)
 * La plus précieuse des marchandes (Hazanavicius) 4.2
-* Le Panache (3.9)
+* Une part manquante (3.9)
+* Le Panache (3.9) (José Garcia)
 * Louise Violet (4.0)
-* En Fanfare (4.3) TTT
 * Vingt Dieux (4.0)
 * Les femmes au balcon
+* Prodigieuses (4.0)
+* Wicked (3.8) 90%
 
 
 ### 2023
@@ -90,36 +102,35 @@
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
-* https://www.rottentomatoes.com/m/lost_ladies 🇮🇳
+* https://www.rottentomatoes.com/m/lost_ladies 94% 🇮🇳
 * https://www.rottentomatoes.com/m/of_an_age 86%
 * https://www.rottentomatoes.com/m/the_peasants
 * tous TTT:
     * quand les vagues se retirent
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php 83% 3.8
-* https://www.rottentomatoes.com/m/double_blind
 * https://www.rottentomatoes.com/m/fitting_in_2023 65%
-* https://www.rottentomatoes.com/m/the_persian_version
-* https://www.rottentomatoes.com/m/the_color_purple
+* https://www.rottentomatoes.com/m/the_persian_version 93%
+* https://www.rottentomatoes.com/m/the_color_purple 95%
 * https://www.rottentomatoes.com/m/we_grown_now 81%
 * https://www.rottentomatoes.com/m/nyad #biopic
-* https://www.rottentomatoes.com/m/rustin_2023
-* https://www.rottentomatoes.com/m/problemista
+* https://www.rottentomatoes.com/m/rustin_2023 82%
+* https://www.rottentomatoes.com/m/problemista 85%
 * https://www.rottentomatoes.com/m/limbo_2023 67% #crime
 * https://www.rottentomatoes.com/m/inside_the_yellow_cocoon_shell
-* https://www.rottentomatoes.com/m/slow
+* https://www.rottentomatoes.com/m/slow 80%
 * https://www.rottentomatoes.com/m/uproar 90%
 * https://www.telerama.fr/cinema/un-metier-serieux-thomas-lilti-doit-il-revoir-sa-copie_cri-7028405.php #film-scolaire
-* https://www.rottentomatoes.com/m/la_chimera
-* https://www.rottentomatoes.com/m/beau_is_afraid
-* https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽
+* https://www.rottentomatoes.com/m/la_chimera 74%
+* https://www.rottentomatoes.com/m/beau_is_afraid 71% (3.2)
+* https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽 73%
 * https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
 * https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023 67%
 * https://www.rottentomatoes.com/m/kidnapped_the_abduction_of_edgardo_mortara 78% 🇮🇹
 * https://www.rottentomatoes.com/m/about_dry_grasses (Nuri Bilge Ceylan) 80%
-* Dissidente
-* Gasoline Rainbow
+* Dissidente https://fr.wikipedia.org/wiki/Richelieu_(film)
+* Gasoline Rainbow 73%
 * cinéma étranger:
     * https://www.telerama.fr/cinema/augure-quand-la-fete-de-famille-vire-au-proces-en-sorcellerie_cri-7030007.php TT
     * https://www.telerama.fr/cinema/si-seulement-je-pouvais-hiberner-le-combat-de-sa-realisatrice-pour-l-education-et-l-ecologie-en-mongolie-7018852.php TTT
@@ -129,42 +140,43 @@
 ### 2022
 
 * https://www.telerama.fr/cinema/films/enquete-sur-un-scandale-d-etat-1-193253187.php TTT
-* https://www.rottentomatoes.com/m/till ✊🏾
+* https://www.rottentomatoes.com/m/till 97% ✊🏾
 * https://www.rottentomatoes.com/m/north_of_normal 80% 1h30
-* https://www.rottentomatoes.com/m/sanctuary_2022
+* https://www.rottentomatoes.com/m/sanctuary_2022 86% 1h30
 * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
 * https://editorial.rottentomatoes.com/guide/best-movies-2022/
-    * no bears, happening, girl picture, till
+    * no bears 🇮🇷 81%
+    * happening 78%
+    * girl picture 74%
 * https://www.telerama.fr/cinema/films/vivre-1-230294726.php
-* https://www.rottentomatoes.com/m/out_of_darkness_2022
+* https://www.rottentomatoes.com/m/out_of_darkness_2022 85/55
 * https://www.rottentomatoes.com/m/elvis
-* https://www.rottentomatoes.com/m/prey_2022
-* https://www.rottentomatoes.com/m/joyland_2022 🇵🇰
+* https://www.rottentomatoes.com/m/joyland_2022 🇵🇰 71%
 * Broker (Koreeda) 🇰🇷
 * Aftersun
-* Shut In
+* Shut In - 50/93
 
 
 ### 2021
 
-* https://www.rottentomatoes.com/m/the_harder_they_fall #western
-* https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷
-* https://www.rottentomatoes.com/m/blue_bayou_2021
-* https://www.rottentomatoes.com/m/luca_2021
-* https://www.rottentomatoes.com/m/mondo_hollywoodland
-* Old Henry
-* Ballad of a white cow 🇮🇷
+* https://www.rottentomatoes.com/m/the_harder_they_fall #western 93%
+* https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷 83%
+* https://www.rottentomatoes.com/m/blue_bayou_2021 93%
+* https://www.rottentomatoes.com/m/luca_2021 84%
+* https://www.rottentomatoes.com/m/mondo_hollywoodland 88%
+* https://www.rottentomatoes.com/m/old_henry 92% #western
+* Ballad of a white cow 🇮🇷 75%
 
 
 ### 2020
 
-* True Mothers 🇯🇵
-* https://www.rottentomatoes.com/m/one_night_in_miami ✊🏾
-* https://www.rottentomatoes.com/m/the_macaluso_sisters 🇮🇹
+* True Mothers 🇯🇵 91%
+* https://www.rottentomatoes.com/m/one_night_in_miami ✊🏾 77%
+* https://www.rottentomatoes.com/m/the_macaluso_sisters 🇮🇹 87%
 * https://www.rottentomatoes.com/m/the_way_back_2020 84% Ben Affleck
-* https://www.rottentomatoes.com/m/son_of_monarchs
-* https://www.rottentomatoes.com/m/psych_2_lassie_come_home
-* https://www.rottentomatoes.com/m/wolfwalkers
+* https://www.rottentomatoes.com/m/son_of_monarchs 92%
+* https://www.rottentomatoes.com/m/psych_2_lassie_come_home 85% #comedie
+* https://www.rottentomatoes.com/m/wolfwalkers 98% #famille
 
 
 ### 2019
@@ -175,15 +187,15 @@
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
 * https://www.telerama.fr/cinema/films/les-racines-du-monde,n6692233.php TT Les racines du monde 🇲🇳
 * https://www.telerama.fr/cinema/films/les-voleurs-de-chevaux,n6750890.php TTT Les voleurs de chevaux 🇰🇿
-* https://www.rottentomatoes.com/m/monos
+* https://www.rottentomatoes.com/m/monos 85%
 * https://www.rottentomatoes.com/m/togo_2019 (Disney, Willem Dafoe)
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
-* https://www.rottentomatoes.com/m/babyteeth
-* https://www.rottentomatoes.com/m/driveways
-* First Cow
+* https://www.rottentomatoes.com/m/babyteeth 84%
+* https://www.rottentomatoes.com/m/driveways 99-84%
+* https://www.rottentomatoes.com/m/first_cow 96-65%
 * Mr Jones (L'ombre de Staline) #history
-* https://www.rottentomatoes.com/m/rocketman_2019 #biopic
-* https://www.rottentomatoes.com/m/alice_2019
+* https://www.rottentomatoes.com/m/rocketman_2019 88% #biopic #lgbt
+* https://www.rottentomatoes.com/m/alice_2019 75%
 
 
 ### 2018
@@ -192,7 +204,7 @@
 * https://www.telerama.fr/cinema/films/long-days-journey-into-night,n5603289.php TTT 🇨🇳
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * https://www.telerama.fr/cinema/le-monde-est-a-toi-7027679.php TTT (Romain Gavras)
-* https://www.rottentomatoes.com/m/tully_2018
+* https://www.rottentomatoes.com/m/tully_2018 75%
 * https://www.rottentomatoes.com/m/prospect_2018 73%
 * Pupille (Jeanne Herry)
 
@@ -204,7 +216,7 @@
 * https://www.rottentomatoes.com/m/columbus_2017 80%
 * https://www.rottentomatoes.com/m/november_2018 79%
 * https://www.rottentomatoes.com/m/the_florida_project 81%
-* https://www.rottentomatoes.com/m/hidden_figures ✊🏾
+* https://www.rottentomatoes.com/m/hidden_figures ✊🏾 93%
 * https://www.rottentomatoes.com/m/a_silent_voice #anime 🇯🇵
 * https://www.rottentomatoes.com/m/your_name #anime 🇯🇵
 * https://www.telerama.fr/festival-de-cannes/2017/les-fantomes-d-ismael-aigu-intense-et-plein-d-humour,158238.php
@@ -212,7 +224,7 @@
 
 ### 2016
 
-* https://www.telerama.fr/cinema/films/harmonium,509277.php https://www.rottentomatoes.com/m/harmonium TTT 🇯🇵
+* https://www.telerama.fr/cinema/films/harmonium,509277.php https://www.rottentomatoes.com/m/harmonium TTT 🇯🇵 100-77%
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen 83% #coming-of-age
 
@@ -290,6 +302,7 @@
 * https://www.rottentomatoes.com/m/1189416-shelter ?
 * https://www.rottentomatoes.com/m/once
 * https://www.rottentomatoes.com/m/stardust
+* https://www.rottentomatoes.com/m/paris_je_taime (84%)
 
 
 ### 2006
@@ -367,6 +380,7 @@
 
 ### 1997
 
+* https://www.rottentomatoes.com/m/open_your_eyes_1999 (Alejandro Amenábar) 🇪🇸 88% 4.0
 * Western https://www.telerama.fr/cinema/films/western,35682.php
 * https://www.rottentomatoes.com/m/amistad (Steven Spielberg)
 
@@ -375,8 +389,8 @@
 
 * https://www.rottentomatoes.com/m/secrets_and_lies (Mile Leigh)
 * Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
-* https://www.rottentomatoes.com/m/ponette
-* https://www.rottentomatoes.com/m/1078942-shall_we_dance 🇯🇵
+* https://www.rottentomatoes.com/m/ponette 91% 1h37
+* https://www.rottentomatoes.com/m/1078942-shall_we_dance 🇯🇵 89%
 
 
 ### 1995
@@ -417,6 +431,7 @@
 
 ### 1991
 
+* https://www.rottentomatoes.com/m/double_life_of_veronique 92%
 * https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php (Zhang Yimou) 🇨🇳
 
 
@@ -600,7 +615,7 @@
 ### Horror
 
 * https://www.rottentomatoes.com/m/one_cut_of_the_dead 🇯🇵
-* https://www.rottentomatoes.com/m/double_blind
+* https://www.rottentomatoes.com/m/double_blind 71%
 * https://www.rottentomatoes.com/m/smile_2022
 * https://www.rottentomatoes.com/m/in_flames 🇵🇰
 * https://www.rottentomatoes.com/m/new_life_2023

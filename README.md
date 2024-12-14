@@ -199,7 +199,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2024
 
-[Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – [Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/)
+[Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – Rotten Tomatoes [1](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/), [2](https://editorial.rottentomatoes.com/article/awards-leaderboard-best-movies-of-2024/)
 
 * Les Graines du figuier sauvage 🇮🇷 ❤️ 🌿
 * Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️ 🌿
@@ -228,6 +228,7 @@ Français:
 * L’Histoire de Souleymane ❤️ 🌿
 * La Récréation de juillet ❤️
 * Première Affaire ❤️
+* En Fanfare
 * Le Comte de Monte-Cristo (Pierre Niney)
 * Monsieur Aznavour
 * Les Fantômes
@@ -1871,7 +1872,7 @@ Français:
 * Scream (1996, Wes Craven)
 * Ringu (1998) 🇯🇵
 * The Blair Witch Project (1999) ❤️
-* The Others (2001, Alejandro Amenabar)
+* The Others (2001, Alejandro Amenábar)
 * Kairo (2001) 🇯🇵
 * Dragon Rouge (2002) : pas inoubliable mais prequel potable du Silence des Agneaux
 * Saw (2004)
