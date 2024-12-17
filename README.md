@@ -220,8 +220,9 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
 * All We Imagine as Light 🇮🇳
+* Young Woman and the Sea (Daisy Ridley) #biopic
 * Joy 🇬🇧
-* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), ~~Monkey Man~~
+* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
 
 Français:
 
@@ -230,6 +231,7 @@ Français:
 * Première Affaire ❤️
 * En Fanfare
 * Le Comte de Monte-Cristo (Pierre Niney)
+* Vingt Dieux
 * Monsieur Aznavour
 * Les Fantômes
 * Les Pistolets en plastique

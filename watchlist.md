@@ -40,7 +40,6 @@
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 * https://www.telerama.fr/cinema/films/suzume-1-249621710.php TTT #anime 🇯🇵
 * https://www.telerama.fr/cinema/la-morsure-de-romain-de-saint-blanquat-un-conte-de-fees-gothique-ensorcelant_cri-7032649.php TT
-* https://www.rottentomatoes.com/m/young_woman_and_the_sea 96% 4.1 #biopic
 * https://www.rottentomatoes.com/m/tuesday_2023 50%
 * https://www.telerama.fr/cinema/memory-peter-sarsgaard-et-jessica-chastain-duo-eblouissant-dans-ce-melo-de-michel-franco_cri-7032906.php TTT
 * https://www.rottentomatoes.com/m/the_dead_dont_hurt 67% 3.6 #western
@@ -55,7 +54,8 @@
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 * https://www.telerama.fr/cinema/le-roman-de-jim-le-nouveau-melo-des-freres-larrieu-d-une-tendresse-foudroyante_cri-7033996.php TTTT
 * https://www.rottentomatoes.com/m/rebel_ridge 73%
-* chroniques chinoises
+* chroniques chinoises 🇨🇳
+* Tout ira bien https://www.rottentomatoes.com/m/all_shall_be_well 🇨🇳
 * https://www.telerama.fr/cinema/le-fil-daniel-auteuil-convaincant-en-avocat-obsede-par-la-verite_cri-7034340.php TT (allocine 3.9)
 * https://www.telerama.fr/cinema/tatami-un-thriller-politique-qui-frappe-fort_cri-7034231.php 🇮🇷
 * https://www.rottentomatoes.com/m/saturday_night_2024 (Jason Reitman)
@@ -72,7 +72,6 @@
 * https://www.rottentomatoes.com/m/we_live_in_time 80%
 * https://www.rottentomatoes.com/m/daddio_2023 88% #huis-clos (Sean Penn)
 * https://www.rottentomatoes.com/m/thangalaan 🇮🇳
-* https://www.rottentomatoes.com/m/the_best_christmas_pageant_ever_2024 97%
 * https://www.rottentomatoes.com/m/babygirl_2024
 * https://www.rottentomatoes.com/m/queer 61%
 * https://www.rottentomatoes.com/m/a_real_pain 95-81%
@@ -89,7 +88,6 @@
 * Une part manquante (3.9)
 * Le Panache (3.9) (José Garcia)
 * Louise Violet (4.0)
-* Vingt Dieux (4.0)
 * Les femmes au balcon
 * Prodigieuses (4.0)
 * Wicked (3.8) 90%
