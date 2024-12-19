@@ -65,7 +65,6 @@
 * sur un fil (allocine 4.0) reda kateb
 * l'amour ouf (allocine 4.2)
 * flow (allocine 4.3)
-* https://www.rottentomatoes.com/m/small_things_like_these (Cillian Murphy)
 * https://www.rottentomatoes.com/m/nosferatu_2024 (Robert Eggers)
 * https://www.rottentomatoes.com/m/lucky_baskhar 🇮🇳 +++
 * https://www.rottentomatoes.com/m/the_brutalist (Adrien Brody)
@@ -230,11 +229,11 @@
 ### 2015
 
 * Hope (Boris Lojkine)
-* https://www.rottentomatoes.com/m/macbeth_2015
-* Le Fils de Saul 🇭🇺 🌿
-* Me and Earl and the Dying Girl ☀️ #coming-of-age
+* https://www.rottentomatoes.com/m/macbeth_2015 64%
+* Le Fils de Saul 🇭🇺 🌿 79%
+* Me and Earl and the Dying Girl ☀️ #coming-of-age 81%
 * https://www.rottentomatoes.com/m/long_way_north #famille
-* https://www.rottentomatoes.com/m/victoria_2015
+* https://www.rottentomatoes.com/m/victoria_2015 82%
 
 
 ### 2014
@@ -265,24 +264,24 @@
 * https://www.rottentomatoes.com/m/the_turin_horse ++
 * https://www.telerama.fr/cinema/films/poulet-aux-prunes,429568.php 🇫🇷🇮🇷
 * https://www.telerama.fr/cinema/films/elena,428535.php
-* https://www.rottentomatoes.com/m/detachment
+* https://www.rottentomatoes.com/m/detachment 60%
 * Le Havre (Aki Kaurismäki)
-* https://www.rottentomatoes.com/m/13_assassins_2011 (Takashi Miike) 🇯🇵
-* https://www.rottentomatoes.com/m/the_help ✊🏾
+* https://www.rottentomatoes.com/m/13_assassins_2011 (Takashi Miike) 🇯🇵 88%
+* https://www.rottentomatoes.com/m/the_help ✊🏾 76%
 
 
 ### 2010
 
 * https://www.telerama.fr/cinema/films/venus-noire,422600.php (Abdellatif Kechiche) TTT
 * L'Illusionniste
-* https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷
+* https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷 82%
 
 
 ### 2009
 
 * https://vodkaster.telerama.fr/films/ulzhan/48115 🇰🇿
 * https://www.telerama.fr/cinema/films/vincere,391336.php
-* https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach)
+* https://www.rottentomatoes.com/m/looking_for_eric (Ken Loach) 78%
 * Max et les Maximonstres
 
 
@@ -295,38 +294,38 @@
 
 ### 2007
 
-* https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy
-* https://www.rottentomatoes.com/m/hairspray #musical
+* https://www.rottentomatoes.com/m/bridge_to_terabithia #aventure #fantasy 70%
+* https://www.rottentomatoes.com/m/hairspray #musical 84%
 * https://www.rottentomatoes.com/m/1189416-shelter ?
-* https://www.rottentomatoes.com/m/once
-* https://www.rottentomatoes.com/m/stardust
+* https://www.rottentomatoes.com/m/once 91%
+* https://www.rottentomatoes.com/m/stardust 77%
 * https://www.rottentomatoes.com/m/paris_je_taime (84%)
 
 
 ### 2006
 
-* https://www.rottentomatoes.com/m/half_nelson
-* https://www.rottentomatoes.com/m/the_fountain
-* https://www.rottentomatoes.com/m/snow_cake
+* https://www.rottentomatoes.com/m/half_nelson 82%
+* https://www.rottentomatoes.com/m/the_fountain 52%
+* https://www.rottentomatoes.com/m/snow_cake 63%
 
 
 ### 2005
 
 * L'Enfant (frères Dardenne) 🌿
-* https://www.rottentomatoes.com/m/sweet_land
+* https://www.rottentomatoes.com/m/sweet_land 83%
 
 
 ### 2004
 
-* https://www.rottentomatoes.com/m/i_heart_huckabees
-* https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres
-* https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵🇹🇭
-* https://www.rottentomatoes.com/m/on_the_outs
+* https://www.rottentomatoes.com/m/i_heart_huckabees 63%
+* https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres 81%
+* https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵🇹🇭 90%
+* https://www.rottentomatoes.com/m/on_the_outs 84%
 
 
 ### 2003
 
-* https://www.rottentomatoes.com/m/the_return
+* https://www.rottentomatoes.com/m/the_return 93%
 * https://www.rottentomatoes.com/m/facing_windows ?
 
 
@@ -340,52 +339,52 @@
 ### 2001
 
 * A Beautiful Mind 🏆
-* https://www.rottentomatoes.com/m/waking_life
-* https://www.rottentomatoes.com/m/son_of_the_bride
+* https://www.rottentomatoes.com/m/waking_life 81%
+* https://www.rottentomatoes.com/m/son_of_the_bride 86%
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)
 * https://www.rottentomatoes.com/m/sex_and_lucia
-* https://www.rottentomatoes.com/m/shadow_of_the_vampire
+* https://www.rottentomatoes.com/m/shadow_of_the_vampire 74%
 * https://www.telerama.fr/cinema/films/le-lait-de-la-tendresse-humaine,56173.php TTT
 
 
 ### 2000
 
 * https://editorial.rottentomatoes.com/guide/essential-2000s-movies/
-* https://www.rottentomatoes.com/m/1095420-high_fidelity
-* https://www.rottentomatoes.com/m/sexy_beast
+* https://www.rottentomatoes.com/m/1095420-high_fidelity 90%
+* https://www.rottentomatoes.com/m/sexy_beast 85%
 
 
 ### 1999
 
-* The Insider https://www.rottentomatoes.com/m/insider
-* https://www.rottentomatoes.com/m/magnolia (Paul Thomas Anderson)
-* https://www.rottentomatoes.com/m/1093579-man_on_the_moon
-* https://www.rottentomatoes.com/m/notting_hill #romcom
-* https://www.rottentomatoes.com/m/1091577-ideal_husband
-* https://www.rottentomatoes.com/m/election
+* The Insider https://www.rottentomatoes.com/m/insider 90%
+* https://www.rottentomatoes.com/m/magnolia (Paul Thomas Anderson) 82%
+* https://www.rottentomatoes.com/m/1093579-man_on_the_moon 64%
+* https://www.rottentomatoes.com/m/notting_hill #romcom 79%
+* https://www.rottentomatoes.com/m/1091577-ideal_husband 70%
+* https://www.rottentomatoes.com/m/election 80%
 
 
 ### 1998
 
 * https://www.rottentomatoes.com/m/after_life (Koreeda) 🇯🇵
-* Smoke Signals
+* Smoke Signals 82%
 * Saving Private Ryan (Steven Spielberg) #film-de-guerre
-* https://www.rottentomatoes.com/m/gods_and_monsters
+* https://www.rottentomatoes.com/m/gods_and_monsters 82%
 * https://www.telerama.fr/cinema/films/place-vendome,45583.php
-* https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh)
-* La vie rêvée des Anges https://www.rottentomatoes.com/m/the_dreamlife_of_angels
+* https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh) 74%
+* La vie rêvée des Anges https://www.rottentomatoes.com/m/the_dreamlife_of_angels 84%
 
 
 ### 1997
 
 * https://www.rottentomatoes.com/m/open_your_eyes_1999 (Alejandro Amenábar) 🇪🇸 88% 4.0
-* Western https://www.telerama.fr/cinema/films/western,35682.php
-* https://www.rottentomatoes.com/m/amistad (Steven Spielberg)
+* Western https://www.telerama.fr/cinema/films/western,35682.php https://www.rottentomatoes.com/m/western_1997 80%
+* https://www.rottentomatoes.com/m/amistad (Steven Spielberg) 78%
 
 
 ### 1996
 
-* https://www.rottentomatoes.com/m/secrets_and_lies (Mile Leigh)
+* https://www.rottentomatoes.com/m/secrets_and_lies (Mile Leigh) 91%
 * Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
 * https://www.rottentomatoes.com/m/ponette 91% 1h37
 * https://www.rottentomatoes.com/m/1078942-shall_we_dance 🇯🇵 89%
@@ -398,12 +397,12 @@
 
 ### 1994
 
-* https://www.rottentomatoes.com/m/madness_of_king_george
+* https://www.rottentomatoes.com/m/madness_of_king_george 80%
 * https://fr.wikipedia.org/wiki/La_Reine_Margot_(film,_1994)
 * https://www.telerama.fr/cinema/films/les-roseaux-sauvages,31774.php
 * https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
-* https://www.rottentomatoes.com/m/crow
-* https://www.rottentomatoes.com/m/the-golden-ball-le-ballon-dor
+* https://www.rottentomatoes.com/m/crow 87%
+* https://www.rottentomatoes.com/m/the-golden-ball-le-ballon-dor 75%
 * Emilie Muller [▶️](https://www.youtube.com/watch?v=Om8e9494G-Q) #short
 
 
@@ -412,19 +411,19 @@
 * https://www.rottentomatoes.com/m/1046151-fearless ++
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
-* https://www.rottentomatoes.com/m/bronx_tale
-* https://www.rottentomatoes.com/m/philadelphia https://www.telerama.fr/cinema/films/philadelphia,30475.php 🎗️
-* https://www.rottentomatoes.com/m/carlitos_way
+* https://www.rottentomatoes.com/m/bronx_tale 93%
+* https://www.rottentomatoes.com/m/philadelphia https://www.telerama.fr/cinema/films/philadelphia,30475.php 🎗️ 81%
+* https://www.rottentomatoes.com/m/carlitos_way 84%
 
 
 ### 1992
 
 * https://www.rottentomatoes.com/m/1040798-husbands_and_wives (Woody Allen)
-* https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical
-* https://www.rottentomatoes.com/m/bad_lieutenant
+* https://www.rottentomatoes.com/m/1045568-strictly_ballroom #musical 87%
+* https://www.rottentomatoes.com/m/bad_lieutenant 74%
 * Indochine
-* https://www.rottentomatoes.com/m/mississippi_masala
-* https://www.rottentomatoes.com/m/light_sleeper
+* https://www.rottentomatoes.com/m/mississippi_masala 92-64%
+* https://www.rottentomatoes.com/m/light_sleeper 87-65%
 
 
 ### 1991
@@ -435,7 +434,7 @@
 
 ### 1990
 
-* https://www.rottentomatoes.com/m/1032970-awakenings ++
+* https://www.rottentomatoes.com/m/1032970-awakenings ++ 81%
 
 
 ### 1989
@@ -447,15 +446,15 @@
 
 ### 1988
 
-* https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹
-* https://www.rottentomatoes.com/m/midnight_run
-* https://www.rottentomatoes.com/m/the_beast_1988
+* https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹 91%
+* https://www.rottentomatoes.com/m/midnight_run 87%
+* https://www.rottentomatoes.com/m/the_beast_1988 84%
 
 
 ### 1987
 
 * https://www.telerama.fr/cinema/films/tandem,9962.php (Patrice Leconte)
-* https://www.rottentomatoes.com/m/raising_arizona (frères Coen)
+* https://www.rottentomatoes.com/m/raising_arizona (frères Coen) 85%
 * https://www.rottentomatoes.com/m/princess_bride #famille #aventure
 * Un zoo la nuit https://www.cinematheque.qc.ca/fr/cinema/un-zoo-la-nuit/
 
@@ -463,50 +462,50 @@
 ### 1986
 
 * https://www.rottentomatoes.com/m/1014027-mission (Roland Joffé) 🌿
-* https://www.rottentomatoes.com/m/labyrinth
-* https://www.rottentomatoes.com/m/hoosiers
+* https://www.rottentomatoes.com/m/labyrinth 77%
+* https://www.rottentomatoes.com/m/hoosiers 88% 🏀
 
 
 ### 1985
 
 * Papa est en voyage d'affaires (Emir Kusturica) 🇷🇸 🌿
-* https://www.rottentomatoes.com/m/my_beautiful_laundrette
-* https://www.rottentomatoes.com/m/real_genius
-* https://www.rottentomatoes.com/m/1002213-better_off_dead
-* https://www.rottentomatoes.com/m/trip_to_bountiful
-* https://www.rottentomatoes.com/m/clue
+* https://www.rottentomatoes.com/m/my_beautiful_laundrette 74%
+* https://www.rottentomatoes.com/m/real_genius 77%
+* https://www.rottentomatoes.com/m/1002213-better_off_dead 77%
+* https://www.rottentomatoes.com/m/trip_to_bountiful 86%
+* https://www.rottentomatoes.com/m/clue 72%
 
 
 ### 1984
 
 * https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
-* https://www.rottentomatoes.com/m/birdy
-* https://www.rottentomatoes.com/m/repo_man
-* https://www.rottentomatoes.com/m/natural
-* https://www.rottentomatoes.com/m/places_in_the_heart
-* https://www.rottentomatoes.com/m/tale_of_tales_1984 🇷🇺
+* https://www.rottentomatoes.com/m/birdy 83%
+* https://www.rottentomatoes.com/m/repo_man 78%
+* https://www.rottentomatoes.com/m/natural 83%
+* https://www.rottentomatoes.com/m/places_in_the_heart 83%
+* https://www.rottentomatoes.com/m/tale_of_tales_1984 🇷🇺 93%
 
 
 ### 1983
 
-* https://www.rottentomatoes.com/m/verdict
+* https://www.rottentomatoes.com/m/verdict 88%
 
 
 ### 1982
 
-* https://www.rottentomatoes.com/m/1014007-missing
+* https://www.rottentomatoes.com/m/1014007-missing 85%
 
 
 ### 1980
 
-* https://www.rottentomatoes.com/m/fame
+* https://www.rottentomatoes.com/m/fame 69%
 * The big red one
 * Inferno (Dario Argento)
 
 
 ### 1979
 
-* https://www.rottentomatoes.com/m/china_syndrome
+* https://www.rottentomatoes.com/m/china_syndrome 81%
 
 
 ### 1978
@@ -528,20 +527,20 @@
 
 ### 1976
 
-* https://www.rottentomatoes.com/m/chess_of_the_wind 🇮🇷
-* https://www.rottentomatoes.com/m/all_the_presidents_men
+* https://www.rottentomatoes.com/m/chess_of_the_wind 🇮🇷 89%
+* https://www.rottentomatoes.com/m/all_the_presidents_men 92%
 
 
 ### 1975
 
-* https://www.rottentomatoes.com/m/the-passenger-professione-reporter
+* https://www.rottentomatoes.com/m/the-passenger-professione-reporter 84%
 * https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php (Bertrand Tavernier)
 * Le Hérisson dans le brouillard 🇷🇺
 
 
 ### 1974
 
-* Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman
+* Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman 84%
 * https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php (Bertrand Tavernier)
 
 
@@ -550,7 +549,7 @@
 * L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
 * La Planète sauvage
 * https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
-* https://www.rottentomatoes.com/m/american_graffiti #coming-of-age
+* https://www.rottentomatoes.com/m/american_graffiti #coming-of-age 84%
 * https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
 * https://www.rottentomatoes.com/m/last_detail
 * https://www.rottentomatoes.com/m/paper_moon
@@ -558,7 +557,7 @@
 
 ### 1972
 
-* https://www.rottentomatoes.com/m/the_new_land
+* https://www.rottentomatoes.com/m/the_new_land 86%
 * https://www.rottentomatoes.com/m/female_prisoner_701_scorpion_1972 #reco tarentino
 * Cabaret (Bob Fosse) 8🏆
 

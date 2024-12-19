@@ -222,6 +222,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * All We Imagine as Light 🇮🇳
 * Young Woman and the Sea (Daisy Ridley) #biopic
 * Joy 🇬🇧
+* Small Things like These (Cillian Murphy) 🇮🇪
 * bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
 
 Français:

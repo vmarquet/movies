@@ -43,6 +43,7 @@ Documentaires
 
 ### watchlist
 
+* https://editorial.rottentomatoes.com/article/10-must-watch-documentaries-2024/
 * https://boutique.arte.tv/detail/nuit_nomade
 * [Ama San](https://www.on-tenk.com/fr/documentaires/coup-de-coeur/ama-san)
 * [Dans l’obscurité du cinéma j’enlève mes chaussures](https://www.allocine.fr/film/fichefilm_gen_cfilm=250663.html)
@@ -53,4 +54,5 @@ Documentaires
 * Au boulot ! (François Ruffin)
 * https://www.rottentomatoes.com/m/sugarcane
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php TTT 🇷🇺
+* https://www.rottentomatoes.com/m/dahomey 🇧🇯 99%
 
