@@ -210,7 +210,7 @@
 
 * https://www.telerama.fr/cinema/films/patients,513387.php TTT
 * I Don't Feel at Home in This World Anymore ☀️ 77%
-* https://www.rottentomatoes.com/m/columbus_2017 80%
+* https://www.rottentomatoes.com/m/columbus_2017 96-80%
 * https://www.rottentomatoes.com/m/november_2018 79%
 * https://www.rottentomatoes.com/m/the_florida_project 81%
 * https://www.rottentomatoes.com/m/hidden_figures ✊🏾 93%
@@ -221,6 +221,7 @@
 
 ### 2016
 
+* https://www.rottentomatoes.com/m/krisha_2016 95-77%
 * https://www.telerama.fr/cinema/films/harmonium,509277.php https://www.rottentomatoes.com/m/harmonium TTT 🇯🇵 100-77%
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen 83% #coming-of-age
@@ -272,6 +273,8 @@
 
 ### 2010
 
+* https://editorial.rottentomatoes.com/article/30-incredible-2010s-directing-debuts-that-left-us-begging-for-more/
+* https://www.rottentomatoes.com/m/blue_valentine 87-77%
 * https://www.telerama.fr/cinema/films/venus-noire,422600.php (Abdellatif Kechiche) TTT
 * L'Illusionniste
 * https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷 82%
@@ -362,6 +365,7 @@
 * https://www.rottentomatoes.com/m/notting_hill #romcom 79%
 * https://www.rottentomatoes.com/m/1091577-ideal_husband 70%
 * https://www.rottentomatoes.com/m/election 80%
+* https://www.rottentomatoes.com/m/la-lengua-de-las-mariposas-butterfly-butterfly-tongues 🇪🇸 91%
 
 
 ### 1998
@@ -377,17 +381,16 @@
 
 ### 1997
 
-* https://www.rottentomatoes.com/m/open_your_eyes_1999 (Alejandro Amenábar) 🇪🇸 88% 4.0
 * Western https://www.telerama.fr/cinema/films/western,35682.php https://www.rottentomatoes.com/m/western_1997 80%
 * https://www.rottentomatoes.com/m/amistad (Steven Spielberg) 78%
 
 
 ### 1996
 
+* https://www.rottentomatoes.com/m/thesis (Alejandro Amenábar) 🇪🇸 89%
 * https://www.rottentomatoes.com/m/secrets_and_lies (Mile Leigh) 91%
 * Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
 * https://www.rottentomatoes.com/m/ponette 91% 1h37
-* https://www.rottentomatoes.com/m/1078942-shall_we_dance 🇯🇵 89%
 
 
 ### 1995
@@ -522,7 +525,7 @@
 * Eraserhead (David Lynch)
 * Annie Hall (Woody Allen)
 * Saturday Night Fever (John Travolta)
-* https://www.rottentomatoes.com/m/1017818-rolling_thunder
+* https://www.rottentomatoes.com/m/1017818-rolling_thunder 77%
 
 
 ### 1976
@@ -547,30 +550,29 @@
 ### 1973
 
 * L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
-* La Planète sauvage
+* La Planète sauvage #sf
 * https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * https://www.rottentomatoes.com/m/american_graffiti #coming-of-age 84%
-* https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro)
-* https://www.rottentomatoes.com/m/last_detail
-* https://www.rottentomatoes.com/m/paper_moon
+* https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro) 92-84%
+* https://www.rottentomatoes.com/m/last_detail 87%
+* https://www.rottentomatoes.com/m/paper_moon 90%
 
 
 ### 1972
 
 * https://www.rottentomatoes.com/m/the_new_land 86%
 * https://www.rottentomatoes.com/m/female_prisoner_701_scorpion_1972 #reco tarentino
-* Cabaret (Bob Fosse) 8🏆
 
 
 ### 1971
 
 * https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php (Jean-Paul Rappeneau)
-* https://www.rottentomatoes.com/m/klute
+* https://www.rottentomatoes.com/m/klute 80%
 
 
 ### 1970
 
-* https://www.rottentomatoes.com/m/landlord
+* https://www.rottentomatoes.com/m/landlord 93-79%
 * Peau d'âne
 
 
@@ -581,7 +583,7 @@
 * https://www.rottentomatoes.com/m/sound_of_music
 * https://www.telerama.fr/cinema/films/nuages-epars,53150.php 🇯🇵
 * https://www.telerama.fr/cinema/une-femme-douce_cri-7029132.php
-* https://www.rottentomatoes.com/m/1013162-man_for_all_seasons
+* https://www.rottentomatoes.com/m/1013162-man_for_all_seasons 87% #history
 * Goto, l'île d'amour
 
 
@@ -605,7 +607,7 @@
 ### 1930s
 
 * Le Quai des brumes (Marcel Carné)
-* https://www.rottentomatoes.com/m/duck_soup
+* https://www.rottentomatoes.com/m/duck_soup 91% 1h10
 
 
 
@@ -621,6 +623,7 @@
 * https://www.rottentomatoes.com/m/exhuma 🇰🇷
 * https://www.rottentomatoes.com/m/disturbia
 * https://www.rottentomatoes.com/m/longlegs
+* https://www.rottentomatoes.com/m/hereditary
 * https://www.rottentomatoes.com/m/sleep_2023
 * https://www.rottentomatoes.com/m/speak_no_evil_2024
 * https://www.rottentomatoes.com/m/its_whats_inside

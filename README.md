@@ -1101,6 +1101,7 @@ Français:
 [Oscars 70](https://fr.wikipedia.org/wiki/70e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Gattaca (Ethan Hawke, Jude Law) ❤️ #sf
+* Abre los ojos (Alejandro Amenábar) 🇪🇸
 * Titanic (James Cameron) 💙 11🏆
 * The Truman Show (Jim Carrey) #film-à-énigme
 * Alien IV (JP Jeunet) [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php) #sf
@@ -1142,6 +1143,7 @@ Français:
       > &emsp; – That's it, that's exactly how I want you to look! ❞ 
     * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
 * Fargo (frères Coen, Frances McDormand, Steve Buscemi)
+* Shall We Dance? 🇯🇵
 * Pusher (Nicolas Winding Refn) 🇩🇰
 * Lone Star #neowestern
 * bof: Jerry Maguire (Cameron Crowe)
@@ -1599,6 +1601,7 @@ Français:
 * Le Parrain (FF Coppola) 🎥 ❤️
 * Délivrance ❤️ #thriller
 * Solaris (Andreï Tarkovski) 🇷🇺 🌿 #sf
+* Cabaret (Bob Fosse) 8🏆
 
 Français:
 

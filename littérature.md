@@ -41,4 +41,8 @@ bof:
 * Désert (JMG Le Clézio, 1980)
 
 
+### Enfant
+
+* Mariette, Soupir et crotte de bique
+* Le conte chaud et doux des chaudoudoux
 
