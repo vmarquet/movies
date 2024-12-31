@@ -211,8 +211,9 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * A Different Man ❤️
 * Conclave ❤️
 * Juror #2 (Clint Eastwood)
-* Highway 65 🇮🇱 #thriller
+* The Order (Jude Law) #thriller
 * Kinds of Kindness (Yórgos Lánthimos)
+* Highway 65 🇮🇱 #thriller
 * Inside Out 2 (Pixar)
 * The Wild Robot (DreamWorks) #famille
 * The Fall Guy (Ryan Gosling) 🍿
@@ -1133,6 +1134,7 @@ Français:
 [Oscars 69](https://fr.wikipedia.org/wiki/69e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * The English Patient ❤️ 9🏆
+* Thesis (Alejandro Amenábar) 🇪🇸 ❤️
 * Trainspotting 🇬🇧
 * Breaking the Waves (Lars von Trier)
 * From Dusk till Dawn (Robert Rodriguez, Harvey Keitel)

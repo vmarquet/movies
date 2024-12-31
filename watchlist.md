@@ -136,6 +136,7 @@
 
 ### 2022
 
+* https://www.rottentomatoes.com/m/the_bad_guys_2022 (DreamWorks)
 * https://www.telerama.fr/cinema/films/enquete-sur-un-scandale-d-etat-1-193253187.php TTT
 * https://www.rottentomatoes.com/m/till 97% ✊🏾
 * https://www.rottentomatoes.com/m/north_of_normal 80% 1h30
@@ -235,10 +236,12 @@
 * Me and Earl and the Dying Girl ☀️ #coming-of-age 81%
 * https://www.rottentomatoes.com/m/long_way_north #famille
 * https://www.rottentomatoes.com/m/victoria_2015 82%
+* https://www.rottentomatoes.com/m/creed_2015 89%
 
 
 ### 2014
 
+* https://www.rottentomatoes.com/m/wild_2014 75%
 * https://www.rottentomatoes.com/m/the_normal_heart 88% 🎗️
 * https://www.rottentomatoes.com/m/foxcatcher 66%
 * https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
@@ -324,6 +327,7 @@
 * https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres 81%
 * https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵🇹🇭 90%
 * https://www.rottentomatoes.com/m/on_the_outs 84%
+* https://yts.mx/movies/mysterious-skin-2004 86%
 
 
 ### 2003
@@ -387,7 +391,6 @@
 
 ### 1996
 
-* https://www.rottentomatoes.com/m/thesis (Alejandro Amenábar) 🇪🇸 89%
 * https://www.rottentomatoes.com/m/secrets_and_lies (Mile Leigh) 91%
 * Comment je me suis disputé... (ma vie sexuelle) [📰](https://www.telerama.fr/cinema/films/comment-je-me-suis-dispute-ma-vie-sexuelle,40905.php)
 * https://www.rottentomatoes.com/m/ponette 91% 1h37
@@ -432,6 +435,7 @@
 ### 1991
 
 * https://www.rottentomatoes.com/m/double_life_of_veronique 92%
+* https://www.rottentomatoes.com/m/my_own_private_idaho 80%
 * https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php (Zhang Yimou) 🇨🇳
 
 
@@ -449,6 +453,7 @@
 
 ### 1988
 
+* https://www.rottentomatoes.com/m/unbearable_lightness_of_being 84%
 * https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹 91%
 * https://www.rottentomatoes.com/m/midnight_run 87%
 * https://www.rottentomatoes.com/m/the_beast_1988 84%
@@ -487,6 +492,7 @@
 * https://www.rottentomatoes.com/m/natural 83%
 * https://www.rottentomatoes.com/m/places_in_the_heart 83%
 * https://www.rottentomatoes.com/m/tale_of_tales_1984 🇷🇺 93%
+* https://www.rottentomatoes.com/m/body_double 65%
 
 
 ### 1983
