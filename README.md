@@ -33,6 +33,7 @@
 * ❤️ = mes films préférés
 * 🎥 = film à l'esthétique très travaillé
 * 🍿 = divertissement léger
+* 🎵 = comédie musicale / film musical
 * 🏆 = nominé aux Oscars
 * ✨ = nominé aux Césars
 * 🌿 = nominé à Cannes
@@ -212,7 +213,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Conclave ❤️
 * Juror #2 (Clint Eastwood)
 * The Order (Jude Law) #thriller
-* Wicked 🎵
+* Wicked 🎵 #fantastique
 * Kinds of Kindness (Yórgos Lánthimos)
 * Highway 65 🇮🇱 #thriller
 * Inside Out 2 (Pixar)
@@ -1563,7 +1564,7 @@ Français:
 * Section spéciale (Costa-Gavras)
 * Jaws (Steven Spielberg)
 * Dersou Ouzala (Akira Kurosawa) 🇷🇺🇯🇵 🎥 #aventure
-* bof: The Rocky Horror Picture Show
+* bof: The Rocky Horror Picture Show 🎵
 
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
