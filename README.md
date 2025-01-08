@@ -202,7 +202,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 [Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – Rotten Tomatoes [1](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/), [2](https://editorial.rottentomatoes.com/article/awards-leaderboard-best-movies-of-2024/)
 
 * Les Graines du figuier sauvage 🇮🇷 ❤️ 🌿
-* Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️ 🌿
+* Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️ 🌿 🎵
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
 * My Old Ass 🇨🇦 ❤️ #coming-of-age
@@ -1046,7 +1046,7 @@ Français:
 * Gladiator (Ridley Scott) 💙 5🏆
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt) 🇬🇧
-* Dancer in the Dark (Lars von Trier) 🌿
+* Dancer in the Dark (Lars von Trier) 🌿 🎵
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry) 🇬🇧
 * Traffic (Steven Soderbergh)
@@ -1150,7 +1150,7 @@ Français:
       > &emsp; – That's it, that's exactly how I want you to look! ❞ 
     * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
 * Fargo (frères Coen, Frances McDormand, Steve Buscemi)
-* Shall We Dance? 🇯🇵
+* Shall We Dance? 🇯🇵 💃
 * Pusher (Nicolas Winding Refn) 🇩🇰
 * Lone Star #neowestern
 * bof: Jerry Maguire (Cameron Crowe)
@@ -1425,7 +1425,7 @@ Français:
 
 [Oscars 56](https://fr.wikipedia.org/wiki/56e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Flashdance 🎥 [📰](https://www.lemonde.fr/m-le-mag/article/2023/08/18/flashdance-un-film-culte-qui-a-failli-ne-jamais-voir-le-jour_6185760_4500055.html)
+* Flashdance 🎥 💃 [📰](https://www.lemonde.fr/m-le-mag/article/2023/08/18/flashdance-un-film-culte-qui-a-failli-ne-jamais-voir-le-jour_6185760_4500055.html)
 * La Ballade de Narayama 🇯🇵 🌿
 * Videodrome (David Cronenberg)
 * Merry Christmas, Mr. Lawrence (Furyo) (Nagisa Ōshima) 🇬🇧🇯🇵
@@ -1498,7 +1498,7 @@ Français:
 
 [Oscars 52](https://fr.wikipedia.org/wiki/52e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* All That Jazz (Bob Fosse) 🎥 4🏆 🌿 ❤️
+* All That Jazz (Bob Fosse) 🎥 💃 4🏆 🌿 ❤️
 * Alien (Ridley Scott) ❤️ [💡](https://twitter.com/ATRightMovies/status/1661664750273527810) #sf
 * Apocalypse Now (FF Coppola) 🎥 🌿 ❤️
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆

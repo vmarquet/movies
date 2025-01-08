@@ -503,6 +503,7 @@
 * https://www.rottentomatoes.com/m/places_in_the_heart 83%
 * https://www.rottentomatoes.com/m/tale_of_tales_1984 🇷🇺 93%
 * https://www.rottentomatoes.com/m/body_double 65%
+* https://www.rottentomatoes.com/m/purple_rain 72%
 
 
 ### 1983
@@ -518,8 +519,8 @@
 ### 1980
 
 * https://www.rottentomatoes.com/m/fame 69%
-* The big red one
-* Inferno (Dario Argento)
+* The big red one 78% #ww2
+* Inferno (Dario Argento) 60%
 
 
 ### 1979
