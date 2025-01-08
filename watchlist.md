@@ -10,6 +10,10 @@
 
 * Mickey 17 (Robert Pattinson)
 * Quiet Life
+* https://www.rottentomatoes.com/m/better_man 90% #biopic
+* https://www.rottentomatoes.com/m/a_complete_unknown 77-96% #biopic
+* https://www.rottentomatoes.com/m/hard_truths 95%c
+* https://www.rottentomatoes.com/m/the_fire_inside 96% #biopic
 
 
 ### 2024
@@ -22,7 +26,6 @@
 * https://editorial.rottentomatoes.com/guide/best-new-movies/
 * https://www.telerama.fr/cinema/amours-a-la-finlandaise-une-comedie-tres-actuelle-autour-d-un-quatuor-amoureux_cri-7030446.php 🇫🇮 TT
 * https://www.telerama.fr/cinema/cannes-bonnard-pierre-et-marthe-peinture-lumineuse-du-couple-et-de-la-vie-d-artiste-7015678.php
-* My Sunshine 🇯🇵
 * https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
 * https://www.rottentomatoes.com/m/if_only_i_could_hibernate ?
 * https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
@@ -77,7 +80,10 @@
 * https://www.rottentomatoes.com/m/sing_sing 97%
 * https://www.telerama.fr/cinema/noel-a-miller-s-point-delicate-comedie-de-saison_cri-7035849.php TTT 80-40% 2.4
 * https://www.rottentomatoes.com/m/the_room_next_door 88% (Pedro Almodóvar)
+* https://www.rottentomatoes.com/m/carry_on 87-53%
 * https://www.rottentomatoes.com/m/when_the_light_breaks 96%c islande
+* https://www.rottentomatoes.com/m/bird_2024 72%
+* https://www.rottentomatoes.com/m/the_return_2024 76% Ralph Fiennes
 * https://www.telerama.fr/cinema/leurs-enfants-apres-eux-paul-kircher-formidable-dans-cette-adaptation-reussie-du-roman-de-nicolas-mathieu_cri-7035728.php TTT 3.6
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya
@@ -89,7 +95,8 @@
 * Louise Violet (4.0)
 * Les femmes au balcon
 * Prodigieuses (4.0)
-* Wicked (3.8) 90%
+* Le Déluge (film en costume)
+* Un ours dans le Jura (thriller type frères Coen)
 
 
 ### 2023
@@ -103,8 +110,9 @@
 * https://www.rottentomatoes.com/m/of_an_age 86%
 * https://www.rottentomatoes.com/m/the_peasants
 * tous TTT:
-    * quand les vagues se retirent
-    * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php
+    * quand les vagues se retirent 3.1
+    * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php 2.1
+    * https://www.telerama.fr/cinema/la-fiancee-du-poete-le-meilleur-film-de-yolande-moreau_cri-7029028.php 3.7
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php 83% 3.8
 * https://www.rottentomatoes.com/m/fitting_in_2023 65%
 * https://www.rottentomatoes.com/m/the_persian_version 93%
@@ -136,7 +144,6 @@
 
 ### 2022
 
-* https://www.rottentomatoes.com/m/the_bad_guys_2022 (DreamWorks)
 * https://www.telerama.fr/cinema/films/enquete-sur-un-scandale-d-etat-1-193253187.php TTT
 * https://www.rottentomatoes.com/m/till 97% ✊🏾
 * https://www.rottentomatoes.com/m/north_of_normal 80% 1h30
@@ -150,6 +157,8 @@
 * https://www.rottentomatoes.com/m/out_of_darkness_2022 85/55
 * https://www.rottentomatoes.com/m/elvis
 * https://www.rottentomatoes.com/m/joyland_2022 🇵🇰 71%
+* https://www.rottentomatoes.com/m/charcoal
+* https://www.rottentomatoes.com/m/prasini_thalassa 🇬🇷
 * Broker (Koreeda) 🇰🇷
 * Aftersun
 * Shut In - 50/93
@@ -209,7 +218,6 @@
 
 ### 2017
 
-* https://www.telerama.fr/cinema/films/patients,513387.php TTT
 * I Don't Feel at Home in This World Anymore ☀️ 77%
 * https://www.rottentomatoes.com/m/columbus_2017 96-80%
 * https://www.rottentomatoes.com/m/november_2018 79%
@@ -381,6 +389,7 @@
 * https://www.telerama.fr/cinema/films/place-vendome,45583.php
 * https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh) 74%
 * La vie rêvée des Anges https://www.rottentomatoes.com/m/the_dreamlife_of_angels 84%
+* https://www.rottentomatoes.com/m/solomon-gaenor 70%
 
 
 ### 1997
@@ -414,12 +423,13 @@
 
 ### 1993
 
-* https://www.rottentomatoes.com/m/1046151-fearless ++
+* https://www.rottentomatoes.com/m/1046151-fearless 80% ++
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
 * https://www.rottentomatoes.com/m/bronx_tale 93%
 * https://www.rottentomatoes.com/m/philadelphia https://www.telerama.fr/cinema/films/philadelphia,30475.php 🎗️ 81%
 * https://www.rottentomatoes.com/m/carlitos_way 84%
+* https://www.rottentomatoes.com/m/1046045-king_of_the_hill 84%
 
 
 ### 1992

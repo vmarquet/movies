@@ -212,6 +212,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Conclave ❤️
 * Juror #2 (Clint Eastwood)
 * The Order (Jude Law) #thriller
+* Wicked 🎵
 * Kinds of Kindness (Yórgos Lánthimos)
 * Highway 65 🇮🇱 #thriller
 * Inside Out 2 (Pixar)
@@ -224,6 +225,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Young Woman and the Sea (Daisy Ridley) #biopic
 * Joy 🇬🇧
 * Small Things like These (Cillian Murphy) 🇮🇪
+* My Sunshine 🇯🇵
 * bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
 
 Français:
@@ -318,6 +320,7 @@ Français:
 * The Banshees of Inisherin (Martin McDonagh, Colin Farrell) ❤️
 * Puss in Boots: The Last Wish (Chat potté 2) (DreamWorks) ❤️ #famille
 * Comme un lundi (Mondays) 🇯🇵 ❤️
+* The Bad Guys (DreamWorks) #famille
 * She Said (affaire Weinstein) #journalism
 * Spirited (Ryan Reynolds, Will Ferrell) 🍿 #film-de-noel
 * Hundreds of Beavers 🍿
@@ -338,7 +341,7 @@ Français:
 * Decision to Leave (Park Chan-wook) 🇰🇷
 * Fresh 🎥 #horror
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
-* L'Enfant, la Taupe, le Renard et le Cheval 🏆 #animation
+* L'Enfant, la Taupe, le Renard et le Cheval 🏆 #famille
 * bof:
     * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
@@ -368,7 +371,7 @@ Français:
 * CODA 🏆 ☀️ #coming-of-age
 * The Last Duel (Ridley Scott)
 * Don't Look Up (Déni Cosmique) (Jennifer Lawrence, Leonardo DiCaprio) #comédie #satire
-* Annette (Leos Carax, Adam Driver)
+* Annette (Leos Carax, Adam Driver) 🎵
 * Julie en 12 chapitres 🇳🇴 (Joachim Trier)
 * The Tragedy of Macbeth (frères Coen)
 * Jai Bhim 🇮🇳
@@ -505,6 +508,7 @@ Français:
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Ava ❤️ [📰](https://www.telerama.fr/cinema/ava-de-lea-mysius-un-premier-film-enthousiasmant-et-solaire,159849.php)
 * Grave
+* Patients
 * bof: Le Brio (Daniel Auteuil), Le Sens de la fête (Olivier Nakache & Éric Toledano, Jean-Pierre Bacri), Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
 
 
@@ -517,7 +521,7 @@ Français:
 * Captain Fantastic (Viggo Mortensen) ☀️ #coming-of-age
 * Zootopia (Disney) #famille
 * Swiss Army Man (Paul Dano, Daniel Radcliffe) ☀️
-* La La Land (Damien Chazelle)
+* La La Land (Damien Chazelle) 🎵
 * I, Daniel Blake (Ken Loach) 🇬🇧 🌿
 * Better Watch Out 🍿 #film-de-noel
 * Moana (Disney)
@@ -572,7 +576,7 @@ Français:
 
 * Nightcrawler (Jake Gyllenhaal) ❤️
 * Ex Machina ❤️
-* Whiplash (Damien Chazelle) ❤️ 🥁
+* Whiplash (Damien Chazelle) ❤️ 🥁 🎼
 * Vampires en toute Intimité (What we do in the Shadows) 🇳🇿 ❤️ #comédie
 * Birdman
 * Gone Girl (Fincher)
@@ -677,7 +681,7 @@ Français:
 * Incendies (Denis Villeneuve)
 * Margin Call (Kevin Spacey) 💵
 * Starbuck 🇨🇦 #comédie
-* Rango (Gore Verbinski) #western
+* Rango (Gore Verbinski) #western #famille
 * Tinker Tailor Soldier Spy (La Taupe) 🇬🇧 #thriller
 * Django Unchained (Tarentino) #western
 * Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
@@ -818,7 +822,7 @@ Français:
 * The Darjeeling Limited (Wes Anderson) ❤️
 * Juno (Jason Reitman) 🏆 #coming-of-age
 * There Will Be Blood (Paul Thomas Anderson, Daniel Day Lewis, Paul Dano) 🎥 ❤️ #western
-* Sweeney Todd (Tim Burton) ❤️
+* Sweeney Todd (Tim Burton) ❤️ 🎵
 * Into The Wild (Sean Penn) ❤️ #aventure #road-movie
 * 4 mois, 3 semaines, 2 jours 🇷🇴 🌿 [📰](https://www.telerama.fr/cinema/films/4-mois-3-semaines-et-2-jours,307689.php)
 * No Country for Old Men (frères Coen) ❤️ 🏆
@@ -1018,6 +1022,7 @@ Français:
 * Rush Hour 2 #comédie
 * Ocean's Eleven (Steven Soderbergh)
 * Monsters, Inc. (Pixar)
+* Shrek (DreamWorks)
 * The Man Who Wasn't There (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
 * bof: Y tu mamá también (Alfonso Cuarón) 🇲🇽, ~~Donnie Darko~~, ~~Vanilla Sky (Cameron Crowe)~~
@@ -1479,7 +1484,7 @@ Français:
 [Oscars 53](https://fr.wikipedia.org/wiki/53e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Elephant Man (David Lynch, Anthony Hopkins) 🎥 💙
-* The Blues Brothers (John Landis) 💙
+* The Blues Brothers (John Landis) 🎵 💙
 * La Porte du Paradis (Michael Cimino) : mémorable mais longuet
 * Raging Bull (Martin Scorsese)
 
@@ -1513,7 +1518,7 @@ Français:
 * The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) 🏆
 * Midnight Express
 * Nosferatu (Werner Herzog)
-* bof: Grease (John Travolta)
+* bof: Grease (John Travolta) 🎵
 
 [Césars 4](https://fr.wikipedia.org/wiki/4e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1706,7 +1711,7 @@ Français:
 
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1964)
 
-* Les Parapluies de Cherbourg (Jacques Demy) 🌿 : pas fan, beau mais intrigue bof
+* Les Parapluies de Cherbourg (Jacques Demy) 🌿 🎵 : pas fan, beau mais intrigue bof
 * L'Homme de Rio (Philippe de Broca, Belmondo) #aventure
 
 
@@ -1741,7 +1746,7 @@ Français:
 
 ### 1961
 
-* West Side Story 🏆 ❤️
+* West Side Story 🏆 ❤️ 🎵
 * L'Année dernière à Marienbad (Alain Resnais) 🦁 🎥 : très beau mais intrigue poussive
 * Lola (Jacques Demy) 🎥 [📰](https://www.telerama.fr/cinema/films/lola,9759.php)
 

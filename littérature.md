@@ -28,8 +28,9 @@ Littérature
 * Le Tableau du Maitre flamand (1990)
 * Le Théorème du Perroquet (1998)
 * Stupeur et Tremblement (1999)
-* Balzac et la petite tailleuse chinoise (roman, Dai Sijie, 2000)
-* La grammaire est une chanson douce (roman, Erik Orsenna, 2001)
+* Balzac et la petite tailleuse chinoise (Dai Sijie, 2000)
+* La grammaire est une chanson douce (Erik Orsenna, 2001)
+* En finir avec Eddy Bellegueule (Édouard Louis, 2014) ❤️
 
 [Les 100 meilleurs livres du 20e siècle](https://fr.m.wikipedia.org/wiki/Les_cent_livres_du_siècle)
 
