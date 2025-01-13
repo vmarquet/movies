@@ -215,9 +215,11 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * The Order (Jude Law) #thriller
 * Wicked 🎵 #fantastique
 * Kinds of Kindness (Yórgos Lánthimos)
+* The Room Next Door (Pedro Almodóvar)
 * Highway 65 🇮🇱 #thriller
 * Inside Out 2 (Pixar)
 * The Wild Robot (DreamWorks) #famille
+* Flow #famille
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
       > ❝ - You remember old Dressy, right?  
@@ -384,7 +386,7 @@ Français:
 * Stowaway (Le Passager nº 4) #sf
 * Oxygène (Mélanie Laurent)
 * Cyrano (drame musical, Peter Dinklage) : supers décors et photo mais dialogues anglais forcément décevants par rapport à la version française
-* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, Stillwater, The Power of the Dog, Onoda 🇯🇵, I'm Your Man 🇩🇪, Les Poings desserrés (Razzhimaya Kulaki) 🇷🇺 🌿, Last Night in Soho 🇬🇧
+* bof: Drive My Car (Ryūsuke Hamaguchi) 🇯🇵, Contes du hasard et autres fantaisies (Ryūsuke Hamaguchi) 🇯🇵, Stillwater, The Power of the Dog, Onoda 🇯🇵, I'm Your Man 🇩🇪, Les Poings desserrés (Razzhimaya Kulaki) 🇷🇺 🌿, Last Night in Soho 🇬🇧, ~The Harder They Fall~
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1844,6 +1846,10 @@ Français:
 
 * Le Dictateur (Charlie Chaplin)
 
+### 1933
+
+* Duck Soup (Marx brothers)
+
 ### 1931
 
 * M le maudit (Fritz Lang) 🇩🇪 🎥 ❤️
@@ -1859,7 +1865,6 @@ Français:
 ### 1927
 
 * Metropolis (Fritz Lang) 🇩🇪
-* les films de Laurel et Hardy: Do Detective Think?, The Second Hundred Years, Putting Pants on Philip, ...
 
 ### 1922
 
@@ -1868,6 +1873,14 @@ Français:
 ### 1921
 
 * Le Kid (Charlie Chaplin)
+
+### 1920s — cinéma muet
+
+* Charlie Chaplin
+* Buster Keaton
+    * Le Mécano de la Générale, ...
+* Laurel & Hardy
+    * Do Detective Think?, The Second Hundred Years, Putting Pants on Philip, ...
 
 
 
@@ -1915,6 +1928,7 @@ Français:
 * Late Night with the Devil (2023) ❤️
 * Oddity (2024) ❤️
 * Heretic (2024) ❤️
+* Nosferatu (2024, Robert Eggers) : esthétique sympa mais narration ratée
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 

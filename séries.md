@@ -96,6 +96,7 @@
 * pas vu: https://www.leblogducinema.com/critique-serie/yellowstone-western-contemporain-et-audience-record-critique-57942541/
 * pas vu: https://www.rottentomatoes.com/tv/reservation_dogs
 * pas vu: https://www.rottentomatoes.com/tv/shogun_2024
+* pas vu: https://www.rottentomatoes.com/tv/the_pitt/s01
 
 
 ### Anime

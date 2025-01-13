@@ -67,8 +67,6 @@
 * https://www.rottentomatoes.com/m/nickel_boys
 * sur un fil (allocine 4.0) reda kateb
 * l'amour ouf (allocine 4.2)
-* flow (allocine 4.3)
-* https://www.rottentomatoes.com/m/nosferatu_2024 (Robert Eggers)
 * https://www.rottentomatoes.com/m/lucky_baskhar 🇮🇳 +++
 * https://www.rottentomatoes.com/m/the_brutalist (Adrien Brody)
 * https://www.rottentomatoes.com/m/we_live_in_time 80%
@@ -79,7 +77,6 @@
 * https://www.rottentomatoes.com/m/a_real_pain 95-81%
 * https://www.rottentomatoes.com/m/sing_sing 97%
 * https://www.telerama.fr/cinema/noel-a-miller-s-point-delicate-comedie-de-saison_cri-7035849.php TTT 80-40% 2.4
-* https://www.rottentomatoes.com/m/the_room_next_door 88% (Pedro Almodóvar)
 * https://www.rottentomatoes.com/m/carry_on 87-53%
 * https://www.rottentomatoes.com/m/when_the_light_breaks 96%c islande
 * https://www.rottentomatoes.com/m/bird_2024 72%
@@ -166,7 +163,6 @@
 
 ### 2021
 
-* https://www.rottentomatoes.com/m/the_harder_they_fall #western 93%
 * https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷 83%
 * https://www.rottentomatoes.com/m/blue_bayou_2021 93%
 * https://www.rottentomatoes.com/m/luca_2021 84%
@@ -418,6 +414,7 @@
 * https://www.telerama.fr/cinema/films/le-fils-prefere,34131.php
 * https://www.rottentomatoes.com/m/crow 87%
 * https://www.rottentomatoes.com/m/the-golden-ball-le-ballon-dor 75%
+* https://www.rottentomatoes.com/m/shadowlands 90% #biopic
 * Emilie Muller [▶️](https://www.youtube.com/watch?v=Om8e9494G-Q) #short
 
 
