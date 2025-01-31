@@ -200,7 +200,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2024
 
-[Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – Rotten Tomatoes [1](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/), [2](https://editorial.rottentomatoes.com/article/awards-leaderboard-best-movies-of-2024/)
+[Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – Rotten Tomatoes [1](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/), [2](https://editorial.rottentomatoes.com/article/awards-leaderboard-best-movies-of-2024/), [3](https://editorial.rottentomatoes.com/article/rotten-tomatoes-awards-2024-golden-tomato-awards-winners/)
 
 * Les Graines du figuier sauvage 🇮🇷 ❤️ 🌿
 * Emilia Pérez (Jacques Audiard) 🇲🇽 ❤️ 🌿 🎵
@@ -214,6 +214,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Juror #2 (Clint Eastwood)
 * The Order (Jude Law) #thriller
 * Wicked 🎵 #fantastique
+* The Return (Ralph Fiennes)
 * Kinds of Kindness (Yórgos Lánthimos)
 * The Room Next Door (Pedro Almodóvar)
 * Highway 65 🇮🇱 #thriller
@@ -229,7 +230,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Joy 🇬🇧
 * Small Things like These (Cillian Murphy) 🇮🇪
 * My Sunshine 🇯🇵
-* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
+* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
 
 Français:
 
@@ -242,6 +243,7 @@ Français:
 * Monsieur Aznavour
 * Les Fantômes
 * Les Pistolets en plastique
+* bof: Un p'tit truc en plus
 
 
 ### 2023
@@ -296,7 +298,7 @@ Français:
 * Sharper : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
 * Robot Dreams
-* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, May December (Todd Haynes) 🎥, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
+* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, May December (Todd Haynes) 🎥, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Lost Ladies 🇮🇳, Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -346,7 +348,7 @@ Français:
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #famille
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
+    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, Sanctuary, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -785,6 +787,7 @@ Français:
 
 * Two Lovers (Joaquin Phoenix) 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php)
 * Tulpan 🇰🇿 ❤️
+* Kung Fu Panda ❤️ #famille
 * Bons baisers de Bruges (Martin McDonagh, Colin Farrell, Ralph Fiennes, Brendan Gleeson)
 * The Reader (Stephen Daldry, Kate Winslet, Ralph Fiennes)
 * Okuribito (Départs) 🇯🇵 🏆
@@ -958,6 +961,7 @@ Français:
 * L'Enquête corse (Alain Berberian, Christian Clavier, Jean Reno) #comédie
 * Violence des échanges en milieu tempéré
 * RRRrrrr!!!
+* 36 quai des Orfèvres
 
 
 ### 2003
@@ -1494,6 +1498,7 @@ Français:
 [Césars 6](https://fr.wikipedia.org/wiki/6e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
 * Mon Oncle d'Amérique (Alain Resnais, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mon-oncle-d-amerique,8936.php)
+* Le Roi et l'Oiseau  #famille
 * bof: ~~Le Dernier Métro (François Truffaut)~~
 
 

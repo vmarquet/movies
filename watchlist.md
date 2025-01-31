@@ -14,6 +14,11 @@
 * https://www.rottentomatoes.com/m/a_complete_unknown 77-96% #biopic
 * https://www.rottentomatoes.com/m/hard_truths 95%c
 * https://www.rottentomatoes.com/m/the_fire_inside 96% #biopic
+* Hiver à Sokcho (3.9)
+* https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
+* https://www.rottentomatoes.com/m/one_of_them_days 91%
+* Je suis toujours là 🇧🇷
+* https://www.rottentomatoes.com/m/companion_2025 92%c
 
 
 ### 2024
@@ -68,19 +73,18 @@
 * sur un fil (allocine 4.0) reda kateb
 * l'amour ouf (allocine 4.2)
 * https://www.rottentomatoes.com/m/lucky_baskhar 🇮🇳 +++
-* https://www.rottentomatoes.com/m/the_brutalist (Adrien Brody)
+* https://www.rottentomatoes.com/m/the_brutalist (Adrien Brody) 90%
 * https://www.rottentomatoes.com/m/we_live_in_time 80%
 * https://www.rottentomatoes.com/m/daddio_2023 88% #huis-clos (Sean Penn)
 * https://www.rottentomatoes.com/m/thangalaan 🇮🇳
 * https://www.rottentomatoes.com/m/babygirl_2024
 * https://www.rottentomatoes.com/m/queer 61%
-* https://www.rottentomatoes.com/m/a_real_pain 95-81%
 * https://www.rottentomatoes.com/m/sing_sing 97%
 * https://www.telerama.fr/cinema/noel-a-miller-s-point-delicate-comedie-de-saison_cri-7035849.php TTT 80-40% 2.4
 * https://www.rottentomatoes.com/m/carry_on 87-53%
 * https://www.rottentomatoes.com/m/when_the_light_breaks 96%c islande
 * https://www.rottentomatoes.com/m/bird_2024 72%
-* https://www.rottentomatoes.com/m/the_return_2024 76% Ralph Fiennes
+* https://www.rottentomatoes.com/m/unstoppable_2024_2 76-89% #sport #biopic
 * https://www.telerama.fr/cinema/leurs-enfants-apres-eux-paul-kircher-formidable-dans-cette-adaptation-reussie-du-roman-de-nicolas-mathieu_cri-7035728.php TTT 3.6
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya
@@ -103,7 +107,6 @@
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
-* https://www.rottentomatoes.com/m/lost_ladies 94% 🇮🇳
 * https://www.rottentomatoes.com/m/of_an_age 86%
 * https://www.rottentomatoes.com/m/the_peasants
 * tous TTT:
@@ -136,7 +139,7 @@
 * cinéma étranger:
     * https://www.telerama.fr/cinema/augure-quand-la-fete-de-famille-vire-au-proces-en-sorcellerie_cri-7030007.php TT
     * https://www.telerama.fr/cinema/si-seulement-je-pouvais-hiberner-le-combat-de-sa-realisatrice-pour-l-education-et-l-ecologie-en-mongolie-7018852.php TTT
-    * https://www.telerama.fr/cinema/goodbye-julia-une-ode-a-la-liberte-d-une-intense-beaute_cri-7029542.php TTT (4.0)
+    * https://www.telerama.fr/cinema/goodbye-julia-une-ode-a-la-liberte-d-une-intense-beaute_cri-7029542.php TTT (4.0) 100% 🇸🇩
 
 
 ### 2022
@@ -144,7 +147,6 @@
 * https://www.telerama.fr/cinema/films/enquete-sur-un-scandale-d-etat-1-193253187.php TTT
 * https://www.rottentomatoes.com/m/till 97% ✊🏾
 * https://www.rottentomatoes.com/m/north_of_normal 80% 1h30
-* https://www.rottentomatoes.com/m/sanctuary_2022 86% 1h30
 * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
 * https://editorial.rottentomatoes.com/guide/best-movies-2022/
     * no bears 🇮🇷 81%
@@ -163,6 +165,7 @@
 
 ### 2021
 
+* https://www.rottentomatoes.com/m/nobody_2021 84%
 * https://www.rottentomatoes.com/m/a_hero (Asghar Farhadi) 🇮🇷 83%
 * https://www.rottentomatoes.com/m/blue_bayou_2021 93%
 * https://www.rottentomatoes.com/m/luca_2021 84%
@@ -184,6 +187,8 @@
 
 ### 2019
 
+* https://www.rottentomatoes.com/m/the_peanut_butter_falcon 95%
+* https://www.rottentomatoes.com/m/a_beautiful_day_in_the_neighborhood 92%
 * Le Chant de la forêt TTT 🇧🇷
 * https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
 * https://www.rottentomatoes.com/m/ash_is_purest_white (Les Éternels) 🇨🇳
@@ -203,7 +208,9 @@
 
 ### 2018
 
+* https://www.rottentomatoes.com/m/love_simon 87%
 * Rafiki 🇰🇪 73%
+* https://www.rottentomatoes.com/m/cold_war_2018 81%
 * https://www.telerama.fr/cinema/films/long-days-journey-into-night,n5603289.php TTT 🇨🇳
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * https://www.telerama.fr/cinema/le-monde-est-a-toi-7027679.php TTT (Romain Gavras)
@@ -328,7 +335,6 @@
 ### 2004
 
 * https://www.rottentomatoes.com/m/i_heart_huckabees 63%
-* https://www.rottentomatoes.com/m/thirty_six_quai_des_orfevres 81%
 * https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵🇹🇭 90%
 * https://www.rottentomatoes.com/m/on_the_outs 84%
 * https://yts.mx/movies/mysterious-skin-2004 86%
@@ -460,6 +466,7 @@
 
 ### 1988
 
+* https://www.rottentomatoes.com/m/the_vanishing 88%
 * https://www.rottentomatoes.com/m/unbearable_lightness_of_being 84%
 * https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹 91%
 * https://www.rottentomatoes.com/m/midnight_run 87%
