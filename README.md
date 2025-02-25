@@ -242,6 +242,7 @@ Français:
 * Vingt Dieux
 * Monsieur Aznavour
 * Les Fantômes
+* L'Amour Ouf
 * Les Pistolets en plastique
 * bof: Un p'tit truc en plus
 

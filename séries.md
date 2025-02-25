@@ -46,9 +46,12 @@
 * pas vu:
 	* The Wire
 	* The Sopranos
+	* The Americans
+	* The Shield
 	* Sharp Objects [🍅](https://www.rottentomatoes.com/tv/sharp_objects) (par Jean-Marc Vallée, portraitiste et auteur de Big Little Lies)
 	* Les Revenants
 	* Master of None
+	* The Diplomat
 * sans plus:
     * Twin Peaks (David Lynch)
 

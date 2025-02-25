@@ -71,7 +71,6 @@
 * https://www.rottentomatoes.com/m/my_favourite_cake 🇮🇷
 * https://www.rottentomatoes.com/m/nickel_boys
 * sur un fil (allocine 4.0) reda kateb
-* l'amour ouf (allocine 4.2)
 * https://www.rottentomatoes.com/m/lucky_baskhar 🇮🇳 +++
 * https://www.rottentomatoes.com/m/the_brutalist (Adrien Brody) 90%
 * https://www.rottentomatoes.com/m/we_live_in_time 80%
@@ -221,6 +220,7 @@
 
 ### 2017
 
+* https://www.telerama.fr/cinema/petit-paysan-d-hubert-charuel-un-passionnant-thriller-existentiel-au-milieu-des-vaches-1434_cri-7011513.php TTT
 * I Don't Feel at Home in This World Anymore ☀️ 77%
 * https://www.rottentomatoes.com/m/columbus_2017 96-80%
 * https://www.rottentomatoes.com/m/november_2018 79%
@@ -650,6 +650,7 @@
 * https://www.rottentomatoes.com/m/its_whats_inside
 * https://www.rottentomatoes.com/m/mads
 * https://www.rottentomatoes.com/m/the_damned_2024
+* https://www.rottentomatoes.com/m/heart_eyes
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/
