@@ -10,15 +10,15 @@
 
 * Mickey 17 (Robert Pattinson)
 * Quiet Life
-* https://www.rottentomatoes.com/m/better_man 90% #biopic
 * https://www.rottentomatoes.com/m/a_complete_unknown 77-96% #biopic
 * https://www.rottentomatoes.com/m/hard_truths 95%c
 * https://www.rottentomatoes.com/m/the_fire_inside 96% #biopic
+* https://www.rottentomatoes.com/m/black_bag
+* https://www.rottentomatoes.com/m/black_dog_2024 97%
 * Hiver à Sokcho (3.9)
 * https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
 * https://www.rottentomatoes.com/m/one_of_them_days 91%
-* Je suis toujours là 🇧🇷
-* https://www.rottentomatoes.com/m/companion_2025 92%c
+* Je suis toujours là 🇧🇷 97%
 
 
 ### 2024
@@ -72,7 +72,6 @@
 * https://www.rottentomatoes.com/m/nickel_boys
 * sur un fil (allocine 4.0) reda kateb
 * https://www.rottentomatoes.com/m/lucky_baskhar 🇮🇳 +++
-* https://www.rottentomatoes.com/m/the_brutalist (Adrien Brody) 90%
 * https://www.rottentomatoes.com/m/we_live_in_time 80%
 * https://www.rottentomatoes.com/m/daddio_2023 88% #huis-clos (Sean Penn)
 * https://www.rottentomatoes.com/m/thangalaan 🇮🇳

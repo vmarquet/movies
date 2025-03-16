@@ -198,6 +198,16 @@ _Si le film est listé, c'est qu'il mérite d'être vu d'après moi (sauf mentio
 _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqués du symbole ❤️._
 
 
+### 2025
+
+* Better Man #biopic
+* bof: Companion
+
+Français:
+
+* À bicyclette ! ❤️❤️
+
+
 ### 2024
 
 [Cannes](https://www.festival-cannes.com/retrospective/2024/palmares/) – Rotten Tomatoes [1](https://editorial.rottentomatoes.com/guide/best-movies-of-2024/), [2](https://editorial.rottentomatoes.com/article/awards-leaderboard-best-movies-of-2024/), [3](https://editorial.rottentomatoes.com/article/rotten-tomatoes-awards-2024-golden-tomato-awards-winners/)
@@ -210,6 +220,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Civil War 🇺🇸 ❤️
 * Santosh 🇮🇳 ❤️
 * A Different Man ❤️
+* The Brutalist ❤️
 * Conclave ❤️
 * Juror #2 (Clint Eastwood)
 * The Order (Jude Law) #thriller

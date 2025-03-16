@@ -39,6 +39,7 @@ Documentaires
 * Planet Earth II (2016)
 * Notre Planète (2020) [📰](https://fr.wikipedia.org/wiki/Notre_plan%C3%A8te)
 * La Terre la Nuit (2020)
+* La panthère des neiges (2021)
 
 
 ### watchlist
