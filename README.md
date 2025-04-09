@@ -201,7 +201,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 2025
 
 * Better Man #biopic
-* bof: Companion
+* Black Dog 🇨🇳
+* bof: Mickey 17, Companion
 
 Français:
 

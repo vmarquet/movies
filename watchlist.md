@@ -8,17 +8,17 @@
 
 ### 2025
 
-* Mickey 17 (Robert Pattinson)
 * Quiet Life
 * https://www.rottentomatoes.com/m/a_complete_unknown 77-96% #biopic
 * https://www.rottentomatoes.com/m/hard_truths 95%c
 * https://www.rottentomatoes.com/m/the_fire_inside 96% #biopic
 * https://www.rottentomatoes.com/m/black_bag
-* https://www.rottentomatoes.com/m/black_dog_2024 97%
 * Hiver à Sokcho (3.9)
 * https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
 * https://www.rottentomatoes.com/m/one_of_them_days 91%
 * Je suis toujours là 🇧🇷 97%
+* L’Attachement (4.2)
+* On ira (4.3)
 
 
 ### 2024
