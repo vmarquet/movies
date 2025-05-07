@@ -202,11 +202,13 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Better Man #biopic
 * Black Dog 🇨🇳
+* A Complete Unknown (James Mangold) #biopic
 * bof: Mickey 17, Companion
 
 Français:
 
 * À bicyclette ! ❤️❤️
+* La Chambre de Mariana
 
 
 ### 2024
@@ -455,7 +457,7 @@ Français:
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Farewell, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Mustang, The Farewell, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -488,7 +490,7 @@ Français:
 * First Man (Damien Chazelle) #biopic
 * Annihilation (Natalie Portman) #sf
 * Sorry to Bother You
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, The Guilty 🇩🇰, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg)
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, The Guilty 🇩🇰, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg), All about Nina
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1277,7 +1279,7 @@ Français:
 * Malcolm X (Spike Lee) ✊🏾 #biopic
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
-* bof: Night on Earth (Jim Jarmusch), The Player, Alien³
+* bof: Night on Earth (Jim Jarmusch), Howards End, The Player, Alien³
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1584,7 +1586,7 @@ Français:
 * Section spéciale (Costa-Gavras)
 * Jaws (Steven Spielberg)
 * Dersou Ouzala (Akira Kurosawa) 🇷🇺🇯🇵 🎥 #aventure
-* bof: The Rocky Horror Picture Show 🎵
+* bof: The Passenger (Professione Reporter), The Rocky Horror Picture Show 🎵
 
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 

@@ -9,8 +9,7 @@
 ### 2025
 
 * Quiet Life
-* https://www.rottentomatoes.com/m/a_complete_unknown 77-96% #biopic
-* https://www.rottentomatoes.com/m/hard_truths 95%c
+* https://www.rottentomatoes.com/m/hard_truths 95%-82
 * https://www.rottentomatoes.com/m/the_fire_inside 96% #biopic
 * https://www.rottentomatoes.com/m/black_bag
 * Hiver à Sokcho (3.9)
@@ -19,6 +18,24 @@
 * Je suis toujours là 🇧🇷 97%
 * L’Attachement (4.2)
 * On ira (4.3)
+* https://www.rottentomatoes.com/m/sinners_2025 90+
+* https://www.rottentomatoes.com/m/warfare 90+
+* https://www.rottentomatoes.com/m/the_ballad_of_wallis_island 90+
+* https://www.rottentomatoes.com/m/the_wedding_banquet 80+
+* https://www.rottentomatoes.com/m/drop_2025 80+
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=316984.html Ma Mère, Dieu et Sylvie Vartan
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=317091.html Lire Lolita à Téhéran
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=313954.html Mikado
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=1000001242.html Le Joueur de Go
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000424.html Bergers 
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=294235.html Vermiglio ou La Mariée des Montagnes
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=289215.html On Ira
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=317103.html Zion
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=328520.html Comment devenir riche (grâce à sa grand-mère) 
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=277067.html Lumière l'aventure continue
+* https://www.lemonde.fr/culture/article/2025/04/23/the-gazer-thriller-fievreux-de-ryan-j-sloan_6235095_3247.html
+* https://www.lemonde.fr/culture/article/2025/04/23/dans-simon-de-la-montana-un-jeune-argentin-au-defi-des-normes_6599237_3246.html
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007503.html Les enfants rouges 🇹🇳 (4.1)
 
 
 ### 2024
@@ -37,6 +54,7 @@
 * https://www.rottentomatoes.com/m/concrete_utopia 76% 🇰🇷 #sf
 * https://www.rottentomatoes.com/m/spaceman_2024 60%
 * https://www.rottentomatoes.com/m/ordinary_angels 84% 99% 3.3
+* https://www.rottentomatoes.com/m/the_way_we_speak 94-83%
 * https://www.rottentomatoes.com/m/la_chimera 74%
 * https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
 * https://www.rottentomatoes.com/m/irenas_vow 83%
@@ -83,6 +101,7 @@
 * https://www.rottentomatoes.com/m/when_the_light_breaks 96%c islande
 * https://www.rottentomatoes.com/m/bird_2024 72%
 * https://www.rottentomatoes.com/m/unstoppable_2024_2 76-89% #sport #biopic
+* https://www.rottentomatoes.com/m/meanwhile_on_earth_2024 81%
 * https://www.telerama.fr/cinema/leurs-enfants-apres-eux-paul-kircher-formidable-dans-cette-adaptation-reussie-du-roman-de-nicolas-mathieu_cri-7035728.php TTT 3.6
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya
@@ -222,6 +241,7 @@
 * https://www.telerama.fr/cinema/petit-paysan-d-hubert-charuel-un-passionnant-thriller-existentiel-au-milieu-des-vaches-1434_cri-7011513.php TTT
 * I Don't Feel at Home in This World Anymore ☀️ 77%
 * https://www.rottentomatoes.com/m/columbus_2017 96-80%
+* https://www.rottentomatoes.com/m/gods_own_country_2017 98-88%
 * https://www.rottentomatoes.com/m/november_2018 79%
 * https://www.rottentomatoes.com/m/the_florida_project 81%
 * https://www.rottentomatoes.com/m/hidden_figures ✊🏾 93%
@@ -365,6 +385,7 @@
 
 ### 2000
 
+* https://editorial.rottentomatoes.com/guide/best-movies-2000/
 * https://editorial.rottentomatoes.com/guide/essential-2000s-movies/
 * https://www.rottentomatoes.com/m/1095420-high_fidelity 90%
 * https://www.rottentomatoes.com/m/sexy_beast 85%
@@ -556,7 +577,6 @@
 
 ### 1975
 
-* https://www.rottentomatoes.com/m/the-passenger-professione-reporter 84%
 * https://www.telerama.fr/cinema/films/que-la-fete-commence,24248.php (Bertrand Tavernier)
 * Le Hérisson dans le brouillard 🇷🇺
 
