@@ -15,7 +15,6 @@
 * Hiver à Sokcho (3.9)
 * https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
 * https://www.rottentomatoes.com/m/one_of_them_days 91%
-* Je suis toujours là 🇧🇷 97%
 * L’Attachement (4.2)
 * On ira (4.3)
 * https://www.rottentomatoes.com/m/sinners_2025 90+

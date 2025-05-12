@@ -200,7 +200,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2025
 
-* Better Man #biopic
+* Warfare (Alex Garland)
+* Better Man 🇬🇧 #biopic
 * Black Dog 🇨🇳
 * A Complete Unknown (James Mangold) #biopic
 * bof: Mickey 17, Companion
@@ -220,7 +221,7 @@ Français:
 * Turtles All the Way Down ❤️ #coming-of-age
     * > ❝ You're just a glorified bacterial colony ❞
 * My Old Ass 🇨🇦 ❤️ #coming-of-age
-* Civil War 🇺🇸 ❤️
+* Civil War (Alex Garland) 🇺🇸 ❤️
 * Santosh 🇮🇳 ❤️
 * A Different Man ❤️
 * The Brutalist ❤️
@@ -231,6 +232,7 @@ Français:
 * The Return (Ralph Fiennes)
 * Kinds of Kindness (Yórgos Lánthimos)
 * The Room Next Door (Pedro Almodóvar)
+* Je suis toujours là 🇧🇷
 * Highway 65 🇮🇱 #thriller
 * Inside Out 2 (Pixar)
 * The Wild Robot (DreamWorks) #famille
@@ -488,7 +490,7 @@ Français:
 * Capernaum (Capharnaüm) 🇱🇧 🏆
 * Heureux comme Lazzaro 🇮🇹
 * First Man (Damien Chazelle) #biopic
-* Annihilation (Natalie Portman) #sf
+* Annihilation (Alex Garland, Natalie Portman) #sf
 * Sorry to Bother You
 * bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, The Guilty 🇩🇰, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg), All about Nina
 
@@ -595,7 +597,7 @@ Français:
 ### 2014
 
 * Nightcrawler (Jake Gyllenhaal) ❤️
-* Ex Machina ❤️
+* Ex Machina (Alex Garland) ❤️
 * Whiplash (Damien Chazelle) ❤️ 🥁 🎼
 * Vampires en toute Intimité (What we do in the Shadows) 🇳🇿 ❤️ #comédie
 * Birdman
