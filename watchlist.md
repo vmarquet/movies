@@ -14,14 +14,11 @@
 * https://www.rottentomatoes.com/m/black_bag
 * Hiver à Sokcho (3.9)
 * https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
-* https://www.rottentomatoes.com/m/one_of_them_days 91%
 * L’Attachement (4.2)
 * On ira (4.3)
 * https://www.rottentomatoes.com/m/sinners_2025 90+
-* https://www.rottentomatoes.com/m/warfare 90+
 * https://www.rottentomatoes.com/m/the_ballad_of_wallis_island 90+
 * https://www.rottentomatoes.com/m/the_wedding_banquet 80+
-* https://www.rottentomatoes.com/m/drop_2025 80+
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=316984.html Ma Mère, Dieu et Sylvie Vartan
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=317091.html Lire Lolita à Téhéran
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=313954.html Mikado
@@ -39,7 +36,6 @@
 
 ### 2024
 
-* https://www.rottentomatoes.com/m/exhibiting_forgiveness 93%
 * https://www.telerama.fr/cinema/mostra-de-venise-2024-que-vaut-leurs-enfants-apres-eux-l-adaptation-du-prix-goncourt-de-nicolas-mathieu-7021937.php TTT
 * https://editorial.rottentomatoes.com/article/2024-cannes-preview/
 * https://editorial.rottentomatoes.com/guide/cannes-2024-movie-scorecard/
@@ -73,11 +69,9 @@
 * Matria
 * https://www.rottentomatoes.com/m/touch_2024 92%
 * https://www.rottentomatoes.com/m/the_good_half 52% 96%
-* gou zhen (black dog) 🇨🇳 🌿
 * https://www.rottentomatoes.com/m/good_one 72%
 * https://www.rottentomatoes.com/m/the_bikeriders 75%
 * https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
-* https://www.telerama.fr/cinema/le-roman-de-jim-le-nouveau-melo-des-freres-larrieu-d-une-tendresse-foudroyante_cri-7033996.php TTTT
 * https://www.rottentomatoes.com/m/rebel_ridge 73%
 * chroniques chinoises 🇨🇳
 * Tout ira bien https://www.rottentomatoes.com/m/all_shall_be_well 🇨🇳
@@ -113,7 +107,6 @@
 * Les femmes au balcon
 * Prodigieuses (4.0)
 * Le Déluge (film en costume)
-* Un ours dans le Jura (thriller type frères Coen)
 
 
 ### 2023
@@ -203,7 +196,6 @@
 
 ### 2019
 
-* https://www.rottentomatoes.com/m/the_peanut_butter_falcon 95%
 * https://www.rottentomatoes.com/m/a_beautiful_day_in_the_neighborhood 92%
 * Le Chant de la forêt TTT 🇧🇷
 * https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
@@ -486,7 +478,6 @@
 ### 1988
 
 * https://www.rottentomatoes.com/m/the_vanishing 88%
-* https://www.rottentomatoes.com/m/unbearable_lightness_of_being 84%
 * https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹 91%
 * https://www.rottentomatoes.com/m/midnight_run 87%
 * https://www.rottentomatoes.com/m/the_beast_1988 84%
@@ -589,7 +580,6 @@
 ### 1973
 
 * L'Esprit de la ruche (Víctor Erice) 🇪🇸 [📰](https://fr.wikipedia.org/wiki/L%27Esprit_de_la_ruche) [🍅](https://www.rottentomatoes.com/m/spirit_of_the_beehive) #ww2
-* La Planète sauvage #sf
 * https://fr.wikipedia.org/wiki/Rude_journ%C3%A9e_pour_la_reine
 * https://www.rottentomatoes.com/m/american_graffiti #coming-of-age 84%
 * https://www.rottentomatoes.com/m/mean_streets (Martin Scorsese, Robert de Niro) 92-84%
@@ -600,7 +590,6 @@
 ### 1972
 
 * https://www.rottentomatoes.com/m/the_new_land 86%
-* https://www.rottentomatoes.com/m/female_prisoner_701_scorpion_1972 #reco tarentino
 
 
 ### 1971
@@ -646,7 +635,6 @@
 ### 1930s
 
 * Le Quai des brumes (Marcel Carné)
-* https://www.rottentomatoes.com/m/duck_soup 91% 1h10
 
 
 

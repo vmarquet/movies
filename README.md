@@ -201,15 +201,17 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 2025
 
 * Warfare (Alex Garland)
+* One of Them Days #comédie
 * Better Man 🇬🇧 #biopic
-* Black Dog 🇨🇳
+* Black Dog 🇨🇳 🌿
 * A Complete Unknown (James Mangold) #biopic
-* bof: Mickey 17, Companion
+* bof: Mickey 17, Drop, Companion
 
 Français:
 
 * À bicyclette ! ❤️❤️
 * La Chambre de Mariana
+* bof: Un Ours dans le Jura
 
 
 ### 2024
@@ -229,6 +231,7 @@ Français:
 * Juror #2 (Clint Eastwood)
 * The Order (Jude Law) #thriller
 * Wicked 🎵 #fantastique
+* Exhibiting Forgiveness
 * The Return (Ralph Fiennes)
 * Kinds of Kindness (Yórgos Lánthimos)
 * The Room Next Door (Pedro Almodóvar)
@@ -260,7 +263,7 @@ Français:
 * Les Fantômes
 * L'Amour Ouf
 * Les Pistolets en plastique
-* bof: Un p'tit truc en plus
+* bof: Le Roman de Jim, Un p'tit truc en plus
 
 
 ### 2023
@@ -459,7 +462,7 @@ Français:
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Mustang, The Farewell, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Mustang, The Farewell, The Peanut Butter Falcon, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1357,7 +1360,7 @@ Français:
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
     * > ❝ I came here to chew bubblegum and kick ass... and I'm all out of bubblegum. ❞
-* bof: Frantic (Roman Polanski, Harrison Ford)
+* bof: The Unbearable Lightness of Being, Frantic (Roman Polanski, Harrison Ford)
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1397,6 +1400,7 @@ Français:
 * 'Round Midnight (Bertrand Tavernier) 🎷 #jazz : belle musique mais pas vraiment d'histoire
 * The Fly (David Cronenberg) 🪰 #nanar #so-bad-its-good
 * Down by Law (Jim Jarmusch)
+* Top Gun (Tom Cruise)
 * bof: Blue Velvet (David Lynch)
 
 [Césars 12](https://fr.wikipedia.org/wiki/12e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1624,6 +1628,7 @@ Français:
 Français:
 
 * Rabbi Jacob (Gérard Oury, de Funès) #comédie
+* La Planète sauvage #sf
 * bof: ~~La Nuit américaine (François Truffaut)~~
 
 
@@ -1870,7 +1875,7 @@ Français:
 
 ### 1933
 
-* Duck Soup (Marx brothers)
+* Duck Soup (Marx brothers) : bof
 
 ### 1931
 
