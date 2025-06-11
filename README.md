@@ -232,6 +232,7 @@ Français:
 * The Order (Jude Law) #thriller
 * Wicked 🎵 #fantastique
 * Exhibiting Forgiveness
+* The Way we Speak
 * The Return (Ralph Fiennes)
 * Kinds of Kindness (Yórgos Lánthimos)
 * The Room Next Door (Pedro Almodóvar)
@@ -249,7 +250,7 @@ Français:
 * Joy 🇬🇧
 * Small Things like These (Cillian Murphy) 🇮🇪
 * My Sunshine 🇯🇵
-* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
+* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Sons (Gustav Möller) 🇩🇰, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
 
 Français:
 
@@ -261,6 +262,7 @@ Français:
 * Vingt Dieux
 * Monsieur Aznavour
 * Les Fantômes
+* Pas de vagues (François Civil) #film-scolaire
 * L'Amour Ouf
 * Les Pistolets en plastique
 * bof: Le Roman de Jim, Un p'tit truc en plus
@@ -534,6 +536,7 @@ Français:
 * Ava ❤️ [📰](https://www.telerama.fr/cinema/ava-de-lea-mysius-un-premier-film-enthousiasmant-et-solaire,159849.php)
 * Grave
 * Patients
+* Petit Paysan
 * bof: Le Brio (Daniel Auteuil), Le Sens de la fête (Olivier Nakache & Éric Toledano, Jean-Pierre Bacri), Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
 
 

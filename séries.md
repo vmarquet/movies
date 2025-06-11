@@ -10,6 +10,7 @@
 * Community (2009) +
 * Modern Family (2009 ++
 * Rick and Morty (2013) [🍅](https://www.rottentomatoes.com/tv/rick_and_morty) +++
+    * [meilleurs épisodes](https://m.imdb.com/fr/search/title/?count=250&series=tt2861424&sort=user_rating%2Cdesc)
 * Brooklyn 99 (2013) ++
 * Silicon Valley (2014) ++
 * Bojack Horseman (2014) ++

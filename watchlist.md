@@ -9,6 +9,11 @@
 ### 2025
 
 * Quiet Life
+* https://www.rottentomatoes.com/m/mountainhead
+* https://www.rottentomatoes.com/m/exit_8_2025
+* https://www.rottentomatoes.com/m/the_life_of_chuck 81%c
+* https://www.rottentomatoes.com/m/resurrection_2025 #sf 🇨🇳
+* https://www.rottentomatoes.com/m/a_useful_ghost
 * https://www.rottentomatoes.com/m/hard_truths 95%-82
 * https://www.rottentomatoes.com/m/the_fire_inside 96% #biopic
 * https://www.rottentomatoes.com/m/black_bag
@@ -32,6 +37,11 @@
 * https://www.lemonde.fr/culture/article/2025/04/23/the-gazer-thriller-fievreux-de-ryan-j-sloan_6235095_3247.html
 * https://www.lemonde.fr/culture/article/2025/04/23/dans-simon-de-la-montana-un-jeune-argentin-au-defi-des-normes_6599237_3246.html
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007503.html Les enfants rouges 🇹🇳 (4.1)
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=326174.html La Venue de l’avenir 4.1
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015043.html Les Musiciens 4.0
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=314778.html L'Amour c'est surcoté 3.7
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=311911.html Little Jaffna 3.8
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=1000001896.html Partir un jour 3.8
 
 
 ### 2024
@@ -49,9 +59,7 @@
 * https://www.rottentomatoes.com/m/concrete_utopia 76% 🇰🇷 #sf
 * https://www.rottentomatoes.com/m/spaceman_2024 60%
 * https://www.rottentomatoes.com/m/ordinary_angels 84% 99% 3.3
-* https://www.rottentomatoes.com/m/the_way_we_speak 94-83%
 * https://www.rottentomatoes.com/m/la_chimera 74%
-* https://www.telerama.fr/cinema/pas-de-vagues-de-teddy-lussi-modeste-facon-thriller-un-habile-eclairage-du-malaise-enseignant_cri-7031838.php (François Civil) #film-scolaire
 * https://www.rottentomatoes.com/m/irenas_vow 83%
 * https://www.rottentomatoes.com/m/musica
 * https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
@@ -65,7 +73,6 @@
 * https://www.telerama.fr/cinema/memory-peter-sarsgaard-et-jessica-chastain-duo-eblouissant-dans-ce-melo-de-michel-franco_cri-7032906.php TTT
 * https://www.rottentomatoes.com/m/the_dead_dont_hurt 67% 3.6 #western
 * https://www.telerama.fr/cinema/les-sorties-cinema-de-la-semaine-les-fantomes-el-profesor-horizon-une-saga-americaine-7021125.php
-* Sons (Gustav Möller) 🇩🇰
 * Matria
 * https://www.rottentomatoes.com/m/touch_2024 92%
 * https://www.rottentomatoes.com/m/the_good_half 52% 96%
@@ -114,6 +121,7 @@
 * https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
+* https://www.rottentomatoes.com/m/guy_ritchies_the_covenant 98%
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/of_an_age 86%
@@ -229,7 +237,6 @@
 
 ### 2017
 
-* https://www.telerama.fr/cinema/petit-paysan-d-hubert-charuel-un-passionnant-thriller-existentiel-au-milieu-des-vaches-1434_cri-7011513.php TTT
 * I Don't Feel at Home in This World Anymore ☀️ 77%
 * https://www.rottentomatoes.com/m/columbus_2017 96-80%
 * https://www.rottentomatoes.com/m/gods_own_country_2017 98-88%
