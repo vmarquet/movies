@@ -1,16 +1,29 @@
+* https://archive.is/EH4GH#selection-13512.3-13512.6
+    * https://www.rottentomatoes.com/m/1118700-adaptation
+    * https://www.rottentomatoes.com/m/bridesmaids_2011
+    * https://www.rottentomatoes.com/m/yi_yi
+    * https://www.rottentomatoes.com/m/punchdrunk_love
+    * https://www.rottentomatoes.com/m/best_in_show
+    * https://www.rottentomatoes.com/m/anchorman
+    * https://fr.wikipedia.org/wiki/Les_Glaneurs_et_la_Glaneuse
+    * https://www.rottentomatoes.com/m/frances_ha
+    * https://www.rottentomatoes.com/m/grizzly_man
 * https://editorial.rottentomatoes.com/hub-subpage/leaderboard-3/
 * https://editorial.rottentomatoes.com/guide/best-1980s-cult-movies/
 * https://editorial.rottentomatoes.com/guide/best-movies-of-all-time/
 * https://www.telerama.fr/cinema/on-a-classe-les-49-cesars-du-meilleur-film-du-moins-convaincant-au-plus-magistral-7019338.php
 * https://editorial.rottentomatoes.com/guide/essential-spanish-language-movies-the-best-spanish-movies/ 🇪🇸
 * https://editorial.rottentomatoes.com/guide/best-christmas-movies/
+* https://editorial.rottentomatoes.com/guide/movies-certified-fresh-verified-hot/
 
 
 ### 2025
 
 * Quiet Life
+* https://www.rottentomatoes.com/m/sorry_baby
 * https://www.rottentomatoes.com/m/mountainhead
 * https://www.rottentomatoes.com/m/exit_8_2025
+* https://www.rottentomatoes.com/m/last_breath_2025
 * https://www.rottentomatoes.com/m/the_life_of_chuck 81%c
 * https://www.rottentomatoes.com/m/resurrection_2025 #sf 🇨🇳
 * https://www.rottentomatoes.com/m/a_useful_ghost
@@ -83,7 +96,6 @@
 * chroniques chinoises 🇨🇳
 * Tout ira bien https://www.rottentomatoes.com/m/all_shall_be_well 🇨🇳
 * https://www.telerama.fr/cinema/le-fil-daniel-auteuil-convaincant-en-avocat-obsede-par-la-verite_cri-7034340.php TT (allocine 3.9)
-* https://www.telerama.fr/cinema/tatami-un-thriller-politique-qui-frappe-fort_cri-7034231.php 🇮🇷
 * https://www.rottentomatoes.com/m/saturday_night_2024 (Jason Reitman)
 * https://www.rottentomatoes.com/m/the_outrun #aventure #nature
 * https://www.rottentomatoes.com/m/my_favourite_cake 🇮🇷
@@ -564,6 +576,7 @@
 * Annie Hall (Woody Allen)
 * Saturday Night Fever (John Travolta)
 * https://www.rottentomatoes.com/m/1017818-rolling_thunder 77%
+* https://www.telerama.fr/cinema/pourquoi-pas-de-coline-serreau-chronique-tendre-et-subtile-d-un-menage-a-trois_cri-7039327.php TTT
 
 
 ### 1976
