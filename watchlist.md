@@ -8,6 +8,7 @@
     * https://fr.wikipedia.org/wiki/Les_Glaneurs_et_la_Glaneuse
     * https://www.rottentomatoes.com/m/frances_ha
     * https://www.rottentomatoes.com/m/grizzly_man
+* https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html
 * https://editorial.rottentomatoes.com/hub-subpage/leaderboard-3/
 * https://editorial.rottentomatoes.com/guide/best-1980s-cult-movies/
 * https://editorial.rottentomatoes.com/guide/best-movies-of-all-time/
@@ -37,6 +38,9 @@
 * https://www.rottentomatoes.com/m/sinners_2025 90+
 * https://www.rottentomatoes.com/m/the_ballad_of_wallis_island 90+
 * https://www.rottentomatoes.com/m/the_wedding_banquet 80+
+* https://www.rottentomatoes.com/m/sovereign
+* https://www.rottentomatoes.com/m/sew_torn 95%c
+* https://www.rottentomatoes.com/m/to_a_land_unknown 95%c
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=316984.html Ma Mère, Dieu et Sylvie Vartan
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=317091.html Lire Lolita à Téhéran
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=313954.html Mikado
@@ -395,6 +399,7 @@
 
 ### 2000
 
+* https://www.rottentomatoes.com/m/the_annihilation_of_fish_2000 99%
 * https://editorial.rottentomatoes.com/guide/best-movies-2000/
 * https://editorial.rottentomatoes.com/guide/essential-2000s-movies/
 * https://www.rottentomatoes.com/m/1095420-high_fidelity 90%
@@ -512,6 +517,7 @@
 
 ### 1986
 
+* https://www.rottentomatoes.com/m/better_tomorrow 90% (John Woo)
 * https://www.rottentomatoes.com/m/1014027-mission (Roland Joffé) 🌿
 * https://www.rottentomatoes.com/m/labyrinth 77%
 * https://www.rottentomatoes.com/m/hoosiers 88% 🏀
