@@ -84,6 +84,7 @@
 * [La chronique de Thomas Bidegain - France Inter](https://www.youtube.com/watch?v=JDaK6vHlGWk&list=PL43OynbWaTMKQkvk6IBpR6Ux74MGOYSM5&index=2)
 * [Konbini video club](https://www.youtube.com/results?search_query=konbini+video+club)
 * [Le Fossoyeur de Films](https://www.youtube.com/user/deadwattsofficiel/videos)
+* https://www.instagram.com/cinemaaoftheworld/
 </details>
 
 <details>
