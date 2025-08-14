@@ -19,12 +19,14 @@ Littérature
 * Ravage (1943) #sf
 * Antigone (Jean Anouilh, 1944) ❤️
 * L'écume des jours (1947)
+* Exercices de style (1947) ❤️
 * Chroniques Martiennes (1950), Farenheit 451 (1953) (Ray Bradbury) #sf
 * La mort est mon métier (1952)
 * Le Viel Homme et la Mer (Hemingway, 1952)
 * La gloire de mon père (1957)
 * La Promesse de l'Aube (1960)
 * Des fleurs pour Algernon (Daniel Keyes, 1966)
+* L'Exécution (Robert Badinter, 1973)
 * Le Tableau du Maitre flamand (1990)
 * Le Théorème du Perroquet (1998)
 * Stupeur et Tremblement (1999)
