@@ -20,12 +20,12 @@
 
 ### 2025
 
+* https://www.rottentomatoes.com/m/the_naked_gun_2025
 * Quiet Life
 * https://www.rottentomatoes.com/m/sorry_baby
 * https://www.rottentomatoes.com/m/mountainhead
 * https://www.rottentomatoes.com/m/exit_8_2025
 * https://www.rottentomatoes.com/m/last_breath_2025
-* https://www.rottentomatoes.com/m/the_life_of_chuck 81%c
 * https://www.rottentomatoes.com/m/resurrection_2025 #sf 🇨🇳
 * https://www.rottentomatoes.com/m/a_useful_ghost
 * https://www.rottentomatoes.com/m/hard_truths 95%-82
@@ -78,6 +78,7 @@
 * https://www.rottentomatoes.com/m/ordinary_angels 84% 99% 3.3
 * https://www.rottentomatoes.com/m/la_chimera 74%
 * https://www.rottentomatoes.com/m/irenas_vow 83%
+* https://www.rottentomatoes.com/m/cloud 93%c 🇯🇵 (Kurosawa)
 * https://www.rottentomatoes.com/m/musica
 * https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
 * https://www.rottentomatoes.com/m/arthur_the_king 70%
@@ -146,6 +147,7 @@
     * quand les vagues se retirent 3.1
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php 2.1
     * https://www.telerama.fr/cinema/la-fiancee-du-poete-le-meilleur-film-de-yolande-moreau_cri-7029028.php 3.7
+    * https://www.telerama.fr/cinema/les-filles-d-olfa-un-docu-fiction-qui-denoue-les-fils-de-l-oppression-7027149.php TTTT
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php 83% 3.8
 * https://www.rottentomatoes.com/m/fitting_in_2023 65%
 * https://www.rottentomatoes.com/m/the_persian_version 93%

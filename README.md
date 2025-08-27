@@ -242,6 +242,7 @@ Français:
 * Inside Out 2 (Pixar)
 * The Wild Robot (DreamWorks) #famille
 * Flow #famille
+* The Life of Chuck
 * The Fall Guy (Ryan Gosling) 🍿
     * > _Stuntman taking a punch to the face:_  
       > ❝ - You remember old Dressy, right?  
@@ -284,6 +285,7 @@ Français:
 * Perfect Days (Wim Wenders) 🇯🇵 ❤️
 * Barbie (Greta Gerwig, Margot Robbie, Ryan Gosling)
 * American Fiction (Jeffrey Wright) #satire
+* Les Herbes sèches (Nuri Bilge Ceylan) 🇹🇷
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * The Promised Land (Mads Mikkelsen) 🇩🇰
 * Les Meutes 🇲🇦 🌿 [📰](https://www.telerama.fr/cinema/les-meutes-un-choc-rejouissant-dans-les-bas-fonds-de-casablanca-7027372.php)
@@ -1742,6 +1744,7 @@ Français:
 * Pour une poignée de dollars (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
     * note: voir les trois Sergio: [Sergio Leone](https://www.rottentomatoes.com/celebrity/sergio_leone), [Sergio Corbucci](https://www.rottentomatoes.com/celebrity/sergio_corbucci), [Sergio Sollima](https://www.rottentomatoes.com/celebrity/sergio_sollima)
 * Docteur Folamour (Stanley Kubrick)
+* Kwaidan 🇯🇵 #fantastique
 
 [Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1964)
 
