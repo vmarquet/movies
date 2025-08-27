@@ -34,6 +34,7 @@ BD
 * Broussailles (les albums "Les baleines publiques" et "La nuit du chat"). Assez poétique.
 * Gaston Lagaffe
 * Joe Bar Team
+* Pico Bogue
 
 
 Séries audio
