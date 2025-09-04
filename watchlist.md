@@ -20,7 +20,6 @@
 
 ### 2025
 
-* https://www.rottentomatoes.com/m/the_naked_gun_2025
 * Quiet Life
 * https://www.rottentomatoes.com/m/sorry_baby
 * https://www.rottentomatoes.com/m/mountainhead
@@ -35,7 +34,6 @@
 * https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
 * L’Attachement (4.2)
 * On ira (4.3)
-* https://www.rottentomatoes.com/m/sinners_2025 90+
 * https://www.rottentomatoes.com/m/the_ballad_of_wallis_island 90+
 * https://www.rottentomatoes.com/m/the_wedding_banquet 80+
 * https://www.rottentomatoes.com/m/sovereign
@@ -78,13 +76,13 @@
 * https://www.rottentomatoes.com/m/ordinary_angels 84% 99% 3.3
 * https://www.rottentomatoes.com/m/la_chimera 74%
 * https://www.rottentomatoes.com/m/irenas_vow 83%
-* https://www.rottentomatoes.com/m/cloud 93%c 🇯🇵 (Kurosawa)
+* https://www.rottentomatoes.com/m/cloud 93%c 60% 🇯🇵 (Kurosawa)
 * https://www.rottentomatoes.com/m/musica
 * https://www.telerama.fr/cinema/le-deserteur-fiction-deroutante-en-resonance-avec-le-conflit-israelo-palestinien_cri-7032303.php
 * https://www.rottentomatoes.com/m/arthur_the_king 70%
 * Rapture (Rimdogittanga) (Dominic Sangma) 🇮🇳
 * https://www.rottentomatoes.com/m/the_idea_of_you 66%
-* https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
+* https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php TT
 * https://www.telerama.fr/cinema/films/suzume-1-249621710.php TTT #anime 🇯🇵
 * https://www.telerama.fr/cinema/la-morsure-de-romain-de-saint-blanquat-un-conte-de-fees-gothique-ensorcelant_cri-7032649.php TT
 * https://www.rottentomatoes.com/m/tuesday_2023 50%
@@ -92,7 +90,6 @@
 * https://www.rottentomatoes.com/m/the_dead_dont_hurt 67% 3.6 #western
 * https://www.telerama.fr/cinema/les-sorties-cinema-de-la-semaine-les-fantomes-el-profesor-horizon-une-saga-americaine-7021125.php
 * Matria
-* https://www.rottentomatoes.com/m/touch_2024 92%
 * https://www.rottentomatoes.com/m/the_good_half 52% 96%
 * https://www.rottentomatoes.com/m/good_one 72%
 * https://www.rottentomatoes.com/m/the_bikeriders 75%
@@ -105,10 +102,8 @@
 * https://www.rottentomatoes.com/m/the_outrun #aventure #nature
 * https://www.rottentomatoes.com/m/my_favourite_cake 🇮🇷
 * https://www.rottentomatoes.com/m/nickel_boys
-* sur un fil (allocine 4.0) reda kateb
 * https://www.rottentomatoes.com/m/lucky_baskhar 🇮🇳 +++
 * https://www.rottentomatoes.com/m/we_live_in_time 80%
-* https://www.rottentomatoes.com/m/daddio_2023 88% #huis-clos (Sean Penn)
 * https://www.rottentomatoes.com/m/thangalaan 🇮🇳
 * https://www.rottentomatoes.com/m/babygirl_2024
 * https://www.rottentomatoes.com/m/queer 61%
@@ -168,7 +163,6 @@
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
 * https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023 67%
 * https://www.rottentomatoes.com/m/kidnapped_the_abduction_of_edgardo_mortara 78% 🇮🇹
-* https://www.rottentomatoes.com/m/about_dry_grasses (Nuri Bilge Ceylan) 80%
 * Dissidente https://fr.wikipedia.org/wiki/Richelieu_(film)
 * Gasoline Rainbow 73%
 * cinéma étranger:

@@ -203,10 +203,11 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Warfare (Alex Garland)
 * One of Them Days #comédie
+* Materialists
 * Better Man 🇬🇧 #biopic
 * Black Dog 🇨🇳 🌿
 * A Complete Unknown (James Mangold) #biopic
-* bof: Mickey 17, Drop, Companion
+* bof: The Naked Gun, Mickey 17, Sinners, Drop, Companion
 
 Français:
 
@@ -253,12 +254,13 @@ Français:
 * Joy 🇬🇧
 * Small Things like These (Cillian Murphy) 🇮🇪
 * My Sunshine 🇯🇵
-* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Tatami 🇮🇷, Sons (Gustav Möller) 🇩🇰, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
+* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Touch 🇮🇸, Tatami 🇮🇷, Sons (Gustav Möller) 🇩🇰, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
 
 Français:
 
 * L’Histoire de Souleymane ❤️ 🌿
 * La Récréation de juillet ❤️
+* Sur un fil (Reda Kateb) ❤️
 * Première Affaire ❤️
 * En Fanfare
 * Le Comte de Monte-Cristo (Pierre Niney)
@@ -324,6 +326,7 @@ Français:
 * Sharper : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
 * Robot Dreams
+* Daddio (Sean Penn)
 * bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, May December (Todd Haynes) 🎥, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Lost Ladies 🇮🇳, Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -501,7 +504,7 @@ Français:
 * First Man (Damien Chazelle) #biopic
 * Annihilation (Alex Garland, Natalie Portman) #sf
 * Sorry to Bother You
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, The Guilty 🇩🇰, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg), All about Nina
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, Thunder Road, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, The Guilty 🇩🇰, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg), All about Nina
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
