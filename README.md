@@ -202,12 +202,14 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 2025
 
 * Warfare (Alex Garland)
+* Sirāt 🌿
 * One of Them Days #comédie
 * Materialists
+* En première ligne 🇨🇭 🏥
 * Better Man 🇬🇧 #biopic
 * Black Dog 🇨🇳 🌿
 * A Complete Unknown (James Mangold) #biopic
-* bof: The Naked Gun, Mickey 17, Sinners, Drop, Companion
+* bof: The Naked Gun, The Wedding Banquet, Mickey 17, Sinners, Drop, Companion
 
 Français:
 
@@ -263,8 +265,9 @@ Français:
 * Sur un fil (Reda Kateb) ❤️
 * Première Affaire ❤️
 * En Fanfare
-* Le Comte de Monte-Cristo (Pierre Niney)
+* Une part manquante (Romain Duris) 🇫🇷🇯🇵
 * Vingt Dieux
+* Le Comte de Monte-Cristo (Pierre Niney)
 * Monsieur Aznavour
 * Les Fantômes
 * Pas de vagues (François Civil) #film-scolaire
@@ -1967,6 +1970,7 @@ Français:
 * Oddity (2024) ❤️
 * Heretic (2024) ❤️
 * Nosferatu (2024, Robert Eggers) : esthétique sympa mais narration ratée
+* Weapons (2025)
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 

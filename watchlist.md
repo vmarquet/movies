@@ -35,7 +35,6 @@
 * L’Attachement (4.2)
 * On ira (4.3)
 * https://www.rottentomatoes.com/m/the_ballad_of_wallis_island 90+
-* https://www.rottentomatoes.com/m/the_wedding_banquet 80+
 * https://www.rottentomatoes.com/m/sovereign
 * https://www.rottentomatoes.com/m/sew_torn 95%c
 * https://www.rottentomatoes.com/m/to_a_land_unknown 95%c
@@ -116,16 +115,15 @@
 * https://www.rottentomatoes.com/m/meanwhile_on_earth_2024 81%
 * https://www.telerama.fr/cinema/leurs-enfants-apres-eux-paul-kircher-formidable-dans-cette-adaptation-reussie-du-roman-de-nicolas-mathieu_cri-7035728.php TTT 3.6
 * Le Royaume (Corse) (allocine 4.1)
-* En tongs au pied de l'Himalaya
-* La vallée des fous (Xavier Beauvois)
+* En tongs au pied de l'Himalaya 3.9
+* La vallée des fous (Xavier Beauvois) 3.7
 * L'affaire Nevenka 🇪🇸 (allociné 4.1)
 * La plus précieuse des marchandes (Hazanavicius) 4.2
-* Une part manquante (3.9)
 * Le Panache (3.9) (José Garcia)
 * Louise Violet (4.0)
 * Les femmes au balcon
 * Prodigieuses (4.0)
-* Le Déluge (film en costume)
+* Le Déluge (film en costume) 2.8
 
 
 ### 2023

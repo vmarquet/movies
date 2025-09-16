@@ -54,6 +54,7 @@
 	* Master of None
 	* The Diplomat
 	* https://www.rottentomatoes.com/tv/the_shield
+	* Adolescence
 * sans plus:
     * Twin Peaks (David Lynch)
 
@@ -103,6 +104,7 @@
 * pas vu: https://www.rottentomatoes.com/tv/reservation_dogs
 * pas vu: https://www.rottentomatoes.com/tv/shogun_2024
 * pas vu: https://www.rottentomatoes.com/tv/the_pitt/s01
+* pas vu: Les Grandes grandes vacances
 
 
 ### Anime
