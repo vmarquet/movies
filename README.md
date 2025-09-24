@@ -204,6 +204,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Warfare (Alex Garland)
 * Sirāt 🌿
 * One of Them Days #comédie
+* Highest 2 Lowest (Spike Lee)
 * Materialists
 * En première ligne 🇨🇭 🏥
 * Better Man 🇬🇧 #biopic
@@ -1087,6 +1088,7 @@ Français:
 * Requiem for a Dream (Darren Aronofsky)
 * Snatch (Guy Ritchie, Brad Pitt) 🇬🇧
 * Dancer in the Dark (Lars von Trier) 🌿 🎵
+* Yi Yi 🇹🇼
 * Battle Royale 🇯🇵
 * Billy Elliot (Stephen Daldry) 🇬🇧
 * Traffic (Steven Soderbergh)
@@ -1191,6 +1193,7 @@ Français:
     * > ❝ How can your timing be so good in a courtroom and so bad in real life? ❞
 * Fargo (frères Coen, Frances McDormand, Steve Buscemi)
 * Shall We Dance? 🇯🇵 💃
+* Matilda #famille
 * Pusher (Nicolas Winding Refn) 🇩🇰
 * Lone Star #neowestern
 * bof: Jerry Maguire (Cameron Crowe)
@@ -1635,6 +1638,7 @@ Français:
 * Soleil Vert (Charlton Heston) #sf
 * L'Homme des Hautes Plaines (Clint Eastwood) 🎥 #western-spaghetti
 * Mon nom est Personne (Tonino Valerii, Terence Hill, Henri Fonda) #western-spaghetti
+* The Sting (Robert Redford)
 * Amarcord (Federico Fellini) 🇮🇹 [📰](https://www.telerama.fr/cinema/films/amarcord,6833.php) : bof, pas d'intrigue, suite de scènes souvent cliché
 * bof: Serpico (Sydney Lumet, Al Pacino), ~~The Exorcist~~
 
@@ -1974,7 +1978,7 @@ Français:
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
-* bof: Don't Breathe (2016), Tumbbad (2018) 🇮🇳, Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Pearl (2022), Vermines (2023), Marshmallow (2025)
+* bof: Don't Breathe (2016), Tumbbad (2018) 🇮🇳, Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Pearl (2022), Vermines (2023), Succubus (2024), Marshmallow (2025)
 
 
 
