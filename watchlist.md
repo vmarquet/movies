@@ -20,6 +20,8 @@
 
 ### 2025
 
+* https://www.france.tv/documentaires/documentaires-societe/7556627-badinter-contre-la-peine-de-mort-le-proces-patrick-henry.html
+* https://www.rottentomatoes.com/m/a_house_of_dynamite
 * Quiet Life
 * https://www.rottentomatoes.com/m/sorry_baby
 * https://www.rottentomatoes.com/m/mountainhead
@@ -140,7 +142,6 @@
     * quand les vagues se retirent 3.1
     * un prince https://www.telerama.fr/cinema/un-prince-un-film-hors-norme-et-fascinant_cri-7029114.php 2.1
     * https://www.telerama.fr/cinema/la-fiancee-du-poete-le-meilleur-film-de-yolande-moreau_cri-7029028.php 3.7
-    * https://www.telerama.fr/cinema/les-filles-d-olfa-un-docu-fiction-qui-denoue-les-fils-de-l-oppression-7027149.php TTTT
 * https://www.telerama.fr/cinema/ama-gloria-aussi-poignant-que-delicat_cri-7028106.php 83% 3.8
 * https://www.rottentomatoes.com/m/fitting_in_2023 65%
 * https://www.rottentomatoes.com/m/the_persian_version 93%
@@ -157,7 +158,6 @@
 * https://www.rottentomatoes.com/m/la_chimera 74%
 * https://www.rottentomatoes.com/m/beau_is_afraid 71% (3.2)
 * https://www.rottentomatoes.com/m/rotting_in_the_sun 🇲🇽 73%
-* https://www.rottentomatoes.com/m/the_breaking_ice (Un hiver à Yanji) 🇨🇳
 * https://www.telerama.fr/cinema/films/le-barrage-1-214997173.php 🇸🇩
 * https://www.rottentomatoes.com/m/sometimes_i_think_about_dying_2023 67%
 * https://www.rottentomatoes.com/m/kidnapped_the_abduction_of_edgardo_mortara 78% 🇮🇹

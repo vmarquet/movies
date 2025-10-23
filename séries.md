@@ -6,6 +6,7 @@
 * Peep Show (2003) ++
 * The Office (2005) ++
 * How I Met your Mother (2005)
+* Kaamelott (2005)
 * The Big Bang Theory (2007)
 * Community (2009) +
 * Modern Family (2009 ++
@@ -100,11 +101,13 @@
 * NCIS
 * The Boys (2019) [🍅](https://www.rottentomatoes.com/tv/the_boys_2019)
 * Slow Horses
-* pas vu: https://www.leblogducinema.com/critique-serie/yellowstone-western-contemporain-et-audience-record-critique-57942541/
-* pas vu: https://www.rottentomatoes.com/tv/reservation_dogs
-* pas vu: https://www.rottentomatoes.com/tv/shogun_2024
-* pas vu: https://www.rottentomatoes.com/tv/the_pitt/s01
-* pas vu: Les Grandes grandes vacances
+* pas vu:
+    * https://www.leblogducinema.com/critique-serie/yellowstone-western-contemporain-et-audience-record-critique-57942541/
+    * https://www.rottentomatoes.com/tv/reservation_dogs
+    * https://www.rottentomatoes.com/tv/shogun_2024
+    * https://www.rottentomatoes.com/tv/the_pitt/s01
+    * Les Grandes grandes vacances
+    * https://www.rottentomatoes.com/tv/boots/s01
 
 
 ### Anime

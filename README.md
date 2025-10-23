@@ -201,6 +201,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2025
 
+* One Battle After Another (Paul Thomas Anderson) ❤️
 * Warfare (Alex Garland)
 * Sirāt 🌿
 * One of Them Days #comédie
@@ -209,6 +210,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * En première ligne 🇨🇭 🏥
 * Better Man 🇬🇧 #biopic
 * Black Dog 🇨🇳 🌿
+* Caught Stealing (Darren Aronofsky)
 * A Complete Unknown (James Mangold) #biopic
 * bof: The Naked Gun, The Wedding Banquet, Mickey 17, Sinners, Drop, Companion
 
@@ -296,6 +298,7 @@ Français:
 * Dungeons & Dragons: Honor Among Thieves 🍿 : bon divertissement
 * The Promised Land (Mads Mikkelsen) 🇩🇰
 * Les Meutes 🇲🇦 🌿 [📰](https://www.telerama.fr/cinema/les-meutes-un-choc-rejouissant-dans-les-bas-fonds-de-casablanca-7027372.php)
+* Un hiver à Yanji 🇨🇳
 * Io Capitano 🇸🇳🇮🇹
 * Le Moine et le fusil 🇧🇹
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
