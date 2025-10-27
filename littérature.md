@@ -49,3 +49,9 @@ bof:
 * Mariette, Soupir et crotte de bique
 * Le conte chaud et doux des chaudoudoux
 
+
+### Littérature participative
+
+* https://scp-wiki.wikidot.com/universe-hub
+* https://backrooms-wiki.wikidot.com/normal-levels-i
+

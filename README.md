@@ -202,10 +202,11 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 2025
 
 * One Battle After Another (Paul Thomas Anderson) ❤️
-* Warfare (Alex Garland)
+* Warfare (Alex Garland) 🇺🇸
 * Sirāt 🌿
 * One of Them Days #comédie
 * Highest 2 Lowest (Spike Lee)
+* A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
 * En première ligne 🇨🇭 🏥
 * Better Man 🇬🇧 #biopic
@@ -667,6 +668,7 @@ Français:
 * The Internship (Vince Vaughn, Owen Wilson) #comédie-de-bureau
 * New World 🇰🇷 #thriller
 * Dallas Buyers Club (Matthew McConaughey) 🎗️
+* Zero Dark Thirty (Kathryn Bigelow) 🇺🇸
 * Le Majordome (Forest Whitaker) ✊🏾
 * Ida 🇵🇱
 * American Hustle (Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence)
@@ -1044,6 +1046,7 @@ Français:
 * The Count of Monte Cristo 🎥
 * The Bourne Identity (Matt Damon) #thriller
 * Gangs of New York (Martin Scorsese, Daniel Day-Lewis) : quelques scènes mémorables mais longuet et oubliable dans son ensemble
+* Black Hawk Down 🇺🇸
 * bof: The Hours (Stephen Daldry), Panic Room (David Fincher) #thriller, Secretary
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)

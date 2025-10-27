@@ -2,6 +2,7 @@
 
 * Futurama (1999)
     * [all opening quotes](https://theabbie.github.io/blog/All-Futurama-Opening-Quotes)
+* Malcolm (2000)
 * Scrubs (2001)
 * Peep Show (2003) ++
 * The Office (2005) ++

@@ -18,10 +18,13 @@
 * https://editorial.rottentomatoes.com/guide/movies-certified-fresh-verified-hot/
 
 
+* https://www.rottentomatoes.com/m/short_term_12_2013
+
+
 ### 2025
 
+* https://www.rottentomatoes.com/m/bugonia
 * https://www.france.tv/documentaires/documentaires-societe/7556627-badinter-contre-la-peine-de-mort-le-proces-patrick-henry.html
-* https://www.rottentomatoes.com/m/a_house_of_dynamite
 * Quiet Life
 * https://www.rottentomatoes.com/m/sorry_baby
 * https://www.rottentomatoes.com/m/mountainhead
