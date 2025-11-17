@@ -1,7 +1,5 @@
 * https://archive.is/EH4GH#selection-13512.3-13512.6
     * https://www.rottentomatoes.com/m/1118700-adaptation
-    * https://www.rottentomatoes.com/m/bridesmaids_2011
-    * https://www.rottentomatoes.com/m/yi_yi
     * https://www.rottentomatoes.com/m/punchdrunk_love
     * https://www.rottentomatoes.com/m/best_in_show
     * https://www.rottentomatoes.com/m/anchorman
@@ -18,12 +16,24 @@
 * https://editorial.rottentomatoes.com/guide/movies-certified-fresh-verified-hot/
 
 
-* https://www.rottentomatoes.com/m/short_term_12_2013
-
 
 ### 2025
 
+* Un simple accident (Iran)
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/bugonia
+* https://www.rottentomatoes.com/m/islands_2025
+* https://www.rottentomatoes.com/m/ne_zha_ii chine
+* https://www.rottentomatoes.com/m/hedda_2025
+* https://www.rottentomatoes.com/m/good_boy_2025
+* https://www.rottentomatoes.com/m/nobody_2
+* https://www.rottentomatoes.com/m/the_perfect_neighbor_2025
+* https://www.rottentomatoes.com/m/the_secret_agent_2025
+* https://www.rottentomatoes.com/m/urchin_2025
+* https://www.rottentomatoes.com/m/if_i_had_legs_id_kick_you
+* https://www.rottentomatoes.com/m/the_mastermind
+* https://www.rottentomatoes.com/m/die_my_love_2025
+* https://www.rottentomatoes.com/m/blue_moon_2025
 * https://www.france.tv/documentaires/documentaires-societe/7556627-badinter-contre-la-peine-de-mort-le-proces-patrick-henry.html
 * Quiet Life
 * https://www.rottentomatoes.com/m/sorry_baby
@@ -34,7 +44,7 @@
 * https://www.rottentomatoes.com/m/a_useful_ghost
 * https://www.rottentomatoes.com/m/hard_truths 95%-82
 * https://www.rottentomatoes.com/m/the_fire_inside 96% #biopic
-* https://www.rottentomatoes.com/m/black_bag
+* https://www.rottentomatoes.com/m/black_bag 90-70
 * Hiver à Sokcho (3.9)
 * https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
 * L’Attachement (4.2)
@@ -65,6 +75,9 @@
 
 ### 2024
 
+* https://www.rottentomatoes.com/m/when_the_light_breaks 97% iceland
+* https://www.rottentomatoes.com/m/day_of_the_fight_2023
+* https://www.rottentomatoes.com/m/the_apprentice
 * https://www.telerama.fr/cinema/mostra-de-venise-2024-que-vaut-leurs-enfants-apres-eux-l-adaptation-du-prix-goncourt-de-nicolas-mathieu-7021937.php TTT
 * https://editorial.rottentomatoes.com/article/2024-cannes-preview/
 * https://editorial.rottentomatoes.com/guide/cannes-2024-movie-scorecard/
@@ -122,7 +135,6 @@
 * Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya 3.9
 * La vallée des fous (Xavier Beauvois) 3.7
-* L'affaire Nevenka 🇪🇸 (allociné 4.1)
 * La plus précieuse des marchandes (Hazanavicius) 4.2
 * Le Panache (3.9) (José Garcia)
 * Louise Violet (4.0)
@@ -136,7 +148,6 @@
 * https://editorial.rottentomatoes.com/article/awards-leaderboard-top-movies-of-2023/
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
-* https://www.rottentomatoes.com/m/guy_ritchies_the_covenant 98%
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/of_an_age 86%
@@ -175,7 +186,6 @@
 ### 2022
 
 * https://www.telerama.fr/cinema/films/enquete-sur-un-scandale-d-etat-1-193253187.php TTT
-* https://www.rottentomatoes.com/m/till 97% ✊🏾
 * https://www.rottentomatoes.com/m/north_of_normal 80% 1h30
 * Tirailleurs https://www.telerama.fr/cinema/films/tirailleurs-1-215079847.php
 * https://editorial.rottentomatoes.com/guide/best-movies-2022/
@@ -237,6 +247,7 @@
 
 ### 2018
 
+* https://www.rottentomatoes.com/m/eighth_grade
 * https://www.rottentomatoes.com/m/love_simon 87%
 * Rafiki 🇰🇪 73%
 * https://www.rottentomatoes.com/m/cold_war_2018 81%
@@ -245,11 +256,11 @@
 * https://www.telerama.fr/cinema/le-monde-est-a-toi-7027679.php TTT (Romain Gavras)
 * https://www.rottentomatoes.com/m/tully_2018 75%
 * https://www.rottentomatoes.com/m/prospect_2018 73%
-* Pupille (Jeanne Herry)
 
 
 ### 2017
 
+* https://www.rottentomatoes.com/m/stronger_2017 91-81
 * I Don't Feel at Home in This World Anymore ☀️ 77%
 * https://www.rottentomatoes.com/m/columbus_2017 96-80%
 * https://www.rottentomatoes.com/m/gods_own_country_2017 98-88%
@@ -301,6 +312,7 @@
 ### 2012
 
 * Les Adieux à la reine
+* https://www.rottentomatoes.com/m/electrick_children
 * Frances Ha - 78%
 
 
@@ -479,7 +491,6 @@
 
 ### 1991
 
-* https://www.rottentomatoes.com/m/double_life_of_veronique 92%
 * https://www.rottentomatoes.com/m/my_own_private_idaho 80%
 * https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php (Zhang Yimou) 🇨🇳
 
@@ -679,6 +690,8 @@
 * https://www.rottentomatoes.com/m/its_whats_inside
 * https://www.rottentomatoes.com/m/mads
 * https://www.rottentomatoes.com/m/the_damned_2024
+* https://www.rottentomatoes.com/m/the_love_witch 95%c 65%
+* https://www.rottentomatoes.com/m/the_ugly_stepsister 96%c 90%
 * https://www.rottentomatoes.com/m/heart_eyes
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)

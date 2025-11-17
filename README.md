@@ -213,7 +213,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Black Dog 🇨🇳 🌿
 * Caught Stealing (Darren Aronofsky)
 * A Complete Unknown (James Mangold) #biopic
-* bof: The Naked Gun, The Wedding Banquet, Mickey 17, Sinners, Drop, Companion
+* bof: The Naked Gun, The Wedding Banquet, Mickey 17, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
 Français:
 
@@ -256,6 +256,7 @@ Français:
       > ❝ - You remember old Dressy, right?  
       > &emsp; \- I never forget a fist. ❞
 * All We Imagine as Light 🇮🇳
+* L'affaire Nevenka 🇪🇸
 * Young Woman and the Sea (Daisy Ridley) #biopic
 * Joy 🇬🇧
 * Small Things like These (Cillian Murphy) 🇮🇪
@@ -335,7 +336,7 @@ Français:
 * Wonka (Timothée Chalamet)
 * Robot Dreams
 * Daddio (Sean Penn)
-* bof: Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, May December (Todd Haynes) 🎥, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Lost Ladies 🇮🇳, Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
+* bof: The Covenant (Guy Ritchie), Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, May December (Todd Haynes) 🎥, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Lost Ladies 🇮🇳, Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -381,6 +382,7 @@ Français:
 * Fire Island 🏳️‍🌈 #romcom
 * Les nuits de Mashhad 🇮🇷 #thriller
 * Decision to Leave (Park Chan-wook) 🇰🇷
+* Till ✊🏾
 * Fresh 🎥 #horror
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #famille
@@ -479,7 +481,7 @@ Français:
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
-* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Mustang, The Farewell, The Peanut Butter Falcon, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
+* bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Arctic (Mads Mikkelsen), Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Mustang, The Farewell, The Peanut Butter Falcon, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -516,6 +518,7 @@ Français:
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
+* Pupille (Jeanne Herry) ❤️
 * Les Frères Sisters (Jacques Audiard) ❤️ 4✨ #western
 * L'Empereur de Paris (Vincent Cassel) ❤️
 * Shéhérazade
@@ -552,7 +555,7 @@ Français:
 * Grave
 * Patients
 * Petit Paysan
-* bof: Le Brio (Daniel Auteuil), Le Sens de la fête (Olivier Nakache & Éric Toledano, Jean-Pierre Bacri), Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
+* bof: Le Brio (Daniel Auteuil), Le Sens de la fête (Olivier Nakache & Éric Toledano, Jean-Pierre Bacri), L'échange des princesses, Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
 
 
 ### 2016
@@ -675,6 +678,7 @@ Français:
 * The Lunchbox 🇮🇳
 * Tangerines 🇬🇪
 * Le Passé (Asghar Farhadi) 🇮🇷
+* Short Term 12 (Brie Larson)
 * bof: Inside Llewyn Davis (frères Coen), All is Lost (Robert Redford), Nosotros los Nobles 🇲🇽, Only God Forgives (Nicolas Winding Refn), The Immigrant (James Gray), Upstream Color 🎥, Snowpiercer (Bong Joon-ho), The Bling Ring (Sofia Coppola), ~~The Wolf of Wall Street (Martin Scorsese)~~ 💵, ~~Jobs~~, ~~Hard to Be a God~~ 🇷🇺 #sf, ~~Fruitvale Station~~ ☀️, ~~The Best Offer~~, ~~Blue Jasmine~~
 
 [Césars 39](https://fr.wikipedia.org/wiki/39e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -733,6 +737,7 @@ Français:
 * Carnage (Roman Polanski, Christoph Waltz)
 * Habemus Papam (Nanni Moretti) 🇮🇹
 * Melancholia (Lars von Trier)
+* Bridesmaids
 * The Deep Blue Sea (vu ?)
 * Moneyball
 * It's Such a Beautiful Day
@@ -1332,6 +1337,7 @@ Français:
 * Tous les matins du monde (Alain Corneau, Gérard Depardieu) ❤️ 🎼 [📰](https://www.telerama.fr/cinema/films/tous-les-matins-du-monde,8360.php)
 * Les Amants du Pont Neuf (Leos Carax, Denis Lavant, Juliette Binoche) ❤️
 * Délicatessen (Jean-Pierre Jeunet)
+* La double vie de Véronique
 * L'Opération Corned-Beef (Jean-Marie Poiré, Christian Clavier, Jean Reno) #comédie
 
 

@@ -109,6 +109,7 @@
     * https://www.rottentomatoes.com/tv/the_pitt/s01
     * Les Grandes grandes vacances
     * https://www.rottentomatoes.com/tv/boots/s01
+    * https://www.rottentomatoes.com/tv/hal_and_harper/s01
 
 
 ### Anime

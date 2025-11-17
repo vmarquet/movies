@@ -35,6 +35,7 @@ BD
 * Gaston Lagaffe
 * Joe Bar Team
 * Pico Bogue
+* Jerome K. Jerome Bloch
 
 
 Séries audio
