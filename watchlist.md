@@ -19,7 +19,11 @@
 
 ### 2025
 
+* Dossier 137 +++
 * Un simple accident (Iran)
+* https://www.rottentomatoes.com/m/rental_family 95
+* https://www.rottentomatoes.com/m/a_little_prayer 93
+* https://www.rottentomatoes.com/m/left_handed_girl
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/bugonia
 * https://www.rottentomatoes.com/m/islands_2025
@@ -624,6 +628,7 @@
 ### 1972
 
 * https://www.rottentomatoes.com/m/the_new_land 86%
+* https://www.rottentomatoes.com/m/silent_running #sf
 
 
 ### 1971

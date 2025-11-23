@@ -204,6 +204,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * One Battle After Another (Paul Thomas Anderson) ❤️
 * Warfare (Alex Garland) 🇺🇸
 * Sirāt 🌿
+* Train Dreams
 * One of Them Days #comédie
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
@@ -213,12 +214,14 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Black Dog 🇨🇳 🌿
 * Caught Stealing (Darren Aronofsky)
 * A Complete Unknown (James Mangold) #biopic
+* If I Had Legs I'd Kick You
 * bof: The Naked Gun, The Wedding Banquet, Mickey 17, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
 Français:
 
 * À bicyclette ! ❤️❤️
 * Amélie et la Métaphysique des tubes ❤️
+* Nouvelle Vague
 * La Chambre de Mariana
 * bof: Un Ours dans le Jura
 
@@ -267,6 +270,7 @@ Français:
 
 * L’Histoire de Souleymane ❤️ 🌿
 * La Récréation de juillet ❤️
+* La Pampa ❤️
 * Sur un fil (Reda Kateb) ❤️
 * Première Affaire ❤️
 * En Fanfare
@@ -532,6 +536,7 @@ Français:
 ### 2017
 
 * My Days of Mercy ❤️
+* The Florida Project (Sean Baker) ❤️
 * The Square (Ruben Östlund) 🇸🇪 🌿
 * Wind River #policier
 * A Ghost Story (Rooney Mara) ❤️
@@ -741,7 +746,7 @@ Français:
 * The Deep Blue Sea (vu ?)
 * Moneyball
 * It's Such a Beautiful Day
-* bof: La piel que habito (Pedro Almodóvar) 🇪🇸, Take This Waltz, Killer Joe, A Dangerous Method (David Cronenberg), ~~Source Code~~
+* bof: La piel que habito (Pedro Almodóvar) 🇪🇸, Take This Waltz, Killer Joe, A Dangerous Method (David Cronenberg), The Raid 🇮🇩, ~~Source Code~~
 
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 

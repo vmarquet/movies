@@ -30,6 +30,7 @@
 * LOL : Qui rit, sort ! (2021) [📰](https://www.allocine.fr/series/ficheserie_gen_cserie=27798.html)
 * Au Service de la France
 * Le monde de demain (2022)
+* https://www.reddit.com/r/AskFrance/comments/1p3rqdx/hello_french_people_i_was_wondering_are_there_any/
 
 
 ### Drame
@@ -68,7 +69,9 @@
 * Severance (2022) ❤️
 * Maniac (2012, Emma Stone, Jonah Hill)
 * Real Humans
-* à voir: Inside No 9
+* pas vu:
+    * Inside No 9
+    * https://www.rottentomatoes.com/tv/pluribus/s01
 
 
 ### Polar
