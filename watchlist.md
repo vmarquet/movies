@@ -19,13 +19,13 @@
 
 ### 2025
 
+* https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * Dossier 137 +++
 * Un simple accident (Iran)
 * https://www.rottentomatoes.com/m/rental_family 95
 * https://www.rottentomatoes.com/m/a_little_prayer 93
 * https://www.rottentomatoes.com/m/left_handed_girl
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
-* https://www.rottentomatoes.com/m/bugonia
 * https://www.rottentomatoes.com/m/islands_2025
 * https://www.rottentomatoes.com/m/ne_zha_ii chine
 * https://www.rottentomatoes.com/m/hedda_2025
@@ -37,7 +37,6 @@
 * https://www.rottentomatoes.com/m/if_i_had_legs_id_kick_you
 * https://www.rottentomatoes.com/m/the_mastermind
 * https://www.rottentomatoes.com/m/die_my_love_2025
-* https://www.rottentomatoes.com/m/blue_moon_2025
 * https://www.france.tv/documentaires/documentaires-societe/7556627-badinter-contre-la-peine-de-mort-le-proces-patrick-henry.html
 * Quiet Life
 * https://www.rottentomatoes.com/m/sorry_baby
@@ -251,14 +250,11 @@
 
 ### 2018
 
-* https://www.rottentomatoes.com/m/eighth_grade
 * https://www.rottentomatoes.com/m/love_simon 87%
 * Rafiki 🇰🇪 73%
 * https://www.rottentomatoes.com/m/cold_war_2018 81%
-* https://www.telerama.fr/cinema/films/long-days-journey-into-night,n5603289.php TTT 🇨🇳
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
 * https://www.telerama.fr/cinema/le-monde-est-a-toi-7027679.php TTT (Romain Gavras)
-* https://www.rottentomatoes.com/m/tully_2018 75%
 * https://www.rottentomatoes.com/m/prospect_2018 73%
 
 

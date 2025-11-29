@@ -202,6 +202,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 2025
 
 * One Battle After Another (Paul Thomas Anderson) ❤️
+* Bugonia (Yórgos Lánthimos) ❤️
 * Warfare (Alex Garland) 🇺🇸
 * Sirāt 🌿
 * Train Dreams
@@ -215,13 +216,13 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Caught Stealing (Darren Aronofsky)
 * A Complete Unknown (James Mangold) #biopic
 * If I Had Legs I'd Kick You
-* bof: The Naked Gun, The Wedding Banquet, Mickey 17, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
+* bof: The Naked Gun, The Wedding Banquet, Mickey 17, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
 Français:
 
 * À bicyclette ! ❤️❤️
 * Amélie et la Métaphysique des tubes ❤️
-* Nouvelle Vague
+* Nouvelle Vague (Richard Linklater)
 * La Chambre de Mariana
 * bof: Un Ours dans le Jura
 
@@ -264,7 +265,7 @@ Français:
 * Joy 🇬🇧
 * Small Things like These (Cillian Murphy) 🇮🇪
 * My Sunshine 🇯🇵
-* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Touch 🇮🇸, Tatami 🇮🇷, Sons (Gustav Möller) 🇩🇰, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
+* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Touch 🇮🇸, Tatami 🇮🇷, Sons (Gustav Möller) 🇩🇰, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, How to Make Millions Before Grandma Dies 🇹🇭, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
 
 Français:
 
@@ -510,6 +511,7 @@ Français:
 * La Saveur des Ramens 🇯🇵🇸🇬
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * Isle of Dogs (Wes Anderson)
+* Long Day's Journey into Night 🇨🇳
 * La Ballade de Buster Scruggs (frères Coen) #western
 * Bohemian Rhapsody (Rami Malek) 4🏆 #biopic
 * Bird Box (Sandra Bullock)
@@ -518,7 +520,7 @@ Français:
 * First Man (Damien Chazelle) #biopic
 * Annihilation (Alex Garland, Natalie Portman) #sf
 * Sorry to Bother You
-* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, Thunder Road, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, The Guilty 🇩🇰, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Ready Player One (Steven Spielberg), All about Nina
+* bof: Une affaire de famille (Shoplifters) (Koreeda) 🇯🇵 🌿, A Star Is Born, Call Me by Your Name (Timothée Chalamet) #coming-of-age, Thunder Road, The Wild Pear Tree 🇹🇷, BlacKkKlansman (Spike Lee) ✊🏾, Eighth Grade, The Guilty 🇩🇰, Woman at War 🇮🇸, City of Lies (Johnny Depp), Les Oiseaux de Passage 🇨🇴, Green Book ✊🏾, Night Comes On ☀️, The Spy Gone North 🇰🇷, Manta Ray, Roma (Alfonso Cuarón) 🇲🇽, Widows (Steve McQueen), Tully, Ready Player One (Steven Spielberg), All about Nina
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -584,7 +586,7 @@ Français:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷
-* bof: Moonlight #coming-of-age, Manchester by the Sea, Paterson, The Neon Demon (Nicolas Winding Refn), Hunt for the Wilderpeople 🇳🇿, Sami Blood 🇸🇪, War Dogs
+* bof: Moonlight #coming-of-age, Manchester by the Sea, Nocturnal Animals, Paterson, The Neon Demon (Nicolas Winding Refn), Hunt for the Wilderpeople 🇳🇿, Sami Blood 🇸🇪, War Dogs
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
