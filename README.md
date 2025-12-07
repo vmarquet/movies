@@ -211,6 +211,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
 * En première ligne 🇨🇭 🏥
+* Jay Kelly
 * Better Man 🇬🇧 #biopic
 * Black Dog 🇨🇳 🌿
 * Caught Stealing (Darren Aronofsky)
@@ -249,6 +250,7 @@ Français:
 * The Return (Ralph Fiennes)
 * Kinds of Kindness (Yórgos Lánthimos)
 * The Room Next Door (Pedro Almodóvar)
+* The Fire Inside 🥊
 * Je suis toujours là 🇧🇷
 * Highway 65 🇮🇱 #thriller
 * Inside Out 2 (Pixar)
@@ -275,13 +277,14 @@ Français:
 * Sur un fil (Reda Kateb) ❤️
 * Première Affaire ❤️
 * En Fanfare
+* L'Attachement
 * Une part manquante (Romain Duris) 🇫🇷🇯🇵
 * Vingt Dieux
 * Le Comte de Monte-Cristo (Pierre Niney)
 * Monsieur Aznavour
 * Les Fantômes
 * Pas de vagues (François Civil) #film-scolaire
-* L'Amour Ouf
+* L'Amour Ouf (Gilles Lellouche)
 * Les Pistolets en plastique
 * bof: Le Roman de Jim, Un p'tit truc en plus
 
@@ -511,7 +514,7 @@ Français:
 * La Saveur des Ramens 🇯🇵🇸🇬
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * Isle of Dogs (Wes Anderson)
-* Long Day's Journey into Night 🇨🇳
+* Long Day's Journey into Night 🇨🇳 🎥
 * La Ballade de Buster Scruggs (frères Coen) #western
 * Bohemian Rhapsody (Rami Malek) 4🏆 #biopic
 * Bird Box (Sandra Bullock)
@@ -616,7 +619,7 @@ Français:
 * Mad Max: Fury Road
 * Taxi Téhéran 🇮🇷
 * Spotlight (Mark Ruffalo) #journalism
-* bof: ~~The Martian~~, ~~A Bigger Splash~~
+* bof: Tangerine (Sean Baker), ~~The Martian~~, ~~A Bigger Splash~~
 
 [Césars 41](https://fr.wikipedia.org/wiki/41e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -632,13 +635,14 @@ Français:
 * Whiplash (Damien Chazelle) ❤️ 🥁 🎼
 * Vampires en toute Intimité (What we do in the Shadows) 🇳🇿 ❤️ #comédie
 * Birdman
-* Gone Girl (Fincher)
+* Gone Girl (David Fincher)
 * Black Coal 🇨🇳 🧸
 * Reality (Quentin Dupieux, Alain Chabat)
 * Inherent Vice (Paul Thomas Anderson, Joaquin Phoenix)
 * Leviathan 🇷🇺
 * Dear White People ☀️ ✊🏾 #satire
     * > ❝ Dear white people, the minimum requirement of black friends needed to not seem racist has just been raised to two. Sorry, but your weed man, Tyrone, does not count. ❞
+* The Normal Heart 🎗️
 * Coming Home (Zhang Yimou) 🇨🇳
 * Noah (Darren Aronofsky, Russell Crowe)
 * The Imitation Game (Benedict Cumberbatch) 🇬🇧 #biopic
@@ -1158,6 +1162,7 @@ Français:
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
+* La Vie Rêvée des Anges ❤️
 * Le Diner de Cons (Francis Veber, Jacques Villeret) #comédie #culte 💙 [📰](https://www.telerama.fr/cinema/films/le-diner-de-cons,43753.php)
 * Taxi #comédie
 
@@ -1395,6 +1400,7 @@ Français:
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
     * > ❝ I came here to chew bubblegum and kick ass... and I'm all out of bubblegum. ❞
+* L'Homme qui voulait savoir 🇳🇱
 * bof: The Unbearable Lightness of Being, Frantic (Roman Polanski, Harrison Ford)
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1753,7 +1759,7 @@ Français:
 
 * Le Deuxième Souffle (Jean-Pierre Melville) [📰](https://www.telerama.fr/cinema/films/le-deuxieme-souffle,17484.php) #policier : pas mauvais mais longuet
 * La Grande Vadrouille (Gérard Oury, Bourvil, de Funès) #comédie #potache
-* bof: Le Roi de Coeur (Philippe de Broca)
+* bof: Un homme et une femme (Claude Lelouch) 🌿 🏆, Le Roi de Coeur (Philippe de Broca)
 
 
 ### 1965
@@ -1993,11 +1999,11 @@ Français:
 * Oddity (2024) ❤️
 * Heretic (2024) ❤️
 * Nosferatu (2024, Robert Eggers) : esthétique sympa mais narration ratée
-* Weapons (2025)
+* Heart Eyes (2025) : bon humour
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
-* bof: Don't Breathe (2016), Tumbbad (2018) 🇮🇳, Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Pearl (2022), Vermines (2023), Succubus (2024), Marshmallow (2025)
+* bof: Don't Breathe (2016), Tumbbad (2018) 🇮🇳, Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Pearl (2022), Vermines (2023), Succubus (2024), Marshmallow (2025), Weapons (2025)
 
 
 

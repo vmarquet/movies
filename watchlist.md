@@ -19,12 +19,18 @@
 
 ### 2025
 
+* https://www.bbc.com/culture/article/20250423-the-best-films-of-2025
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
+* https://archive.is/XmCZt NYT best films 2025
+* https://www.rottentomatoes.com/m/marty_supreme 90+
+* https://www.rottentomatoes.com/m/hamnet 90+
 * Dossier 137 +++
 * Un simple accident (Iran)
 * https://www.rottentomatoes.com/m/rental_family 95
 * https://www.rottentomatoes.com/m/a_little_prayer 93
+* https://www.rottentomatoes.com/m/sarahs_oil
 * https://www.rottentomatoes.com/m/left_handed_girl
+* https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/islands_2025
 * https://www.rottentomatoes.com/m/ne_zha_ii chine
@@ -46,11 +52,9 @@
 * https://www.rottentomatoes.com/m/resurrection_2025 #sf 🇨🇳
 * https://www.rottentomatoes.com/m/a_useful_ghost
 * https://www.rottentomatoes.com/m/hard_truths 95%-82
-* https://www.rottentomatoes.com/m/the_fire_inside 96% #biopic
 * https://www.rottentomatoes.com/m/black_bag 90-70
 * Hiver à Sokcho (3.9)
 * https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
-* L’Attachement (4.2)
 * On ira (4.3)
 * https://www.rottentomatoes.com/m/the_ballad_of_wallis_island 90+
 * https://www.rottentomatoes.com/m/sovereign
@@ -64,7 +68,6 @@
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=294235.html Vermiglio ou La Mariée des Montagnes
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=289215.html On Ira
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=317103.html Zion
-* https://www.allocine.fr/film/fichefilm_gen_cfilm=328520.html Comment devenir riche (grâce à sa grand-mère) 
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=277067.html Lumière l'aventure continue
 * https://www.lemonde.fr/culture/article/2025/04/23/the-gazer-thriller-fievreux-de-ryan-j-sloan_6235095_3247.html
 * https://www.lemonde.fr/culture/article/2025/04/23/dans-simon-de-la-montana-un-jeune-argentin-au-defi-des-normes_6599237_3246.html
@@ -294,7 +297,6 @@
 ### 2014
 
 * https://www.rottentomatoes.com/m/wild_2014 75%
-* https://www.rottentomatoes.com/m/the_normal_heart 88% 🎗️
 * https://www.rottentomatoes.com/m/foxcatcher 66%
 * https://www.telerama.fr/cinema/films/une-nouvelle-annee,510621.php 🇷🇺
 * Selma ✊🏾
@@ -312,7 +314,7 @@
 ### 2012
 
 * Les Adieux à la reine
-* https://www.rottentomatoes.com/m/electrick_children
+* https://www.rottentomatoes.com/m/electrick_children 88-72
 * Frances Ha - 78%
 
 
@@ -434,7 +436,6 @@
 * https://www.rottentomatoes.com/m/gods_and_monsters 82%
 * https://www.telerama.fr/cinema/films/place-vendome,45583.php
 * https://www.rottentomatoes.com/m/1083436-1083436-out_of_sight (Steven Soderbergh) 74%
-* La vie rêvée des Anges https://www.rottentomatoes.com/m/the_dreamlife_of_angels 84%
 * https://www.rottentomatoes.com/m/solomon-gaenor 70%
 
 
@@ -509,7 +510,6 @@
 
 ### 1988
 
-* https://www.rottentomatoes.com/m/the_vanishing 88%
 * https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹 91%
 * https://www.rottentomatoes.com/m/midnight_run 87%
 * https://www.rottentomatoes.com/m/the_beast_1988 84%
@@ -693,7 +693,6 @@
 * https://www.rottentomatoes.com/m/the_damned_2024
 * https://www.rottentomatoes.com/m/the_love_witch 95%c 65%
 * https://www.rottentomatoes.com/m/the_ugly_stepsister 96%c 90%
-* https://www.rottentomatoes.com/m/heart_eyes
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/

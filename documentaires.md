@@ -57,4 +57,5 @@ Documentaires
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php TTT 🇷🇺
 * https://www.rottentomatoes.com/m/dahomey 🇧🇯 99%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=316222.html Ernest Cole, Photographe (4.0)
+* https://www.rottentomatoes.com/m/the_perfect_neighbor_2025
 

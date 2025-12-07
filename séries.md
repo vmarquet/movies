@@ -130,6 +130,7 @@
 * https://www.rottentomatoes.com/tv/somebody_somewhere/s01
 * https://www.rottentomatoes.com/tv/interior_chinatown/s01
 * https://www.rottentomatoes.com/tv/say_nothing/s01
+* https://archive.is/MyCkY NYT best TV shows of 2025
 
 
 
