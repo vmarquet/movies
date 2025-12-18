@@ -204,7 +204,6 @@
 * https://www.rottentomatoes.com/m/joyland_2022 🇵🇰 71%
 * https://www.rottentomatoes.com/m/charcoal
 * https://www.rottentomatoes.com/m/prasini_thalassa 🇬🇷
-* Broker (Koreeda) 🇰🇷
 * Aftersun
 * Shut In - 50/93
 
@@ -471,7 +470,6 @@
 
 ### 1993
 
-* https://www.rottentomatoes.com/m/1046151-fearless 80% ++
 * https://www.telerama.fr/cinema/films/journal-intime,31681.php (Nanni Moretti)
 * https://www.telerama.fr/cinema/films/no-smoking,29537.php
 * https://www.rottentomatoes.com/m/bronx_tale 93%
@@ -525,7 +523,6 @@
 
 ### 1986
 
-* https://www.rottentomatoes.com/m/better_tomorrow 90% (John Woo)
 * https://www.rottentomatoes.com/m/1014027-mission (Roland Joffé) 🌿
 * https://www.rottentomatoes.com/m/labyrinth 77%
 * https://www.rottentomatoes.com/m/hoosiers 88% 🏀
@@ -533,7 +530,6 @@
 
 ### 1985
 
-* Papa est en voyage d'affaires (Emir Kusturica) 🇷🇸 🌿
 * https://www.rottentomatoes.com/m/my_beautiful_laundrette 74%
 * https://www.rottentomatoes.com/m/real_genius 77%
 * https://www.rottentomatoes.com/m/1002213-better_off_dead 77%
@@ -543,6 +539,7 @@
 
 ### 1984
 
+* Spinal tap
 * https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
 * https://www.rottentomatoes.com/m/birdy 83%
 * https://www.rottentomatoes.com/m/repo_man 78%
@@ -585,7 +582,6 @@
 
 ### 1977
 
-* https://www.rottentomatoes.com/m/stroszek ++
 * Eraserhead (David Lynch)
 * Annie Hall (Woody Allen)
 * Saturday Night Fever (John Travolta)

@@ -216,6 +216,9 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Black Dog 🇨🇳 🌿
 * Caught Stealing (Darren Aronofsky)
 * A Complete Unknown (James Mangold) #biopic
+* Wake Up Dead Man
+    * > ❝ - A priest is a shepherd. The world is a wolf.
+    * > &emsp; \- You start fighting wolves, and before you know it, everyone you don't understand is a wolf. ❞
 * If I Had Legs I'd Kick You
 * bof: The Naked Gun, The Wedding Banquet, Mickey 17, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
@@ -395,7 +398,7 @@ Français:
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #famille
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, Sanctuary, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
+    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, Broker (Koreeda) 🇰🇷, Sanctuary, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -563,6 +566,7 @@ Français:
 * La Douleur 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/la-douleur,516794.php)
 * Ava ❤️ [📰](https://www.telerama.fr/cinema/ava-de-lea-mysius-un-premier-film-enthousiasmant-et-solaire,159849.php)
 * Grave
+* Jusqu'à la garde
 * Patients
 * Petit Paysan
 * bof: Le Brio (Daniel Auteuil), Le Sens de la fête (Olivier Nakache & Éric Toledano, Jean-Pierre Bacri), L'échange des princesses, Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
@@ -1300,6 +1304,7 @@ Français:
 * Beaucoup de Bruit pour rien (Kenneth Brannagh) 🇬🇧
 * In the Name of the Father (Daniel Day-Lewis) 🇮🇪🇬🇧
 * The Nightmare before Christmas (Tim Burton)
+* Fearless (Peter Weir)
 * Un Jour sans Fin (Bill Murray) #film-à-énigme
 * Belle Époque 🇪🇸 🏆 (meilleur film étranger, 9 goyas)
 * Etat Second (Peter Weir)
@@ -1441,6 +1446,7 @@ Français:
 * 'Round Midnight (Bertrand Tavernier) 🎷 #jazz : belle musique mais pas vraiment d'histoire
 * The Fly (David Cronenberg) 🪰 #nanar #so-bad-its-good
 * Down by Law (Jim Jarmusch)
+* Le Syndicat du crime (John Woo) 🇭🇰
 * Top Gun (Tom Cruise)
 * bof: Blue Velvet (David Lynch)
 
@@ -1462,6 +1468,7 @@ Français:
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie #coming-of-age
 * Requiem pour un massacre 🇧🇾🇷🇺 #ww2 : belle mise en scène et belle musique mais scénario vieilli qui manque de rythme
+* Papa est en voyage d'affaires (Emir Kusturica) 🇷🇸 🌿
 * Tampopo 🇯🇵
 * bof: Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
 
@@ -1601,7 +1608,7 @@ Français:
 * The Duellists (Ridley Scott)
 * Sorcerer : première moitiée longuette mais épique ensuite
 * The Gauntlet (Clint Eastwood) : policier sans prétention mais quelques scènes mémorables
-* bof: Opening Night, House 🇯🇵
+* bof: Stroszek (Werner Herzog) 🇩🇪, Opening Night, House 🇯🇵
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
