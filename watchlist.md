@@ -19,6 +19,7 @@
 
 ### 2025
 
+* https://www.rottentomatoes.com/m/the_housemaid_2025 "wildly entertaining thriller"
 * https://www.bbc.com/culture/article/20250423-the-best-films-of-2025
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * https://archive.is/XmCZt NYT best films 2025
@@ -173,7 +174,6 @@
 * https://www.rottentomatoes.com/m/limbo_2023 67% #crime
 * https://www.rottentomatoes.com/m/inside_the_yellow_cocoon_shell
 * https://www.rottentomatoes.com/m/slow 80%
-* https://www.rottentomatoes.com/m/uproar 90%
 * https://www.telerama.fr/cinema/un-metier-serieux-thomas-lilti-doit-il-revoir-sa-copie_cri-7028405.php #film-scolaire
 * https://www.rottentomatoes.com/m/la_chimera 74%
 * https://www.rottentomatoes.com/m/beau_is_afraid 71% (3.2)
@@ -501,6 +501,7 @@
 
 ### 1989
 
+* https://www.rottentomatoes.com/m/when_harry_met_sally 90+ +++
 * https://fr.wikipedia.org/wiki/Le_Temps_des_Gitans
 * https://en.wikipedia.org/wiki/Dekalog
 * https://vodkaster.telerama.fr/films/la-captive-du-desert/7842
@@ -517,7 +518,6 @@
 
 * https://www.telerama.fr/cinema/films/tandem,9962.php (Patrice Leconte)
 * https://www.rottentomatoes.com/m/raising_arizona (frères Coen) 85%
-* https://www.rottentomatoes.com/m/princess_bride #famille #aventure
 * Un zoo la nuit https://www.cinematheque.qc.ca/fr/cinema/un-zoo-la-nuit/
 
 
@@ -591,7 +591,6 @@
 
 ### 1976
 
-* https://www.rottentomatoes.com/m/chess_of_the_wind 🇮🇷 89%
 * https://www.rottentomatoes.com/m/all_the_presidents_men 92%
 
 
@@ -603,7 +602,6 @@
 
 ### 1974
 
-* Parfum de femme 🇮🇹 https://www.rottentomatoes.com/m/1053614-scent_of_a_woman 84%
 * https://www.telerama.fr/cinema/films/l-horloger-de-saint-paul,24247.php (Bertrand Tavernier)
 
 

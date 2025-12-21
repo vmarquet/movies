@@ -312,14 +312,15 @@ Français:
 * The Promised Land (Mads Mikkelsen) 🇩🇰
 * Les Meutes 🇲🇦 🌿 [📰](https://www.telerama.fr/cinema/les-meutes-un-choc-rejouissant-dans-les-bas-fonds-de-casablanca-7027372.php)
 * Un hiver à Yanji 🇨🇳
+* Reality
 * Io Capitano 🇸🇳🇮🇹
 * Le Moine et le fusil 🇧🇹
 * El Agua 🇪🇸 [📰](https://www.telerama.fr/cinema/films/el-agua-1-214983075.php) [📰](https://www.lemonde.fr/m-le-mag/article/2023/02/28/dans-el-agua-la-revelation-d-une-actrice_6163617_4500055.html)
 * Le mal n'existe pas (Ryūsuke Hamaguchi) 🇯🇵 [📰](https://www.telerama.fr/cinema/le-mal-n-existe-pas-de-ryusuke-hamaguchi-western-ecolo-d-une-beaute-saisissante_cri-7032077.php)
-* Polite Society 🇬🇧 #coming-of-age
 * How to have sex #coming-of-age (prix Un Certain Regard 🌿) <span title="❝ Intelligent et émouvant, le premier long métrage de Molly Manning Walker pose un regard empathique sur sa jeune héroïne flouée. [...] Mais How to Have Sex s’impose aussi comme une œuvre très actuelle, qui pose sur les mœurs juvéniles un regard critique et fait utilement retentir le signal d’alarme. ❞ (Télérama)">💡</span> : subtil film qui n'explique pas mais se contente de montrer pour provoquer la réflexion
+* Polite Society 🇬🇧 #coming-of-age
 * Poor Things (Yórgos Lánthimos) <span title="❝ The unthinkable happened to the last film Yorgos Lanthimos directed: it became a hit. The highly eccentric and challenging moviemaker went from years in the indie film trenches to something sellable with 2018’s “The Favourite,” which didn’t dilute his love of mischief and the macabre. He connected with viewers in a new way, giving his career a marketplace and financial boost, and Lanthimos chooses to cash in with “Poor Things”. ❞">💡</span>
-* Reality
+* Uproar 🇳🇿 #coming-of-age
 * LaRoy, Texas
 * All of us Strangers 🇬🇧
 * Les Colons 🇨🇱
@@ -1035,6 +1036,7 @@ Français:
 * Memories of Murder (Bong Joon-ho) 🇰🇷 [💡](https://www.youtube.com/watch?v=v4seDVfgwOg)
 * Open Range (Kevin Costner) #western
 * Le Maître du jeu (Runaway Jury)
+* Destino (Disney, Dalí)
 * The Station Agent (Peter Dinklage) ☀️🎭
 * Save the Green Planet! 🇰🇷 : esthétique sympa mais scénario nanar
 * Dogville (Lars Von Trier, Nicole Kidman) : mise en scène originale
@@ -1162,7 +1164,7 @@ Français:
 * Dark City #sf
 * Los amantes del círculo polar 🇪🇸 : inégal
 * The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
-* bof: Pi (Darren Aronofsky), Las Vegas Parano (Terry Gilliam), ~~American History X~~
+* bof: Pi (Darren Aronofsky), Las Vegas Parano (Terry Gilliam), The Interview, ~~American History X~~
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
@@ -1423,6 +1425,9 @@ Français:
 [Oscars 60](https://fr.wikipedia.org/wiki/60e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
 * Full Metal Jacket (Stanley Kubrick) 💙 #film-de-guerre
+* The Princess Bride #famille #fantastique #aventure
+    * > ❝ I hired you to help me start a war. It's a prestigious line of work with a long and glorious tradition. ❞
+    * > ❝ Ahah you fool! You fell victim to one of the classic blunders! The most famous is never get involved in a land war in Asia. ❞
 * Les Ailes du Désir (Wim Wenders) 🇩🇪
 * Le Dernier Empereur (Bernardo Bertolucci) 🏆 ✨ #aventure
 * Cobra Verde (Werner Herzog, Klaus Kinski)
@@ -1490,6 +1495,7 @@ Français:
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
 * The Killing Fields (Roland Joffé) 🇬🇧🇰🇭 #history
 * Terminator (James Cameron) 💙 #sf
+* The NeverEnding Story #fantastique #famille
 * bof: Blood Simple (frères Coen), Paris Texas (Wim Wenders)
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
@@ -1621,6 +1627,7 @@ Français:
 * Le Locataire (Roman Polanski) ❤️ #thriller
 * L'Empire des sens (Nagisa Ōshima) 🇯🇵 🎥 #érotique
 * Marathon Man (Dustin Hoffman, Michael Caine) #thriller
+* bof: L'Échiquier du vent 🇮🇷
 
 [Césars 2](https://fr.wikipedia.org/wiki/2e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1656,6 +1663,7 @@ Français:
 * Conversation Secrète (FF Coppola) #thriller
 * Chinatown (Roman Polanski)
 * Tous les autres s'appellent Ali (Rainer Werner Fassbinder) 🇩🇪
+* Parfum de femme 🇮🇹
 
 Français:
 
@@ -1922,6 +1930,7 @@ Français:
 ### 1940
 
 * Le Dictateur (Charlie Chaplin)
+* Fantasia (Disney)
 
 ### 1933
 
