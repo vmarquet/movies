@@ -277,7 +277,7 @@
 ### 2016
 
 * https://www.rottentomatoes.com/m/krisha_2016 95-77%
-* https://www.telerama.fr/cinema/films/harmonium,509277.php https://www.rottentomatoes.com/m/harmonium TTT 🇯🇵 100-77%
+* https://www.telerama.fr/cinema/films/harmonium,509277.php https://www.rottentomatoes.com/m/harmonium TTT 🇯🇵 100-77% 🌿 un certain regard
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen 83% #coming-of-age
 
@@ -539,7 +539,6 @@
 
 ### 1984
 
-* Spinal tap
 * https://www.telerama.fr/cinema/films/un-dimanche-a-la-campagne,4891.php (Bertrand Tavernier)
 * https://www.rottentomatoes.com/m/birdy 83%
 * https://www.rottentomatoes.com/m/repo_man 78%

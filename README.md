@@ -531,9 +531,9 @@ Français:
 
 [Césars 44](https://fr.wikipedia.org/wiki/44e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Pupille (Jeanne Herry) ❤️
 * Les Frères Sisters (Jacques Audiard) ❤️ 4✨ #western
 * L'Empereur de Paris (Vincent Cassel) ❤️
+* Pupille (Jeanne Herry) ❤️
 * Shéhérazade
 * Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention mais assez mémorable
 * En liberté ! (Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html) #comédie
@@ -1496,7 +1496,7 @@ Français:
 * The Killing Fields (Roland Joffé) 🇬🇧🇰🇭 #history
 * Terminator (James Cameron) 💙 #sf
 * The NeverEnding Story #fantastique #famille
-* bof: Blood Simple (frères Coen), Paris Texas (Wim Wenders)
+* bof: Blood Simple (frères Coen), Paris Texas (Wim Wenders), Spinal Tap
 
 [Césars 10](https://fr.wikipedia.org/wiki/10e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
