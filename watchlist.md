@@ -95,7 +95,6 @@
 * https://www.telerama.fr/cinema/films/jeunesse-1-260491063.php
 * https://www.rottentomatoes.com/m/if_only_i_could_hibernate ?
 * https://www.telerama.fr/cinema/la-fille-de-son-pere-une-comedie-fine-et-fantaisiste_cri-7030330.php TTT
-* https://www.rottentomatoes.com/m/concrete_utopia 76% 🇰🇷 #sf
 * https://www.rottentomatoes.com/m/spaceman_2024 60%
 * https://www.rottentomatoes.com/m/ordinary_angels 84% 99% 3.3
 * https://www.rottentomatoes.com/m/la_chimera 74%
@@ -235,7 +234,6 @@
 * https://www.rottentomatoes.com/m/a_beautiful_day_in_the_neighborhood 92%
 * Le Chant de la forêt TTT 🇧🇷
 * https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
-* https://www.rottentomatoes.com/m/ash_is_purest_white (Les Éternels) 🇨🇳
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
 * https://www.telerama.fr/cinema/films/les-racines-du-monde,n6692233.php TT Les racines du monde 🇲🇳
 * https://www.telerama.fr/cinema/films/les-voleurs-de-chevaux,n6750890.php TTT Les voleurs de chevaux 🇰🇿
@@ -277,7 +275,6 @@
 ### 2016
 
 * https://www.rottentomatoes.com/m/krisha_2016 95-77%
-* https://www.telerama.fr/cinema/films/harmonium,509277.php https://www.rottentomatoes.com/m/harmonium TTT 🇯🇵 100-77% 🌿 un certain regard
 * The Birth of a Nation ☀️
 * https://www.rottentomatoes.com/m/the_edge_of_seventeen 83% #coming-of-age
 
@@ -501,7 +498,6 @@
 
 ### 1989
 
-* https://www.rottentomatoes.com/m/when_harry_met_sally 90+ +++
 * https://fr.wikipedia.org/wiki/Le_Temps_des_Gitans
 * https://en.wikipedia.org/wiki/Dekalog
 * https://vodkaster.telerama.fr/films/la-captive-du-desert/7842

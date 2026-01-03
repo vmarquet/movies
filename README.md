@@ -216,6 +216,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Black Dog 🇨🇳 🌿
 * Caught Stealing (Darren Aronofsky)
 * A Complete Unknown (James Mangold) #biopic
+* Eternity 🍿 #romcom
 * Wake Up Dead Man
     * > ❝ - A priest is a shepherd. The world is a wolf.
     * > &emsp; \- You start fighting wolves, and before you know it, everyone you don't understand is a wolf. ❞
@@ -244,8 +245,8 @@ Français:
 * Santosh 🇮🇳 ❤️
 * A Different Man ❤️
 * The Brutalist ❤️
-* Conclave ❤️
-* Juror #2 (Clint Eastwood)
+* Conclave ❤️ ✞
+* Juror #2 (Clint Eastwood) #film-de-procès
 * The Order (Jude Law) #thriller
 * Wicked 🎵 #fantastique
 * Exhibiting Forgiveness
@@ -331,12 +332,12 @@ Français:
 * Dumb Money (Paul Dano) 💵
 * The Starling Girl
 * I saw the TV glow
-* Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) : intrigue façon policier, très convenu
+* Killers of the Flower Moon (Martin Scorsese, Leonardo DiCaprio) #western : intrigue façon policier, très convenu
 * Hit Man
 * Napoléon (Ridley Scott) : impressionante scène de la bataille de Waterloo, le reste est très superficiel
 * Oppenheimer (Christopher Nolan) : trop long
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
-* The Last Stop in Yuma County
+* The Last Stop in Yuma County #thriller #neowestern
 * One Life 🇬🇧 #history
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
@@ -344,10 +345,11 @@ Français:
 * A Haunting in Venice (Kenneth Branagh) : intrigue pauvre mais style visuel oppressant très réussi
     * > ❝ – Is it not too frightening for the children?  
       > &emsp; – Scary stories make life less scary. ❞ 
-* Sharper : intrigue basique mais très esthétique
+* Sharper 🎥 : intrigue basique mais très esthétique
 * Wonka (Timothée Chalamet)
 * Robot Dreams
 * Daddio (Sean Penn)
+* Concrete Utopia 🇰🇷 #sf
 * bof: The Covenant (Guy Ritchie), Totem 🇲🇽, The Zone of Interest 🇩🇪, Scrapper 🇬🇧 ☀️, Are You There God? It's Me Margaret #coming-of-age, Passages, Saltburn 🇬🇧, May December (Todd Haynes) 🎥, His Three Daughters, The Killer (David Fincher), La Salle des Profs 🇩🇪, Only the River Flows 🇨🇳, Strange Way of Life (Almodóvar), Lost Ladies 🇮🇳, Il Boemo 🇨🇿🇮🇹, The Fabelmans, Bottoms, ~~Il reste encore demain~~ 🇮🇹
 
 [Césars 49](https://fr.wikipedia.org/wiki/49e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -357,7 +359,7 @@ Français:
 * Soudain Seuls (Thomas Bidegain)
 * Mars Express #sf [📰](https://www.telerama.fr/cinema/mars-express-un-cyberpolar-enthousiasmant_cri-7029856.php)
 * Jeanne du Barry (Maïwenn) [📰](https://www.telerama.fr/cinema/films/jeanne-du-barry-1-260155581.php)
-* Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php)
+* Le Procès Goldman [📰](https://www.telerama.fr/cinema/cannes-le-proces-goldman-portrait-cinglant-et-fascinant-d-un-braqueur-revolutionnaire-7015587.php) #film-de-procès
 * Le Théorème de Marguerite [📰](https://www.telerama.fr/cinema/le-theoreme-de-marguerite-equation-reussie-pour-ce-portrait-insolite-d-une-genie-des-maths_cri-7029422.php)
 * Les Trois Mousquetaires #aventure
 * Daaaaaalí ! (Quentin Dupieux)
@@ -489,10 +491,11 @@ Français:
 * Ad Astra (James Gray, Brad Pitt) #sf
 * A Hidden Life (Terrence Malick) 🎥 : mémorable mais longuet
 * La Vie invisible d'Eurídice Gusmão 🇧🇷 🌿
-* The Two Popes
+* The Two Popes ✞
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
+* Ash Is Purest White 🇨🇳
 * bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Arctic (Mads Mikkelsen), Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Mustang, The Farewell, The Peanut Butter Falcon, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -594,7 +597,7 @@ Français:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷
-* bof: Moonlight #coming-of-age, Manchester by the Sea, Nocturnal Animals, Paterson, The Neon Demon (Nicolas Winding Refn), Hunt for the Wilderpeople 🇳🇿, Sami Blood 🇸🇪, War Dogs
+* bof: Moonlight #coming-of-age, Manchester by the Sea, Nocturnal Animals, Paterson, The Neon Demon (Nicolas Winding Refn), Harmonium 🇯🇵 🌿 (un certain regard), Hunt for the Wilderpeople 🇳🇿, Sami Blood 🇸🇪, War Dogs
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -751,7 +754,7 @@ Français:
 * Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
 * Take Shelter (Jeff Nichols)
 * Carnage (Roman Polanski, Christoph Waltz)
-* Habemus Papam (Nanni Moretti) 🇮🇹
+* Habemus Papam (Nanni Moretti) 🇮🇹 ✞
 * Melancholia (Lars von Trier)
 * Bridesmaids
 * The Deep Blue Sea (vu ?)
@@ -799,7 +802,7 @@ Français:
 
 * Le Bruit des glaçons (Bertrand Blier, Jean Dujardin, Albert Dupontel) ❤️ [📰](https://www.telerama.fr/cinema/films/le-bruit-des-gla-ons,414024.php) #comédie
 * Le Nom des Gens (Jacques Gamblin) [📰](https://television.telerama.fr/tele/films/le-nom-des-gens,17204080.php) #comédie
-* Des hommes et des dieux (Xavier Beauvois, Michael Lonsdale) 🎥 [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
+* Des hommes et des dieux (Xavier Beauvois, Michael Lonsdale) 🎥 ✞ [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
 * L'Arnacoeur (Romain Duris) #romcom
 * Tournée (Mathieu Amalric) 🎥
 * La Rafle #ww2
@@ -940,7 +943,7 @@ Français:
 * Blood Diamond
 * Borat
 * Apocalypto (Mel Gibson) : longuet
-* bof: Stranger than fiction (Will Ferrell), Marie Antoinette (Sofia Coppola), Dikkenek 🇧🇪, The Host (Bong Joon-ho) 🇰🇷
+* bof: Stranger than fiction (Will Ferrell), Marie Antoinette (Sofia Coppola), 300, Dikkenek 🇧🇪, The Host (Bong Joon-ho) 🇰🇷
 
 [Césars 32](https://fr.wikipedia.org/wiki/32e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1007,7 +1010,7 @@ Français:
 * Le Secret des Poignards Volants (Zhang Yimou) 🇨🇳
 * La Chute 🇩🇪 #ww2
 * Troie (Brad Pitt)
-* The Passion of the Christ (Mel Gibson) (vu ?)
+* The Passion of the Christ (Mel Gibson) ✞ (vu ?)
 * Collateral (Michael Mann) #thriller
 * Kingdom of Heaven (Ridley Scott)
 * Hellboy (Guillermo del Toro)
@@ -1381,6 +1384,7 @@ Français:
 
 [Oscars 62](https://fr.wikipedia.org/wiki/62e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
+* When Harry Met Sally (Rob Reiner) ❤️ #romcom
 * Sex, Lies and Videotape (Steven Soderbergh)
 * Mystery Train (Jim Jarmusch)
 * Le Cercle des poètes disparus (Peter Weir)
@@ -1402,7 +1406,7 @@ Français:
 * Femmes au bord de la crise de nerfs (Pedro Almodóvar) 🇪🇸
 * Le Tombeau des Lucioles (Isao Takahata, studio Ghibli) 🇯🇵
 * Mississippi Burning (Gene Hackman, William Dafoe) ✊🏾
-* The Last Temptation of Christ (Martin Scorsese, Willem Dafoe)
+* The Last Temptation of Christ (Martin Scorsese, Willem Dafoe) ✞
 * Gorillas in the mist (Sigourney Weaver) : longuet
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
