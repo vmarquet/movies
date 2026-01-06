@@ -489,7 +489,7 @@ Français:
 * Joker (Joaquin Phoenix) ❤️
 * Jojo Rabbit (Taika Waititi) ❤️
 * Booksmart ❤️ #comédie #coming-of-age
-* 1917 (Sam Mendes) 🎥 #film-de-guerre
+* 1917 (Sam Mendes) 🎥 🪖
 * Marriage Story (Scarlett Johansson, Adam Driver)
 * Ad Astra (James Gray, Brad Pitt) #sf
 * A Hidden Life (Terrence Malick) 🎥 : mémorable mais longuet
@@ -520,7 +520,7 @@ Français:
 
 * Come as you are ❤️ ☀️
 * Three Billboards (Martin McDonagh, Frances McDormand) ❤️
-* Dunkirk (Christopher Nolan) #film-de-guerre
+* Dunkirk (Christopher Nolan) 🪖
 * La Saveur des Ramens 🇯🇵🇸🇬
 * The Favourite (Yórgos Lánthimos, Emma Stone)
 * Isle of Dogs (Wes Anderson)
@@ -593,7 +593,7 @@ Français:
 * Better Watch Out 🍿 #film-de-noel
 * Moana (Disney)
 * Toni Erdmann 🇩🇪
-* Hacksaw Ridge (Tu ne tueras point) #film-de-guerre
+* Hacksaw Ridge (Tu ne tueras point) 🪖
 * Una (Rooney Mara)
 * The Red Turtle #famille
 * Hell or High Water
@@ -1169,7 +1169,7 @@ Français:
 * Kirikou et la Sorcière #famille
 * Dark City #sf
 * Los amantes del círculo polar 🇪🇸 : inégal
-* The Thin Red Line (Terrence Malick) #film-de-guerre : longuet, le moins mémorable des films de Malick
+* The Thin Red Line (Terrence Malick) 🪖 : longuet, le moins mémorable des films de Malick
 * bof: Pi (Darren Aronofsky), Las Vegas Parano (Terry Gilliam), The Interview, ~~American History X~~
 
 [Césars 24](https://fr.wikipedia.org/wiki/24e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
@@ -1431,7 +1431,7 @@ Français:
 
 [Oscars 60](https://fr.wikipedia.org/wiki/60e_c%C3%A9r%C3%A9monie_des_Oscars#Palmar%C3%A8s)
 
-* Full Metal Jacket (Stanley Kubrick) 💙 #film-de-guerre
+* Full Metal Jacket (Stanley Kubrick) 💙 🪖
 * The Princess Bride #famille #fantastique #aventure
     * > ❝ I hired you to help me start a war. It's a prestigious line of work with a long and glorious tradition. ❞
     * > ❝ Ahah you fool! You fell victim to one of the classic blunders! The most famous is never get involved in a land war in Asia. ❞
@@ -1440,7 +1440,7 @@ Français:
 * Cobra Verde (Werner Herzog, Klaus Kinski)
 * Les Incorruptibles (Brian de Palma) #policier
 * The Lost Boys #vampires
-* bof: Good Morning Vietnam, Empire of the Sun (Steven Spielberg)
+* bof: Good Morning Vietnam 🪖, Empire of the Sun (Steven Spielberg)
 
 [Césars 13](https://fr.wikipedia.org/wiki/13e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1453,7 +1453,7 @@ Français:
 
 * Le Nom de la Rose (JJ Annaud, Sean Connery, Michael Lonsdale) ✨ ❤️ #thriller
 * Aliens (James Cameron) #sf
-* Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) #film-de-guerre
+* Platoon (Oliver Stone, Charlie Sheen, Christopher Walken) 🪖
 * Ferris Bueller's Day Off #teen-movie
 * 'Round Midnight (Bertrand Tavernier) 🎷 #jazz : belle musique mais pas vraiment d'histoire
 * The Fly (David Cronenberg) 🪰 #nanar #so-bad-its-good
@@ -1590,7 +1590,7 @@ Français:
 
 * All That Jazz (Bob Fosse) 🎥 💃 4🏆 🌿 ❤️
 * Alien (Ridley Scott) ❤️ [💡](https://twitter.com/ATRightMovies/status/1661664750273527810) #sf
-* Apocalypse Now (FF Coppola) 🎥 🌿 ❤️
+* Apocalypse Now (FF Coppola) 🎥 🌿 ❤️ 🪖
 * Kramer contre Kramer (Dustin Hoffman, Meryl Streep) 🏆
 * Le Tambour 🇩🇪 🏆 (meilleur film étranger) 🌿 [📰](https://www.telerama.fr/cinema/films/le-tambour,429135.php)
 * bof: Stalker (Andreï Tarkovski) 🇷🇺 #sf, Being There (Peter Sellers), Mad Max, The Brood (Chromosome 3) (David Cronenberg)
@@ -1605,7 +1605,7 @@ Français:
 ### 1978
 
 * Days of Heaven (Terrence Malick) ❤️
-* The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) 🏆
+* The Deer Hunter (Voyage au Bout de l'Enfer) (Michael Cimino, Robert de Niro, Christopher Walken) 🏆 🪖
 * Midnight Express
 * Nosferatu (Werner Herzog)
 * bof: Grease (John Travolta) 🎵
@@ -1729,7 +1729,7 @@ Français:
 ### 1970
 
 * Deep End 🇬🇧 🎥🎥 ❤️
-* MASH (Robert Altman) #film-de-guerre
+* MASH (Robert Altman) 🪖
 * Little Big Man (Arthur Penn, Dustin Hoffman) #western : longuet
 
 Français:
