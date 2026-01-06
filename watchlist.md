@@ -19,6 +19,7 @@
 
 ### 2025
 
+* https://editorial.rottentomatoes.com/guide/best-new-movies/
 * https://www.rottentomatoes.com/m/the_housemaid_2025 "wildly entertaining thriller"
 * https://www.bbc.com/culture/article/20250423-the-best-films-of-2025
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
@@ -26,7 +27,6 @@
 * https://www.rottentomatoes.com/m/marty_supreme 90+
 * https://www.rottentomatoes.com/m/hamnet 90+
 * Dossier 137 +++
-* Un simple accident (Iran)
 * https://www.rottentomatoes.com/m/rental_family 95
 * https://www.rottentomatoes.com/m/a_little_prayer 93
 * https://www.rottentomatoes.com/m/sarahs_oil
@@ -222,7 +222,6 @@
 
 * True Mothers 🇯🇵 91%
 * https://www.rottentomatoes.com/m/one_night_in_miami ✊🏾 77%
-* https://www.rottentomatoes.com/m/the_macaluso_sisters 🇮🇹 87%
 * https://www.rottentomatoes.com/m/the_way_back_2020 84% Ben Affleck
 * https://www.rottentomatoes.com/m/son_of_monarchs 92%
 * https://www.rottentomatoes.com/m/psych_2_lassie_come_home 85% #comedie
@@ -406,7 +405,6 @@
 
 ### 2000
 
-* https://www.rottentomatoes.com/m/the_annihilation_of_fish_2000 99%
 * https://editorial.rottentomatoes.com/guide/best-movies-2000/
 * https://editorial.rottentomatoes.com/guide/essential-2000s-movies/
 * https://www.rottentomatoes.com/m/1095420-high_fidelity 90%

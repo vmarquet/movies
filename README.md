@@ -206,6 +206,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Warfare (Alex Garland) 🇺🇸
 * Sirāt 🌿
 * Train Dreams
+* Nuremberg
 * One of Them Days #comédie
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
@@ -215,6 +216,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Better Man 🇬🇧 #biopic
 * Black Dog 🇨🇳 🌿
 * Caught Stealing (Darren Aronofsky)
+* Un simple accident (Jafar Panahi) 🇮🇷
 * A Complete Unknown (James Mangold) #biopic
 * Eternity 🍿 #romcom
 * Wake Up Dead Man
@@ -466,6 +468,7 @@ Français:
 * Palm Springs (Andy Samberg) #romcom
 * Words on Bathroom Walls #coming-of-age
 * Possessor (Brandon Cronenberg) ☀️
+* Le sorelle Macaluso 🇮🇹
 * Waiting for the Barbarians (Johnny Depp, Robert Pattinson)
 * bof:
     * Nomadland (Frances McDormand) 🏆 ☀️ : style documentaire sur un sujet déjà abordé longuement dans les médias, on n'apprend rien
@@ -562,7 +565,7 @@ Français:
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis) 🇬🇧
 * Blade Runner 2049 (Denis Villeneuve) #sf
 * Pentagon Papers (Steven Spielberg, Meryl Streep) #journalism
-* bof: Split (James McAvoy), Lady Bird (Greta Gerwig) #coming-of-age, The Meyerowitz Stories, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Okja (Bong Joon-ho) , ~~Le Jeune Karl Marx~~, ~~The Shape of Water (Guillermo del Toro)~~
+* bof: Split (James McAvoy), Lady Bird (Greta Gerwig) #coming-of-age, The Meyerowitz Stories, Valérian et la Cité des mille planètes #sf, The Big Sick, The Disaster Artist, Battle of the Sexes, Okja (Bong Joon-ho) , ~~Le Jeune Karl Marx~~, ~~The Shape of Water (Guillermo del Toro)~~
 
 [Césars 43](https://fr.wikipedia.org/wiki/43e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -1147,7 +1150,7 @@ Français:
 * The Matrix 💙 #sf
 * American Beauty (Sam Mendes, Kevin Spacey) 5🏆
 * The Mummy (Brendan Fraser) #famille
-* bof: Eyes Wide Shut (Kubrick), Sixième Sens (Bruce Willis), The Virgin Suicides (Sofia Coppola), Boys Don't Cry, Mafia Blues, ~~The Green Mile~~
+* bof: Eyes Wide Shut (Kubrick), Sixième Sens (Bruce Willis), The Virgin Suicides (Sofia Coppola), The Annihilation of Fish, Boys Don't Cry, Mafia Blues, ~~The Green Mile~~
 
 [Césars 25](https://fr.wikipedia.org/wiki/25e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
