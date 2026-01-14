@@ -30,7 +30,6 @@
 * https://www.rottentomatoes.com/m/rental_family 95
 * https://www.rottentomatoes.com/m/a_little_prayer 93
 * https://www.rottentomatoes.com/m/sarahs_oil
-* https://www.rottentomatoes.com/m/left_handed_girl
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/islands_2025
@@ -144,7 +143,6 @@
 * La plus précieuse des marchandes (Hazanavicius) 4.2
 * Le Panache (3.9) (José Garcia)
 * Louise Violet (4.0)
-* Les femmes au balcon
 * Prodigieuses (4.0)
 * Le Déluge (film en costume) 2.8
 
@@ -232,7 +230,6 @@
 
 * https://www.rottentomatoes.com/m/a_beautiful_day_in_the_neighborhood 92%
 * Le Chant de la forêt TTT 🇧🇷
-* https://www.telerama.fr/cinema/films/le-lac-aux-oies-sauvages,n6226139.php TTT 🇨🇳
 * https://www.telerama.fr/cinema/films/a-dark-dark-man,n6619061.php 🇰🇿
 * https://www.telerama.fr/cinema/films/les-racines-du-monde,n6692233.php TT Les racines du monde 🇲🇳
 * https://www.telerama.fr/cinema/films/les-voleurs-de-chevaux,n6750890.php TTT Les voleurs de chevaux 🇰🇿
@@ -395,6 +392,7 @@
 ### 2001
 
 * A Beautiful Mind 🏆
+* https://www.rottentomatoes.com/m/piano_teacher 90+
 * https://www.rottentomatoes.com/m/waking_life 81%
 * https://www.rottentomatoes.com/m/son_of_the_bride 86%
 * https://www.rottentomatoes.com/m/1106648-lie (Paul Dano)

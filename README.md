@@ -212,18 +212,19 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
 * En première ligne 🇨🇭 🏥
+* Black Dog 🇨🇳 🌿
+* Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
 * Jay Kelly
 * Better Man 🇬🇧 #biopic
-* Black Dog 🇨🇳 🌿
 * Caught Stealing (Darren Aronofsky)
-* Un simple accident (Jafar Panahi) 🇮🇷
+* Un simple accident (Jafar Panahi) 🇮🇷 🌿
 * A Complete Unknown (James Mangold) #biopic
 * Eternity 🍿 #romcom
 * Wake Up Dead Man
     * > ❝ - A priest is a shepherd. The world is a wolf.
     * > &emsp; \- You start fighting wolves, and before you know it, everyone you don't understand is a wolf. ❞
 * If I Had Legs I'd Kick You
-* bof: The Naked Gun, The Wedding Banquet, Mickey 17, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
+* bof: Left-Handed Girl 🇹🇼, The Naked Gun, The Wedding Banquet, Mickey 17, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
 Français:
 
@@ -499,6 +500,7 @@ Français:
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
 * Dark Waters (Todd Haynes, Mark Ruffalo)
 * Ash Is Purest White 🇨🇳
+* Le Lac aux oies sauvages 🇨🇳
 * bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Arctic (Mads Mikkelsen), Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Mustang, The Farewell, The Peanut Butter Falcon, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -542,6 +544,7 @@ Français:
 * Pupille (Jeanne Herry) ❤️
 * Shéhérazade
 * Le Grand Bain (Gilles Lellouche) : comédie "feel good" sans prétention mais assez mémorable
+* Les Chatouilles
 * En liberté ! (Adèle Haenel) [📰](https://www.lemonde.fr/festival-de-cannes/article/2018/05/15/cannes-2018-en-liberte-le-burlesque-macabre-et-doux-de-pierre-salvadori_5299072_766360.html) #comédie
 * Mademoiselle de Joncquières (Emmanuel Mouret) : comédie dramatique romantique, sympa mais pas inoubliable
 * Le Retour du héros (Jean Dujardin, Mélanie Laurent) : comédie sympa sans prétention
@@ -1414,6 +1417,7 @@ Français:
 * Beetlejuice (Tim Burton)
 * They Live (John Carpenter) 💙
     * > ❝ I came here to chew bubblegum and kick ass... and I'm all out of bubblegum. ❞
+* Les Aventures du baron de Münchausen (Terry Gilliam)
 * L'Homme qui voulait savoir 🇳🇱
 * bof: The Unbearable Lightness of Being, Frantic (Roman Polanski, Harrison Ford)
 
