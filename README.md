@@ -211,8 +211,10 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
+* Rental Family 🇯🇵
 * En première ligne 🇨🇭 🏥
 * Black Dog 🇨🇳 🌿
+* Sarah's Oil
 * Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
 * Jay Kelly
 * Better Man 🇬🇧 #biopic
@@ -391,6 +393,7 @@ Français:
 * Triangle of Sadness (Ruben Östlund) 🌿 [📰](https://www.telerama.fr/cinema/films/sans-filtre-1-213225533.php) #satire
 * As Bestas 🇪🇸 : "un thriller à l’hyperréalisme terrifiant" (télérama)
 * Small, Slow But Steady (La Beauté du Geste) 🇯🇵
+* Aftersun
 * Living 🇬🇧
 * La Femme de Tchaikovski 🇷🇺 [📰](https://www.telerama.fr/cinema/films/la-femme-de-tchaikovski-1-217335282.php)
 * Meurtres sans ordonnance (The Good Nurse)
@@ -1378,7 +1381,7 @@ Français:
 * King of New York (Abel Ferrara, Christopher Walken) 🎥 #policier : mon rôle préféré de Christopher Walken
 * Sailor et Lula (Wild at Heart) (David Lynch, Nicolas Cage, Laura Dern)
 * Miller's Crossing (frères Coen)
-* bof: Total Recall, Pretty Woman
+* bof: Total Recall, Pretty Woman, Awakenings (L'Éveil)
 
 [Césars 16](https://fr.wikipedia.org/wiki/16e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1625,6 +1628,7 @@ Français:
 * The Duellists (Ridley Scott)
 * Sorcerer : première moitiée longuette mais épique ensuite
 * The Gauntlet (Clint Eastwood) : policier sans prétention mais quelques scènes mémorables
+* Eraserhead (David Lynch)
 * bof: Stroszek (Werner Herzog) 🇩🇪, Opening Night, House 🇯🇵
 
 [Césars 3](https://fr.wikipedia.org/wiki/3e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)

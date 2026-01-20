@@ -20,16 +20,14 @@
 ### 2025
 
 * https://editorial.rottentomatoes.com/guide/best-new-movies/
-* https://www.rottentomatoes.com/m/the_housemaid_2025 "wildly entertaining thriller"
 * https://www.bbc.com/culture/article/20250423-the-best-films-of-2025
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * https://archive.is/XmCZt NYT best films 2025
+* https://www.rottentomatoes.com/m/the_housemaid_2025 "wildly entertaining thriller"
 * https://www.rottentomatoes.com/m/marty_supreme 90+
 * https://www.rottentomatoes.com/m/hamnet 90+
 * Dossier 137 +++
-* https://www.rottentomatoes.com/m/rental_family 95
 * https://www.rottentomatoes.com/m/a_little_prayer 93
-* https://www.rottentomatoes.com/m/sarahs_oil
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/islands_2025
@@ -201,7 +199,6 @@
 * https://www.rottentomatoes.com/m/joyland_2022 🇵🇰 71%
 * https://www.rottentomatoes.com/m/charcoal
 * https://www.rottentomatoes.com/m/prasini_thalassa 🇬🇷
-* Aftersun
 * Shut In - 50/93
 
 
@@ -487,11 +484,6 @@
 * https://www.telerama.fr/cinema/films/epouses-et-concubines,8965.php (Zhang Yimou) 🇨🇳
 
 
-### 1990
-
-* https://www.rottentomatoes.com/m/1032970-awakenings ++ 81%
-
-
 ### 1989
 
 * https://fr.wikipedia.org/wiki/Le_Temps_des_Gitans
@@ -573,7 +565,6 @@
 
 ### 1977
 
-* Eraserhead (David Lynch)
 * Annie Hall (Woody Allen)
 * Saturday Night Fever (John Travolta)
 * https://www.rottentomatoes.com/m/1017818-rolling_thunder 77%
