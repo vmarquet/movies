@@ -31,7 +31,6 @@
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/islands_2025
-* https://www.rottentomatoes.com/m/ne_zha_ii chine
 * https://www.rottentomatoes.com/m/hedda_2025
 * https://www.rottentomatoes.com/m/good_boy_2025
 * https://www.rottentomatoes.com/m/nobody_2
@@ -79,7 +78,6 @@
 
 ### 2024
 
-* https://www.rottentomatoes.com/m/when_the_light_breaks 97% iceland
 * https://www.rottentomatoes.com/m/day_of_the_fight_2023
 * https://www.rottentomatoes.com/m/the_apprentice
 * https://www.telerama.fr/cinema/mostra-de-venise-2024-que-vaut-leurs-enfants-apres-eux-l-adaptation-du-prix-goncourt-de-nicolas-mathieu-7021937.php TTT
@@ -140,7 +138,6 @@
 * La vallée des fous (Xavier Beauvois) 3.7
 * La plus précieuse des marchandes (Hazanavicius) 4.2
 * Le Panache (3.9) (José Garcia)
-* Louise Violet (4.0)
 * Prodigieuses (4.0)
 * Le Déluge (film en costume) 2.8
 

@@ -282,9 +282,10 @@ Français:
 
 * L’Histoire de Souleymane ❤️ 🌿
 * La Récréation de juillet ❤️
+* Louise Violet ❤️
 * La Pampa ❤️
-* Sur un fil (Reda Kateb) ❤️
 * Première Affaire ❤️
+* Sur un fil (Reda Kateb) ❤️
 * En Fanfare
 * L'Attachement
 * Une part manquante (Romain Duris) 🇫🇷🇯🇵
@@ -504,6 +505,7 @@ Français:
 * Dark Waters (Todd Haynes, Mark Ruffalo)
 * Ash Is Purest White 🇨🇳
 * Le Lac aux oies sauvages 🇨🇳
+* Ne Zha 🇨🇳 #famille
 * bof: Parasite (Bong Joon-ho) 🇰🇷 4🏆 🌿, Arctic (Mads Mikkelsen), Sorry We Missed You (Ken Loach) 🇬🇧, Little Women (Greta Gerwig), The Gangster The Cop The Devil 🇰🇷 #thriller, Once Upon a Time in Hollywood (Tarentino), The Death of Dick Long, Uncut Gems, Òlòtūré 🇳🇬, First Love (Takashi Miike) 🇯🇵, The Mustang, The Farewell, The Peanut Butter Falcon, ~~Le Miracle de la cellule 7 (7. Koğuştaki Mucize)~~ 🇹🇷
 
 [Césars 45](https://fr.wikipedia.org/wiki/45e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
