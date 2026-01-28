@@ -216,6 +216,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Black Dog 🇨🇳 🌿
 * Sarah's Oil
 * Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
+* Merrily we roll along 🎵
 * Jay Kelly
 * Better Man 🇬🇧 #biopic
 * Caught Stealing (Darren Aronofsky)
@@ -232,9 +233,10 @@ Français:
 
 * À bicyclette ! ❤️❤️
 * Amélie et la Métaphysique des tubes ❤️
+* Dossier 137 ❤️
 * Nouvelle Vague (Richard Linklater)
 * La Chambre de Mariana
-* bof: Un Ours dans le Jura
+* bof: Jeunes mères, Un Ours dans le Jura
 
 
 ### 2024
@@ -288,6 +290,7 @@ Français:
 * Sur un fil (Reda Kateb) ❤️
 * En Fanfare
 * L'Attachement
+* Le Royaume
 * Une part manquante (Romain Duris) 🇫🇷🇯🇵
 * Vingt Dieux
 * Le Comte de Monte-Cristo (Pierre Niney)
@@ -423,7 +426,7 @@ Français:
 * L'Astronaute [📰](https://www.telerama.fr/cinema/films/l-astronaute-1-218245043.php) : la fin vend le film, sinon c'est un peu vide
 * Notre-Dame brûle (JJ Annaud)
 * bof:
-    * La Voie royale, Novembre, En Corps (Klapisch), Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires 🌿, ~~Fumer fait tousser (Quentin Dupieux)~~
+    * La Voie royale, Novembre, En Corps (Klapisch), La Syndicaliste, Coupez ! (Michel Hazanavicius), La Montagne, Pacifiction - tourment sur les îles, Les Pires 🌿, ~~Fumer fait tousser (Quentin Dupieux)~~
     * Athena (Romain Gavras) : quelques plans iconiques pour un scénario très vide
 
 
@@ -502,6 +505,7 @@ Français:
 * The Two Popes ✞
 * Le Roi (Timothée Chalamet)
 * White Boy Rick (Matthew McConaughey) [📰](https://www.telerama.fr/cinema/films/white-boy-rick,n5091865.php)
+* Driveways
 * Dark Waters (Todd Haynes, Mark Ruffalo)
 * Ash Is Purest White 🇨🇳
 * Le Lac aux oies sauvages 🇨🇳
@@ -533,6 +537,7 @@ Français:
 * Isle of Dogs (Wes Anderson)
 * Long Day's Journey into Night 🇨🇳 🎥
 * La Ballade de Buster Scruggs (frères Coen) #western
+* Love, Simon #coming-of-age
 * Bohemian Rhapsody (Rami Malek) 4🏆 #biopic
 * Bird Box (Sandra Bullock)
 * Capernaum (Capharnaüm) 🇱🇧 🏆
@@ -636,7 +641,7 @@ Français:
 * Manifesto (Cate Blanchett)
 * Il est de retour 🇩🇪 #satire
 * Mad Max: Fury Road
-* Taxi Téhéran 🇮🇷
+* Taxi Téhéran (Jafar Panahi) 🇮🇷
 * Spotlight (Mark Ruffalo) #journalism
 * bof: Tangerine (Sean Baker), ~~The Martian~~, ~~A Bigger Splash~~
 

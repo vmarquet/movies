@@ -26,7 +26,6 @@
 * https://www.rottentomatoes.com/m/the_housemaid_2025 "wildly entertaining thriller"
 * https://www.rottentomatoes.com/m/marty_supreme 90+
 * https://www.rottentomatoes.com/m/hamnet 90+
-* Dossier 137 +++
 * https://www.rottentomatoes.com/m/a_little_prayer 93
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
@@ -133,12 +132,11 @@
 * https://www.rottentomatoes.com/m/unstoppable_2024_2 76-89% #sport #biopic
 * https://www.rottentomatoes.com/m/meanwhile_on_earth_2024 81%
 * https://www.telerama.fr/cinema/leurs-enfants-apres-eux-paul-kircher-formidable-dans-cette-adaptation-reussie-du-roman-de-nicolas-mathieu_cri-7035728.php TTT 3.6
-* Le Royaume (Corse) (allocine 4.1)
 * En tongs au pied de l'Himalaya 3.9
 * La vallée des fous (Xavier Beauvois) 3.7
 * La plus précieuse des marchandes (Hazanavicius) 4.2
-* Le Panache (3.9) (José Garcia)
-* Prodigieuses (4.0)
+* Le Panache (2.8 3.6) (José Garcia)
+* Prodigieuses (2.8 3.8)
 * Le Déluge (film en costume) 2.8
 
 
@@ -231,7 +229,6 @@
 * https://www.rottentomatoes.com/m/togo_2019 (Disney, Willem Dafoe)
 * La odisea de los giles (Heroic Losers) 🇦🇷 https://www.rottentomatoes.com/m/heroic_losers
 * https://www.rottentomatoes.com/m/babyteeth 84%
-* https://www.rottentomatoes.com/m/driveways 99-84%
 * https://www.rottentomatoes.com/m/first_cow 96-65%
 * Mr Jones (L'ombre de Staline) #history
 * https://www.rottentomatoes.com/m/rocketman_2019 88% #biopic #lgbt
@@ -240,7 +237,6 @@
 
 ### 2018
 
-* https://www.rottentomatoes.com/m/love_simon 87%
 * Rafiki 🇰🇪 73%
 * https://www.rottentomatoes.com/m/cold_war_2018 81%
 * https://www.telerama.fr/cinema/films/las-herederas,n5687220.php 🇵🇾
