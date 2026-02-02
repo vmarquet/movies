@@ -13,6 +13,7 @@ Littérature
 * La métamorphose (Franz Kafka, 1912)
 * Voyage au bout de la nuit (1932) ❤️
 * La machine infernale (Jean Cocteau, 1932)
+* Terre des hommes (Saint-Exupéry, 1939)
 * Le désert des Tartares (1940)
 * L'étranger (Albert Camus, 1942)
 * Le Petit Prince (1943)
