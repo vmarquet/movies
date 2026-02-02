@@ -211,6 +211,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
+* Hamnet
 * Rental Family 🇯🇵
 * En première ligne 🇨🇭 🏥
 * Black Dog 🇨🇳 🌿

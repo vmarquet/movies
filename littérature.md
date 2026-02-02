@@ -18,6 +18,7 @@ Littérature
 * Le Petit Prince (1943)
 * Ravage (1943) #sf
 * Antigone (Jean Anouilh, 1944) ❤️
+* La Ferme des animaux (George Orwell, 1945)
 * L'écume des jours (1947)
 * Exercices de style (1947) ❤️
 * Chroniques Martiennes (1950), Farenheit 451 (1953) (Ray Bradbury) #sf
