@@ -42,6 +42,11 @@ Documentaires
 * La panthère des neiges (2021)
 
 
+### cours
+
+* [Stanford | Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D)
+
+
 ### watchlist
 
 * https://editorial.rottentomatoes.com/article/10-must-watch-documentaries-2024/
@@ -55,7 +60,6 @@ Documentaires
 * Au boulot ! (François Ruffin)
 * https://www.rottentomatoes.com/m/sugarcane
 * https://www.telerama.fr/cinema/how-to-save-a-dead-friend-7026838.php TTT 🇷🇺
-* https://www.rottentomatoes.com/m/dahomey 🇧🇯 99%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=316222.html Ernest Cole, Photographe (4.0)
 * https://www.rottentomatoes.com/m/the_perfect_neighbor_2025
 

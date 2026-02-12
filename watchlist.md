@@ -20,6 +20,7 @@
 ### 2026
 
 * NYT Sundance https://archive.is/T4rrt
+* https://www.rottentomatoes.com/m/is_this_thing_on 80+
 
 
 ### 2025
@@ -28,8 +29,7 @@
 * https://www.bbc.com/culture/article/20250423-the-best-films-of-2025
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * https://archive.is/XmCZt NYT best films 2025
-* https://www.rottentomatoes.com/m/the_housemaid_2025 "wildly entertaining thriller"
-* https://www.rottentomatoes.com/m/marty_supreme 90+
+* https://www.rottentomatoes.com/m/kokuho japan
 * https://www.rottentomatoes.com/m/a_little_prayer 93
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger

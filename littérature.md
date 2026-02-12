@@ -35,6 +35,7 @@ Littérature
 * Balzac et la petite tailleuse chinoise (Dai Sijie, 2000)
 * La grammaire est une chanson douce (Erik Orsenna, 2001)
 * En finir avec Eddy Bellegueule (Édouard Louis, 2014) ❤️
+* Harry Potter and the Methods of Rationality (2010-2015) (hpmor.com)
 
 [Les 100 meilleurs livres du 20e siècle](https://fr.m.wikipedia.org/wiki/Les_cent_livres_du_siècle)
 
@@ -56,4 +57,9 @@ bof:
 
 * https://scp-wiki.wikidot.com/universe-hub
 * https://backrooms-wiki.wikidot.com/normal-levels-i
+
+
+### todo
+
+* https://www.reddit.com/r/Livres/comments/1r1w1jw/livres_qui_te_mettent_une_claque/
 

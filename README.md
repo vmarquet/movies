@@ -206,6 +206,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Warfare (Alex Garland) 🇺🇸
 * Sirāt 🌿
 * Train Dreams
+* Marty Supreme 🏓
 * Nuremberg
 * One of Them Days #comédie
 * Highest 2 Lowest (Spike Lee)
@@ -217,18 +218,20 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Black Dog 🇨🇳 🌿
 * Sarah's Oil
 * Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
+* La Grazia (Paolo Sorrentino) 🇮🇹
 * Merrily we roll along 🎵
 * Jay Kelly
 * Better Man 🇬🇧 #biopic
 * Caught Stealing (Darren Aronofsky)
 * Un simple accident (Jafar Panahi) 🇮🇷 🌿
+* The Housemaid (Sydney Sweeney) #thriller
 * A Complete Unknown (James Mangold) #biopic
 * Eternity 🍿 #romcom
 * Wake Up Dead Man
     * > ❝ - A priest is a shepherd. The world is a wolf.
     * > &emsp; \- You start fighting wolves, and before you know it, everyone you don't understand is a wolf. ❞
 * If I Had Legs I'd Kick You
-* bof: Left-Handed Girl 🇹🇼, The Naked Gun, The Wedding Banquet, Mickey 17, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
+* bof: Left-Handed Girl 🇹🇼, The Naked Gun, The Wedding Banquet, Mickey 17, La Voix de Hind Rajab 🇵🇸, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
 Français:
 
