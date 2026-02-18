@@ -212,12 +212,13 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
+* Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
 * Hamnet
 * Rental Family 🇯🇵
+* Is This Thing On? 🎤
 * En première ligne 🇨🇭 🏥
 * Black Dog 🇨🇳 🌿
 * Sarah's Oil
-* Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
 * La Grazia (Paolo Sorrentino) 🇮🇹
 * Merrily we roll along 🎵
 * Jay Kelly

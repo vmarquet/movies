@@ -18,6 +18,7 @@ Documentaires
 * The Contestant (2023) 🇯🇵 ❤️
 * Philippines : les petits forçats de l’or (2024) 🇵🇭 (Prix Albert Londres de l’audiovisuel)
 * Buy Now - The Shopping Conspiracy (2024, Netflix)
+* Dahomey (2024) 🇧🇯 (voir juste la 2e moitié avec les débats)
 
 
 #### bien sans plus
