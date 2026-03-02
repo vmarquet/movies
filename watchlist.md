@@ -31,9 +31,8 @@
 * https://www.bbc.com/culture/article/20250423-the-best-films-of-2025
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * https://archive.is/XmCZt NYT best films 2025
-* https://www.rottentomatoes.com/m/kokuho japan
-* https://www.rottentomatoes.com/m/28_years_later_the_bone_temple 80+
-* https://www.rottentomatoes.com/m/a_little_prayer 93
+* https://www.rottentomatoes.com/m/kokuho 🇯🇵
+* https://www.rottentomatoes.com/m/a_little_prayer 93 Y
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/islands_2025
@@ -41,9 +40,7 @@
 * https://www.rottentomatoes.com/m/good_boy_2025
 * https://www.rottentomatoes.com/m/nobody_2
 * https://www.rottentomatoes.com/m/the_perfect_neighbor_2025
-* https://www.rottentomatoes.com/m/the_secret_agent_2025
 * https://www.rottentomatoes.com/m/urchin_2025
-* https://www.rottentomatoes.com/m/if_i_had_legs_id_kick_you
 * https://www.rottentomatoes.com/m/the_mastermind
 * https://www.rottentomatoes.com/m/die_my_love_2025
 * https://www.france.tv/documentaires/documentaires-societe/7556627-badinter-contre-la-peine-de-mort-le-proces-patrick-henry.html
@@ -141,7 +138,6 @@
 * https://www.telerama.fr/cinema/leurs-enfants-apres-eux-paul-kircher-formidable-dans-cette-adaptation-reussie-du-roman-de-nicolas-mathieu_cri-7035728.php TTT 3.6
 * En tongs au pied de l'Himalaya 3.9
 * La vallée des fous (Xavier Beauvois) 3.7
-* La plus précieuse des marchandes (Hazanavicius) 4.2
 * Le Panache (2.8 3.6) (José Garcia)
 * Prodigieuses (2.8 3.8)
 * Le Déluge (film en costume) 2.8
@@ -486,6 +482,7 @@
 
 ### 1989
 
+* https://www.rottentomatoes.com/m/drugstore_cowboy 90+ gus van sant
 * https://fr.wikipedia.org/wiki/Le_Temps_des_Gitans
 * https://en.wikipedia.org/wiki/Dekalog
 * https://vodkaster.telerama.fr/films/la-captive-du-desert/7842

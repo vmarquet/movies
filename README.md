@@ -219,6 +219,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * En première ligne 🇨🇭 🏥
 * Black Dog 🇨🇳 🌿
 * Sarah's Oil
+* The Secret Agent 🇧🇷
 * La Grazia (Paolo Sorrentino) 🇮🇹
 * Merrily we roll along 🎵
 * Jay Kelly
@@ -228,6 +229,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * The Housemaid (Sydney Sweeney) #thriller
 * A Complete Unknown (James Mangold) #biopic
 * Eternity 🍿 #romcom
+* 28 Years Later : Bone Temple
+* 28 Years Later
 * Wake Up Dead Man
     * > ❝ - A priest is a shepherd. The world is a wolf.
     * > &emsp; \- You start fighting wolves, and before you know it, everyone you don't understand is a wolf. ❞
@@ -304,7 +307,7 @@ Français:
 * Pas de vagues (François Civil) #film-scolaire
 * L'Amour Ouf (Gilles Lellouche)
 * Les Pistolets en plastique
-* bof: Le Roman de Jim, Un p'tit truc en plus
+* bof: Le Roman de Jim, La plus précieuse des marchandises, Un p'tit truc en plus
 
 
 ### 2023
@@ -927,7 +930,7 @@ Français:
 * The Assassination of Jesse James by the Coward Robert Ford #western
 * 3:10 to Yuma #western
 * Paranoid Park (Gus Van Sant)
-* bof: Superbad, Eastern Promises (David Cronenberg)
+* bof: Superbad, Eastern Promises (David Cronenberg), 28 Weeks Later
 
 [Césars 33](https://fr.wikipedia.org/wiki/33e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film_fran%C3%A7ais)
 
@@ -1088,6 +1091,7 @@ Français:
 * Minority Report (Steven Spielberg) #sf
 * Insomnia (Christopher Nolan, Al Pacino) #thriller
 * Infernal Affairs 🇭🇰 #thriller
+* 28 Days Later (Danny Boyle) 🇬🇧 #sf
 * Hero (Zhang Yimou) 🇨🇳
 * The Count of Monte Cristo 🎥
 * The Bourne Identity (Matt Damon) #thriller
