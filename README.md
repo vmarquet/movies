@@ -199,6 +199,11 @@ _Si le film est listé, c'est qu'il mérite d'être vu d'après moi (sauf mentio
 _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqués du symbole ❤️._
 
 
+### 2026
+
+* bof: Solo Mio
+
+
 ### 2025
 
 * One Battle After Another (Paul Thomas Anderson) ❤️
@@ -207,6 +212,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Sirāt 🌿
 * Train Dreams
 * Marty Supreme 🏓
+* A Little Prayer
 * Nuremberg
 * One of Them Days #comédie
 * Highest 2 Lowest (Spike Lee)
@@ -231,11 +237,12 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Eternity 🍿 #romcom
 * 28 Years Later : Bone Temple
 * 28 Years Later
+* Exit 8 🇯🇵
 * Wake Up Dead Man
     * > ❝ - A priest is a shepherd. The world is a wolf.
     * > &emsp; \- You start fighting wolves, and before you know it, everyone you don't understand is a wolf. ❞
 * If I Had Legs I'd Kick You
-* bof: Left-Handed Girl 🇹🇼, The Naked Gun, The Wedding Banquet, Mickey 17, La Voix de Hind Rajab 🇵🇸, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
+* bof: Left-Handed Girl 🇹🇼, The Naked Gun, The Wedding Banquet, Mickey 17, La Voix de Hind Rajab 🇵🇸, Pillion, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
 Français:
 
@@ -1277,6 +1284,7 @@ Français:
 * Leaving Las Vegas
 * Smoke (Harvey Keitel) 🧸
 * Before Sunrise
+* Fallen Angels (Wong Kar-wai) 🇭🇰
 
 [Césars 21](https://fr.wikipedia.org/wiki/21e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 

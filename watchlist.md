@@ -21,7 +21,9 @@
 ### 2026
 
 * NYT Sundance https://archive.is/T4rrt
+* https://www.rottentomatoes.com/m/hoppers 90+ animation
 * https://www.rottentomatoes.com/m/good_luck_have_fun_dont_die 80+
+* https://www.lemonde.fr/culture/article/2026/03/12/quelqu-un-devrait-interdire-les-dimanches-apres-midi-sur-arte-trio-pour-cinephile-maitre-sushi-et-travailleuse-precaire_6670785_3246.html
 * https://www.bbc.com/culture/article/20260215-everybody-digs-bill-evans-review-a-moving-tragic-biopic-of-a-tortured-jazz-great
 
 
@@ -31,8 +33,10 @@
 * https://www.bbc.com/culture/article/20250423-the-best-films-of-2025
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * https://archive.is/XmCZt NYT best films 2025
-* https://www.rottentomatoes.com/m/kokuho 🇯🇵
-* https://www.rottentomatoes.com/m/a_little_prayer 93 Y
+* https://www.rottentomatoes.com/m/kokuho 🇯🇵 Maitre du Kabuki
+* No other choice 🇰🇷
+* le mage du kremlin
+* Nino 4.0 https://www.allocine.fr/film/fichefilm_gen_cfilm=328098.html
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/islands_2025
@@ -47,7 +51,6 @@
 * Quiet Life
 * https://www.rottentomatoes.com/m/sorry_baby
 * https://www.rottentomatoes.com/m/mountainhead
-* https://www.rottentomatoes.com/m/exit_8_2025
 * https://www.rottentomatoes.com/m/last_breath_2025
 * https://www.rottentomatoes.com/m/resurrection_2025 #sf 🇨🇳
 * https://www.rottentomatoes.com/m/a_useful_ghost
@@ -66,7 +69,7 @@
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000001242.html Le Joueur de Go
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000424.html Bergers 
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=294235.html Vermiglio ou La Mariée des Montagnes
-* https://www.allocine.fr/film/fichefilm_gen_cfilm=289215.html On Ira
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=289215.html On Ira 4.1
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=317103.html Zion
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=277067.html Lumière l'aventure continue
 * https://www.lemonde.fr/culture/article/2025/04/23/the-gazer-thriller-fievreux-de-ryan-j-sloan_6235095_3247.html
@@ -83,7 +86,7 @@
 
 * https://www.rottentomatoes.com/m/day_of_the_fight_2023
 * https://www.rottentomatoes.com/m/the_apprentice
-* https://www.telerama.fr/cinema/mostra-de-venise-2024-que-vaut-leurs-enfants-apres-eux-l-adaptation-du-prix-goncourt-de-nicolas-mathieu-7021937.php TTT
+* https://www.telerama.fr/cinema/mostra-de-venise-2024-que-vaut-leurs-enfants-apres-eux-l-adaptation-du-prix-goncourt-de-nicolas-mathieu-7021937.php TTT uggcf://jjj-lttgbeerag.pp/qrgnvy/71474
 * https://editorial.rottentomatoes.com/article/2024-cannes-preview/
 * https://editorial.rottentomatoes.com/guide/cannes-2024-movie-scorecard/
 * https://www.telerama.fr/cinema/cannes-2024-tous-les-films-en-competition-notes-par-la-redaction-de-telerama-7020448.php
@@ -179,7 +182,7 @@
 * cinéma étranger:
     * https://www.telerama.fr/cinema/augure-quand-la-fete-de-famille-vire-au-proces-en-sorcellerie_cri-7030007.php TT
     * https://www.telerama.fr/cinema/si-seulement-je-pouvais-hiberner-le-combat-de-sa-realisatrice-pour-l-education-et-l-ecologie-en-mongolie-7018852.php TTT
-    * https://www.telerama.fr/cinema/goodbye-julia-une-ode-a-la-liberte-d-une-intense-beaute_cri-7029542.php TTT (4.0) 100% 🇸🇩
+    * https://www.telerama.fr/cinema/goodbye-julia-une-ode-a-la-liberte-d-une-intense-beaute_cri-7029542.php TTT (4.0) 100% 🇸🇩 Y
 
 
 ### 2022
