@@ -86,7 +86,6 @@
 
 * https://www.rottentomatoes.com/m/day_of_the_fight_2023
 * https://www.rottentomatoes.com/m/the_apprentice
-* https://www.telerama.fr/cinema/mostra-de-venise-2024-que-vaut-leurs-enfants-apres-eux-l-adaptation-du-prix-goncourt-de-nicolas-mathieu-7021937.php TTT uggcf://jjj-lttgbeerag.pp/qrgnvy/71474
 * https://editorial.rottentomatoes.com/article/2024-cannes-preview/
 * https://editorial.rottentomatoes.com/guide/cannes-2024-movie-scorecard/
 * https://www.telerama.fr/cinema/cannes-2024-tous-les-films-en-competition-notes-par-la-redaction-de-telerama-7020448.php
@@ -138,7 +137,6 @@
 * https://www.rottentomatoes.com/m/bird_2024 72%
 * https://www.rottentomatoes.com/m/unstoppable_2024_2 76-89% #sport #biopic
 * https://www.rottentomatoes.com/m/meanwhile_on_earth_2024 81%
-* https://www.telerama.fr/cinema/leurs-enfants-apres-eux-paul-kircher-formidable-dans-cette-adaptation-reussie-du-roman-de-nicolas-mathieu_cri-7035728.php TTT 3.6
 * En tongs au pied de l'Himalaya 3.9
 * La vallée des fous (Xavier Beauvois) 3.7
 * Le Panache (2.8 3.6) (José Garcia)
