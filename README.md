@@ -201,6 +201,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2026
 
+* Send help 🏝️ 🍿
+* Good Luck, Have Fun, Don't Die 🍿
 * bof: Solo Mio
 
 
@@ -218,6 +220,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
+* No Other Choice (Park Chan-wook) 🇰🇷
 * Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
 * Hamnet
 * Rental Family 🇯🇵
@@ -227,6 +230,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Sarah's Oil
 * The Secret Agent 🇧🇷
 * La Grazia (Paolo Sorrentino) 🇮🇹
+* If I Had Legs I'd Kick You
+* Magellan 🇵🇹
 * Merrily we roll along 🎵
 * Jay Kelly
 * Better Man 🇬🇧 #biopic
@@ -241,7 +246,6 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Wake Up Dead Man
     * > ❝ - A priest is a shepherd. The world is a wolf.
     * > &emsp; \- You start fighting wolves, and before you know it, everyone you don't understand is a wolf. ❞
-* If I Had Legs I'd Kick You
 * bof: Left-Handed Girl 🇹🇼, The Naked Gun, The Wedding Banquet, Mickey 17, La Voix de Hind Rajab 🇵🇸, Pillion, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
 Français:

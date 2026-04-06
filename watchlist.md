@@ -22,7 +22,6 @@
 
 * NYT Sundance https://archive.is/T4rrt
 * https://www.rottentomatoes.com/m/hoppers 90+ animation
-* https://www.rottentomatoes.com/m/good_luck_have_fun_dont_die 80+
 * https://www.lemonde.fr/culture/article/2026/03/12/quelqu-un-devrait-interdire-les-dimanches-apres-midi-sur-arte-trio-pour-cinephile-maitre-sushi-et-travailleuse-precaire_6670785_3246.html
 * https://www.bbc.com/culture/article/20260215-everybody-digs-bill-evans-review-a-moving-tragic-biopic-of-a-tortured-jazz-great
 
@@ -34,7 +33,6 @@
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * https://archive.is/XmCZt NYT best films 2025
 * https://www.rottentomatoes.com/m/kokuho 🇯🇵 Maitre du Kabuki
-* No other choice 🇰🇷
 * le mage du kremlin
 * Nino 4.0 https://www.allocine.fr/film/fichefilm_gen_cfilm=328098.html
 * https://www.rottentomatoes.com/m/roofman 85%
