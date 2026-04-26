@@ -665,6 +665,8 @@
 * https://www.rottentomatoes.com/m/the_damned_2024
 * https://www.rottentomatoes.com/m/the_love_witch 95%c 65%
 * https://www.rottentomatoes.com/m/the_ugly_stepsister 96%c 90%
+* https://www.rottentomatoes.com/m/deadstream
+* https://www.rottentomatoes.com/m/gonjiam_haunted_asylum
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/

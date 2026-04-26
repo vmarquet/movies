@@ -36,6 +36,7 @@ BD
 * Joe Bar Team
 * Pico Bogue
 * Jerome K. Jerome Bloch
+* divers sympas à relire: Papyrus, Mélusine
 
 
 Séries audio

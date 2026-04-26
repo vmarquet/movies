@@ -203,7 +203,12 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Send help 🏝️ 🍿
 * Good Luck, Have Fun, Don't Die 🍿
-* bof: Solo Mio
+* bof: Solo Mio, The Bride
+
+Français:
+
+* Juste une illusion (Nakache & Toledano) ❤️
+* Les Rayons et les Ombres (Xavier Giannoli) #Histoire #ww2
 
 
 ### 2025
@@ -215,7 +220,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Train Dreams
 * Marty Supreme 🏓
 * A Little Prayer
-* Nuremberg
+* Nuremberg #Histoire #ww2
 * One of Them Days #comédie
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
@@ -227,7 +232,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Is This Thing On? 🎤
 * En première ligne 🇨🇭 🏥
 * Black Dog 🇨🇳 🌿
-* Sarah's Oil
+* Sarah's Oil #Histoire
 * The Secret Agent 🇧🇷
 * La Grazia (Paolo Sorrentino) 🇮🇹
 * If I Had Legs I'd Kick You
@@ -367,7 +372,7 @@ Français:
 * Oppenheimer (Christopher Nolan) : trop long
 * The Boy and the Heron (Hayao Miyazaki) 🇯🇵 : intrigue décousue
 * The Last Stop in Yuma County #thriller #neowestern
-* One Life 🇬🇧 #history
+* One Life 🇬🇧 #Histoire
 * Radical 🇲🇽 ☀️ : belle histoire mais longuet
 * Cerrar los ojos (Víctor Erice) 🇪🇸 : émouvant mais longuet
 * Femme 🇬🇧
@@ -475,7 +480,7 @@ Français:
 
 [Césars 47](https://fr.wikipedia.org/wiki/47e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
-* Illusions Perdues (avec Xavier Dolan) ❤️ 7✨ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
+* Illusions Perdues (Xavier Giannoli, avec Xavier Dolan) ❤️ 7✨ [📰](https://www.telerama.fr/cinema/films/illusions-perdues,n6879485.php)
 * Bac Nord
 * Albatros (Xavier Beauvois)
 * Les Olympiades (Jacques Audiard)
@@ -536,7 +541,7 @@ Français:
 
 * Portrait de la Jeune Fille en Feu (Céline Sciamma) 🎥🎥 ❤️❤️
 * Proxima (Eva Green) ❤️
-* Hors normes (Olivier Nakache & Éric Toledano, Vincent Cassel, Reda Kateb) ❤️ #cinema-qui-denonce
+* Hors normes (Nakache & Toledano, Vincent Cassel, Reda Kateb) ❤️ #cinema-qui-denonce
 * Le Chant du Loup ❤️
 * J'accuse (Polanski)
 * Le Nom de la Terre
@@ -594,7 +599,7 @@ Français:
 * The Killing of a Sacred Deer (Yórgos Lánthimos, Colin Farrell, Nicole Kidman)
 * Ingrid Goes West (Aubrey Plaza)
 * I, Tonya (Margot Robbie) ⛸️
-* Darkest Hour 🇬🇧 #ww2
+* Darkest Hour 🇬🇧 #Histoire #ww2
 * Phantom Thread (Paul Thomas Anderson, Daniel Day-Lewis) 🇬🇧
 * Blade Runner 2049 (Denis Villeneuve) #sf
 * Pentagon Papers (Steven Spielberg, Meryl Streep) #journalism
@@ -609,7 +614,7 @@ Français:
 * Jusqu'à la garde
 * Patients
 * Petit Paysan
-* bof: Le Brio (Daniel Auteuil), Le Sens de la fête (Olivier Nakache & Éric Toledano, Jean-Pierre Bacri), L'échange des princesses, Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
+* bof: Le Brio (Daniel Auteuil), Le Sens de la fête (Nakache & Toledano, Jean-Pierre Bacri), L'échange des princesses, Au revoir là haut (Albert Dupontel) 5✨ [📰](https://www.telerama.fr/cinema/films/au-revoir-la-haut,508186.php)
 
 
 ### 2016
@@ -801,7 +806,7 @@ Français:
 [Césars 37](https://fr.wikipedia.org/wiki/37e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
 * The Artist (Michel Hazanavicius, Jean Dujardin) ❤️ 🏆 [📰](https://www.telerama.fr/cinema/films/the-artist,428139.php)
-* Intouchables ❤️ (Olivier Nakache & Éric Toledano, Omar Sy, François Cluzet) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php) #comédie
+* Intouchables ❤️ (Nakache & Toledano, Omar Sy, François Cluzet) [📰](https://television.telerama.fr/tele/films/intouchables,29464803.php) #comédie
 * Polisse (Maïwenn) [📰](https://television.telerama.fr/tele/films/polisse,27602990.php)
 * La guerre est déclarée (Valérie Donzelli)
 * Jimmy Rivière
@@ -841,7 +846,7 @@ Français:
 * Des hommes et des dieux (Xavier Beauvois, Michael Lonsdale) 🎥 ✞ [📰](https://www.telerama.fr/cinema/films/des-hommes-et-des-dieux,196039.php)
 * L'Arnacoeur (Romain Duris) #romcom
 * Tournée (Mathieu Amalric) 🎥
-* La Rafle #ww2
+* La Rafle #Histoire #ww2
 * Mammuth (Delépine et Kervern, Gérard Depardieu) [📰](https://www.telerama.fr/cinema/films/mammuth,405676.php)
 * La Princesse de Montpensier (vu ?)
 * bof: Les Petits Mouchoirs (Guillaume Canet)
@@ -900,7 +905,7 @@ Français:
 * Une nuit à New York (Nick and Norah's Infinite Playlist) (Michael Cera) #coming-of-age #romcomdrama
 * Valse avec Bachir 🇮🇱
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php)
-* Walkyrie (Tom Cruise) #ww2
+* Walkyrie (Tom Cruise) #Histoire #ww2
 * Disgrace (John Malkovich) 🇿🇦 : mémorable mais traine en longueur
 * bof: Gomorra 🇮🇹, Harvey Milk (Gus Van Sant) 🏳️‍🌈 #biopic, Vicky Cristina Barcelona (Woody Allen), Synecdoche New York
 
@@ -987,6 +992,7 @@ Français:
 * Indigènes (Rachid Bouchared)
 * Quatre étoiles (Isabelle Carré, José Garcia) #comédie
 * Ne le dis à personne (Guillaume Canet)
+* bof: Nos jours heureux (Nakache & Toledano)
 
 
 ### 2005
@@ -1044,7 +1050,7 @@ Français:
 * Carnets de voyage (Diarios de motocicleta) (Gael García Bernal) 🇦🇷🇨🇱🇵🇪
 * Crazy Kung-Fu (Stephen Chow) 🇭🇰 🍿
 * Le Secret des Poignards Volants (Zhang Yimou) 🇨🇳
-* La Chute 🇩🇪 #ww2
+* La Chute 🇩🇪 #Histoire #ww2
 * Troie (Brad Pitt)
 * The Passion of the Christ (Mel Gibson) ✞ (vu ?)
 * Collateral (Michael Mann) #thriller
@@ -1113,7 +1119,7 @@ Français:
 
 [Césars 28](https://fr.wikipedia.org/wiki/28e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
 
-* Le Pianiste (Roman Polanski) ❤️ #ww2
+* Le Pianiste (Roman Polanski) ❤️ #Histoire #ww2
 * Astérix et Obélix : Mission Cléopâtre (Alain Chabat, les Nuls) ❤️ #comédie #culte
 * L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
@@ -1224,7 +1230,7 @@ Français:
 * Alien IV (JP Jeunet) [📰](https://www.telerama.fr/cinema/films/alien-la-r-surrection,27380.php) #sf
 * Contact (Jodie Foster) 💙
 * The Fifth Element (Luc Besson) #sf
-* La Vie est Belle (Roberto Benigni) 🇮🇹 #ww2
+* La Vie est Belle (Roberto Benigni) 🇮🇹 #Histoire #ww2
 * Carne trémula (En chair et en os) (Pedro Almodóvar, Javier Bardem) 🇪🇸
 * Cure (Kiyoshi Kurosawa) 🇯🇵 🎥
 * Cube #sf
@@ -1343,7 +1349,7 @@ Français:
 * The Piano (Jane Campion) 🇳🇿 🌿
 * Arizona Dream (Emir Kusturica, Johnny Depp) 💙 #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
-* La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #ww2
+* La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #Histoire #ww2
 * Beaucoup de Bruit pour rien (Kenneth Brannagh) 🇬🇧
 * In the Name of the Father (Daniel Day-Lewis) 🇮🇪🇬🇧
 * The Nightmare before Christmas (Tim Burton)
@@ -1515,7 +1521,7 @@ Français:
 * Witness (Peter Weier, Harrison Ford) #thriller
 * Flesh and Blood (Paul Verhoeven)
 * The Breakfast Club #teen-movie #coming-of-age
-* Requiem pour un massacre 🇧🇾🇷🇺 #ww2 : belle mise en scène et belle musique mais scénario vieilli qui manque de rythme
+* Requiem pour un massacre 🇧🇾🇷🇺 #Histoire #ww2 : belle mise en scène et belle musique mais scénario vieilli qui manque de rythme
 * Papa est en voyage d'affaires (Emir Kusturica) 🇷🇸 🌿
 * Tampopo 🇯🇵
 * bof: Out of Africa (Sydney Pollack, Robert Redford) 7🏆 : photo vieillote, peu dialogué et longuet
@@ -1536,7 +1542,7 @@ Français:
 * The Hit (Stephen Frears, Tim Roth) #road-movie
 * Le Pays où rêvent les fourmis vertes (Werner Herzog) 🇦🇺
 * Il était une fois en Amérique (Once Upon a Time in America) (Sergio Leone, Robert De Niro) : longuet
-* The Killing Fields (Roland Joffé) 🇬🇧🇰🇭 #history
+* The Killing Fields (Roland Joffé) 🇬🇧🇰🇭 #Histoire
 * Terminator (James Cameron) 💙 #sf
 * The NeverEnding Story #fantastique #famille
 * bof: Blood Simple (frères Coen), Paris Texas (Wim Wenders), Spinal Tap
@@ -1772,7 +1778,7 @@ Français:
 Français:
 
 * Le Cercle rouge (Jean-Pierre Melville) #policier
-* Le Mur de l'Atlantique (Marcel Camus, Bourvil) #ww2
+* Le Mur de l'Atlantique (Marcel Camus, Bourvil) #Histoire #ww2
 * bof: Les Choses de la vie (Claude Sautet)
 
 
@@ -1783,7 +1789,7 @@ Français:
 
 Français:
 
-* L'Armée des ombres (Jean-Pierre Melville) #ww2 : bof, longuet
+* L'Armée des ombres (Jean-Pierre Melville) #Histoire #ww2 : bof, longuet
 * La Piscine (Jacques Deray, Alain Delon, Romy Schneider) : bof
 
 
@@ -1865,7 +1871,7 @@ Français:
 
 * Le Procès (Orson Welles) 🎥 ❤️ #film-de-procès
 * Lawrence d'Arabie (David Lean, avec Peter O'Toole) 🇬🇧 #aventure
-* Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #ww2
+* Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #Histoire #ww2
 * bof: Lolita (Stanley Kubrick)
 
 Français:
@@ -1921,7 +1927,7 @@ Français:
 
 ### 1956
 
-* La Traversée de Paris (Jean Gabin, Bourvil) #ww2
+* La Traversée de Paris (Jean Gabin, Bourvil) #Histoire #ww2
 
 
 ### 1954
