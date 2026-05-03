@@ -33,7 +33,6 @@
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * https://archive.is/XmCZt NYT best films 2025
 * https://www.rottentomatoes.com/m/kokuho 🇯🇵 Maitre du Kabuki
-* le mage du kremlin
 * Nino 4.0 https://www.allocine.fr/film/fichefilm_gen_cfilm=328098.html
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
@@ -73,7 +72,6 @@
 * https://www.lemonde.fr/culture/article/2025/04/23/the-gazer-thriller-fievreux-de-ryan-j-sloan_6235095_3247.html
 * https://www.lemonde.fr/culture/article/2025/04/23/dans-simon-de-la-montana-un-jeune-argentin-au-defi-des-normes_6599237_3246.html
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007503.html Les enfants rouges 🇹🇳 (4.1)
-* https://www.allocine.fr/film/fichefilm_gen_cfilm=326174.html La Venue de l’avenir 4.1
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015043.html Les Musiciens 4.0
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=314778.html L'Amour c'est surcoté 3.7
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=311911.html Little Jaffna 3.8

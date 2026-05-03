@@ -203,6 +203,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 * Send help 🏝️ 🍿
 * Good Luck, Have Fun, Don't Die 🍿
+* Project Hail Mary 🍿 #sf
 * bof: Solo Mio, The Bride
 
 Français:
@@ -232,6 +233,7 @@ Français:
 * Is This Thing On? 🎤
 * En première ligne 🇨🇭 🏥
 * Black Dog 🇨🇳 🌿
+* Le mage du Kremlin
 * Sarah's Oil #Histoire
 * The Secret Agent 🇧🇷
 * La Grazia (Paolo Sorrentino) 🇮🇹
@@ -259,8 +261,9 @@ Français:
 * Amélie et la Métaphysique des tubes ❤️
 * Dossier 137 ❤️
 * Nouvelle Vague (Richard Linklater)
+* L'inconnu de la grande arche
 * La Chambre de Mariana
-* bof: Jeunes mères, Un Ours dans le Jura
+* bof: La venue de l'avenir (Cédric Klapisch), Jeunes mères, Un Ours dans le Jura
 
 
 ### 2024
@@ -1870,7 +1873,7 @@ Français:
 ### 1962
 
 * Le Procès (Orson Welles) 🎥 ❤️ #film-de-procès
-* Lawrence d'Arabie (David Lean, avec Peter O'Toole) 🇬🇧 #aventure
+* Lawrence d'Arabie (David Lean, avec Peter O'Toole) 🇬🇧 7🏆 #aventure #Histoire
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #Histoire #ww2
 * bof: Lolita (Stanley Kubrick)
 
