@@ -201,6 +201,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2026
 
+* The Drama ❤️
 * Send help 🏝️ 🍿
 * Good Luck, Have Fun, Don't Die 🍿
 * Project Hail Mary 🍿 #sf
@@ -260,9 +261,10 @@ Français:
 * À bicyclette ! ❤️❤️
 * Amélie et la Métaphysique des tubes ❤️
 * Dossier 137 ❤️
+* Nino
 * Nouvelle Vague (Richard Linklater)
 * L'inconnu de la grande arche
-* La Chambre de Mariana
+* La Chambre de Mariana  #Histoire
 * bof: La venue de l'avenir (Cédric Klapisch), Jeunes mères, Un Ours dans le Jura
 
 
@@ -793,6 +795,7 @@ Français:
 * Margin Call (Kevin Spacey) 💵
 * Starbuck 🇨🇦 #comédie
 * Rango (Gore Verbinski) #western #famille
+* Crazy, Stupid, Love  #romcom
 * Tinker Tailor Soldier Spy (La Taupe) 🇬🇧 #thriller
 * Django Unchained (Tarentino) #western
 * Une séparation (Asghar Farhadi) 🇮🇷 🏆✨🌐
