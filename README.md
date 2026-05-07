@@ -201,7 +201,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2026
 
-* The Drama ❤️
+* The Drama
 * Send help 🏝️ 🍿
 * Good Luck, Have Fun, Don't Die 🍿
 * Project Hail Mary 🍿 #sf
