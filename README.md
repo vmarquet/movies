@@ -227,6 +227,7 @@ Français:
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
+* Les Aigles de la République (Tarik Saleh) 🇪🇬
 * Le Maître du Kabuki (Kokuho) 🇯🇵
 * No Other Choice (Park Chan-wook) 🇰🇷
 * Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
@@ -308,7 +309,7 @@ Français:
 * Joy 🇬🇧
 * Small Things like These (Cillian Murphy) 🇮🇪
 * My Sunshine 🇯🇵
-* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Touch 🇮🇸, Tatami 🇮🇷, Sons (Gustav Möller) 🇩🇰, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, How to Make Millions Before Grandma Dies 🇹🇭, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
+* bof: La Fleur de buriti (Crowrã) 🇧🇷, Love Lies Bleeding, Lire Lolita à Téhéran 🇮🇷, Touch 🇮🇸, Tatami 🇮🇷, Sons (Gustav Möller) 🇩🇰, A Real Pain, Dìdi, Thelma, Alien: Romulus, Ghostlight, Anora (Sean Baker) 🌿, Challengers, How to Make Millions Before Grandma Dies 🇹🇭, MaXXXine, Mad Max: Furiosa, The Substance (trop gore), The Best Christmas Pageant Ever, ~~Monkey Man~~
 
 Français:
 
@@ -442,7 +443,7 @@ Français:
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #famille
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire 🇪🇬, Broker (Koreeda) 🇰🇷, Sanctuary, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
+    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire (Tarik Saleh) 🇪🇬, Broker (Koreeda) 🇰🇷, Sanctuary, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)

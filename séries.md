@@ -31,6 +31,7 @@
     * saison 1: ok, saison 2: bof, saison 3: la meilleure, saison 4: bonne aussi, saison 5: bof
 * Au Service de la France
 * Le monde de demain (2022)
+* Les enfants sont rois (2024) ++
 * https://www.reddit.com/r/AskFrance/comments/1p3rqdx/hello_french_people_i_was_wondering_are_there_any/
 
 
@@ -132,6 +133,7 @@
 * https://www.rottentomatoes.com/tv/interior_chinatown/s01
 * https://www.rottentomatoes.com/tv/say_nothing/s01
 * https://archive.is/MyCkY NYT best TV shows of 2025
+* https://www.rottentomatoes.com/tv/off_campus/s01
 
 
 
