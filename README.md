@@ -227,6 +227,7 @@ Français:
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
+* Le Maître du Kabuki (Kokuho) 🇯🇵
 * No Other Choice (Park Chan-wook) 🇰🇷
 * Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
 * Hamnet
@@ -913,7 +914,7 @@ Français:
 * The Wave (Die Welle) 🇩🇪 [📰](https://www.telerama.fr/cinema/films/la-vague,372305.php)
 * Walkyrie (Tom Cruise) #Histoire #ww2
 * Disgrace (John Malkovich) 🇿🇦 : mémorable mais traine en longueur
-* bof: Gomorra 🇮🇹, Harvey Milk (Gus Van Sant) 🏳️‍🌈 #biopic, Vicky Cristina Barcelona (Woody Allen), Synecdoche New York
+* bof: Les 3 royaumes (Jown Woo) 🇨🇳, Gomorra 🇮🇹, Harvey Milk (Gus Van Sant) 🏳️‍🌈 #biopic, Vicky Cristina Barcelona (Woody Allen), Synecdoche New York
 
 [Césars 34](https://fr.wikipedia.org/wiki/34e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
@@ -1146,6 +1147,7 @@ Français:
 * Shrek (DreamWorks)
 * The Man Who Wasn't There (frères Coen)
 * The Pledge (Sean Penn, Jack Nicholson) #thriller
+* Millennium Mambo 🇹🇼
 * bof: Y tu mamá también (Alfonso Cuarón) 🇲🇽, ~~Donnie Darko~~, ~~Vanilla Sky (Cameron Crowe)~~
 
 [Césars 27](https://fr.wikipedia.org/wiki/27e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#C%C3%A9sar_du_meilleur_film)
