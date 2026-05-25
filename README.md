@@ -231,6 +231,7 @@ Français:
 * Le Maître du Kabuki (Kokuho) 🇯🇵
 * No Other Choice (Park Chan-wook) 🇰🇷
 * Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
+* La Femme qui en savait trop (The Witness) 🇮🇷
 * Hamnet
 * Rental Family 🇯🇵
 * Is This Thing On? 🎤
