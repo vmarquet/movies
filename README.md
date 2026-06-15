@@ -2076,6 +2076,7 @@ Français:
 * Heretic (2024) ❤️
 * Nosferatu (2024, Robert Eggers) : esthétique sympa mais narration ratée
 * Heart Eyes (2025) : bon humour
+* Hokum (2025) 🇮🇪
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
