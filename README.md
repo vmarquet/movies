@@ -202,6 +202,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 2026
 
 * The Drama
+* Pressure #Histoire #ww2
 * Send help 🏝️ 🍿
 * Good Luck, Have Fun, Don't Die 🍿
 * Project Hail Mary 🍿 #sf
@@ -210,6 +211,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 Français:
 
 * Juste une illusion (Nakache & Toledano) ❤️
+* La Bataille de Gaulle ☨ #Histoire #ww2
 * Les Rayons et les Ombres (Xavier Giannoli) #Histoire #ww2
 
 
