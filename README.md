@@ -202,6 +202,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 2026
 
 * The Drama
+* Pressure #Histoire #ww2
 * Send help 🏝️ 🍿
 * Good Luck, Have Fun, Don't Die 🍿
 * Project Hail Mary 🍿 #sf
@@ -210,6 +211,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 Français:
 
 * Juste une illusion (Nakache & Toledano) ❤️
+* La Bataille de Gaulle ☨ #Histoire #ww2
 * Les Rayons et les Ombres (Xavier Giannoli) #Histoire #ww2
 
 
@@ -647,7 +649,7 @@ Français:
 * The Lost City of Z
 * The Nice Guys
 * The Wailing 🇰🇷
-* bof: Moonlight #coming-of-age, Manchester by the Sea, Nocturnal Animals, Paterson, The Neon Demon (Nicolas Winding Refn), Harmonium 🇯🇵 🌿 (un certain regard), Hunt for the Wilderpeople 🇳🇿, Sami Blood 🇸🇪, War Dogs
+* bof: Moonlight #coming-of-age, Manchester by the Sea, Nocturnal Animals, Paterson, The Neon Demon (Nicolas Winding Refn), Harmonium 🇯🇵 🌿 (un certain regard), Hunt for the Wilderpeople 🇳🇿, Sami Blood 🇸🇪, War Dogs, ~Miss Peregrine et les Enfants particuliers (Tim Burton)~
 
 [Césars 42](https://fr.wikipedia.org/wiki/42e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
 
@@ -2077,6 +2079,7 @@ Français:
 * Heretic (2024) ❤️
 * Nosferatu (2024, Robert Eggers) : esthétique sympa mais narration ratée
 * Heart Eyes (2025) : bon humour
+* Hokum (2025) 🇮🇪
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
