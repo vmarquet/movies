@@ -238,6 +238,7 @@ Français:
 * En première ligne 🇨🇭 🏥
 * Black Dog 🇨🇳 🌿
 * Le mage du Kremlin
+* Resurrection 🇨🇳 #sf
 * Sarah's Oil #Histoire
 * The Secret Agent 🇧🇷
 * La Grazia (Paolo Sorrentino) 🇮🇹

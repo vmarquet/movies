@@ -17,6 +17,12 @@
 * https://editorial.rottentomatoes.com/guide/best-romantic-comedies-of-all-time/
 
 
+### Shortlist
+
+* https://www.rottentomatoes.com/m/son_of_monarchs
+* https://www.rottentomatoes.com/m/north_of_normal
+* https://www.rottentomatoes.com/m/bob_trevino_likes_it
+
 
 ### 2026
 
@@ -51,7 +57,6 @@
 * https://www.rottentomatoes.com/m/sorry_baby
 * https://www.rottentomatoes.com/m/mountainhead
 * https://www.rottentomatoes.com/m/last_breath_2025
-* https://www.rottentomatoes.com/m/resurrection_2025 #sf 🇨🇳
 * https://www.rottentomatoes.com/m/a_useful_ghost
 * https://www.rottentomatoes.com/m/hard_truths 95%-82
 * https://www.rottentomatoes.com/m/black_bag 90-70
