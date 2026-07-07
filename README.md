@@ -1362,6 +1362,7 @@ Français:
 * The Piano (Jane Campion) 🇳🇿 🌿
 * Arizona Dream (Emir Kusturica, Johnny Depp) 💙 #fantastique : très bonne musique
 * True Romance (Tony Scott, scénario Tarentino, Christian Slater, Christopher Walken)
+* Carlito's Way (Brian de Palma, Al Pacino)
 * La Liste de Schindler (Steven Spielberg) [💡](https://www.youtube.com/watch?v=CAKS3rdYTpI) #Histoire #ww2
 * Beaucoup de Bruit pour rien (Kenneth Brannagh) 🇬🇧
 * In the Name of the Father (Daniel Day-Lewis) 🇮🇪🇬🇧
@@ -1831,7 +1832,7 @@ Français:
 ### 1966
 
 * Le Bon, la Brute et le Truand (Sergio Leone, Clint Eastwood) 🎥 💙 #western-spaghetti
-* bof: Persona (Ingmar Bergman) 🇸🇪, Blow-Up 🇬🇧, Fahrenheit 451 (Français Truffaut) 🇬🇧
+* bof: Persona (Ingmar Bergman) 🇸🇪, Blow-Up (Michelangelo Antonioni) 🇬🇧, Fahrenheit 451 (Français Truffaut) 🇬🇧
 
 Français:
 
@@ -1885,6 +1886,7 @@ Français:
 * Le Procès (Orson Welles) 🎥 ❤️ #film-de-procès
 * Lawrence d'Arabie (David Lean, avec Peter O'Toole) 🇬🇧 7🏆 #aventure #Histoire
 * Le Jour le plus long (John Wayne, Robert Mitchum, Richard Burton, Henry Fonda, Bourvil) #Histoire #ww2
+* L'Éclipse (Michelangelo Antonioni) 🇮🇹 : esthétique mais le scénario a mal vieilli
 * bof: Lolita (Stanley Kubrick)
 
 Français:

@@ -106,7 +106,7 @@
 * Dexter
 * NCIS
 * The Boys (2019) [🍅](https://www.rottentomatoes.com/tv/the_boys_2019)
-* Slow Horses
+* Widow's Bay (2026) +++ : série fantastique avec beaucoup d'humour, à la limite de la parodie
 * pas vu:
     * https://www.leblogducinema.com/critique-serie/yellowstone-western-contemporain-et-audience-record-critique-57942541/
     * https://www.rottentomatoes.com/tv/reservation_dogs

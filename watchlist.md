@@ -34,6 +34,7 @@
 * https://www.rottentomatoes.com/m/obsession_2025 90+
 * https://www.rottentomatoes.com/m/remarkably_bright_creatures 80-90
 * https://www.rottentomatoes.com/m/the_sheep_detectives
+* https://www.rottentomatoes.com/m/blue_heron 90-70
 
 
 ### 2025
@@ -575,6 +576,7 @@
 
 ### 1976
 
+* Les tsiganes montent au ciel  https://www.telerama.fr/cinema/les-tsiganes-montent-au-ciel-grand-succes-du-cinema-sovietique-des-annees-70-ressort-en-salles_cri-7033599.php
 * https://www.rottentomatoes.com/m/all_the_presidents_men 92%
 
 
