@@ -31,7 +31,6 @@
 * https://www.lemonde.fr/culture/article/2026/03/12/quelqu-un-devrait-interdire-les-dimanches-apres-midi-sur-arte-trio-pour-cinephile-maitre-sushi-et-travailleuse-precaire_6670785_3246.html
 * https://www.bbc.com/culture/article/20260215-everybody-digs-bill-evans-review-a-moving-tragic-biopic-of-a-tortured-jazz-great
 * https://www.rottentomatoes.com/m/is_god_is 90+
-* https://www.rottentomatoes.com/m/obsession_2025 90+
 * https://www.rottentomatoes.com/m/remarkably_bright_creatures 80-90
 * https://www.rottentomatoes.com/m/the_sheep_detectives
 * https://www.rottentomatoes.com/m/blue_heron 90-70
