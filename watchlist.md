@@ -27,6 +27,11 @@
 ### 2026
 
 * NYT Sundance https://archive.is/T4rrt
+* L'Abandon
+* Digger (Tom Cruise, Inarritu)
+* https://www.rottentomatoes.com/m/the_invite 90+
+* https://www.rottentomatoes.com/m/i_want_your_sex 90%C
+* https://www.rottentomatoes.com/m/our_hero_balthazar 90+
 * https://www.rottentomatoes.com/m/hoppers 90+ animation
 * https://www.lemonde.fr/culture/article/2026/03/12/quelqu-un-devrait-interdire-les-dimanches-apres-midi-sur-arte-trio-pour-cinephile-maitre-sushi-et-travailleuse-precaire_6670785_3246.html
 * https://www.bbc.com/culture/article/20260215-everybody-digs-bill-evans-review-a-moving-tragic-biopic-of-a-tortured-jazz-great

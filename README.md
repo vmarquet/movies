@@ -201,9 +201,11 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 
 ### 2026
 
+* L'Odyssée (Christopher Nolan) ❤️
 * The Drama
 * Pressure #Histoire #ww2
 * Send help 🏝️ 🍿
+* Backrooms
 * Good Luck, Have Fun, Don't Die 🍿
 * Project Hail Mary 🍿 #sf
 * bof: Solo Mio, The Bride
@@ -212,6 +214,7 @@ Français:
 
 * Juste une illusion (Nakache & Toledano) ❤️
 * La Bataille de Gaulle ☨ #Histoire #ww2
+* De la Comédie Française
 * Les Rayons et les Ombres (Xavier Giannoli) #Histoire #ww2
 
 
@@ -269,6 +272,7 @@ Français:
 * Dossier 137 ❤️
 * Nino
 * Nouvelle Vague (Richard Linklater)
+* Arco  #sf #famille
 * L'inconnu de la grande arche
 * La Chambre de Mariana  #Histoire
 * bof: La venue de l'avenir (Cédric Klapisch), Jeunes mères, Un Ours dans le Jura
@@ -1018,7 +1022,7 @@ Français:
 * A History of Violence (David Cronenberg)
 * Mar adentro (Alejandro Amenábar, Javier Bardem) 🇪🇸 [📰](https://www.telerama.fr/cinema/films/mar-adentro-mourir-pour-vivre,205498.php)
 * La Science des Rêves (Michel Gondry)
-* Kiss Kiss Bang Bang #comédie
+* Kiss Kiss Bang Bang 🍿 #comédie #policier
 * Lord of War (Andrew Niccol, Nicolas Cage, Ethan Hawke, Jared Leto)
 * Sin City (Franck Miller, Robert Rodriguez) #policier
 * La Guerre des mondes (Steven Spielberg) #sf
