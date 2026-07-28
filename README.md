@@ -208,6 +208,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * Backrooms
 * Good Luck, Have Fun, Don't Die 🍿
 * Project Hail Mary 🍿 #sf
+* The Devil Wears Prada 2
 * bof: Solo Mio, The Bride
 
 Français:
@@ -650,7 +651,7 @@ Français:
 * Una (Rooney Mara)
 * The Red Turtle #famille
 * Hell or High Water
-* The Lost City of Z
+* The Lost City of Z (James Gray)
 * The Nice Guys
 * The Wailing 🇰🇷
 * bof: Moonlight #coming-of-age, Manchester by the Sea, Nocturnal Animals, Paterson, The Neon Demon (Nicolas Winding Refn), Harmonium 🇯🇵 🌿 (un certain regard), Hunt for the Wilderpeople 🇳🇿, Sami Blood 🇸🇪, War Dogs, ~Miss Peregrine et les Enfants particuliers (Tim Burton)~
@@ -905,7 +906,7 @@ Français:
 
 ### 2008
 
-* Two Lovers (Joaquin Phoenix) 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php)
+* Two Lovers (James Gray, Joaquin Phoenix) 🎥 ❤️ [📰](https://www.telerama.fr/cinema/films/two-lovers,358856.php)
 * Tulpan 🇰🇿 ❤️
 * Kung Fu Panda ❤️ #famille
 * Bons baisers de Bruges (Martin McDonagh, Colin Farrell, Ralph Fiennes, Brendan Gleeson)
@@ -956,6 +957,8 @@ Français:
 * Le Limier (Kenneth Branagh, Jude Law, Michael Caine) 🇬🇧 #film-à-énigme : je préfère ce remake, l'original est longuet
 * Boulevard de la Mort (Death Proof) (Tarentino)
 * Zodiac (David Fincher) #thriller
+* We Own the Night (James Gray, Joaquin Phoenix)
+    * > ❝ It's better to be judged by 12 than carried by 6. ❞
 * Gone Baby Gone (Ben Affleck)
 * Time crimes 🇪🇸 #sf
 * Two Days in Paris (Julie Delpy)
