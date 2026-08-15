@@ -85,21 +85,24 @@ Séries TV
 ## Thriller / intrigue
 
 * Twin Peaks (David Lynch) (1990) : sans plus
-* Nicholas le Floch ++ 🇫🇷
 * Prison Break (2005) : bof
 * Dexter (2006) ++
+* Nicholas le Floch (2008) 🇫🇷 ++
 * Homeland (2011) ++
 * Fargo (2014) (saison 1)
 * Le Bureau des Légendes (2015) 🇫🇷
 * Mr Robot (2015) ❤️
 * Baron Noir (Kad Merad) (2016) 🇫🇷
 * The Handmaid's Tale (2017) ++
-* The Haunting of Hill House (2018) : sans plus
-* The Terror (2018) +
 * Dark Winds (2022) +
 * Sugar (2024) +
-* Shogun (2024) +
+* Shogun (2024) 🇯🇵 +
 * Presumed Innocent (Jake Gyllenhaal) (2024) +
+
+### Fantastique
+
+* The Haunting of Hill House (2018) : sans plus
+* The Terror (2018) +
 * Widow's Bay (2026) ❤️ : série fantastique avec beaucoup d'humour, à la limite de la parodie
 
 
