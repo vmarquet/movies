@@ -1342,14 +1342,13 @@ Français:
 * Quiz Show (Robert Redford, John Turturro) #film-à-énigme : witty dialogue-driven movie
     *   <details>
         <summary>répliques:</summary>
-        <pre>
+
         * > ❝ You want to be worshipped? Go to India and moo! ❞
         * > ❝ - Why aren't you dressed?  
           > &emsp; - The child has to learn the depths that humanity can sink to.  
           > &emsp; - You're gonna give him your ulcer. Let him grow up with his own ulcer ❞
         * > ❝ He wouldn't know the answer to a doorbell if you didn't give it to him! ❞
         * > ❝ If you're at a table and you don't know who the sucker is, it's you. ❞ (talking about poker)
-        </pre>
         </details>
 * Four Weddings and a Funeral (Mike Newell) 🇬🇧 #romcom
 * The Last Seduction #thriller-érotique : l'intrigue commence vraiment à la moitié du film

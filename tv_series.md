@@ -19,22 +19,21 @@ Séries TV
     * [meilleurs épisodes (IMDB)](https://m.imdb.com/fr/search/title/?count=250&series=tt2861424&sort=user_rating%2Cdesc)
     *   <details>
         <summary>meilleurs épisodes (moi):</summary>
-        <pre>
-        * S01E05 (Meeseeks)
-        * S02E02 ++
-        * S02E04 (The Parasites) ++
-        * S02E06 (The Battery) +
-        * S02E10 (The Wedding) +
-        * S03E03 (Pickle Rick) +
-        * S03E07 (New Citadel)
-        * S03E08 +
-        * S04E01 (Death Crystals) ++
-        * S04E03 (The Heist) ++
-        * S04E05 +
-        * S04E08 ++
-        * S07E10 (The Hole) +++
-        * S08E01 ++
-        </pre>
+
+        - S01E05 (Meeseeks)
+        - S02E02 ++
+        - S02E04 (The Parasites) ++
+        - S02E06 (The Battery) +
+        - S02E10 (The Wedding) +
+        - S03E03 (Pickle Rick) +
+        - S03E07 (New Citadel)
+        - S03E08 +
+        - S04E01 (Death Crystals) ++
+        - S04E03 (The Heist) ++
+        - S04E05 +
+        - S04E08 ++
+        - S07E10 (The Hole) +++
+        - S08E01 ++
         </details>
 * Brooklyn 99 (2013) ++
 * Silicon Valley (2014) ++
