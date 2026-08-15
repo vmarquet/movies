@@ -15,17 +15,17 @@ Séries TV
 * The Big Bang Theory (2007)
 * Community (2009) +
 * Modern Family (2009 ++
-* Rick and Morty (2013) [🍅](https://www.rottentomatoes.com/tv/rick_and_morty) +++
+* Rick and Morty (2013) +++
     * [meilleurs épisodes](https://m.imdb.com/fr/search/title/?count=250&series=tt2861424&sort=user_rating%2Cdesc)
 * Brooklyn 99 (2013) ++
 * Silicon Valley (2014) ++
 * Bojack Horseman (2014) ++
 * Parks and Recreation (2015) ++
 * Superstore (2015) ++
-* What We Do in the Shadows (2019) [🍅](https://www.rottentomatoes.com/tv/what_we_do_in_the_shadows) +++
+* What We Do in the Shadows (2019) +++
 * Russian Doll (2019)
-* Space Force (2020) [🍅](https://www.rottentomatoes.com/tv/space_force) +++
-* The Great (2020) [🍅](https://www.rottentomatoes.com/tv/the_great) +++
+* Space Force (2020) +++
+* The Great (2020) +++
 * A man on the inside (2024) : bof
 
 ### Français
@@ -46,8 +46,8 @@ Séries TV
 * Breaking Bad (2008) ❤️
 * The Good Wife (2009) ++
 * Peaky Blinders (2013) +
-* Big Little Lies (2017) ❤️❤️ [🍅](https://www.rottentomatoes.com/tv/big_little_lies)
-* The Boys (2019) [🍅](https://www.rottentomatoes.com/tv/the_boys_2019)
+* Big Little Lies (2017) ❤️❤️
+* The Boys (2019)
 * Dérapages (Eric Cantona) (2020) 🇫🇷
 * Les enfants sont rois (2024) 🇫🇷 ++
 
@@ -57,7 +57,7 @@ Séries TV
 * Band of Brothers (2001)
 * L'Affaire OJ Simpson (2016) ++
 * Tchernobyl (2019) 🎥 ❤️
-* The Dropout (Theranos) (2022) [🍅](https://www.rottentomatoes.com/tv/the_dropout/s01)
+* The Dropout (Theranos) (2022)
 * Le monde de demain (2022) 🇫🇷
 
 
@@ -93,9 +93,9 @@ Séries TV
 * Le Bureau des Légendes (2015) 🇫🇷
 * Mr Robot (2015) ❤️
 * Baron Noir (Kad Merad) (2016) 🇫🇷
-* The Handmaid's Tale (2017) ++ [🍅](https://www.rottentomatoes.com/tv/the_handmaids_tale/s01)
+* The Handmaid's Tale (2017) ++
 * The Haunting of Hill House (2018) : sans plus
-* The Terror (2018) + [🍅](https://www.rottentomatoes.com/tv/the_terror/s01)
+* The Terror (2018) +
 * Dark Winds (2022) +
 * Sugar (2024) +
 * Shogun (2024) +
