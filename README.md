@@ -263,7 +263,7 @@ Français:
 * 28 Years Later
 * Exit 8 🇯🇵
 * Wake Up Dead Man
-    * > ❝ - A priest is a shepherd. The world is a wolf.
+    * > ❝ - A priest is a shepherd. The world is a wolf.  
       > &emsp; \- You start fighting wolves, and before you know it, everyone you don't understand is a wolf. ❞
 * bof: Left-Handed Girl 🇹🇼, The Naked Gun, The Wedding Banquet, Mickey 17, La Voix de Hind Rajab 🇵🇸, Pillion, Blue Moon, Sinners, Frankenstein (Guillermo del Toro), Drop, Companion
 
