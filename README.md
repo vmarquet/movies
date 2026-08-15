@@ -202,6 +202,7 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 ### 2026
 
 * L'Odyssée (Christopher Nolan) ❤️
+* The Invite
 * The Drama
 * Pressure #Histoire #ww2
 * Send help 🏝️ 🍿
@@ -2093,7 +2094,7 @@ Français:
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
-* bof: Don't Breathe (2016), Tumbbad (2018) 🇮🇳, Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Pearl (2022), Vermines (2023), Succubus (2024), Marshmallow (2025), Weapons (2025)
+* bof: Don't Breathe (2016), Tumbbad (2018) 🇮🇳, Midsommar (2019) 🇸🇪, Lamb (2021) 🇮🇸, Pearl (2022), Vermines (2023), Succubus (2024), Marshmallow (2025), Weapons (2025), Leviticus (2026) 🇦🇺
 
 
 

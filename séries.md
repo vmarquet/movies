@@ -1,10 +1,14 @@
-### Comédie / sitcom
+Séries TV
+=========
+
+## Comédie / sitcom
 
 * Futurama (1999)
     * [all opening quotes](https://theabbie.github.io/blog/All-Futurama-Opening-Quotes)
 * Malcolm (2000)
 * Scrubs (2001)
 * Peep Show (2003) ++
+* Arrested Development (2003)
 * The Office (2005) ++
 * How I Met your Mother (2005)
 * Kaamelott (2005)
@@ -19,122 +23,119 @@
 * Parks and Recreation (2015) ++
 * Superstore (2015) ++
 * What We Do in the Shadows (2019) [🍅](https://www.rottentomatoes.com/tv/what_we_do_in_the_shadows) +++
+* Russian Doll (2019)
 * Space Force (2020) [🍅](https://www.rottentomatoes.com/tv/space_force) +++
 * The Great (2020) [🍅](https://www.rottentomatoes.com/tv/the_great) +++
+* A man on the inside (2024) : bof
 
-#### Français
+### Français
 
 * Dix pour cent (2015) ++
+* Au Service de la France (2015) +
 * La Flamme (2020) ++
 * Le Flambeau (2022) ++
 * LOL : Qui rit, sort ! (2021) [📰](https://www.allocine.fr/series/ficheserie_gen_cserie=27798.html)
-    * saison 1: ok, saison 2: bof, saison 3: la meilleure, saison 4: bonne aussi, saison 5: bof
-* Au Service de la France
-* Le monde de demain (2022)
-* Les enfants sont rois (2024) ++
-* https://www.reddit.com/r/AskFrance/comments/1p3rqdx/hello_french_people_i_was_wondering_are_there_any/
+    * saison 1 +, saison 2: bof, saison 3 +++, saison 4 ++, saison 5: bof
 
 
-### Drame
+## Drame / divers
 
+* Dr House (2001) : saison 4 ++
+* Desperate Housewives (2004) +
+* Mad Men (2007) +
 * Breaking Bad (2008) ❤️
-* Tchernobyl (2019) 🎥 ❤️
-* Mr Robot (2015) ❤️
-* Band of Brothers (2001)
-* Peaky Blinders
-* Baron Noir (Kad Merad)
-* Homeland
-* L'Affaire OJ Simpson
-* Dérapages (Eric Cantona)
+* The Good Wife (2009) ++
+* Peaky Blinders (2013) +
 * Big Little Lies (2017) ❤️❤️ [🍅](https://www.rottentomatoes.com/tv/big_little_lies)
+* The Boys (2019) [🍅](https://www.rottentomatoes.com/tv/the_boys_2019)
+* Dérapages (Eric Cantona) (2020) 🇫🇷
+* Les enfants sont rois (2024) 🇫🇷 ++
+
+
+### Miniséries historiques
+
+* Band of Brothers (2001)
+* L'Affaire OJ Simpson (2016) ++
+* Tchernobyl (2019) 🎥 ❤️
 * The Dropout (Theranos) (2022) [🍅](https://www.rottentomatoes.com/tv/the_dropout/s01)
-* Presumed Innocent (Jake Gyllenhaal) (2014)
-* pas vu:
-	* The Wire
-	* The Sopranos
-	* The Americans
-	* The Shield
-	* Sharp Objects [🍅](https://www.rottentomatoes.com/tv/sharp_objects) (par Jean-Marc Vallée, portraitiste et auteur de Big Little Lies)
-	* Les Revenants
-	* Master of None
-	* The Diplomat
-	* https://www.rottentomatoes.com/tv/the_shield
-	* Adolescence
-* sans plus:
-    * Twin Peaks (David Lynch)
+* Le monde de demain (2022) 🇫🇷
 
 
-### SF
+## SF
 
+* Maniac (2012, Emma Stone, Jonah Hill)
+* Real Humans (2012) 🇸🇪
 * Black Mirror (2011) ❤️
 * Love Death and Robots (2019) ❤️
 * Severance (2022) ❤️
-* Maniac (2012, Emma Stone, Jonah Hill)
-* Real Humans
-* pas vu:
-    * Inside No 9
-    * https://www.rottentomatoes.com/tv/pluribus/s01
 
 
-### Polar
+## Polar
 
-* Top of the Lake (Jane Campion)
-* The Killing
-* True Detective
-* Manhunt: Unabomber
-* Mindhunter
-* Tunnel (2013, Clémence Poesy)
-* sans plus:
-    * The Haunting of Hill House
-
-
-### Thriller / intrigue
-
-* Nicholas le Floch ++
-* Le Bureau des Légendes (2015)
-* The Handmaid's Tale (2017) [🍅](https://www.rottentomatoes.com/tv/the_handmaids_tale/s01)
-* The Terror (2018) [🍅](https://www.rottentomatoes.com/tv/the_terror/s01)
-* pas vu: Sherlock (Benedict Cumberbatch)
+* NCIS (2003) ++
+* The Killing (2011) +++
+* Top of the Lake (Jane Campion) (2013) +++
+* Tunnel (2013, Clémence Poesy) ++
+* True Detective (2014) +++
+* Manhunt: Unabomber (2017) ++
+* Mindhunter (2017) ++
+* Furious (2026) ++
 
 
-### Divers / à thème
+## Thriller / intrigue
 
-* Dr House (saison 4 surtout ++)
-* Fargo (saison 1)
-* The Good Wife
-* Mad Men
-* Dexter
-* NCIS
-* The Boys (2019) [🍅](https://www.rottentomatoes.com/tv/the_boys_2019)
-* Widow's Bay (2026) +++ : série fantastique avec beaucoup d'humour, à la limite de la parodie
-* pas vu:
-    * https://www.leblogducinema.com/critique-serie/yellowstone-western-contemporain-et-audience-record-critique-57942541/
-    * https://www.rottentomatoes.com/tv/reservation_dogs
-    * https://www.rottentomatoes.com/tv/shogun_2024
-    * https://www.rottentomatoes.com/tv/the_pitt/s01
-    * Les Grandes grandes vacances
-    * https://www.rottentomatoes.com/tv/boots/s01
-    * https://www.rottentomatoes.com/tv/hal_and_harper/s01
+* Twin Peaks (David Lynch) (1990) : sans plus
+* Nicholas le Floch ++ 🇫🇷
+* Prison Break (2005) : bof
+* Dexter (2006) ++
+* Homeland (2011) ++
+* Fargo (2014) (saison 1)
+* Le Bureau des Légendes (2015) 🇫🇷
+* Mr Robot (2015) ❤️
+* Baron Noir (Kad Merad) (2016) 🇫🇷
+* The Handmaid's Tale (2017) ++ [🍅](https://www.rottentomatoes.com/tv/the_handmaids_tale/s01)
+* The Haunting of Hill House (2018) : sans plus
+* The Terror (2018) + [🍅](https://www.rottentomatoes.com/tv/the_terror/s01)
+* Dark Winds (2022) +
+* Sugar (2024) +
+* Shogun (2024) +
+* Presumed Innocent (Jake Gyllenhaal) (2024) +
+* Widow's Bay (2026) ❤️ : série fantastique avec beaucoup d'humour, à la limite de la parodie
 
 
-### Anime
+## Anime
 
 * Cowboy Bebop (1998)
 
 
-### ok sans plus
-
-* A man on the inside [🍅](https://www.rottentomatoes.com/tv/a_man_on_the_inside/s01)
-
 
 ### Pas vu
 
+* The Wire
+* The Sopranos
+* The Americans
+* The Shield
+* Sherlock (Benedict Cumberbatch)
+* Sharp Objects [🍅](https://www.rottentomatoes.com/tv/sharp_objects) (par Jean-Marc Vallée, portraitiste et auteur de Big Little Lies)
+* Les Revenants
+* Master of None
+* The Diplomat
+* https://www.rottentomatoes.com/tv/the_shield
+* Adolescence
+* https://www.leblogducinema.com/critique-serie/yellowstone-western-contemporain-et-audience-record-critique-57942541/
+* https://www.rottentomatoes.com/tv/reservation_dogs
+* https://www.rottentomatoes.com/tv/the_pitt/s01
+* Les Grandes grandes vacances
+* https://www.rottentomatoes.com/tv/boots/s01
+* https://www.rottentomatoes.com/tv/hal_and_harper/s01
 * https://www.rottentomatoes.com/tv/somebody_somewhere/s01
 * https://www.rottentomatoes.com/tv/interior_chinatown/s01
 * https://www.rottentomatoes.com/tv/say_nothing/s01
 * https://archive.is/MyCkY NYT best TV shows of 2025
 * https://www.rottentomatoes.com/tv/off_campus/s01
-
-
+* https://www.reddit.com/r/AskFrance/comments/1p3rqdx/hello_french_people_i_was_wondering_are_there_any/
+* sf:
+    * Inside No 9
+    * https://www.rottentomatoes.com/tv/pluribus/s01
 
 

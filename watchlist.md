@@ -29,7 +29,8 @@
 * NYT Sundance https://archive.is/T4rrt
 * L'Abandon
 * Digger (Tom Cruise, Inarritu)
-* https://www.rottentomatoes.com/m/the_invite 90+
+* Primetime (Robert Pattinson, A24)
+* The Only Living Pickpocket In New York
 * https://www.rottentomatoes.com/m/i_want_your_sex 90%C
 * https://www.rottentomatoes.com/m/our_hero_balthazar 90+
 * https://www.rottentomatoes.com/m/hoppers 90+ animation
@@ -376,7 +377,7 @@
 * https://www.rottentomatoes.com/m/i_heart_huckabees 63%
 * https://www.rottentomatoes.com/m/last_life_in_the_universe (Takashi Miike) 🇯🇵🇹🇭 90%
 * https://www.rottentomatoes.com/m/on_the_outs 84%
-* https://yts.mx/movies/mysterious-skin-2004 86%
+* https://www.rottentomatoes.com/m/mysterious_skin 86%
 
 
 ### 2003
