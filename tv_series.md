@@ -3,16 +3,16 @@ Séries TV
 
 ## Comédie / sitcom
 
-* Futurama (1999)
+* Futurama (1999) ++
     * [all opening quotes](https://theabbie.github.io/blog/All-Futurama-Opening-Quotes)
-* Malcolm (2000)
-* Scrubs (2001)
+* Malcolm (2000) ++
+* Scrubs (2001) ++
 * Peep Show (2003) ++
-* Arrested Development (2003)
+* Arrested Development (2003) +
 * The Office (2005) ++
-* How I Met your Mother (2005)
-* Kaamelott (2005)
-* The Big Bang Theory (2007)
+* How I Met your Mother (2005) ++
+* Kaamelott (2005) ++
+* The Big Bang Theory (2007) ++
 * Community (2009) +
 * Modern Family (2009 ++
 * Rick and Morty (2013) +++
@@ -23,7 +23,7 @@ Séries TV
 * Parks and Recreation (2015) ++
 * Superstore (2015) ++
 * What We Do in the Shadows (2019) +++
-* Russian Doll (2019)
+* Russian Doll (2019) +
 * Space Force (2020) +++
 * The Great (2020) +++
 * A man on the inside (2024) : bof
