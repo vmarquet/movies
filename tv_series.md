@@ -16,7 +16,26 @@ Séries TV
 * Community (2009) +
 * Modern Family (2009 ++
 * Rick and Morty (2013) +++
-    * [meilleurs épisodes](https://m.imdb.com/fr/search/title/?count=250&series=tt2861424&sort=user_rating%2Cdesc)
+    * [meilleurs épisodes (IMDB)](https://m.imdb.com/fr/search/title/?count=250&series=tt2861424&sort=user_rating%2Cdesc)
+    *   <details>
+    <summary>meilleurs épisodes (moi):</summary>
+    <pre>
+    * S01E05 (Meeseeks)
+    * S02E02 ++
+    * S02E04 (The Parasites) ++
+    * S02E06 (The Battery) +
+    * S02E10 (The Wedding) +
+    * S03E03 (Pickle Rick) +
+    * S03E07 (New Citadel)
+    * S03E08 +
+    * S04E01 (Death Crystals) ++
+    * S04E03 (The Heist) ++
+    * S04E05 +
+    * S04E08 ++
+    * S07E10 (The Hole) +++
+    * S08E01 ++
+    </pre>
+    </details>
 * Brooklyn 99 (2013) ++
 * Silicon Valley (2014) ++
 * Bojack Horseman (2014) ++
@@ -112,7 +131,7 @@ Séries TV
 
 
 
-### Pas vu
+## Pas vu
 
 * The Wire
 * The Sopranos
