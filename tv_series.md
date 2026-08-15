@@ -16,9 +16,8 @@ Séries TV
 * Community (2009) +
 * Modern Family (2009 ++
 * Rick and Morty (2013) +++
-    * [meilleurs épisodes (IMDB)](https://m.imdb.com/fr/search/title/?count=250&series=tt2861424&sort=user_rating%2Cdesc)
     *   <details>
-        <summary>meilleurs épisodes (moi):</summary>
+        <summary>meilleurs épisodes:</summary>
 
         - S01E05 (Meeseeks)
         - S02E02 ++
@@ -34,6 +33,7 @@ Séries TV
         - S04E08 ++
         - S07E10 (The Hole) +++
         - S08E01 ++
+        - [IMDB](https://m.imdb.com/fr/search/title/?count=250&series=tt2861424&sort=user_rating%2Cdesc)
         </details>
 * Brooklyn 99 (2013) ++
 * Silicon Valley (2014) ++
