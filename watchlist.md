@@ -34,6 +34,7 @@
 * https://www.rottentomatoes.com/m/i_want_your_sex 90%C
 * https://www.rottentomatoes.com/m/our_hero_balthazar 90+
 * https://www.rottentomatoes.com/m/hoppers 90+ animation
+* https://www.rottentomatoes.com/m/dont_say_good_luck 97-85 #coming-of-age
 * https://www.lemonde.fr/culture/article/2026/03/12/quelqu-un-devrait-interdire-les-dimanches-apres-midi-sur-arte-trio-pour-cinephile-maitre-sushi-et-travailleuse-precaire_6670785_3246.html
 * https://www.bbc.com/culture/article/20260215-everybody-digs-bill-evans-review-a-moving-tragic-biopic-of-a-tortured-jazz-great
 * https://www.rottentomatoes.com/m/is_god_is 90+
@@ -502,7 +503,6 @@
 ### 1988
 
 * https://www.rottentomatoes.com/m/cinema_paradiso 🇮🇹 91%
-* https://www.rottentomatoes.com/m/midnight_run 87%
 * https://www.rottentomatoes.com/m/the_beast_1988 84%
 
 

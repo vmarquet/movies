@@ -63,6 +63,7 @@ Séries TV
 * Mad Men (2007) +
 * Breaking Bad (2008) ❤️
 * The Good Wife (2009) ++
+* Game of Thrones (2011)
 * Peaky Blinders (2013) +
 * Big Little Lies (2017) ❤️❤️
 * The Boys (2019)

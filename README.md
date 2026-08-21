@@ -234,6 +234,7 @@ Français:
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * Materialists
+* The Last Viking 🇩🇰
 * Les Aigles de la République (Tarik Saleh) 🇪🇬
 * Le Maître du Kabuki (Kokuho) 🇯🇵
 * No Other Choice (Park Chan-wook) 🇰🇷
@@ -452,8 +453,10 @@ Français:
 * Fresh 🎥 #horror
 * A Man 🇯🇵 (8 oscars japonais) : thriller mou et déjà vu
 * L'Enfant, la Taupe, le Renard et le Cheval 🏆 #famille
+* Everything Everywhere All at Once
+    * > ❝ – In another life, I would have really liked just doing laundry and taxes with you. ❞
 * bof:
-    * Everything Everywhere All at Once, The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire (Tarik Saleh) 🇪🇬, Broker (Koreeda) 🇰🇷, Sanctuary, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
+    * The Quiet Girl 🇮🇪, The Pale Blue Eye (Christian Bale), The Menu (Ralph Fiennes), Babylon (Damien Chazelle), The Eternal Daughter, Corsage 🇦🇹, La Conspiration du Caire (Tarik Saleh) 🇪🇬, Broker (Koreeda) 🇰🇷, Sanctuary, The Northman (Robert Eggers), Eo 🇵🇱 🌿, Le Bleu du caftan 🇲🇦, Bones and All, Emily, Prey, ~~Where the Crawdads Sing~~, ~~Chevalier~~
     * Burning Days 🇹🇷 : esthétiquement super mais scénario poussif
 
 [Césars 48](https://fr.wikipedia.org/wiki/48e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar#Meilleur_film)
@@ -1478,6 +1481,7 @@ Français:
     * > ❝ I came here to chew bubblegum and kick ass... and I'm all out of bubblegum. ❞
 * Les Aventures du baron de Münchausen (Terry Gilliam)
 * L'Homme qui voulait savoir 🇳🇱
+* Midnight Run (Robert De Niro)
 * bof: The Unbearable Lightness of Being, Frantic (Roman Polanski, Harrison Ford)
 
 [Césars 14](https://fr.wikipedia.org/wiki/14e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
