@@ -1,3 +1,4 @@
+* https://www.allocine.fr/vod/films/new/top/
 * https://archive.is/EH4GH#selection-13512.3-13512.6
     * https://www.rottentomatoes.com/m/1118700-adaptation
     * https://www.rottentomatoes.com/m/punchdrunk_love
@@ -31,6 +32,8 @@
 * Digger (Tom Cruise, Inarritu)
 * Primetime (Robert Pattinson, A24)
 * The Only Living Pickpocket In New York
+* https://www.rottentomatoes.com/m/tony_2026 93+
+* https://www.rottentomatoes.com/m/coyote_vs_acme
 * https://www.rottentomatoes.com/m/i_want_your_sex 90%C
 * https://www.rottentomatoes.com/m/our_hero_balthazar 90+
 * https://www.rottentomatoes.com/m/hoppers 90+ animation
@@ -161,6 +164,7 @@
 * https://editorial.rottentomatoes.com/guide/oscars-2024-best-picture-nominees/
 * https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2024/3711061
 * https://www.telerama.fr/cinema/le-temps-d-aimer-de-katell-quillevere-originale-et-passionnante-reflexion-sur-le-couple_cri-7030000.php TTTT
+* https://www.rottentomatoes.com/m/maestro_2023
 * https://www.lemonde.fr/cinema/article/2023/12/29/les-films-preferes-du-monde-en-2023_6208157_3476.html
 * https://www.rottentomatoes.com/m/of_an_age 86%
 * https://www.rottentomatoes.com/m/the_peasants

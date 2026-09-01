@@ -98,7 +98,7 @@ Séries TV
 * True Detective (2014) +++
 * Manhunt: Unabomber (2017) ++
 * Mindhunter (2017) ++
-* Furious (2026) ++
+* Furious (2026) +
 
 
 ## Thriller / intrigue
@@ -134,9 +134,13 @@ Séries TV
 ## Pas vu
 
 * The Wire
+* The Corner
 * The Sopranos
 * The Americans
 * The Shield
+* Misfits (reco moira)
+* Treme
+* Firefly
 * Sherlock (Benedict Cumberbatch)
 * Sharp Objects [🍅](https://www.rottentomatoes.com/tv/sharp_objects) (par Jean-Marc Vallée, portraitiste et auteur de Big Little Lies)
 * Les Revenants
