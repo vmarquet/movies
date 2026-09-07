@@ -618,6 +618,7 @@
 
 ### 1971
 
+* https://www.rottentomatoes.com/m/summer_of_42 +++
 * https://www.telerama.fr/cinema/films/les-maries-de-l-an-ii,15037.php (Jean-Paul Rappeneau)
 * https://www.rottentomatoes.com/m/klute 80%
 

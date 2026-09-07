@@ -279,6 +279,7 @@ Français:
 * Arco  #sf #famille
 * L'inconnu de la grande arche
 * La Chambre de Mariana  #Histoire
+* La Condition
 * bof: La venue de l'avenir (Cédric Klapisch), Jeunes mères, Un Ours dans le Jura
 
 
@@ -1727,7 +1728,7 @@ Français:
 
 [Césars 1](https://fr.wikipedia.org/wiki/1re_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
 
-* bof: Adieu Poulet (Patrice Dewaere, Lino Ventura)
+* bof: Le Sauvage (Jean-Paul Rappeneau), Adieu Poulet (Patrice Dewaere, Lino Ventura)
 
 
 ### 1974

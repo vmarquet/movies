@@ -40,6 +40,7 @@ Séries TV
 * Bojack Horseman (2014) ++
 * Parks and Recreation (2015) ++
 * Superstore (2015) ++
+* Fleabag (2016) +
 * What We Do in the Shadows (2019) +++
 * Russian Doll (2019) +
 * Space Force (2020) +++
