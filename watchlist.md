@@ -34,7 +34,9 @@
 * The Only Living Pickpocket In New York
 * https://www.rottentomatoes.com/m/tony_2026 93+
 * https://www.rottentomatoes.com/m/coyote_vs_acme
+* https://www.rottentomatoes.com/m/if_i_go_will_they_miss_me
 * https://www.rottentomatoes.com/m/i_want_your_sex 90%C
+* https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma
 * https://www.rottentomatoes.com/m/our_hero_balthazar 90+
 * https://www.rottentomatoes.com/m/hoppers 90+ animation
 * https://www.rottentomatoes.com/m/dont_say_good_luck 97-85 #coming-of-age
@@ -130,7 +132,6 @@
 * https://www.rottentomatoes.com/m/the_good_half 52% 96%
 * https://www.rottentomatoes.com/m/good_one 72%
 * https://www.rottentomatoes.com/m/the_bikeriders 75%
-* https://www.telerama.fr/cinema/une-affaire-de-principe-une-vision-chevaleresque-de-la-politique-avec-bouli-lanners-en-jose-bove_cri-7032417.php
 * https://www.rottentomatoes.com/m/rebel_ridge 73%
 * chroniques chinoises 🇨🇳
 * Tout ira bien https://www.rottentomatoes.com/m/all_shall_be_well 🇨🇳
@@ -336,7 +337,6 @@
 * https://www.rottentomatoes.com/m/blue_valentine 87-77%
 * https://www.telerama.fr/cinema/films/venus-noire,422600.php (Abdellatif Kechiche) TTT
 * L'Illusionniste
-* https://www.rottentomatoes.com/m/i_saw_the_devil_2010 🇰🇷 82%
 
 
 ### 2009

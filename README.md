@@ -852,6 +852,7 @@ Français:
 * 127 Hours (Danny Boyle, James Franco)
 * Machete (Robert Rodriguez)
 * Tucker and Dale vs Evil 🍿
+* I Saw the Devil 🇰🇷
 * Essential Killing (Vincent Gallo)
 * The Experiment (Adrien Brody, Forest Whitaker)
 * Démineurs (The Hurt Locker) (Kathryn Bigelow)
@@ -1149,7 +1150,7 @@ Français:
 * L'Auberge espagnole (Klapisch) [📰](https://www.telerama.fr/cinema/films/l-auberge-espagnole,60443.php)
 * Être et avoir #film-scolaire
 * Monsieur Batignole (Gérard Jugnot)
-* bof: Irréversible (Gaspar Noé)
+* bof: Irréversible (Gaspar Noé), Une affaire privée
 
 
 ### 2001
@@ -1403,6 +1404,7 @@ Français:
 * Malcolm X (Spike Lee) ✊🏾 #biopic
 * Glengarry Glen Ross #comédie-de-bureau
 * Le Dernier des Mohicans (Michael Mann, Daniel Day‑Lewis)
+* A River Runs Through It (Robert Redford)
 * bof: Night on Earth (Jim Jarmusch), Howards End, The Player, Alien³
 
 [Césars 18](https://fr.wikipedia.org/wiki/18e_c%C3%A9r%C3%A9monie_des_C%C3%A9sar)
