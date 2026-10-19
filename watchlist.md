@@ -31,10 +31,20 @@
 * L'Abandon
 * Digger (Tom Cruise, Inarritu)
 * Primetime (Robert Pattinson, A24)
+* La Bola Negra
 * The Only Living Pickpocket In New York
+* https://www.rottentomatoes.com/m/you_can_see_everything
 * https://www.rottentomatoes.com/m/tony_2026 93+
-* https://www.rottentomatoes.com/m/coyote_vs_acme
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043221.html si tu penses bien
+* Les Fleurs du manguier +++
+* Notre Salut +++
+* Fjord +++
+* Soudain +++
+* The Incomer
+* https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html minotaure
 * https://www.rottentomatoes.com/m/if_i_go_will_they_miss_me
+* https://www.rottentomatoes.com/m/angh
+* https://www.rottentomatoes.com/m/resident_evil_2026
 * https://www.rottentomatoes.com/m/i_want_your_sex 90%C
 * https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma
 * https://www.rottentomatoes.com/m/our_hero_balthazar 90+
@@ -55,6 +65,7 @@
 * https://www.bbc.com/culture/article/20251126-12-of-the-best-films-to-watch-this-december
 * https://archive.is/XmCZt NYT best films 2025
 * The Furious https://www.rottentomatoes.com/m/the_furious_2025 95+ 🇭🇰
+* https://vod.arte.tv/detail/le-temps-des-moissons
 * https://www.rottentomatoes.com/m/roofman 85%
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019380.html l'étranger
 * https://www.rottentomatoes.com/m/islands_2025
