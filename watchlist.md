@@ -40,9 +40,14 @@
 * Notre Salut +++
 * Fjord +++
 * Soudain +++
+* https://www.rottentomatoes.com/m/never_after_dark
 * The Incomer
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html minotaure
 * https://www.rottentomatoes.com/m/if_i_go_will_they_miss_me
+* https://www.rottentomatoes.com/m/fatherland_2026
+* https://www.rottentomatoes.com/m/possible_love
+* https://www.rottentomatoes.com/m/the_rivals_of_amziah_king
+* https://www.rottentomatoes.com/m/finding_emily
 * https://www.rottentomatoes.com/m/angh
 * https://www.rottentomatoes.com/m/resident_evil_2026
 * https://www.rottentomatoes.com/m/i_want_your_sex 90%C
