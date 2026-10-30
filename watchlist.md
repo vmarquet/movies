@@ -34,7 +34,6 @@
 * La Bola Negra
 * The Only Living Pickpocket In New York
 * https://www.rottentomatoes.com/m/you_can_see_everything
-* https://www.rottentomatoes.com/m/tony_2026 93+
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043221.html si tu penses bien
 * Les Fleurs du manguier +++
 * Notre Salut +++
@@ -44,10 +43,13 @@
 * The Incomer
 * https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html minotaure
 * https://www.rottentomatoes.com/m/if_i_go_will_they_miss_me
+* https://www.rottentomatoes.com/m/sense_and_sensibility_2026
+* https://www.rottentomatoes.com/m/the_weight_2026
 * https://www.rottentomatoes.com/m/fatherland_2026
 * https://www.rottentomatoes.com/m/possible_love
 * https://www.rottentomatoes.com/m/the_rivals_of_amziah_king
 * https://www.rottentomatoes.com/m/finding_emily
+* https://www.rottentomatoes.com/m/wildwood
 * https://www.rottentomatoes.com/m/angh
 * https://www.rottentomatoes.com/m/resident_evil_2026
 * https://www.rottentomatoes.com/m/i_want_your_sex 90%C
@@ -61,6 +63,8 @@
 * https://www.rottentomatoes.com/m/remarkably_bright_creatures 80-90
 * https://www.rottentomatoes.com/m/the_sheep_detectives
 * https://www.rottentomatoes.com/m/blue_heron 90-70
+* https://www.rottentomatoes.com/m/love_of_your_life
+* https://www.rottentomatoes.com/m/hope_2026
 
 
 ### 2025
@@ -92,7 +96,6 @@
 * Hiver à Sokcho (3.9)
 * https://www.rottentomatoes.com/m/presence_2024 (Steven Soderbergh) 88%
 * On ira (4.3)
-* https://www.rottentomatoes.com/m/the_ballad_of_wallis_island 90+
 * https://www.rottentomatoes.com/m/sovereign
 * https://www.rottentomatoes.com/m/sew_torn 95%c
 * https://www.rottentomatoes.com/m/to_a_land_unknown 95%c
@@ -173,6 +176,8 @@
 * Le Panache (2.8 3.6) (José Garcia)
 * Prodigieuses (2.8 3.8)
 * Le Déluge (film en costume) 2.8
+* Miséricorde TTT
+* Septembre sans attendre
 
 
 ### 2023
@@ -252,6 +257,7 @@
 * https://www.rottentomatoes.com/m/son_of_monarchs 92%
 * https://www.rottentomatoes.com/m/psych_2_lassie_come_home 85% #comedie
 * https://www.rottentomatoes.com/m/wolfwalkers 98% #famille
+* Ondine TTT
 
 
 ### 2019
@@ -603,6 +609,7 @@
 
 * Les tsiganes montent au ciel  https://www.telerama.fr/cinema/les-tsiganes-montent-au-ciel-grand-succes-du-cinema-sovietique-des-annees-70-ressort-en-salles_cri-7033599.php
 * https://www.rottentomatoes.com/m/all_the_presidents_men 92%
+* Cadavres exquis TTT ("Thriller affûté")
 
 
 ### 1975
@@ -701,6 +708,7 @@
 * https://www.rottentomatoes.com/m/the_ugly_stepsister 96%c 90%
 * https://www.rottentomatoes.com/m/deadstream
 * https://www.rottentomatoes.com/m/gonjiam_haunted_asylum
+* https://www.rottentomatoes.com/m/buddy_2026
 * [🍅 Best Horror Movies of 2020](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/)
 * [🍅 Best Horror Movies of 2024](https://editorial.rottentomatoes.com/guide/best-new-horror-movies/)
 * https://editorial.rottentomatoes.com/article/most-anticipated-horror-movies-of-2024/

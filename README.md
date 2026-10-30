@@ -266,6 +266,7 @@ Français:
 * Eternity 🍿 #romcom
 * 28 Years Later : Bone Temple
 * 28 Years Later
+* The Ballad of Wallis Island
 * Exit 8 🇯🇵
 * Wake Up Dead Man
     * > ❝ - A priest is a shepherd. The world is a wolf.  

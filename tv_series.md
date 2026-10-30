@@ -70,6 +70,7 @@ Séries TV
 * The Boys (2019)
 * Dérapages (Eric Cantona) (2020) 🇫🇷
 * Les enfants sont rois (2024) 🇫🇷 ++
+* Midnight Diner Tokyo Stories : bof
 
 
 ### Miniséries historiques
@@ -88,6 +89,7 @@ Séries TV
 * Black Mirror (2011) ❤️
 * Love Death and Robots (2019) ❤️
 * Severance (2022) ❤️
+* Pluribus (2025) : ok, sans plus
 
 
 ## Polar
@@ -108,6 +110,7 @@ Séries TV
 * Prison Break (2005) : bof
 * Dexter (2006) ++
 * Nicholas le Floch (2008) 🇫🇷 ++
+* True Blood (2008) +
 * Homeland (2011) ++
 * Fargo (2014) (saison 1)
 * Le Bureau des Légendes (2015) 🇫🇷
