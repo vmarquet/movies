@@ -30,7 +30,6 @@
 * NYT Sundance https://archive.is/T4rrt
 * L'Abandon
 * Digger (Tom Cruise, Inarritu)
-* Primetime (Robert Pattinson, A24)
 * La Bola Negra
 * The Only Living Pickpocket In New York
 * https://www.rottentomatoes.com/m/you_can_see_everything
@@ -51,7 +50,6 @@
 * https://www.rottentomatoes.com/m/finding_emily
 * https://www.rottentomatoes.com/m/wildwood
 * https://www.rottentomatoes.com/m/angh
-* https://www.rottentomatoes.com/m/resident_evil_2026
 * https://www.rottentomatoes.com/m/i_want_your_sex 90%C
 * https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma
 * https://www.rottentomatoes.com/m/our_hero_balthazar 90+

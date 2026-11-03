@@ -206,6 +206,8 @@ _Les meilleurs, ceux qui sortent du lot et que j'ai beaucoup aimé, sont marqué
 * The Invite
 * The Drama
 * Tenzing
+* Primetime (Robert Pattinson)
+    * > ❝ There used to be a pillory in every civilized town. Now there's a television in every home. And I'm on it. ❞
 * Pressure #Histoire #ww2
 * Send help 🏝️ 🍿
 * Backrooms
@@ -2102,6 +2104,7 @@ Français:
 * Heart Eyes (2025) : bon humour
 * Hokum (2025) 🇮🇪
 * Obsession (2025) ❤️
+* Resident Evil (2026)
 
 [bonus: gag](https://loadingartist.com/comic/horror-movie/)
 
