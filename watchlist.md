@@ -22,7 +22,6 @@
 
 * https://www.rottentomatoes.com/m/son_of_monarchs
 * https://www.rottentomatoes.com/m/north_of_normal
-* https://www.rottentomatoes.com/m/bob_trevino_likes_it
 
 
 ### 2026

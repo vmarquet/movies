@@ -234,23 +234,24 @@ Français:
 * Train Dreams
 * Marty Supreme 🏓
 * A Little Prayer
-* Nuremberg #Histoire #ww2
 * One of Them Days #comédie
 * Highest 2 Lowest (Spike Lee)
 * A House of Dynamite (Kathryn Bigelow) 🇺🇸
 * I Swear 🇬🇧
 * Materialists
-* The Last Viking 🇩🇰
+* The Last Viking 🇩🇰 🍿
+* Nuremberg #Histoire #ww2
 * Les Aigles de la République (Tarik Saleh) 🇪🇬
 * Le Maître du Kabuki (Kokuho) 🇯🇵
 * No Other Choice (Park Chan-wook) 🇰🇷
 * Valeur Sentimentale (Joachim Trier) 🇳🇴 🌿
+* Black Dog 🇨🇳 🌿
 * La Femme qui en savait trop (The Witness) 🇮🇷
 * Hamnet
+* Bob Trevino Likes It
 * Rental Family 🇯🇵
 * Is This Thing On? 🎤
 * En première ligne 🇨🇭 🏥
-* Black Dog 🇨🇳 🌿
 * Le mage du Kremlin
 * Resurrection 🇨🇳 #sf
 * Sarah's Oil #Histoire
